@@ -1,10 +1,8 @@
 # Getting Started
 
-## What is Lucy
+## Introduction
 
-sdfsdf
+Lucy is a new kind of tool for workplaces, buildings and cities.
 
 
-
-## Key Concepts
 
