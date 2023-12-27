@@ -30,8 +30,9 @@ Let’s install a new Add-on from the Add-ons page.
 
 1. On the app homepage, go to **Add-ons** tab on the left sidebar.
 2. On the Add-ons page, click on the **Install a New Add-on** button.
-3. Click on the **add-on** to be installed _e.g., IAQ Analytics add-on._
-4. Click **Install**.
+3. A list of add-ons that are currently available in the system and a list of previously installed add-ons will be displayed in a window.
+4. Click on the **add-on** you wish to instal**l** _e.g., IAQ Analytics add-on._
+5. Click **Install**.
 
 Typically, following the installation, you'll be guided through a series of configuration steps to set up the selected add-on. The specific steps may vary depending on the add-on you choose.
 
