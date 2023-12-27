@@ -11,8 +11,8 @@ This method is used to directly create new users in the system. As a system admi
 
 1. On the Lucy app homepage, click on the **Users** menu item on the left.
 2. Click on the **+** button.
-3. Enter the **User name**.
-4. Type in user’s **Email Address.**
+3. Enter the **user name**.
+4. Type in user’s **email address.**
 5. Select the appropriate **User Group** of the user _e.g., Regular User._
 6. Select the **Set the user’s password** option. This enables the **Initial Password** box to set the password and activates the feature to directly create a new user in the system.
 7. Enter a **password** for the user.
