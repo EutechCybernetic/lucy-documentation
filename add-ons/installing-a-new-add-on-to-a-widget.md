@@ -7,11 +7,11 @@ By default, Add-ons are part of a widget. Some widgets added to your canvas migh
 Now, there are two ways to install a new add-on to a widget:
 
 1. Installing an Add-on from a Dashboard/Canvas
-2. Install an Add-on from the Add-ons Page
+2. Installing an Add-on from the Add-ons Page
 
 ## <mark style="color:blue;">Installing an Add-on from a Dashboard/Canvas</mark>
 
-The easiest way to install an add-on to a widget is from a Dashboard, without having to navigate here and there.
+The most straightforward method to install an add-on to a widget is directly from a dashboard, eliminating the need to navigate back and forth.
 
 To install add-ons to a widget:
 
