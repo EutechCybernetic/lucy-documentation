@@ -1,8 +1,6 @@
 # Projects
 
-Projects/Folders serve as containers that house all of your creations, that encompass Notes, Databases, Workflows, and User Interfaces. They play a vital role in systematically organizing and structuring your content, facilitating efficient file management for users.
-
-Lucy allows users to generate an unlimited number of folders, providing a flexible means to organize their work effectively.
+Projects/Folders serve as containers that house all of your creations, encompassing Notes, Databases, Workflows, and User Interfaces. They play a vital role in systematically organizing and structuring your content, facilitating efficient file management for users. Lucy allows users to generate an unlimited number of folders, providing a flexible means to organize their work effectively.
 
 Within every folder, you'll find four primary tabs outlined below:
 
