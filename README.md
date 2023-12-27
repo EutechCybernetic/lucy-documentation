@@ -14,15 +14,15 @@ This method is used to directly create new users in the system. As a system admi
 3. Enter the **user name**.
 4. Type in user’s **email address.**
 5. Select the appropriate **User Group** of the user _e.g., Regular User._
-6. Select the **Set the user’s password** option. This enables the **Initial Password** box to set the password and activates the feature to directly create a new user in the system.
+6. Select the **Set the user’s password** option. If the **Set the user’s password** option is enabled, it will display the **Initial Password** box for entering the user's password and activating the feature to directly create a new user in the system.
 7. Enter a **password** for the user.
 8. Enable the Send a welcome email option if necessary to send a welcome email to the user’s email address after registering the user.
 9. Click **Register User.** The newly created user will be listed on the Users page.
 
 {% hint style="info" %}
-If the **Set the user’s password** option is enabled, it will display the **Initial Password** box to set the user's password and activate the feature to directly create a new user in the system.
+If the **Set the user’s password** option is enabled, it will display the **Initial Password** box for entering the user's password and activating the feature to directly create a new user in the system.
 
-If the **Set the user’s password** option is not enabled, it will hide the **Initial Password** box and activate the feature to send invitation to your email address and allow you to create your own account.
+If the **Set the user’s password** option is not enabled, the **Initial Password** box will be hidden, activating the feature to send an invitation to your email address, allowing you to create your own account.
 {% endhint %}
 
 {% hint style="info" %}
@@ -38,7 +38,7 @@ As a system administrator, you have the option to facilitate the account creatio
 3. Enter the **user name**.
 4. Type in the user’s **email address**.
 5. Select the appropriate **user group** of the user _e.g., Regular User._
-6. Untick the **Set the user’s password** option to allow you to create to your own Lucy account.
+6. Untick the **Set the user’s password** option. If the **Set the user’s password** option is not enabled, the **Initial Password** box will be hidden, activating the feature to send an invitation to your email address, allowing you to create your own account.
 7. Click **Invite User.** An invitation request will be sent to your email address, allowing you to create your own account.
 
 ##
