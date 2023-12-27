@@ -1,6 +1,6 @@
 # Your Profile
 
-Help your coworkers to learn more about you by setting up your profile. You can edit your first name, last name, email, username and change the password of your account.
+Help your coworkers learn more about you by setting up your profile. You can edit your first name, last name, email, username and change the password of your account.
 
 ## <mark style="color:blue;">Updating your profile</mark>
 
