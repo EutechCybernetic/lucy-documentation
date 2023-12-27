@@ -1,6 +1,6 @@
 # Key Concepts
 
-Lucy provides the following features out of the box
+Lucy provides the following features out of the box:
 
 * Dashboards and Visualizations
 * Projects
