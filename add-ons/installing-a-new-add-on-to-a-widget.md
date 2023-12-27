@@ -16,8 +16,8 @@ The most straightforward method to install an add-on to a widget is directly fro
 To install add-ons to a widget:
 
 1. On the app homepage, head to the **Gallery** tab on the left sidebar.
-2. Search and click on your **canvas**.
-3. Go to your widget on the canvas.
+2. Search and click on your **canvas** to open it.
+3. On the canvas, pick the widget you wish to install the add-on.
 4. Click **Install**.
 
 After completing the installation, it will guide you through a sequence of configuration steps to set up the add-on. Once the configuration is done, the data will be displayed on your widget.
