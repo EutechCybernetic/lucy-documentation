@@ -70,8 +70,11 @@ Let's build our database using an existing template.&#x20;
 13. Delete a field.
     1. Pick the field you wish to delete from the list of fields.&#x20;
     2. Click the Delete icon respective to the field.
-14. Click **Go to next Step**.
-15. Once you have completed designing the database, click **Create New Database.**
+14. Change the Template selected.
+    1. To change the template you have selected, click **Change Template.**
+    2. This action will redirect you to the template list screen for you to select a different one.
+15. Click **Go to next Step**.
+16. Once you have completed designing the database, click **Create New Database.**
 
 <figure><img src="../../.gitbook/assets/LC_Create _DBs_Pick Template_S5_0.png" alt="" width="563"><figcaption><p>Selecting a template</p></figcaption></figure>
 
