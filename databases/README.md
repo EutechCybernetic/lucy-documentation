@@ -12,7 +12,7 @@ When we say 'database', it's more akin to a table or a collection, rather than h
 
 The 'document-based' aspect means that each item you add to the database is a document object that can contain one or more fields within it. Each field, in turn, can contain a value, a list of values, or another document.&#x20;
 
-If you think of a 'Document' as a 'JSON Object' you're good to go.
+If you think of a 'Document' as a 'JSON Object', you're good to go.
 
 
 
