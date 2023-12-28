@@ -10,14 +10,14 @@ When we say 'database', it's more akin to a table or a collection, rather than h
 
 
 
-The 'document-based' part means that each item you add to the database is a document object that can contain one or more fields within it. Each field can in-turn contain a value, a list of values, or another document.&#x20;
+The 'document-based' aspect means that each item you add to the database is a document object that can contain one or more fields within it. Each field, in turn, can contain a value, a list of values, or another document.&#x20;
 
-If you think of 'Document' as 'JSON Object' you're good to go.
-
-
-
-The 'schema-less' part means there is no fixed structure for the document. When you define your database, you can specify what fields it expects but that's more of a guideline. Its not required that all fields are present in every document and its not required that every field in a document is pre-defined.
+If you think of a 'Document' as a 'JSON Object' you're good to go.
 
 
 
-You can create as many databases as you want. They are useful for storing data that you need for visualizations or analytics or for driving bussiness logic and integrations
+The 'schema-less' aspect means there is no fixed structure for the document. When defining your database, you can specify what fields it expects but it's more of a guideline. It's not required that all fields are present in every document, and it's not necessary for every field in a document to be pre-defined.
+
+
+
+You can create as many databases as you want. They are useful for storing data that you need for visualizations or analytics or for driving business logic and integrations.
