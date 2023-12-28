@@ -2,7 +2,7 @@
 
 Databases can be created either from the ground up or by choosing an existing template.&#x20;
 
-As an another option, you can pick a pre-designed template that come with predefined structure and build your database using it. When selecting this approach, this might require few adjustments such as modifying available fields, adding more fields to tailor the database to your specific needs.
+When designing your database with an existing template, you can select a pre-designed template that comes with a predefined structure and build your database using it. This might require a few adjustments such as modifying available fields, adding more fields to tailor the database to your specific needs.
 
 ## <mark style="color:blue;">Creating Your Database</mark>
 
