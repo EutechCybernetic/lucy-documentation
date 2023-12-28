@@ -4,9 +4,9 @@ Lucy lets you create databases, store data, and query arbitrary data anytime. Th
 
 This article explains the process of creating new databases and editing them. There are three ways to create a database:
 
-1. [Creating a Database Manually](./#creating-a-database-manually)
-2. [Importing Data from an External Source](./#importing-data-from-an-external-source)
-3. [Using an External Source as a Database](./#using-an-external-source-as-a-database)
+1. [Creating a Database Manually](./#1.-creating-a-database-manually)
+2. [Importing Data from an External Source](./#2.-importing-data-from-an-external-source)
+3. [Using an External Source as a Database](./#3.-using-an-external-source-as-a-database)
 
 ## <mark style="color:blue;">Ways to Create Databases</mark>
 
