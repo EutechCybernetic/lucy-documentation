@@ -1,14 +1,14 @@
 # Using an External Source as a Database
 
-Lucy allows you to effortlessly build a database by directly utilizing an existing online data source, such as Google sheets or Excel, without the need to import data. It's like setting up your database with what's already there, no extra steps required.
+Lucy allows you to effortlessly build a database by directly utilizing an existing online data source, such as Google sheets or Excel, without the need to import data. It's like setting up your database with what's already there—no extra steps required.
 
 Let's see the process of creating a database using an external data source.
 
 1. On the app homepage, head to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
-3. Go to **Databases** tab.
+3. Go to the **Databases** tab.
 4. Click **+** button.
-5. Select **Use External Source as Database** option.
+5. Click on the **Use External Source as Database** option.
 6. Pick the **data source** you wish to create your database (Google sheet or Excel).
 7. Choose the **account** associated with the data source you selected earlier.
 8. Provide a suitable **name** for your database.
@@ -25,7 +25,7 @@ Once the database is created, it will be mapped to the existing spreadsheet in y
 
 Once you've created your database, you can preview its contents by navigating to the **Databases** tab within the corresponding folder.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar
+1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Click on the **folder** you want to open.
 3. Go to **Databases** tab.
 4. Search and select your database.
