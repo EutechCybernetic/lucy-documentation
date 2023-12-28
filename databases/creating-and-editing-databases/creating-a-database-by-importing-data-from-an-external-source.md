@@ -28,7 +28,7 @@ Below is the step-by-step procedure for generating a new database by importing d
 
 <figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s8_1.png" alt=""><figcaption><p>Selecting columns</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s9_1.png" alt=""><figcaption><p>Creating the database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s9_1_1.png" alt=""><figcaption><p>Creating the database</p></figcaption></figure>
 
 Below is a preview of the newly created database.
 
