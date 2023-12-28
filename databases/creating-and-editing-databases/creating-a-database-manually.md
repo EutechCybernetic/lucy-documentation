@@ -71,7 +71,7 @@ Let's build our database using an existing template.&#x20;
     1. Pick the field you wish to delete from the list of fields.&#x20;
     2. Click the Delete icon respective to the field.
 14. Change the Template selected.
-    1. To change the template you have selected, click **Change Template.**
+    1. To change the template you have already selected, click **Change Template.**
     2. This action will redirect you to the template list screen for you to select a different one.
 15. Click **Go to next Step**.
 16. Once you have completed designing the database, click **Create New Database.**
