@@ -2,7 +2,7 @@
 
 Databases can be created by bringing data from sources outside the system. This approach is efficient, allowing you to quickly populate a new database with existing information. This is super handy, especially when you’re dealing with large datasets or when there is a need to set up a database rapidly.
 
-Importing data also helps to maintain data integrity by reducing the risk of manual errors during the data entry process. This is particularly important for preventing data inconsistencies and ensuring accuracy. Additionally, users have the flexibility to select required columns they need to create the database.
+Importing data also helps to maintain data integrity by reducing the risk of manual errors during the data entry process. This is particularly important for preventing data inconsistencies and ensuring accuracy. Additionally, users have the flexibility to select the required columns they need to create the database.
 
 
 
