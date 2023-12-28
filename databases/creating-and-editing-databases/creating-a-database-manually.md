@@ -1,6 +1,6 @@
 # Creating a Database Manually
 
-Databases can be created from scratch or by selecting an existing template. Lucy provides you the flexibility to establish databases by personally defining its columns/fields and types of data it will store.
+Databases can be created either from the ground up or by choosing an existing template.&#x20;
 
 As an another option, you can pick a pre-designed template that come with predefined structure and build your database using it. When selecting this approach, this might require few adjustments such as modifying available fields, adding more fields to tailor the database to your specific needs.
 
