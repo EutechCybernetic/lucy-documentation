@@ -6,16 +6,16 @@ When designing your database with an existing template, you can select a pre-des
 
 ## <mark style="color:blue;">Creating Your Database</mark>
 
-Let's create your database.
+Let's create your database from scratch.
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
 3. Go to **Databases** tab.
 4. Click **+** button and pick **Create Manually** option.
-5. Provide a **name** for your database.
+5. Enter a meaningful **name** for your database.
 6. Click **Continue**.
-7. Select a template from the list, _e.g., complaints._
-8. Instead, click Skip this step to start from ground up.
+7. A list of existing templates will be displayed.
+8. Click Skip this step to start from ground up or select the Blank Template from the template list.
 9. Do required modifications (adding, editing, or modifying fields) to the database fields.
 10. Click **Continue**.
 11. Once you have designed the structure of your database, click **Create New Database.**
