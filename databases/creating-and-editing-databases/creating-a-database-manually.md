@@ -15,11 +15,22 @@ Let's create your database from scratch.
 5. Enter a meaningful **name** for your database.
 6. Click **Continue**.
 7. A list of existing templates will be displayed.
-8. Click Skip this step to start from ground up or select the Blank Template from the template list.
+8. Click **Skip this step** or select the **Blank Template** from the template list.
 9. Do required modifications (adding, editing, or modifying fields) to the database fields.
-10. Click **Continue**.
-11. Once you have designed the structure of your database, click **Create New Database.**
-12. The below screen will be displayed after creating a new database.
+10. Add a new field/column.
+    1. To add a new field, click on the Add New Field button.
+    2. Type a suitable name for the Field added.
+    3. After you have entered a meaningful name, its data type will be automatically picked.
+    4. Select a different data type if necessary.
+    5. Add more fields as required.
+11. Edit a field.
+    1. Pick the field you want to edit and modify the field name.
+12. Delete a field.
+    1. Pick the field you wish to delete from the list of fields.&#x20;
+    2. Click the Delete icon respective to the field.
+13. Click **Continue**.
+14. Once you have designed the structure of your database, click **Create New Database.**
+15. The below screen will be displayed after creating a new database.
 
 <figure><img src="../../.gitbook/assets/LC_Create _DBs_StartfromScratch_s4.png" alt="" width="563"><figcaption><p>Your database has been created screen</p></figcaption></figure>
 
