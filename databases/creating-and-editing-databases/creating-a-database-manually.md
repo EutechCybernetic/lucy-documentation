@@ -77,22 +77,20 @@ Let's build our database using an existing template.&#x20;
 
 <figure><img src="../../.gitbook/assets/LC_PickingTemplate_s5_1.png" alt="" width="563"><figcaption><p>Selected template's fields and their types</p></figcaption></figure>
 
-{% embed url="https://drive.google.com/file/d/1p6y2hi_X9yKjFG0CPT91bWxCsyLqUAiM/preview" %}
-
 Below is a short video that guides you on creating a database manually.
 
-{% embed url="https://drive.google.com/file/d/1p6y2hi_X9yKjFG0CPT91bWxCsyLqUAiM/preview" %}
+
 
 ## <mark style="color:blue;">Previewing Your Database</mark>
 
 Once you've established your database, you can preview its contents by navigating to the **Databases** tab within the corresponding folder.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar
+1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Click on the **folder** you want to open.
 3. Go to **Databases** tab.
 4. Search and select your database.
 5. Click on the database to view it.
 
 {% hint style="info" %}
-&#x20;Initially, a manually created database is a empty database.
+&#x20;Initially, a manually created database is a empty database with no data.
 {% endhint %}
