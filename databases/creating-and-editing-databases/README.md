@@ -1,6 +1,6 @@
 # Creating and editing databases
 
-Lucy lets you create databases, store data, and query arbitrary data anytime. These databases are laid-back, document-based storage spaces, schema-less, and ready to accommodate whatever data suits your needs.
+Lucy lets you create databases, store data, and query arbitrary data anytime. These databases are laid-back, document-based storage spaces (schema-less, and ready to accommodate whatever data suits your needs).
 
 This article explains the process of creating new databases and editing them. There are three ways to create a database:
 
@@ -14,7 +14,7 @@ This article explains the process of creating new databases and editing them. Th
 
 Databases can be created from scratch or by selecting an existing template.
 
-Find the article here to gain more insights:
+For more insights, find the article here.
 
 {% content-ref url="creating-a-database-manually.md" %}
 [creating-a-database-manually.md](creating-a-database-manually.md)
@@ -24,7 +24,7 @@ Find the article here to gain more insights:
 
 You can form databases by importing data from external sources such as data from csv/xlsx files.
 
-Find the article here to gain more insights:
+For more insights, find the article here.
 
 {% content-ref url="creating-a-database-by-importing-data-from-an-external-source.md" %}
 [creating-a-database-by-importing-data-from-an-external-source.md](creating-a-database-by-importing-data-from-an-external-source.md)
@@ -34,7 +34,7 @@ Find the article here to gain more insights:
 
 Lucy allows you to create databases using online data sources such as Google sheets or Excel, eliminating the need for data importing.
 
-Find the article here to gain more insights:
+For more insights, find the article here.
 
 {% content-ref url="using-an-external-source-as-a-database.md" %}
 [using-an-external-source-as-a-database.md](using-an-external-source-as-a-database.md)
@@ -46,7 +46,7 @@ Find the article here to gain more insights:
 
 Editing Information in a Database refers to updating existing records, inserting new data records, removing unnecessary records from it. In Lucy, tweaking information stored in a database is pretty straightforward and achievable in few simple steps.
 
-Find the article here to gain more insights:
+For more insights, find the article here.
 
 {% content-ref url="../editing-information-in-a-database.md" %}
 [editing-information-in-a-database.md](../editing-information-in-a-database.md)
@@ -56,7 +56,7 @@ Find the article here to gain more insights:
 
 Modifying, adding, or deleting fields in a database is a straightforward process that can be accomplished in a few simple steps.
 
-Find the article here to gain more insights:
+For more insights, find the article here.
 
 {% content-ref url="editing-fields-in-a-database.md" %}
 [editing-fields-in-a-database.md](editing-fields-in-a-database.md)
