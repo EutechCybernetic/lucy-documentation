@@ -29,7 +29,5 @@ The information presented in the generated widget will rely on the data volume w
 
 Watch below video on how to build a widget by typing a question.
 
-{% embed url="https://drive.google.com/file/d/1w1e8rCNO7XmwbjslabaZetwxO_XuGE-d/preview" %}
-
-
+{% embed url="https://drive.google.com/uc?id=1w1e8rCNO7XmwbjslabaZetwxO_XuGE-d" %}
 
