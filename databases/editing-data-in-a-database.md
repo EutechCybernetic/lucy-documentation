@@ -19,7 +19,7 @@ To edit data in a database:
 
 ## <mark style="color:blue;">Deleting Data Records in a Database</mark>
 
-To delete existing data records:
+To delete existing data records in a database:
 
 1. On the Lucy app homepage, go to the **My Work** tab on the sidebar.
 2. Search and click on the folder you want to open.
@@ -27,4 +27,4 @@ To delete existing data records:
 4. Search and click on the desired **database**.
 5. Select the checkboxes next to the data records you want to delete.
 6. Click **Delete Selected**.
-7. Click **Confirm** to confirm the deletion. The selected records will be removed from the database.
+7. Click **Confirm** to confirm the deletion. The selected records will be deleted from the database.
