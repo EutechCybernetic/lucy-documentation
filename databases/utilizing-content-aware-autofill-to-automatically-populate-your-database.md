@@ -2,9 +2,9 @@
 
 This article explains how to automatically populate data into your database using Content-aware Autofill.
 
-**Content-aware Autofill** is a powerful feature that uses AI (Artificial Intelligence) to automatically fill in data in a database based on existing columns. All that's required is the provision of some examples for the initial rows, and subsequently, this feature will fill in columns automatically when new data is inserted or updated.
+**Content-aware Autofill** is a powerful feature that uses AI (Artificial Intelligence) to automatically fill in data in a database based on existing columns. All that's required is the provision of some examples for the initial rows, and subsequently, this feature will fill in columns automatically when new data is inserted.
 
-For instance, let’s create a database to capture employee feedback and use this feature to automatically classify the feedback as good or bad and autofill the result in the database.
+For instance, let’s create a database to capture employee feedback and use this feature to automatically classify the feedback as good or bad and autofill the result in the database. We will have the Name, Email, Comment and Mood as our database fields.
 
 Utilizing Content-aware Autofill for database population involves several key steps.
 
@@ -21,8 +21,6 @@ Find the article below to create a new database.
 {% content-ref url="creating-and-editing-databases/creating-a-database-manually.md" %}
 [creating-a-database-manually.md](creating-and-editing-databases/creating-a-database-manually.md)
 {% endcontent-ref %}
-
-We will have the Name, Email, Comment and Mood as our database fields/columns.
 
 ## <mark style="color:blue;">2. Add Examples to Your Database</mark>
 
