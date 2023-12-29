@@ -8,8 +8,8 @@ In this article, we'll guide you on how to search, filter, and sort information 
 
 There are two approaches to locating information in a database:
 
-1. Searching for Information by Entering a Search Term
-2. Searching for Information by Entering a MongoDB Query
+1. [Searching for Information by Entering a Search Term](searching-filtering-and-sorting-information-in-a-database.md#1.-searching-for-information-by-entering-a-search-term)
+2. [Searching for Information by Entering a MongoDB Query](searching-filtering-and-sorting-information-in-a-database.md#2.-searching-for-information-by-entering-a-mongodb-query)
 
 ### <mark style="color:blue;">1. Searching for Information by Entering a Search Term</mark>
 
@@ -22,18 +22,26 @@ There are two approaches to locating information in a database:
 
 ### <mark style="color:blue;">2. Searching for Information by Entering a MongoDB Query</mark>
 
-For those with advanced expertise, you have the option to input a[ MongoDB query](https://www.mongodb.com/docs/manual/tutorial/query-documents/) directly into the search box or type in the MongoDB query in the editor window.
+For those with advanced expertise, you have the option to input a[ MongoDB query](https://www.mongodb.com/docs/manual/tutorial/query-documents/) directly into the search box or type it in the editor window.
+
+1. On the app homepage, go to the **My Work** tab on the left sidebar.
+2. Search and click on the **folder** you want to open.
+3. Head to the **Databases** tab.
+4. Search and click on the required **database**.
+5. A spreadsheet preview of your database will be opened in a new window.
+6. Type in the MongoDB query in the search box.
+7. Instead, you can click the expand icon to enter the query in a editor window.
 
 <figure><img src="../.gitbook/assets/LC_Searching and Filtering Information in a Database_S2.png" alt="" width="344"><figcaption><p>Searching for Information by Entering a MongoDB Query</p></figcaption></figure>
 
 ## <mark style="color:blue;">Filtering Information</mark>
 
-Filtering information in a database refers to the process of narrowing down the dataset to only include records that meet certain requirements.
+Filtering information in a database involves narrowing down the dataset to only include records that meet certain requirements.
 
-There are several ways to filter data records in your database preview.
+There are several ways to filter data records in your database preview:
 
-1. Filtering Records by Selecting Column Values
-2. Filtering Records by Selecting Columns
+1. [Filtering Records by Selecting Column Values](searching-filtering-and-sorting-information-in-a-database.md#1.-filtering-records-by-selecting-column-values)
+2. [Filtering Records by Selecting Columns](searching-filtering-and-sorting-information-in-a-database.md#2.-filtering-records-by-selecting-columns)
 
 ### <mark style="color:blue;">1. Filtering Records by Selecting Column Values</mark>
 
