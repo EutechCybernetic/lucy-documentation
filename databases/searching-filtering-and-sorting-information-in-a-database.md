@@ -50,7 +50,7 @@ There are several ways to filter data records in your database preview:
 3. Head to the **Databases** tab.
 4. Search and click on the required database.
 5. A spreadsheet preview of your database will be opened in a new window.
-6. On the preview, click **Filter & Options.**
+6. On the preview, click **Filters & Options.**
 7. Under the **Filters** menu, click on the required database column to expand it.
 8. Within each column, you'll find a list of column values.
 9. Choose the specific column values within the column to apply the filtering and display the corresponding data in your spreadsheet preview.
@@ -62,7 +62,7 @@ There are several ways to filter data records in your database preview:
 3. Head to the **Databases** tab.
 4. Search and click on the required **database**.
 5. A spreadsheet preview of your database will be opened in a new window.
-6. On the preview, click **Filter & Options.**
+6. On the preview, click **Filters & Options.**
 7. Click **Toggle Columns** menu.
 8. Select the Columns you are interested in.
 9. Only the data related to the selected columns will be displayed. In other words, rest of the columns will be hidden from the preview.
@@ -74,7 +74,7 @@ There are several ways to filter data records in your database preview:
 3. Head to the **Databases** tab.
 4. Search and click on the required **database**.
 5. A spreadsheet preview of your database will be opened in a new window.
-6. On the preview, click **Filter & Options.**
+6. On the preview, click **Filters & Options.**
 7. Choose the **column** from the list that you'd like to use for sorting the data.
 8. Select the sorting order as either ASC (ascending) or DESC (descending).
 9. Data will be sorted and displayed based on the selected column.
