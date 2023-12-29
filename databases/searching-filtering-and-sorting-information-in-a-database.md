@@ -2,16 +2,16 @@
 
 Searching and filtering are fundamental features that empower users to efficiently navigate databases and extract valuable insights. These functionalities play a crucial role in enhancing productivity, supporting decision-making processes, and maintaining the integrity of stored information. Additionally, users have the flexibility to arrange data records in either ascending or descending order.&#x20;
 
-In this article, we'll guide you on how to search, filter and sort information in a database.
+In this article, we'll guide you on how to search, filter, and sort information in a database.
 
 ## <mark style="color:blue;">Searching for Information</mark>
 
-There are two approaches to find information in a database.
+There are two approaches to locating information in a database:
 
-1. Searching for Information by Entering Search Term
+1. Searching for Information by Entering a Search Term
 2. Searching for Information by Entering a MongoDB Query
 
-### <mark style="color:blue;">1. Searching for Information by Entering Text/Search Term</mark>
+### <mark style="color:blue;">1. Searching for Information by Entering a Search Term</mark>
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -24,7 +24,7 @@ There are two approaches to find information in a database.
 
 For those with advanced expertise, you have the option to input a[ MongoDB query](https://www.mongodb.com/docs/manual/tutorial/query-documents/) directly into the search box or type in the MongoDB query in the editor window.
 
-<figure><img src="../.gitbook/assets/LC_Searching and Filtering Information in a Database_S2.png" alt=""><figcaption><p>Searching for Information by Entering a MongoDB Query</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LC_Searching and Filtering Information in a Database_S2.png" alt="" width="344"><figcaption><p>Searching for Information by Entering a MongoDB Query</p></figcaption></figure>
 
 ## <mark style="color:blue;">Filtering Information</mark>
 
