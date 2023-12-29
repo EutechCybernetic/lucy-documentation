@@ -2,10 +2,10 @@
 
 Adding data into a database is the key to keeping information organized and easy to use.
 
-There are two approaches to add data into a database:
+There are two approaches to adding data:
 
-1. Creating a Form to Add Data
-2. Adding New Data Records Manually
+1. [Creating a Form to Add Data](adding-data-into-a-database.md#1.-creating-a-form-to-add-data)
+2. [Adding New Data Records Manually](adding-data-into-a-database.md#2.-adding-new-data-records-manually)
 
 ## <mark style="color:blue;">1. Creating a Form to Add Data</mark>
 
@@ -17,7 +17,7 @@ Using forms to fill in data is easy because they offer a user-friendly, structur
 2. Search and click on the **folder** you want to open.
 3. Go to the **Databases** tab.
 4. Search and click on the desired **database**.
-5. Hover over the database and click **Edit** icon that appars.
+5. Hover over the database and click **Edit** icon that appears.
 6. Click **Create a Form**. Widget Designer page will be opened.
 7. Click **Save Widget** to save the form and access it later.
 8. Click **Open Page** to open the form in a new window.
