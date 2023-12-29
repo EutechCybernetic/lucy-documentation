@@ -37,7 +37,12 @@ The next step is to add some sample data entries to your database. Let’s creat
 9. Click **Open Page** to open the form in a new window.
 10. Fill in the form details and click **Submit**.
 11. Refresh the page to add more examples.
-12. Enter **Good** or **Bad** appropriately for each example in the **Mood** column.
+12. Open the database you've created.
+    1. On the app homepage, go to the **My Work** tab on the left sidebar.
+    2. Search and click on the **folder** you want to open.
+    3. Head to the **Databases** tab.
+    4. Search and click on the database.&#x20;
+    5. Enter **Good** or **Bad** appropriately for each example in the **Mood** column.
 
 <figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S1.png" alt=""><figcaption><p>Feedback form designed</p></figcaption></figure>
 
