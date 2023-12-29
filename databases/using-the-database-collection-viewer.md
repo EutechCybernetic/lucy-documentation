@@ -12,15 +12,17 @@ Find out more from here:
 [creating-and-editing-databases](creating-and-editing-databases/)
 {% endcontent-ref %}
 
-## <mark style="color:blue;">Editing a Databases</mark>
+## <mark style="color:blue;">Editing a Database</mark>
 
-Find the article here:
+Find the article here on how to edit data in a database:
 
 {% content-ref url="editing-data-in-a-database.md" %}
 [editing-data-in-a-database.md](editing-data-in-a-database.md)
 {% endcontent-ref %}
 
 ## <mark style="color:blue;">Locating Your Database</mark>
+
+To find your database inside a project:
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -35,7 +37,7 @@ If there are databases you don't want, you can simply delete them from your proj
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
 3. Head to the **Databases** tab. A list of previously created databases will be displayed.
-4. Search and pick your database you wish to delete.
+4. Search and select your database you wish to delete.
 5. Click **Delete Items** button and click the delete icon that displays inside the selected database.
 6. Click **Yes** to confirm the action.
 7. The database will be deleted from the list.
