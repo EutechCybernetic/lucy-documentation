@@ -21,8 +21,6 @@ Let's see the process of creating a database using an external data source.
 13. Click **Next**.
 14. Now your database will be created and will be listed under the **Databases** tab.
 
-Once the database is created, it will be mapped to the existing spreadsheet in your account. Any modifications made to the database using Lucy will be reflected in the associated spreadsheet in your account, and the same applies in the opposite direction.
-
 ## <mark style="color:blue;">Previewing Your Database</mark>
 
 Once you've created your database, you can preview its contents by navigating to the **Databases** tab within the corresponding folder.
