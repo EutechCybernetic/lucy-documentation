@@ -13,6 +13,8 @@ There are two approaches to locating information in a database:
 
 ### <mark style="color:blue;">1. Searching for Information by Entering a Search Term</mark>
 
+To search for data records by entering a search term:
+
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
 3. Head to the **Databases** tab.
