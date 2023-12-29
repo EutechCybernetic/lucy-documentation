@@ -48,8 +48,8 @@ Editing Information in a Database refers to updating existing records, inserting
 
 For more insights, find the article here.
 
-{% content-ref url="../editing-information-in-a-database.md" %}
-[editing-information-in-a-database.md](../editing-information-in-a-database.md)
+{% content-ref url="../editing-data-in-a-database.md" %}
+[editing-data-in-a-database.md](../editing-data-in-a-database.md)
 {% endcontent-ref %}
 
 ### <mark style="color:blue;">Editing Fields in a Database</mark>

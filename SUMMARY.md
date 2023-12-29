@@ -19,7 +19,7 @@
     * [Creating a Database by Importing Data from an External Source](databases/creating-and-editing-databases/creating-a-database-by-importing-data-from-an-external-source.md)
     * [Using an External Source as a Database](databases/creating-and-editing-databases/using-an-external-source-as-a-database.md)
     * [Editing Fields in a Database](databases/creating-and-editing-databases/editing-fields-in-a-database.md)
-  * [Editing Information in a Database](databases/editing-information-in-a-database.md)
+  * [Editing Data in a Database](databases/editing-data-in-a-database.md)
   * [Using the database collection viewer](databases/using-the-database-collection-viewer.md)
   * [Searching, Filtering, and Sorting Information in a Database](databases/searching-filtering-and-sorting-information-in-a-database.md)
   * [Exporting Data in a Database](databases/exporting-data-in-a-database.md)

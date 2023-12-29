@@ -16,8 +16,8 @@ Find out more from here:
 
 Find the article here to gain more insights:
 
-{% content-ref url="editing-information-in-a-database.md" %}
-[editing-information-in-a-database.md](editing-information-in-a-database.md)
+{% content-ref url="editing-data-in-a-database.md" %}
+[editing-data-in-a-database.md](editing-data-in-a-database.md)
 {% endcontent-ref %}
 
 ## <mark style="color:blue;">Locating Your Database</mark>
