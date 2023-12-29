@@ -7,13 +7,13 @@ So, when you're dealing with a database, making changes such as modifying, addin
 To edit fields in a database:
 
 1. On the Lucy app homepage, head to the **My Work** tab on the left sidebar.
-2. Search and click on the folder you want to open.
+2. Search and click on the folder you wish to open.
 3. Jump to the **Databases** tab.
-4. Search and select the **database** you wish to edit fields
-5. Hover over it and click **Edit** icon that appears.
+4. Search and select the **database** you wish to edit fields.
+5. Hover over it and click the **Edit** icon that appears.
 6. Select the field you want to edit and enter the new field name.
-7. Modify the respective field's data type if needed.
-8. &#x20;Click **Update Database.** All the changes made to the database will be updated.
+7. Modify the respective field's data type by selecting a different data type if needed.
+8. Once you have made the required modifications, click **Update Database.** All the changes made to the database will be applied.
 
 ## <mark style="color:blue;">Adding a New Field</mark>
 
@@ -25,7 +25,7 @@ To add a new field:
 4. Search and select your database.
 5. Hover over it and click **Edit** icon that appears.
 6. Click **Add New Field** button.
-7. An empty field and field type will be added to the field list.
+7. A blank field and its corresponding type will be included in the field list, allowing you to input the field name and its type.
 
 ## <mark style="color:blue;">Deleting a Field</mark>
 
@@ -36,7 +36,7 @@ To delete an existing field in a database:
 3. Jump to the **Databases** tab.
 4. Search and select your database.
 5. Hover over it and click **Edit** icon that appears.
-6. Select the field you want to delete and click **Delete** button.
-7. Click **Update Database.** All the changes made to the database will be updated.
+6. Select the field you want to delete and click respective **Delete** button.
+7. Click **Update Database.** All the changes made to the database will be applied.
 
 &#x20;
