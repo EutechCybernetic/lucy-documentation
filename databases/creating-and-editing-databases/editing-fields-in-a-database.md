@@ -39,9 +39,9 @@ To delete an existing field in a database:
 6. Select the field you want to delete and click respective **Delete** button.
 7. Click **Update Database.** All the changes made to the database will be applied.
 
-## &#x20;<mark style="color:blue;">Saving the changes</mark>
+## &#x20;<mark style="color:blue;">Saving the Changes</mark>
 
-After you have made required modifications to your database fields, you need to save it.
+Once you've made required modifications to your database fields, you need to save it.
 
 To save the changes:
 
@@ -50,4 +50,4 @@ To save the changes:
 3. Jump to the **Databases** tab.
 4. Search and select your database.
 5. Hover over it and click **Edit** icon that appears.
-6. Click **Update Database.** All the changes made to the database will be applied.
+6. Click **Update Database.**&#x20;
