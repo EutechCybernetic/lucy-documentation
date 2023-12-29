@@ -66,7 +66,7 @@ The last step is to enable Content-aware Autofill in your database.
 6. Enable the **Content Aware Auto Fill** option.
 7. Choose the field you want to look at from the **Choose Raw Text Field** list. In this example, it is the Comment field.
 8. Select the **No of Example rows** to be checked.
-9. Select the field you wish to fill in based on the previously selected Field. In this example, it is the Mood field.
+9. **Columns To AutoFill (Optional)**: This option is used to select the field you wish to fill in. In this example, it is the Mood field.
 10. Click **Done**.
 11. Click **Update Database** to save changes.
 
