@@ -1,10 +1,8 @@
 # Searching, Filtering, and Sorting Information in a Database
 
-Searching and filtering are fundamental features that empower users to efficiently navigate and extract valuable insights from [databases](./). These functionalities play a crucial role in enhancing productivity, supporting decision-making processes, and maintaining the integrity of the stored information.
+Searching and filtering are fundamental features that empower users to efficiently navigate databases and extract valuable insights. These functionalities play a crucial role in enhancing productivity, supporting decision-making processes, and maintaining the integrity of stored information. Additionally, users have the flexibility to arrange data records in either ascending or descending order.&#x20;
 
-In addition, users have the flexibility to arrange data records in either ascending or descending order.
-
-In this article, we'll show you how to locate exactly what you need.
+In this article, we'll guide you on how to search, filter and sort information in a database.
 
 ## <mark style="color:blue;">Searching for Information</mark>
 
