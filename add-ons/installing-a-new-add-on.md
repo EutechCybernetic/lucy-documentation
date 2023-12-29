@@ -2,7 +2,7 @@
 
 This article explains how to install a new add-on into Lucy.
 
-By default, widgets are part of an add-on. Some widgets added to your canvas might require add-ons to be installed and configured in order to display data. Depending on the add-on, this configuration may change.
+By default, widgets are part of an add-on. When you install a widget that requires an add-on, you will be asked to install that add-on. Once the add-on is installed, all widgets within it become available. Depending on the add-on, this configuration may change.
 
 Now, there are two ways to install a new add-on to a widget:
 
