@@ -1,6 +1,6 @@
 # Using the database collection viewer
 
-Inside each project you create, you'll find a separate tab called **Databases**. This tab is where you can create, edit, view, store and delete your databases. Let’s see how to locate and view your databases you have previously created.
+Inside each project you create, there is a dedicated tab called **Databases**. This tab is where you can create, edit, view, store, and delete your databases. Let’s see how to locate and view the databases you have previously created.
 
 ## <mark style="color:blue;">Creating a Database</mark>
 
@@ -12,9 +12,9 @@ Find out more from here:
 [creating-and-editing-databases](creating-and-editing-databases/)
 {% endcontent-ref %}
 
-## <mark style="color:blue;">Editing a Database</mark>
+## <mark style="color:blue;">Editing a Databases</mark>
 
-Find the article here to gain more insights:
+Find the article here:
 
 {% content-ref url="editing-data-in-a-database.md" %}
 [editing-data-in-a-database.md](editing-data-in-a-database.md)
