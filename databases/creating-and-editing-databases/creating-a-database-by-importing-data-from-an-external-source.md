@@ -34,7 +34,7 @@ Below is a preview of the newly created database.
 
 <figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s10 (1).png" alt=""><figcaption><p>Database preview</p></figcaption></figure>
 
-Watch the below video on creating a database by importing data from an external source to gain more insights.
+Watch the video below to gain more insights on creating a database by importing data from an external source.
 
 {% embed url="https://drive.google.com/uc?id=1unIyNBdJVFOIjPtF852Pp4ghLgwhHahA" %}
 
