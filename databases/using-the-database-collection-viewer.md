@@ -36,8 +36,10 @@ If there are databases you don't want, you can simply delete them from your proj
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
-3. Head to the **Databases** tab. A list of previously created databases will be displayed.
+3. Navigate to the **Databases** tab. A list of previously created databases will be displayed.
 4. Search and select your database you wish to delete.
-5. Click **Delete Items** button and click the delete icon that displays inside the selected database.
-6. Click **Yes** to confirm the action.
-7. The database will be deleted from the list.
+5. Click the **Delete Items** button to enter the delete mode.
+6. Click the delete icon  inside the selected database.
+7. Click **Yes** to confirm the action.
+8. The database will be deleted from the list.
+9. Click Done to exit the delete mode.
