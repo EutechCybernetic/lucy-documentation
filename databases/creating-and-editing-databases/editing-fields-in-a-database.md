@@ -1,6 +1,6 @@
 # Editing Fields in a Database
 
-So, when you're dealing with a database, making changes like modifying, adding, or deleting fields is pretty straightforward. It's just a matter of a few simple steps.
+So, when you're dealing with a database, making changes such as modifying, adding, or deleting fields is pretty straightforward. It's just a matter of a few simple steps.
 
 ## <mark style="color:blue;">Editing a Field</mark>
 
