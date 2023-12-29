@@ -2,9 +2,9 @@
 
 In Lucy, you can ask a question related to existing databases in a folder to create your very own widget. The system then pulls out the answers from the data in those databases and turns them into a cool visual widget for you.
 
-Imagine we have a database storing asset information, and now, we aim to create a widget visualizing the count of operational assets for each asset category in a pie chart.
+Imagine we have a database storing asset information, and now, our goal is to create a widget visualizing the count of operational assets for each asset category in a pie chart.
 
-We can simply type in our question and generate a pie chart to display the result on a widget. Additionally, the system will automatically pick the suitable database(s) based on the question asked to generate the desired result.
+We can simply type in our question, and generate a pie chart to display the result on a widget. Additionally, the system will automatically select the suitable database(s) based on the question asked to generate the desired result.
 
 ## <mark style="color:blue;">Building a Widget by Typing a Question</mark>
 
