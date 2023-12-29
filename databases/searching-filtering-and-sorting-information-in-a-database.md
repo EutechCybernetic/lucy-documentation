@@ -45,6 +45,8 @@ There are several ways to filter data records in your database view:
 
 ### <mark style="color:blue;">1. Filtering Records by Selecting Column Values</mark>
 
+To filter data records by selecting specific column values:
+
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
 3. Head to the **Databases** tab.
@@ -57,6 +59,8 @@ There are several ways to filter data records in your database view:
 
 ### <mark style="color:blue;">2. Filtering Records by Selecting Columns</mark>
 
+To filter data records by selecting specific columns:
+
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
 3. Head to the **Databases** tab.
@@ -68,6 +72,8 @@ There are several ways to filter data records in your database view:
 9. Only the data related to the selected columns will be displayed in the spreadsheet view. In other words, rest of the columns will be hidden from the view.
 
 ## <mark style="color:blue;">Sorting Information</mark>
+
+To sort information in ascending or descending order:
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
