@@ -1,19 +1,19 @@
-# Installing a New Add-on to a Widget
+# Installing a New Add-on
 
-This article explains how to install a new add-on to a widget.
+This article explains how to install a new add-on into Lucy.
 
-By default, Add-ons are part of a widget. Some widgets added to your canvas might require add-ons to be installed and configured in order to display data. Depending on the add-on, this configuration may change.
+By default, widgets are part of an add-on. Some widgets added to your canvas might require add-ons to be installed and configured in order to display data. Depending on the add-on, this configuration may change.
 
 Now, there are two ways to install a new add-on to a widget:
 
-1. [Installing an Add-on from a Dashboard/Canvas](installing-a-new-add-on-to-a-widget.md#installing-an-add-on-from-a-dashboard-canvas)
-2. [Installing an Add-on from the Add-ons Page](installing-a-new-add-on-to-a-widget.md#installing-an-add-on-from-the-add-ons-page)
+1. [Installing an Add-on from a Dashboard/Canvas](installing-a-new-add-on.md#installing-an-add-on-from-a-dashboard-canvas)
+2. [Installing an Add-on from the Add-ons Page](installing-a-new-add-on.md#installing-an-add-on-from-the-add-ons-page)
 
 ## <mark style="color:blue;">Installing an Add-on from a Dashboard/Canvas</mark>
 
-The most straightforward method to install an add-on to a widget is directly from a dashboard, eliminating the need to navigate back and forth.
+The most straightforward method to install an add-on is directly from a dashboard, eliminating the need to navigate back and forth.
 
-To install add-ons to a widget:
+To install add-on from a dashboard:
 
 1. On the app homepage, head to the **Gallery** tab on the left sidebar.
 2. Search and click on your **canvas** to open it.

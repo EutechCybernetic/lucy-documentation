@@ -11,7 +11,7 @@
   * [Workflows and Integrations](key-concepts/workflows-and-integrations.md)
   * [Mobile App](key-concepts/mobile-app.md)
 * [Add-ons](add-ons/README.md)
-  * [Installing a New Add-on to a Widget](add-ons/installing-a-new-add-on-to-a-widget.md)
+  * [Installing a New Add-on](add-ons/installing-a-new-add-on.md)
 * [Databases](databases/README.md)
   * [Understanding Databases](databases/understanding-databases.md)
   * [Creating and editing databases](databases/creating-and-editing-databases/README.md)
