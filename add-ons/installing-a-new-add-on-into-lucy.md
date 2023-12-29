@@ -1,13 +1,13 @@
-# Installing a New Add-on
+# Installing a New Add-on into Lucy
 
 This article explains how to install a new add-on into Lucy.
 
 By default, widgets are part of an add-on. When you install a widget that requires an add-on, you will be asked to install that add-on. Once the add-on is installed, all widgets within it become available. Depending on the add-on, this configuration may change.
 
-Now, there are two ways to install a new add-on to a widget:
+Now, there are two ways to install a new add-on:
 
-1. [Installing an Add-on from a Dashboard/Canvas](installing-a-new-add-on.md#installing-an-add-on-from-a-dashboard-canvas)
-2. [Installing an Add-on from the Add-ons Page](installing-a-new-add-on.md#installing-an-add-on-from-the-add-ons-page)
+1. [Installing an Add-on from a Dashboard/Canvas](installing-a-new-add-on-into-lucy.md#installing-an-add-on-from-a-dashboard-canvas)
+2. [Installing an Add-on from the Add-ons Page](installing-a-new-add-on-into-lucy.md#installing-an-add-on-from-the-add-ons-page)
 
 ## <mark style="color:blue;">Installing an Add-on from a Dashboard/Canvas</mark>
 
