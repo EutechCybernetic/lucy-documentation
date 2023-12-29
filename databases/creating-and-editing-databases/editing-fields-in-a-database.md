@@ -9,7 +9,7 @@ To edit fields in a database:
 1. On the Lucy app homepage, head to the **My Work** tab on the left sidebar.
 2. Search and click on the folder you want to open.
 3. Jump to the **Databases** tab.
-4. Search and select the **database** you want to edit.
+4. Search and select the **database** you wish to edit fields
 5. Hover over it and click **Edit** icon that appears.
 6. Select the field you want to edit and enter the new field name.
 7. Modify the respective field's data type if needed.
