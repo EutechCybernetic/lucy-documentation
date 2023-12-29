@@ -39,4 +39,15 @@ To delete an existing field in a database:
 6. Select the field you want to delete and click respective **Delete** button.
 7. Click **Update Database.** All the changes made to the database will be applied.
 
-&#x20;
+## &#x20;<mark style="color:blue;">Saving the changes</mark>
+
+After you have made required modifications to your database fields, you need to save it.
+
+To save the changes:
+
+1. On the Lucy app homepage, head to the **My Work** tab on the left sidebar.
+2. Search and click on the folder you want to open.
+3. Jump to the **Databases** tab.
+4. Search and select your database.
+5. Hover over it and click **Edit** icon that appears.
+6. Click **Update Database.** All the changes made to the database will be applied.
