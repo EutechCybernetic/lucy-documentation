@@ -87,6 +87,6 @@ To sort information in ascending or descending order:
 8. Select the sorting order as either ASC (ascending) or DESC (descending).
 9. Data will be sorted and displayed based on the selected column.
 
-Here is a short video that shows how to search, filter and sort information in a database to help you understand better.
+Here is a short video that shows how to search, filter, and sort information in a database to help you understand better.
 
 {% embed url="https://drive.google.com/uc?id=1jUyzmM4o-u_ojzV5Dag74P2TDyIBGkmX" %}
