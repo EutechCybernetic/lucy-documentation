@@ -4,14 +4,14 @@ Designing user interfaces to visualize data is a powerful way to derive meaningf
 
 &#x20;This article shows how to design a user interface to visualize your data and explains the two distinct approaches to do that:
 
-1. [Visualize Data by Selecting a Data source](designing-a-user-interface-to-visualize-information.md#id-1.-visualize-data-by-selecting-a-data-source)
-2. [Start from Scratch by Selecting a Template](designing-a-user-interface-to-visualize-information.md#id-2.-start-from-scratch-by-selecting-a-template)
+1. [Visualizing Data by Selecting a Data source](designing-a-user-interface-to-visualize-information.md#id-1.-visualizing-data-by-selecting-a-data-source)
+2. [Starting from Scratch by Selecting a Template](designing-a-user-interface-to-visualize-information.md#selecting-a-data-source)
 
 {% hint style="info" %}
 **Note**: Before you go ahead with any of these methods, ensure that a data source (database/workflow) is ready in the system.
 {% endhint %}
 
-## <mark style="color:blue;">1. Visualize Data by Selecting a Data source</mark>
+## <mark style="color:blue;">1. Visualizing Data by Selecting a Data source</mark>
 
 Before designing a user interface for data visualization, the first step is to select a data source. This could involve choosing a workflow or a database to obtain the data that will be visualized.
 
@@ -35,11 +35,9 @@ To select a data source:
 
 ### <mark style="color:blue;">Preparing Data to be Visualized</mark>
 
-You can decide what data to be visualized on the widget by incorporating features such as data filtering and/or aggregation. Let’s filter data and aggregate the resulting data.&#x20;
+You can determine the specific data to display on the widget by utilizing features like data filtering and aggregation. For instance, we'll consider a database containing sales data. We'll apply a filter to isolate product lines with a 'Shipped' status and then showcase the maximum sales for each respective product line.
 
-_e.g., filtering product lines having the Status as ‘Shipped’ and displaying maximum sales of each product line._
-
-#### <mark style="color:blue;">Filtering data</mark>
+#### <mark style="color:blue;">Filtering Data</mark>
 
 Filtering data is used to extract a subset of data that meets specific criteria or conditions. It helps in narrowing down the dataset to focus on a particular subset of interest.
 
@@ -55,7 +53,7 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s4.png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
 
-#### <mark style="color:blue;">Aggregating data</mark>
+#### <mark style="color:blue;">Aggregating Data</mark>
 
 Aggregating data is used to summarize and condense data into a more compact form, typically by performing mathematical or statistical operations.
 
@@ -150,7 +148,7 @@ To add a chart title:
 2. Go to **Title** section.
 3. In the **Text** field, enter a suitable title for the chart. The chart title will update in real-time as you type.
 
-## <mark style="color:blue;">2. Start from Scratch by Selecting a Template</mark>
+## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
 
 This method initiates the user interface design process for data visualization by selecting a template and subsequently binding a data source at a later stage.
 
@@ -187,7 +185,7 @@ To bind a data source to the widget:
 
 Next, step is to customize how you want to visualize data on the widget.
 
-#### <mark style="color:blue;">Aggregating data</mark>
+#### <mark style="color:blue;">Aggregating Data</mark>
 
 For instance, let's summarize data to display minimum temperature in a radial gauge.
 
@@ -232,14 +230,14 @@ To customize the properties of the widget’s header section:
 4. Select a color for the title.
 5. Enter the font size of the title.
 
-## <mark style="color:blue;">Preview your Widget</mark>
+## <mark style="color:blue;">Previewing Your Widget</mark>
 
 Preview mode can be used to view a live preview of the appearance and the behavior of the widget.&#x20;
 
 1. On the widget designer page, click **Preview** button to change the mode to **Preview**.
 2. The widget will be loaded in the preview mode.
 
-## <mark style="color:blue;">Save your Widget</mark>
+## <mark style="color:blue;">Saving Your Widget</mark>
 
 After you have done required customizations, you can save the widget for future reference.
 
@@ -248,7 +246,7 @@ After you have done required customizations, you can save the widget for future 
    * Go to **General** tab and enter the name.
 3. Click **Save** Widget.
 
-## <mark style="color:blue;">Share Your Widget</mark>
+## <mark style="color:blue;">Sharing Your Widget</mark>
 
 After you have designed a widget, you can share it with others. Find out more in the article below.
 
