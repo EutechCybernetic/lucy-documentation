@@ -1,21 +1,21 @@
 # Designing a User Interface to Visualize Information
 
-Designing user interfaces to visualize data is a powerful way to derive meaningful insights. Depending on the data and the user's goals, designers choose appropriate visualization types. These can include charts, graphs, maps and more.
+Designing user interfaces to visualize data is a powerful way to derive meaningful insights. Depending on the data and the user's goals, designers choose appropriate visualization types, which can include charts, graphs, maps and more.
 
-&#x20;This article shows how to design a user interface to visualize your data and explains the two distinct approaches to do that.
+&#x20;This article shows how to design a user interface to visualize your data and explains the two distinct approaches to do that:
 
-1. [Visualize data by selecting a data source](designing-a-user-interface-to-visualize-information.md#1.-visualize-data-by-selecting-a-data-source)
-2. [Start from scratch by selecting a template](designing-a-user-interface-to-visualize-information.md#2.-start-from-scratch-by-selecting-a-template)
+1. [Visualize Data by Selecting a Data source](designing-a-user-interface-to-visualize-information.md#id-1.-visualize-data-by-selecting-a-data-source)
+2. [Start from Scratch by Selecting a Template](designing-a-user-interface-to-visualize-information.md#id-2.-start-from-scratch-by-selecting-a-template)
 
 {% hint style="info" %}
-**Note**: You will need to have a data source ([database](../../databases/creating-and-editing-databases/)/ workflow) ready in the system for any of the above methods.
+**Note**: Before you go ahead with any of these methods, ensure that a data source (database/workflow) is ready in the system.
 {% endhint %}
 
 ## <mark style="color:blue;">1. Visualize Data by Selecting a Data source</mark>
 
-Before designing a user interface for data visualization, you will need to start by selecting a data source. You can either select a workflow or a database to obtain data to be visualized.
+Before designing a user interface for data visualization, the first step is to select a data source. This could involve choosing a workflow or a database to obtain the data that will be visualized.
 
-### Selecting a Data source
+### <mark style="color:blue;">Selecting a Data source</mark>
 
 To select a data source:
 
@@ -33,13 +33,13 @@ To select a data source:
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s1.png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
 
-### Preparing Data to be Visualized
+### <mark style="color:blue;">Preparing Data to be Visualized</mark>
 
 You can decide what data to be visualized on the widget by incorporating features such as data filtering and/or aggregation. Let’s filter data and aggregate the resulting data.&#x20;
 
 _e.g., filtering product lines having the Status as ‘Shipped’ and displaying maximum sales of each product line._
 
-#### Filtering data
+#### <mark style="color:blue;">Filtering data</mark>
 
 Filtering data is used to extract a subset of data that meets specific criteria or conditions. It helps in narrowing down the dataset to focus on a particular subset of interest.
 
@@ -55,7 +55,7 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s4.png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
 
-#### Aggregating data
+#### <mark style="color:blue;">Aggregating data</mark>
 
 Aggregating data is used to summarize and condense data into a more compact form, typically by performing mathematical or statistical operations.
 
@@ -71,7 +71,7 @@ _e.g., aggregating data to find the maximum sales for each product line_
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s7.png" alt=""><figcaption><p>Preview of your data to be visualized on a chart</p></figcaption></figure>
 
-### Selecting a Template
+### <mark style="color:blue;">Selecting a Template</mark>
 
 After selecting a data source, you can select a template to commence customizing the template. Based on the data selected, the system will display a list of matching templates that work with those data.
 
@@ -81,7 +81,7 @@ After selecting a data source, you can select a template to commence customizing
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
 
-### Customizing the Widget
+### <mark style="color:blue;">Customizing the Widget</mark>
 
 A Bar/Line chart can be customized to meet the user's needs by adjusting its appearance, changing the way data is presented (e.g., selecting different chart types), customizing legends, axis labels and other elements to provide context and improve the understanding of the presented information.
 
@@ -97,13 +97,13 @@ You can choose either a single chart type or multiple chart types to display on 
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s9.png" alt=""><figcaption><p>Chart Types</p></figcaption></figure>
 
-#### Selecting a Single Chart Type
+#### <mark style="color:blue;">Selecting a Single Chart Type</mark>
 
 1. Click on the **Bar/Line** chart on the widget designer page, its **Properties** panel will be displayed.
 2. On the properties panel, go to **Chart Elements** section, click appropriate chart type _e.g., Area chart._
 3. The current chart type will be replaced with the newly selected chart type and the new chart will be displayed on the widget.
 
-#### Selecting Multiple Chart Types
+#### <mark style="color:blue;">Selecting Multiple Chart Types</mark>
 
 You can include multiple chart types within the same chart. For instance, if your primary chart is a line chart, you can add a bar chart, and both chart types will be displayed together.
 
@@ -118,7 +118,7 @@ You can include multiple chart types within the same chart. For instance, if you
 **Note**: You need to have a data source bound to every chart element added.
 {% endhint %}
 
-#### Adding **X-axis and Y-axis**
+#### <mark style="color:blue;">Adding</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**X-axis and Y-axis**</mark>
 
 1. Click on the **Bar/Line chart** on the widget designer page, its **Properties** panel will be displayed.
 2. In the **X-Axis Field** list, select group column for the X-Axis.
@@ -131,7 +131,7 @@ You can include multiple chart types within the same chart. For instance, if you
 **Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See Preview of your data to be visualized on a chart image).
 {% endhint %}
 
-#### Customizing the Appearance of the Chart
+#### <mark style="color:blue;">Customizing the Appearance of the Chart</mark>
 
 To change the appearance of the chart:
 
@@ -142,7 +142,7 @@ To change the appearance of the chart:
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customizing the appearance of the chart</p></figcaption></figure>
 
-#### Adding a Chart Title&#x20;
+#### <mark style="color:blue;">Adding a Chart Title</mark>&#x20;
 
 To add a chart title:
 
@@ -169,7 +169,7 @@ To design a user interface from scratch:
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
 
-### Binding a Data source
+### <mark style="color:blue;">Binding a Data source</mark>
 
 Once you've chosen the right template, you can then determine which data source to associate with the widget. A data source provides the raw data that the widget visualizes. Without a data source, there's no information to present visually.
 
@@ -183,11 +183,11 @@ To bind a data source to the widget:
    * A preview of the available fields of the selected database will be listed.
    * Click **Select this source**.&#x20;
 
-### Preparing Data to be Visualized
+### <mark style="color:blue;">Preparing Data to be Visualized</mark>
 
 Next, step is to customize how you want to visualize data on the widget.
 
-#### Aggregating data
+#### <mark style="color:blue;">Aggregating data</mark>
 
 For instance, let's summarize data to display minimum temperature in a radial gauge.
 
@@ -198,7 +198,7 @@ For instance, let's summarize data to display minimum temperature in a radial ga
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering Data</p></figcaption></figure>
 
-### Customizing the Widget
+### <mark style="color:blue;">Customizing the Widget</mark>
 
 This involves modifying various visual and functional aspects of the widget to suit specific needs and preferences _e.g. setting minimum and maximum values of the scale._&#x20;
 
@@ -209,7 +209,7 @@ To set properties of the radial gauge:
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s13 (2).png" alt=""><figcaption><p>Radial Gauge Widget Properties</p></figcaption></figure>
 
-#### Customizing the Appearance and Styling
+#### <mark style="color:blue;">Customizing the Appearance and Styling</mark>
 
 Customizing the appearance and styling of a radial gauge widget denotes making visual adjustments to its elements such as colors, scales, labels, and other design aspects.
 
@@ -222,7 +222,7 @@ Customizing the appearance and styling of a radial gauge widget denotes making v
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Properties - Styling</p></figcaption></figure>
 
-#### Customizing the Properties of the Widget's Header Section
+#### <mark style="color:blue;">Customizing the Properties of the Widget's Header Section</mark>
 
 To customize the properties of the widget’s header section:
 
