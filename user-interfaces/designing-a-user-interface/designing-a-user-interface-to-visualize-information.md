@@ -23,13 +23,13 @@ To select a data source:
 2. Search and select the **folder** you wish to open.
 3. Go to the **User Interfaces** tab.
 4. Click on the **Add** button.
-5. Select **Visualize Data** option.
-6. Select the **data source** to obtain data to be visualized. You can either select a workflow or a database as the data source.
+5. Choose the **Visualize Data** option.
+6. Select the **data source**. You can either select a workflow or a database as the data source.
 7. For instance, let’s select an existing database.
-   1. To select an existing database, go to **Databases** tab. All the databases created in the system will be listed categorized by its folder.
-   2. Select and click on the required **database**. Alternatively, you can use search box to search and filter databases.
-   3. A preview of the available fields of the selected database will be listed.
-   4. Click **Select this source** to confirm the selection.
+   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorized by its folder.
+   2. Choose and click on the required **database**. Alternatively, you can use search box to search and filter databases.
+   3. A preview displaying the available fields of the chosen database will be listed.
+   4. To confirm the selection, click **Select this source** .
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s1.png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
 
