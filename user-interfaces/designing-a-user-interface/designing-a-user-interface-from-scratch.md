@@ -9,17 +9,29 @@ A UI template functions as a pre-designed blueprint, offering users a starting p
 To design a user interface from the ground up:
 
 1. On the app homepage, go to the **My Work** tab.
-2. Search and select the folder you wish to open.
+2. Search and click on the folder you wish to open.
 3. Go to the **User Interfaces** tab.
-4. Click **+** button.
-5. Select the **Start from Scratch** option.
-6. Pick the desired type of **Template** from the list _e.g., Simple Card._
-7. Click **Edit this Template** to open the template on its widget designer.
+4. Click the **+** button.
+5. Choose the **Start from Scratch** option.
+6. Pick the desired type of **Template** _e.g., Simple Card._
+7. Click **Edit this Template** to open the template on its widget designer page.
 8. Customize the template as required.
 9. Click **Save widget** to save the widget in the system.
-10. To access the widget later, go to the **User Interfaces** tab of the respective folder.
+10. All your saved user interfaces will be listed under the User Interfaces tab of the respective folder.
+    1. To access and view the designed widget later, go to the User Interfaces tab of the respective folder.
+    2. Click on the user interface to open it in a new window.
+11. In addition, you can further edit the saved widget later at any time.
+    1. To edit the widget, go to the User Interfaces tab of the respective folder.
+    2. Search and hover over the user interface you wish to edit.
+    3. Click the edit icon that displays. Your user interface will be opened on a widget designer page.
 
-Watch below video on designing a user interface from the ground up to learn better.
+
+
+{% hint style="info" %}
+All your saved user interfaces will be listed under the User Interfaces tab of the respective folder.
+{% endhint %}
+
+Watch the video below on designing a user interface from the ground up to gain a better understanding.
 
 {% embed url="https://drive.google.com/uc?id=1rR6adLnVjw8BAbtLZzIUb7hqtRQ78Ske" %}
 
@@ -27,8 +39,6 @@ Watch below video on designing a user interface from the ground up to learn bett
 
 {% hint style="success" %}
 When designing a user interface to capture information using a Form template, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
-
-Go through [Designing a User Interface to Capture Information ](https://app.gitbook.com/o/rFRFJlYlHWiEgHIppKnt/s/TG5DCdGHEfzVksM49xh8/\~/changes/5/user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-information)article to gain more insights.
 {% endhint %}
 
 ## <mark style="color:blue;">Viewing Your User Interfaces</mark>
