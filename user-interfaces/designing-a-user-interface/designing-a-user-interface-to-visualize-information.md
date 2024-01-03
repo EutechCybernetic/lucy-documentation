@@ -43,11 +43,12 @@ You can determine the specific data to display on the widget by utilizing featur
 Filtering data is used to extract a subset of data that meets specific criteria or conditions. It helps in narrowing down the dataset to focus on a particular subset of interest.
 
 1. On the table preview, click **Filter Data.**
-2. Click **Add** button to add a new filter condition. You can add multiple conditions to filter your data.
-3. To add multiple filter conditions, click **Add** button _e.g., To have two filter conditions, click the Add button twice._&#x20;
-   1. To filter data by selecting one condition or any other condition, click **Either** button.
-   2. To filter data by selecting all the conditions added, click **All** button.
-4. Select appropriate fields, operation and values for the respective condition.
+2. Click **Add** button to add a new filter condition.&#x20;
+3. You can add multiple conditions to filter your data.
+   1. To add multiple filter conditions, click **Add** button _e.g., To have two filter conditions, click the Add button twice._&#x20;
+   2. To filter data by selecting one condition or any other condition, click **Either** button.
+   3. To filter data by selecting all the conditions added, click **All** button.
+4. Select appropriate fields, operation and values for the respective condition (s).
 5. After applying the condition (s), click **Done**.
 6. Based on the conditions applied, the data will be filtered and listed.
 
