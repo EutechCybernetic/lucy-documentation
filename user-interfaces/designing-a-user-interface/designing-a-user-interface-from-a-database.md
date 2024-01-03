@@ -2,9 +2,7 @@
 
 This article shows how to design a form from a [database](../../databases/) to capture data.
 
-The purpose of these forms is to facilitate data collection, streamline processes, and enhance communication between users and organizations. By capturing and storing data in a database, businesses and organizations can better manage and utilize the information for various purposes, such as providing services, making informed decisions, and improving user experiences.
-
-_e.g., feedback forms_
+The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organizations. By capturing and storing data in a database, businesses and organizations can better manage and utilize the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
 
 {% hint style="success" %}
 **Tip**: When designing a user interface to capture information using a Form, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
@@ -229,7 +227,7 @@ After you have done required customizations, you can save the form for future re
 
 1. On the widget designer page, click **Save Widget.**
 2. Enter a **Name** for the widget (adding a name is mandatory).
-   * Go to **General** tab and enter the name.
+   1. Go to **General** tab and enter the name.
 3. Click **Save Widget**.
 
 ### <mark style="color:blue;">7. Sharing the Form with Others</mark>
