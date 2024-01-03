@@ -17,7 +17,7 @@ Before designing a user interface for data visualization, the first step is to s
 
 To illustrate the concept, we'll design a user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
 
-### <mark style="color:blue;">Selecting a Data source</mark>
+### <mark style="color:blue;">a) Selecting a Data source</mark>
 
 To select a data source:
 
@@ -36,7 +36,7 @@ To select a data source:
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s1.png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
 
-### <mark style="color:blue;">Preparing Data to be Visualized</mark>
+### <mark style="color:blue;">b) Preparing Data to be Visualized</mark>
 
 You can determine the specific data to display on the widget by utilizing features like data filtering and aggregation. We'll apply a filter to isolate product lines with a 'Shipped' status and then display the maximum sales for each respective product line from the previously selected database.
 
@@ -79,21 +79,20 @@ Inside a group of condition, you can have more groups of conditions (nested grou
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
-Aggregating data is used to summarize and condense data into a more compact form, typically by performing mathematical or statistical operations.
+Aggregating data is used to summarize and condense data into a more compact form, often achieved by mathematical or statistical operations (_e.g., Aggregating data to find the maximum sales for each product line)._
 
-_e.g., Aggregating data to find the maximum sales for each product line_
-
-1. On the table preview, click **Aggregate Data**. Select appropriate filters to aggregate data.
-2. Click **Done**. Based on the aggregation, the data will be aggregated and listed.
-3. If you are happy with the aggregation, click **Looks good.**
+1. On the table preview, click **Aggregate Data**.&#x20;
+2. Select appropriate filters to aggregate data.
+3. Click **Done**. Based on the aggregation, the data will be aggregated and listed.
+4. If you are happy with the aggregation, click **Looks good.**
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5.png" alt=""><figcaption><p>Aggregate your data screen 1 </p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s6.png" alt=""><figcaption><p>Aggregate your data screen 2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s7.png" alt=""><figcaption><p>Preview of your data to be visualized on a chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s7.png" alt=""><figcaption><p>A preview of your aggregated data</p></figcaption></figure>
 
-### <mark style="color:blue;">Selecting a Template</mark>
+### <mark style="color:blue;">c) Selecting a Template</mark>
 
 After selecting a data source, you can select a template to commence customizing the template. Based on the data selected, the system will display a list of matching templates that work with those data.
 
@@ -103,7 +102,7 @@ After selecting a data source, you can select a template to commence customizing
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
 
-### <mark style="color:blue;">Customizing the Widget</mark>
+### <mark style="color:blue;">d) Customizing the Widget</mark>
 
 A Bar/Line chart can be customized to meet the user's needs by adjusting its appearance, changing the way data is presented (e.g., selecting different chart types), customizing legends, axis labels and other elements to provide context and improve the understanding of the presented information.
 
