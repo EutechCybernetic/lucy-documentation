@@ -63,14 +63,14 @@ When dealing with complex datasets, a single condition may not be sufficient. Gr
 1. On the table preview, click **Filter Data.**
 2. Click the **Filter** button to add a new group of conditions.
 3. To add more group of conditions, click the **Filter** button _e.g., To have two groups of conditions, click the filter button twice._&#x20;
-4. Inside a group of condition, you can have more groups of conditions (nested group of conditions). Click the **Filter** button inside a group of condition to add multiple conditions inside the respective group.
+4. Within a group of conditions, you can include multiple conditions. Click the **Filter** button inside a group of conditions to add multiple conditions inside the respective group.
 5. To filter data by selecting one condition or any other condition, click **Either** button.
 6. To filter data by selecting all the conditions added, click **All** button.
 7. After applying the conditions, click **Done**.
 8. Based on the conditions applied, the data will be filtered and listed.
 
-{% hint style="info" %}
-Inside a group of condition, you can have more groups of conditions (nested group of conditions). Click the **Filter** button inside a group of condition to add multiple conditions inside the respective group.
+{% hint style="success" %}
+Within a group of conditions, you can include multiple conditions.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s3.png" alt=""><figcaption><p>Filter your data screen 2</p></figcaption></figure>
