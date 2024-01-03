@@ -283,11 +283,11 @@ Customizing the appearance and style of a radial gauge widget involves making vi
 
 To customize the properties of the widget’s header section:
 
-1. On the widget designer page, click on the widget’s header section. Its Properties panel will be displayed.
-2. Go to the Container section, pick a background color for the header or you can select a background image.
+1. On the widget designer page, click on the widget’s header section to open its Properties panel.
+2. Go to the Container section to pick a background color for the header or you can select a background image.
 3. In the Text field, enter the Title of the widget.
 4. Select a color for the title.
-5. Type in the font size of the title. Instead, you can use the arrows to increase or decrease the font size.
+5. Type in the font size of the title. Instead, you can use the up and down arrows to increase or decrease the font size.
 
 ## <mark style="color:blue;">Previewing Your Widget</mark>
 
