@@ -167,7 +167,7 @@ You can include multiple chart types within the same chart. For instance, if you
 
 
 {% hint style="success" %}
-**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart [(See Preview of your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) to be visualized on a chart image).
+**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart [(See Preview of your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) visualized on a chart image).
 {% endhint %}
 
 #### <mark style="color:blue;">Customizing the Appearance of the Chart</mark>
@@ -188,6 +188,10 @@ To add a chart title:
 1. Click on the widget's **Header** section, and its **Properties** panel will be displayed.
 2. Go to the **Title** section.
 3. In the **Text** field, enter a suitable title for the chart. The chart title will dynamically update in real-time as you type.
+
+&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data ](designing-a-user-interface-to-visualize-information.md#previewing-your-widget)visualized on a chart image).
+
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8_1.png" alt=""><figcaption><p>Chart preview</p></figcaption></figure>
 
 ## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
 
