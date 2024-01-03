@@ -9,8 +9,8 @@ A UI template functions as a pre-designed blueprint, offering users a starting p
 To design a user interface from the ground up:
 
 1. On the app homepage, go to the **My Work** tab.
-2. Search and select the folder.
-3. Go to **User Interfaces** tab.
+2. Search and select the folder you wish to open.
+3. Go to the **User Interfaces** tab.
 4. Click **+** button.
 5. Select the **Start from Scratch** option.
 6. Pick the desired type of **Template** from the list _e.g., Simple Card._
@@ -21,7 +21,9 @@ To design a user interface from the ground up:
 
 Watch below video on designing a user interface from the ground up to learn better.
 
-{% embed url="https://drive.google.com/file/d/1oI2MySHB6JoB-mhvCaxR4DQN-kMjrZ0d/preview" %}
+{% embed url="https://drive.google.com/uc?id=1rR6adLnVjw8BAbtLZzIUb7hqtRQ78Ske" %}
+
+
 
 {% hint style="success" %}
 When designing a user interface to capture information using a Form template, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
