@@ -139,7 +139,7 @@ You can choose either a single chart type or multiple chart types to display on 
 #### <mark style="color:blue;">Selecting a Single Chart Type</mark>
 
 1. Click on the **Bar/Line** chart on the widget designer page, its **Properties** panel will be displayed.
-2. On the properties panel, go to **Chart Elements** section, click appropriate chart type _e.g., Area chart._
+2. On the properties panel, go to **Chart Elements** section, click appropriate chart type _e.g., Bar chart._
 3. The current chart type will be replaced with the newly selected chart type and the new chart will be displayed on the widget.
 
 #### <mark style="color:blue;">Selecting Multiple Chart Types</mark>
@@ -154,7 +154,7 @@ You can include multiple chart types within the same chart. For instance, if you
 
 
 {% hint style="info" %}
-**Note**: You need to have a data source bound to every chart element added.
+**Note**: You need to have a data source bound to every chart type added.
 {% endhint %}
 
 #### <mark style="color:blue;">Adding</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**X-axis and Y-axis**</mark>
@@ -167,7 +167,7 @@ You can include multiple chart types within the same chart. For instance, if you
 
 
 {% hint style="success" %}
-**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See Preview of your data to be visualized on a chart image).
+**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart [(See Preview of your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) to be visualized on a chart image).
 {% endhint %}
 
 #### <mark style="color:blue;">Customizing the Appearance of the Chart</mark>
@@ -185,9 +185,9 @@ To change the appearance of the chart:
 
 To add a chart title:
 
-1. Click on the widget's **Header** section, its **Properties** panel will be displayed.
-2. Go to **Title** section.
-3. In the **Text** field, enter a suitable title for the chart. The chart title will update in real-time as you type.
+1. Click on the widget's **Header** section, and its **Properties** panel will be displayed.
+2. Go to the **Title** section.
+3. In the **Text** field, enter a suitable title for the chart. The chart title will dynamically update in real-time as you type.
 
 ## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
 
