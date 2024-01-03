@@ -1,6 +1,6 @@
 # Sharing a User Interface
 
-After you have designed the user interface (_e.g., form_), you can share it with others promptly. Multiple ways are available to share your user interface:
+After you have designed a user interface (_e.g., form_), you can share it with others promptly. Multiple ways are available to do that:
 
 1. [Copy a Shareable Link to the Clipboard](sharing-a-user-interface.md#1.-copying-a-shareable-link-to-the-clipboard)
 2. [Open the User Interface on a New Page](sharing-a-user-interface.md#2.-opening-the-user-interface-on-a-new-page)
