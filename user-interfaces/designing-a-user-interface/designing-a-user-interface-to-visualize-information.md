@@ -257,13 +257,13 @@ To set properties of the radial gauge:
 
 
 {% hint style="info" %}
-It is necessary to specify the Field option to obtain data and display in the radial gauge.
+It is necessary to specify the Field of the data source to be bound and generally, it is a single field. In data binding, it is the **Value** field.
 
 To set the Field:
 
 1. Click on the **Radial Gauge.** The **Properties** panel will be displayed.
 2. Head to Gauge section.
-3. Choose the appropriate Field.
+3. Choose the Field.
 {% endhint %}
 
 #### <mark style="color:blue;">Customizing the Appearance and Styling</mark>
