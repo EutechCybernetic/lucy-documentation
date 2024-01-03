@@ -29,7 +29,7 @@ To select a data source:
 6. Select the **data source**. You can either select a workflow or a database as the data source.
 7. For instance, let’s select an existing database.
    1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorized by its folder.
-   2. Choose and click on the required **database**. Alternatively, you can use search box to search and filter databases.
+   2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
    3. A preview displaying the available fields of the chosen database will be listed.
    4. To confirm the selection, click **Select this source** .
    5. A table preview of the selected database will be displayed.
@@ -212,7 +212,7 @@ To design a user interface from scratch:
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
 
-### <mark style="color:blue;">Binding a Data source</mark>
+### <mark style="color:blue;">a) Binding a Data source</mark>
 
 Once you've chosen the appropriate template, you can then decide which data source to associate with the widget. A data source provides the raw data that the widget visualizes. Without a data source, there's no information to present visually.
 
@@ -222,34 +222,35 @@ To bind a data source to the widget:
 2. Click **Bind a Source.**
 3. As the data source, you can either select a workflow or a database to obtain data to be visualized.
 4. For instance, let’s select an existing database.
-   * Click **Databases** tab. All the databases created in the system will be listed categorized by its folder.
-   * Select and click on the required **database**. Alternatively, you can use search box to search and filter the database.
-   * A preview of the available fields of the selected database will be listed.
-   * Click **Select this source**.&#x20;
+   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorized by its folder.
+   2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
+   3. A preview displaying the available fields of the chosen database will be listed.
+   4. To confirm the selection, click **Select this source** .
+   5. A table preview of the selected database will be displayed.
 
-### <mark style="color:blue;">Preparing Data to be Visualized</mark>
+### <mark style="color:blue;">b) Preparing Data to be Visualized</mark>
 
-Next, step is to customize how you want to visualize data on the widget.
+Next, step is to customize data to be visualized on the widget.
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
-For instance, let's summarize data to display minimum temperature in a radial gauge.
+For instance, let's use aggregation to summarize data to display minimum temperature in a radial gauge.
 
-1. Click **Aggregate Data.**
-2. Select appropriate options and aggregate data as required.
-3. Click **Done**.
+1. On the table preview, click **Aggregate Data.**
+2. Select appropriate aggregation and the columns required for the aggregation.
+3. After applying the aggregation, click **Done**.
 4. If you are happy with the aggregation, click **Looks good**.&#x20;
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering Data</p></figcaption></figure>
 
-### <mark style="color:blue;">Customizing the Widget</mark>
+### <mark style="color:blue;">c) Customizing the Widget</mark>
 
-This involves modifying various visual and functional aspects of the widget to suit specific needs and preferences _e.g. setting minimum and maximum values of the scale._&#x20;
+This involves modifying various visual and functional aspects of the widget to suit specific needs and preferences, such as setting minimum and maximum values of the scale.&#x20;
 
 To set properties of the radial gauge:
 
-1. Click on the **Radial Gauge** on the widget designer page, its **Properties** panel will be displayed.
-2. On the properties panel, set properties as necessary.
+1. On the widget designer page, click on the **Radial Gauge.** The **Properties** panel will be displayed.
+2. On the properties panel, set properties as required.
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s13 (2).png" alt=""><figcaption><p>Radial Gauge Widget Properties</p></figcaption></figure>
 
