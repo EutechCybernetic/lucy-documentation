@@ -289,7 +289,7 @@ To customize the properties of the widget’s header section:
 4. Select a color for the title.
 5. Type in the font size of the title. Instead, you can use the up and down arrows to increase or decrease the font size.
 
-The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data ](designing-a-user-interface-to-visualize-information.md#previewing-your-widget)visualized on a chart image).
+The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) on the gauge).
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s16.png" alt=""><figcaption><p>Radial Gauge in the preview mode</p></figcaption></figure>
 
