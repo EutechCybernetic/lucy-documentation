@@ -160,9 +160,9 @@ You can include multiple chart types within the same chart. For instance, if you
 #### <mark style="color:blue;">Adding</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**X-axis and Y-axis**</mark>
 
 1. Click on the **Bar/Line chart** on the widget designer page, its **Properties** panel will be displayed.
-2. In the **X-Axis Field** list, select group column for the X-Axis.
-3. Go to **Chart Elements** section. In the **Value Field** list box, select the value column.
-4. Go to **Appearance** section, enable **Show Y-Axis** option to display the y-axis on the chart.
+2. Head to **X-axis Label** section. In the **X-axis Field** list, select group option.
+3. Go to **Chart Elements** section. In the **Value Field** list, select the value option.
+4. Go to **Appearance** section, enable **Show Y-axis** option to display the y-axis on the chart.
 
 
 
