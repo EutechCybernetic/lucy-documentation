@@ -4,12 +4,12 @@ This article explains how to view user interfaces designed by you. User Interfac
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and click on the folder you want to open.
-3. Go to **User Interfaces** tab. User interfaces previously created by user will be listed.
+3. Go to the **User Interfaces** tab. Previously created User interfaces will be listed.
 4. Search and click on the desired **user interface**.
 5. The respective user interface will be opened on a new page.
 
 
 
 {% hint style="info" %}
-**Note**: If you haven’t created any user interfaces under a project, you will only see the **Add** button under **User Interfaces** tab.
+**Note**: If you haven’t created any user interfaces under a project, you will only see the **Add** button under the **User Interfaces** tab.
 {% endhint %}
