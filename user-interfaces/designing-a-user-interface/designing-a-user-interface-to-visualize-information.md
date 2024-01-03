@@ -15,6 +15,8 @@ Designing user interfaces to visualize data is a powerful way to derive meaningf
 
 Before designing a user interface for data visualization, the first step is to select a data source. This could involve choosing a workflow or a database to obtain the data that will be visualized.
 
+To illustrate the concept, we'll design a user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
+
 ### <mark style="color:blue;">Selecting a Data source</mark>
 
 To select a data source:
@@ -36,7 +38,7 @@ To select a data source:
 
 ### <mark style="color:blue;">Preparing Data to be Visualized</mark>
 
-You can determine the specific data to display on the widget by utilizing features like data filtering and aggregation. For instance, we'll consider a database containing sales data. We'll apply a filter to isolate product lines with a 'Shipped' status and then showcase the maximum sales for each respective product line.
+You can determine the specific data to display on the widget by utilizing features like data filtering and aggregation. We'll apply a filter to isolate product lines with a 'Shipped' status and then display the maximum sales for each respective product line from the previously selected database.
 
 #### <mark style="color:blue;">Filtering Data</mark>
 
