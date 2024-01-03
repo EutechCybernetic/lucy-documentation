@@ -102,9 +102,21 @@ Aggregating data is used to summarize and condense data into a more compact form
 
 After selecting a data source and preparing data as needed, you can select a template to begin customization. Based on the data selected, the system will display a list of matching templates that work with those data.
 
+For example, we'll select the Bar/Line chart template from the available template list.
+
 1. Select the desired type of **Template** to display data _e.g., Bar/Line chart._
 2. Click **Edit this template**. The respective template will be displayed on widget designer page.
-3. By default, **Design mode** will be selected on the widget designer page.
+3. By default, **Design** mode will be selected on the widget designer page.
+
+
+
+{% hint style="info" %}
+There are two mode for a widget designer page:
+
+1\) Design mode - Used to design, edit, and customize the widget.
+
+2\) Preview mode - Used to view a live version of the widget.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
 
