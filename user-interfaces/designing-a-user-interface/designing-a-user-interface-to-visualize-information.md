@@ -289,12 +289,14 @@ To customize the properties of the widget’s header section:
 4. Select a color for the title.
 5. Type in the font size of the title. Instead, you can use the up and down arrows to increase or decrease the font size.
 
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s16.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:blue;">Previewing Your Widget</mark>
 
 Preview mode can be used to view a live preview of the appearance and the behavior of the widget.&#x20;
 
 1. On the widget designer page, click **Preview** button to change the mode to **Preview**.
-2. The widget will be loaded in the preview mode.
+2. The widget will be displayed in the preview mode.
 
 ## <mark style="color:blue;">Saving Your Widget</mark>
 
