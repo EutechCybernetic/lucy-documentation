@@ -241,7 +241,7 @@ For instance, let's use aggregation to summarize data to display minimum tempera
 3. After applying the aggregation, click **Done**.
 4. If you are happy with the aggregation, click **Looks good**.&#x20;
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering Data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
 
 ### <mark style="color:blue;">c) Customizing the Widget</mark>
 
@@ -252,30 +252,42 @@ To set properties of the radial gauge:
 1. On the widget designer page, click on the **Radial Gauge.** The **Properties** panel will be displayed.
 2. On the properties panel, set properties as required.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s13 (2).png" alt=""><figcaption><p>Radial Gauge Widget Properties</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s13_1.png" alt=""><figcaption><p>Setting properties of the gauge</p></figcaption></figure>
+
+
+
+{% hint style="info" %}
+It is necessary to specify the Field option to obtain data and display in the radial gauge.
+
+To set the Field:
+
+1. Click on the **Radial Gauge.** The **Properties** panel will be displayed.
+2. Head to Gauge section.
+3. Choose the appropriate Field.
+{% endhint %}
 
 #### <mark style="color:blue;">Customizing the Appearance and Styling</mark>
 
-Customizing the appearance and styling of a radial gauge widget denotes making visual adjustments to its elements such as colors, scales, labels, and other design aspects.
+Customizing the appearance and style of a radial gauge widget involves making visual adjustments to its elements, including colors, scales, labels, and other design aspects.
 
-1. Click on the **Radial Gauge** on the widget designer page, its **Properties** panel will be displayed.
+1. On the widget designer page, click on the **Radial Gauge**, The **Properties** panel will be opened on the right.
 2. On the properties panel, go to **Colors** section.
-3. Tailor the radial gauge's look and feel to your preferences.
+3. Customize the visual aesthetics of the radial gauge according to your preferences.
 4. After setting the properties, provide a appropriate **Name** for the widget under **General** tab.
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s14.png" alt=""><figcaption><p>Customize colors of the radial gauge</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Properties - Styling</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Customizing the styling properties of the radial gauge</p></figcaption></figure>
 
 #### <mark style="color:blue;">Customizing the Properties of the Widget's Header Section</mark>
 
 To customize the properties of the widget’s header section:
 
-1. Click on the widget’s header section. Its Properties panel will be displayed.
-2. Go to Container section, pick a background color for the header or you can select a background image.
+1. On the widget designer page, click on the widget’s header section. Its Properties panel will be displayed.
+2. Go to the Container section, pick a background color for the header or you can select a background image.
 3. In the Text field, enter the Title of the widget.
 4. Select a color for the title.
-5. Enter the font size of the title.
+5. Type in the font size of the title. Instead, you can use the arrows to increase or decrease the font size.
 
 ## <mark style="color:blue;">Previewing Your Widget</mark>
 
@@ -290,7 +302,7 @@ After you have done required customizations, you can save the widget for future 
 
 1. On the widget designer page, click **Save Widget.**
 2. Enter a **Name** for the widget (adding a name is mandatory).
-   * Go to **General** tab and enter the name.
+   1. Go to **General** tab and enter the name.
 3. Click **Save** Widget.
 
 ## <mark style="color:blue;">Sharing Your Widget</mark>
