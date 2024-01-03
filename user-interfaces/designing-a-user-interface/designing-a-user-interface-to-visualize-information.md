@@ -60,10 +60,16 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 
 When dealing with complex datasets, a single condition may not be sufficient. Grouping conditions enables you to create more sophisticated filters, combining multiple criteria to obtain the desired subset of data.
 
+
+
+{% hint style="info" %}
+For our example, adding group of conditions is not needed.
+{% endhint %}
+
 1. On the table preview, click **Filter Data.**
-2. Click the **Filter** button to add a new group of conditions.
-3. To add more group of conditions, click the **Filter** button _e.g., To have two groups of conditions, click the filter button twice._&#x20;
-4. Within a group of conditions, you can include multiple conditions. Click the **Filter** button inside a group of conditions to add multiple conditions inside the respective group.
+2. Click the **Filter** button to add a new group of conditions. Tip: Repeat step 2 to add more group of conditions.
+3. Within the newly added group of conditions, click **Add** button to add a new filter condition inside it. Tip: Repeat step 3 to add more conditions under respective group of conditions.
+4. Within a group of conditions, you can include multiple group of conditions. Click the **Filter** button inside a group of conditions to add multiple group of conditions inside the respective group.
 5. To filter data by selecting one condition or any other condition, click **Either** button.
 6. To filter data by selecting all the conditions added, click **All** button.
 7. After applying the conditions, click **Done**.
@@ -94,7 +100,7 @@ Aggregating data is used to summarize and condense data into a more compact form
 
 ### <mark style="color:blue;">c) Selecting a Template</mark>
 
-After selecting a data source, you can select a template to commence customizing the template. Based on the data selected, the system will display a list of matching templates that work with those data.
+After selecting a data source and preparing data as needed, you can select a template to begin customization. Based on the data selected, the system will display a list of matching templates that work with those data.
 
 1. Select the desired type of **Template** to display data _e.g., Bar/Line chart._
 2. Click **Edit this template**. The respective template will be displayed on widget designer page.
