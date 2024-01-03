@@ -167,7 +167,7 @@ You can include multiple chart types within the same chart. For instance, if you
 
 
 {% hint style="success" %}
-**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart [(See Preview of your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) visualized on a chart image).
+**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See [Preview of your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) visualized on a chart image).
 {% endhint %}
 
 #### <mark style="color:blue;">Customizing the Appearance of the Chart</mark>
@@ -197,30 +197,31 @@ To add a chart title:
 
 This method initiates the user interface design process for data visualization by selecting a template and subsequently binding a data source at a later stage.
 
-As the data source, you can either select a workflow or a database to obtain data to be visualized.
+As the data source, you can choose either a database or a workflow for the data for visualization.
 
 To design a user interface from scratch:
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and select the **folder**.
-3. Go to **User Interfaces** tab.
+3. Go to the **User Interfaces** tab.
 4. Click **Add**.
 5. Pick **Start from Scratch** option.
 6. Select the desired type of Template to display data _e.g., Radial Gauge._
-7. Click **Edit this template**. The respective template will be displayed on widget designer page.
+7. Click **Edit this template**. The respective template will be displayed on the widget designer page.
 8. By default, **Design** mode will be selected on the widget designer page.
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
 
 ### <mark style="color:blue;">Binding a Data source</mark>
 
-Once you've chosen the right template, you can then determine which data source to associate with the widget. A data source provides the raw data that the widget visualizes. Without a data source, there's no information to present visually.
+Once you've chosen the appropriate template, you can then decide which data source to associate with the widget. A data source provides the raw data that the widget visualizes. Without a data source, there's no information to present visually.
 
 To bind a data source to the widget:
 
-1. Click **Data source is required** option and click **Bind a Source** button.
-2. As the data source, you can either select a workflow or a database to obtain data to be visualized.
-3. For instance, let’s select an existing database.
+1. On the widget designer page, click **Data source is required** option.
+2. Click **Bind a Source.**
+3. As the data source, you can either select a workflow or a database to obtain data to be visualized.
+4. For instance, let’s select an existing database.
    * Click **Databases** tab. All the databases created in the system will be listed categorized by its folder.
    * Select and click on the required **database**. Alternatively, you can use search box to search and filter the database.
    * A preview of the available fields of the selected database will be listed.
