@@ -93,8 +93,9 @@ The following are the background image sizes you can select:
 
 To select a background image size:
 
-1. Click on the form's header section for example, to open its **Properties** panel.
-2. Under the Container section, pick a suitable **Background Size** _e.g., Fill Area._ The selected background size will be applied to the respective section of the form.
+1. In the **Design** mode of the widget designer, click on a specific section, for example, the form's header section.
+2. The Properties panel will be opened on the right.
+3. Under the Container section, pick a suitable **Background Size** _e.g., Fill Area._ The selected background size will be applied to the respective section of the form.
 
 #### <mark style="color:blue;">Aligning the Background Image</mark>
 
@@ -102,19 +103,23 @@ Selecting the alignment of the background image of the form header/body section 
 
 To select the background image alignment:
 
-1. Click on the form's e.g., header section. Its **Properties** panel will be opened.
-2. On the Properties panel, go to **Container** section.
-3. In the **Background Position True** field, you'll find a diagram displaying various background image positions represented by circles. Choose an appropriate **circle** that corresponds to where you'd like to position the background image within the widget's header/body section.
+1. In the **Design** mode of the widget designer, click on a specific section, for example, the form's header section.
+2. The Properties panel will be opened on the right.
+3. On the Properties panel, go to the **Container** section.
+4. In the **Background Position True** field, you'll find a diagram displaying multiple background image positions represented by circles. Choose an appropriate **circle** that corresponds to where you'd like to position the background image within the widget's header section.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s4.png" alt=""><figcaption><p>Background Position/Alignment</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s4.png" alt=""><figcaption><p>Aligning the background image</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding a Header Title</mark>
 
 To add header title and set title properties:
 
-1. Click on the form's **header** section. Its **Properties** panel will be opened.
-2. On the Properties panel, go to **Title** section.
-3. Add the header title and customize header title properties to suit your specific preferences.
+1. In the **Design** mode of the widget designer, click on the form's header section.
+2. The Properties panel will be opened on the right.
+3. On the Properties panel, go to the **Title** section. Modify the header title and customize header title properties to suit your specific preferences.
+   1. To modify the header title, go to the Text field and type in the title.
+   2. To change the color of the title, pick a color from the available colors displayed. You can also pick a color from the color palette.
+   3. To change the font size of the header, type in the required size in the Size field.
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s5.png" alt=""><figcaption><p>Adding Header Title and setting its Properties</p></figcaption></figure>
 
@@ -220,6 +225,8 @@ Using the widget designer, you have the capability to customize the appearance o
 ### <mark style="color:blue;">5. Previewing the Form</mark>
 
 Preview mode can be used to view a live preview of the appearance and the behavior of the form.&#x20;
+
+To preview your form:
 
 1. On the widget designer page, click **Preview** button to change the mode to **Preview**.
 2. The widget will be loaded in the preview mode.
