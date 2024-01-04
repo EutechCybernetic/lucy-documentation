@@ -135,9 +135,10 @@ Users can customize fields on the body section of the form as follows:
 
 To change the position of a field:
 
-1. Click on the required **field/item** on the body section. Its **Properties** panel will be opened.
-2. On the body section, click on the **field** you wish to change the position.
-3. Drag the field up or down to the location where you'd like the field to be within the form's body section.
+1. In the **Design** mode of the widget designer, click on the form's body section.&#x20;
+2. Its **Properties** panel will be opened.
+3. On the body section, click the **field** you wish to change the position.
+4. Drag the field up or down to the location where you'd like it to be within the form's body section.
 
 {% hint style="info" %}
 **Note**: The position of a field can be changed only within the Body section of the form; in other words, you cannot drag and place it on the Header section.
