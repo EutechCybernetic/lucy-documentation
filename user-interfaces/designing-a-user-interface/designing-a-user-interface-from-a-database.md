@@ -56,7 +56,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 
 * [Adding a Background Color/Image](designing-a-user-interface-from-a-database.md#adding-a-background-color-image)
 * [Selecting a Background Image Size](designing-a-user-interface-from-a-database.md#selecting-a-background-image-size)
-* [Aligning the Background Image](designing-a-user-interface-from-a-database.md#setting-the-alignment-of-the-background-image)
+* [Aligning the Background Image](designing-a-user-interface-from-a-database.md#aligning-the-background-image)
 * [Adding a Header Title](designing-a-user-interface-from-a-database.md#adding-a-header-title)
 * [Setting the Properties of the Fields/Items on the Body](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-fields-items-on-the-body)
 * [Adding Fields to the Form](designing-a-user-interface-from-a-database.md#adding-fields-to-the-form)
