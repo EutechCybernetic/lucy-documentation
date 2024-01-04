@@ -46,25 +46,25 @@ There are two modes in a widget designer page:&#x20;
 
 ### <mark style="color:blue;">3. Using Widget Designer to Customize the Form</mark>
 
-Widget designer provides a user-friendly interface to design, edit, and customize your widgets, enabling users to customize their appearance, behavior, and content to suit their specific needs or preferences.
+The Widget Designer offers a user-friendly interface for designing, editing, and customizing your widgets. This functionality empowers users to tailor the appearance, behavior, and content of their widgets to meet specific needs.
 
-You can click on any section (**header, body, item/field** on the body) on the form and open **Properties** panel to customize the appearance of the form _e.g., change header background, font size._
+To customize the form's appearance, including elements such as the header, body, or individual items/fields within the body, simply click on the desired section. This action opens the Properties panel, allowing you to make adjustments like changing the header background.
 
-<figure><img src="../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a Form</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a form</p></figcaption></figure>
 
-The following are some basic modifications you can do to the form in the widget designer's **Design** mode:
+In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
 * [Setting a Background Color/Image](designing-a-user-interface-from-a-database.md#setting-a-background-color-image)
 * [Setting a Background Image Size](designing-a-user-interface-from-a-database.md#setting-a-background-image-size)
-* [Setting the Alignment of the Background Image](designing-a-user-interface-from-a-database.md#setting-the-alignment-of-the-background-image)
+* [Aligning the Background Image](designing-a-user-interface-from-a-database.md#setting-the-alignment-of-the-background-image)
 * [Adding a Header Title](designing-a-user-interface-from-a-database.md#adding-a-header-title)
-* [Setting the Properties of the Item(s)/Field(s) on the Body Section](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-item-s-field-s-on-the-body-section)
+* [Setting the Properties of the Items/Fields on the Body](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-item-s-field-s-on-the-body-section)
 * [Adding Fields to the Form](designing-a-user-interface-from-a-database.md#adding-fields-to-the-form)
-* [Adding a Background Image to the Entire Page](designing-a-user-interface-from-a-database.md#adding-a-background-image-to-the-entire-page)
+* [Adding a Background Image for the Entire Page](designing-a-user-interface-from-a-database.md#adding-a-background-image-to-the-entire-page)
 
 #### <mark style="color:blue;">Setting a Background Color/Image</mark>
 
-&#x20;To add a background color to form header/body:
+&#x20;To add a background color to the form header/body:
 
 1. On the **Design** mode of the widget designer, click on the _e.g., Header_ section.
 2. Properties panel will be opened.
@@ -93,7 +93,7 @@ To select a background image size:
 1. Click on the form's e.g., header section. Its **Properties** panel will be opened.
 2. Under the Container section, pick a suitable **Background Size** _e.g., Fill Area._ The background size will be applied to the respective section of the form.
 
-#### <mark style="color:blue;">Setting the Alignment of the Background Image</mark>
+#### <mark style="color:blue;">Aligning the Background Image</mark>
 
 Selecting the alignment of the background image of the form header/body section denotes adjusting the way the background image of the form header/body is placed.
 
@@ -115,9 +115,9 @@ To add header title and set title properties:
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s5.png" alt=""><figcaption><p>Adding Header Title and setting its Properties</p></figcaption></figure>
 
-#### <mark style="color:blue;">Setting the Properties of the Item(s)/Field(s) on the Body Section</mark>
+#### <mark style="color:blue;">Setting the Properties of the Items/Fields on the Body</mark>
 
-Users can customize field(s) or item(s) on the body section of the form as follows:
+Users can customize fields or items on the body section of the form as follows:
 
 1. Click on the required **field** or **item** on the body section. Its **Properties** panel will be opened.
 2. Set required properties of the item accordingly.
@@ -182,7 +182,7 @@ To remove a field from the form:
 
 2\.     Click **Delete** icon. The field will be removed from the form.
 
-#### Adding a Background Image to the Entire Page
+#### <mark style="color:blue;">Adding a Background Image to the Entire Page</mark>
 
 To add a background to the entire page:
 
