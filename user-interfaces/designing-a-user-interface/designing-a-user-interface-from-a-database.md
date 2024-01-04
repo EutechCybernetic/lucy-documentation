@@ -71,10 +71,10 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 3. Head to **Container** section and pick a **Background Color**. The selected background color will be applied to the form's header.
 4. Instead, you can pick a background image if needed.
 5. To add a background image:
-   1. Click the **Search** button of the background image field.
+   1. Click the **Search** button of the **Background Image** field.
    2. It will prompt a image gallery window to select a background image.
-   3. Alternatively, you can upload your own image.
-   4. To select an image from the gallery, pick a background image from the gallery.
+   3. Pick a background image from the gallery.
+   4. Alternatively, you can upload your own image.
    5. To upload your own image:
       1. Click **Upload your image** button on the image gallery window.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
@@ -198,12 +198,12 @@ To add a background to the entire page:
 2. Head to the **Share** section.
 3. You can select a background image from the gallery or upload a image of your own for the entire page.
 4. To select a  background image from the gallery:
-   1. Click the **Search** button of the background image field.
+   1. Click the **Search** button of the **Page Background Image** field.
    2. It will prompt a image gallery window to select a background image.
    3. Pick a background image from the gallery.
    4. Alternatively, you can upload your own image.
    5. To upload your own image:
-      1. Click **Upload your image** button on the image gallery window.
+      1. Click **Upload your image** button on the gallery.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
 5. Go to **Preview** mode to preview the background image.
 
