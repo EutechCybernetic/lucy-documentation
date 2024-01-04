@@ -1,6 +1,6 @@
 # Designing a User Interface from a Database
 
-This article shows how to design a form from a database to capture data.
+This article shows how to design a form from a database.
 
 The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organizations. By capturing and storing data in a database, businesses and organizations can better manage and utilize the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
 
