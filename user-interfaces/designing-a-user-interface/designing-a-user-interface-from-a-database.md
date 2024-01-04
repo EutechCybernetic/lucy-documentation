@@ -58,7 +58,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 * [Selecting a Background Image Size](designing-a-user-interface-from-a-database.md#selecting-a-background-image-size)
 * [Aligning the Background Image](designing-a-user-interface-from-a-database.md#setting-the-alignment-of-the-background-image)
 * [Adding a Header Title](designing-a-user-interface-from-a-database.md#adding-a-header-title)
-* [Setting the Properties of the Items/Fields on the Body](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-item-s-field-s-on-the-body-section)
+* [Setting the Properties of the Fields/Items on the Body](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-fields-items-on-the-body)
 * [Adding Fields to the Form](designing-a-user-interface-from-a-database.md#adding-fields-to-the-form)
 * [Adding a Background Image for the Entire Page](designing-a-user-interface-from-a-database.md#adding-a-background-image-to-the-entire-page)
 
@@ -79,7 +79,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
       1. Click **Upload your image** button on the image gallery window.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s3_2.png" alt=""><figcaption><p>Adding a background color/image</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s3_3.png" alt=""><figcaption><p>Adding a Background Color/Image</p></figcaption></figure>
 
 #### <mark style="color:blue;">Selecting a Background Image Size</mark>
 
@@ -108,7 +108,7 @@ To select the background image alignment:
 3. On the Properties panel, go to the **Container** section.
 4. In the **Background Position True** field, you'll find a diagram displaying multiple background image positions represented by circles. Choose an appropriate **circle** that corresponds to where you'd like to position the background image within the widget's header section.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s4.png" alt=""><figcaption><p>Aligning the background image</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s4.png" alt=""><figcaption><p>Aligning the Background Image</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding a Header Title</mark>
 
@@ -117,20 +117,21 @@ To add header title and set title properties:
 1. In the **Design** mode of the widget designer, click on the form's header section.
 2. The Properties panel will be opened on the right.
 3. On the Properties panel, go to the **Title** section. Modify the header title and customize header title properties to suit your specific preferences.
-   1. To modify the header title, go to the Text field and type in the title.
-   2. To change the color of the title, pick a color from the available colors displayed. You can also pick a color from the color palette.
+   1. To modify the header title, go to the Text field and type in the desired title.
+   2. To change the color of the title, select a color from the displayed options or choose one from the color palette.
    3. To change the font size of the header, type in the required size in the Size field.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s5.png" alt=""><figcaption><p>Adding Header Title and setting its Properties</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s5_1.png" alt=""><figcaption><p>Adding a Header Title</p></figcaption></figure>
 
-#### <mark style="color:blue;">Setting the Properties of the Items/Fields on the Body</mark>
+#### <mark style="color:blue;">Setting the Properties of the Fields/Items on the Body</mark>
 
-Users can customize fields or items on the body section of the form as follows:
+Users can customize fields on the body section of the form as follows:
 
-1. Click on the required **field** or **item** on the body section. Its **Properties** panel will be opened.
-2. Set required properties of the item accordingly.
+1. In the **Design** mode of the widget designer, click on the form's body section.
+2. Click on the desired **field** within the body section, and its **Properties** panel will display on the right.
+3. Adjust the necessary properties of the field accordingly.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s6.png" alt=""><figcaption><p>Setting Item Properties</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s6_1.png" alt=""><figcaption><p>Setting the Properties of the Fields on the Body</p></figcaption></figure>
 
 To change the position of a field:
 
