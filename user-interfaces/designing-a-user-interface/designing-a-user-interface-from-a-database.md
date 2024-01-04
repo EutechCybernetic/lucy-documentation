@@ -194,10 +194,18 @@ To remove a field from the form:
 
 To add a background to the entire page:
 
-1. On the widget designer, go to **General** tab on the right.
-2. Go to **Share** section and click **Search** icon of the **Page Background Image** field.
-3. Select a background image from the gallery or upload a image of your own for the entire page.
-4. Go to **Preview** mode to preview the background image.
+1. On the widget designer, go to the **General** tab on the right.
+2. Head to the **Share** section.
+3. You can select a background image from the gallery or upload a image of your own for the entire page.
+4. To select a  background image from the gallery:
+   1. Click the **Search** button of the background image field.
+   2. It will prompt a image gallery window to select a background image.
+   3. Pick a background image from the gallery.
+   4. Alternatively, you can upload your own image.
+   5. To upload your own image:
+      1. Click **Upload your image** button on the image gallery window.
+      2. Drag your image onto the marked area or click on the area to select the image and upload it.
+5. Go to **Preview** mode to preview the background image.
 
 ### <mark style="color:blue;">4. Using Widget Designer to Customize the Thank you Screen</mark>
 
