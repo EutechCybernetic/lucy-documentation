@@ -14,7 +14,7 @@ The process of designing a user interface from a database involves four main ste
 
 ### <mark style="color:blue;">1. Creating a Database</mark>
 
-As the first step, you need to have a database to create a form. Refer to the article below on how to create a new database to gain further insights.
+As the initial step, you should have a database in place before creating a form. For detailed instructions on creating a new database, refer to the article below for further insights.
 
 {% content-ref url="../../databases/creating-and-editing-databases/" %}
 [creating-and-editing-databases](../../databases/creating-and-editing-databases/)
@@ -26,21 +26,21 @@ Follow the below steps to design a form from a database.
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
-3. Go to **Databases** tab.
+3. Go to the **Databases** tab.
 4. Search and select the desired **database**.
 5. Hover over the database click **Edit** icon that displays.
-6. Click **Create a form** to open the [widget designer](../working-with-the-widget-designer.md).
+6. Click **Create a form** to open the form on the widget designer page.
 7. By default, the widget designer will be opened in its **Design** mode.
 8. You can do required customization to the form in the **Design** mode.
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s1.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
 
 {% hint style="success" %}
-**Tip**: Once you load the widget designer, its default mode will be the **Design** Mode (design mode will be selected).
+**Tip**: Once you open the widget designer, its default mode will be the **Design** Mode (design mode will be selected).
 
 There are two modes in a widget designer page:&#x20;
 
-1. **Design mode** - Used to design, edit and customize the widget.&#x20;
+1. **Design mode** - Used to design, edit, and customize the widget.&#x20;
 2. **Preview mode** - Used to view a live version of the widget.
 {% endhint %}
 
