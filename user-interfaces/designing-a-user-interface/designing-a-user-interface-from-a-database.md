@@ -1,6 +1,6 @@
 # Designing a User Interface from a Database
 
-This article shows how to design a form from a [database](../../databases/) to capture data.
+This article shows how to design a form from a database to capture data.
 
 The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organizations. By capturing and storing data in a database, businesses and organizations can better manage and utilize the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
 
@@ -66,15 +66,18 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 
 &#x20;To add a background color to the form header/body:
 
-1. On the **Design** mode of the widget designer, click on the _e.g., Header_ section.
-2. Properties panel will be opened.
-3. Under the **Container** section, pick a **background color**. The background color will be applied to the respective section of the form.
-4. Alternatively, you can pick a background image.
+1. In the **Design** mode of the widget designer, click on a specific section, for example, the form's header section.
+2. The Properties panel will be opened on the right.
+3. Head to **Container** section and pick a **Background Color**. The selected background color will be applied to the form's header.
+4. Instead, you can pick a background image if needed.
 5. To add a background image:
-   * Click the **Search** button related to background image field.
-   * It will prompt a image gallery to select a background image or to upload your own image.
-   * To select an image from the gallery, pick a background image from the gallery.
-   * To upload your own image, click **Upload your image** button in the image gallery.
+   1. Click the **Search** button of the background image field.
+   2. It will prompt a image gallery window to select a background image.
+   3. Alternatively, you can upload your own image.
+   4. To select an image from the gallery, pick a background image from the gallery.
+   5. To upload your own image:
+      1. Click **Upload your image** button on the image gallery window.
+      2. Drag your image onto the marked area or click on the area to  select the imageand upload it.
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s3.png" alt=""><figcaption><p>Adding a Background Color/Background Image</p></figcaption></figure>
 
