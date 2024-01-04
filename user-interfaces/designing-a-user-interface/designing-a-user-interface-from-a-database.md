@@ -137,8 +137,8 @@ To change the position of a field:
 
 1. In the **Design** mode of the widget designer, click on the form's body section.&#x20;
 2. Its **Properties** panel will be opened.
-3. On the body section, click the **field** you wish to change the position.
-4. Drag the field up or down to the location where you'd like it to be within the form's body section.
+3. Within the body section, click on the field you wish to reposition.
+4. Drag the field up or down to the desired location where you'd like it to be within the form's body section.
 
 {% hint style="info" %}
 **Note**: The position of a field can be changed only within the Body section of the form; in other words, you cannot drag and place it on the Header section.
@@ -146,19 +146,17 @@ To change the position of a field:
 
 #### <mark style="color:blue;">Adding Fields to the Form</mark>
 
-Besides the fields available on the form, users have the flexibility to incorporate additional fields as needed.
+Besides the fields available on the form, users have the flexibility to include additional fields to the form.
 
-To add fields to the form:
+To add fields:
 
-1. On the widget designer, go the the **Fields** panel on the left.
-2. On the Fields panel, the fields that capture data of different input types will be listed, such as Drop-down list, checkbox, number input etc.&#x20;
-3. Select the required field _e.g., Dropdown list_ and drag and drop it onto the body section of the form.
-4. Give a **Name** for the newly added field _e.g., Location._
+1. In the **Design** mode of the widget designer, go the the **Fields** tab on the left.
+2. The fields that capture data of different input types will be listed, such as Drop-down list, checkbox, number input, etc.&#x20;
+3. Select the desired field (_e.g., Dropdown list),_ and drag and drop it onto the body section of the form.
+4. Provide a **Name** for the newly added field _e.g., Location._
 5. Click **Done**_._
 
 Further, you can customize the properties of each field according to your preference.
-
-
 
 **Setting properties of a Drop-down List**
 
