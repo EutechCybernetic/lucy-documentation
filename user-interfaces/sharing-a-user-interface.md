@@ -17,13 +17,13 @@ Copying a shareable link to the clipboard allows you to paste the link and share
 To copy a shareable link to the clipboard:
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.&#x20;
-2. Search and click on the **folder** you want to open.&#x20;
+2. Search and click on the **folder** you wish to open.&#x20;
 3. Go to the **User Interfaces** tab.
 4. Search and select the desired **user interface**.&#x20;
 5. Hover over the **user interface** and click the **Edit** button that appears. Widget Designer page will be opened.
 6. Click the **Share** button on the top right.&#x20;
 7. A shareable link will be displayed in the **Link to page** box.
-8. Click **Copy Link**. The link will be copied to your clipboard.
+8. Click **Copy Link** and the link will be copied to your clipboard.
 
 ## <mark style="color:blue;">2. Opening the User Interface on a New Page</mark>
 
