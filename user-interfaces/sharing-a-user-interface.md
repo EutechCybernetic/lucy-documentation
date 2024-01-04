@@ -35,7 +35,7 @@ Users can open the desired user interface on a separate page.
 4. Search and select the desired **user interface**.
 5. Hover over the **user interface** and click the **Edit** button that appears. Widget Designer page will be opened.&#x20;
 6. Click the **Share** button on the top right.
-7. Click **Open Page**. The user interface will be opened on a new page.
+7. Click **Open Page**, and the user interface will open on a new page.
 
 ## <mark style="color:blue;">3. Adding the User Interface to a Dashboard/Canvas</mark>
 
