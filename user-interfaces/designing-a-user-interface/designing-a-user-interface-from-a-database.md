@@ -55,7 +55,7 @@ To customize the form's appearance, including elements such as the header, body,
 In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
 * [Adding a Background Color/Image](designing-a-user-interface-from-a-database.md#adding-a-background-color-image)
-* [Setting a Background Image Size](designing-a-user-interface-from-a-database.md#setting-a-background-image-size)
+* [Selecting a Background Image Size](designing-a-user-interface-from-a-database.md#selecting-a-background-image-size)
 * [Aligning the Background Image](designing-a-user-interface-from-a-database.md#setting-the-alignment-of-the-background-image)
 * [Adding a Header Title](designing-a-user-interface-from-a-database.md#adding-a-header-title)
 * [Setting the Properties of the Items/Fields on the Body](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-item-s-field-s-on-the-body-section)
@@ -79,22 +79,22 @@ In the Widget Designer's Design mode, you can make several basic modifications t
       1. Click **Upload your image** button on the image gallery window.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s3_1.png" alt=""><figcaption><p>Adding a background color/image</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s3_2.png" alt=""><figcaption><p>Adding a background color/image</p></figcaption></figure>
 
-#### <mark style="color:blue;">Setting a Background Image Size</mark>
+#### <mark style="color:blue;">Selecting a Background Image Size</mark>
 
-After selecting a background image, you can select appropriate background image size for the header/body sections of the form.
+After selecting a background image, you can choose the appropriate size for the header/body sections of the form.
 
-The following are the background image sizes you can configure for the header/body sections of the form:
+The following are the background image sizes you can select:
 
-* **Original Size -** Default size of the background image will be applied to the selected header/ body
-* **Fill Area** - Background image will fill the entire area of the header/body
-* **Fit into Area** - Entire image will be visible within the header/body without any part being cropped
+* **Original Size -** The default size of the background image will be applied to the selected header/ body.
+* **Fill Area** - The background image will fill the entire area of the header/body.
+* **Fit into Area** - The entire image will be visible within the header/body without any part being cropped.
 
 To select a background image size:
 
-1. Click on the form's e.g., header section. Its **Properties** panel will be opened.
-2. Under the Container section, pick a suitable **Background Size** _e.g., Fill Area._ The background size will be applied to the respective section of the form.
+1. Click on the form's header section for example, to open its **Properties** panel.
+2. Under the Container section, pick a suitable **Background Size** _e.g., Fill Area._ The selected background size will be applied to the respective section of the form.
 
 #### <mark style="color:blue;">Aligning the Background Image</mark>
 
