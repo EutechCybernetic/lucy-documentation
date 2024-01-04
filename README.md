@@ -2,8 +2,8 @@
 
 If you are new to Lucy, learn how to join Lucy and get started. Below is an overview of the account setup procedure you should complete as a system administrator. Within each section, you will find all the detailed instructions necessary to complete the account setup easily. Lucy offers two methods to invite users:
 
-1. [By registering users](./#1.-registering-users)
-2. [By sending a welcome email for the user to join](./#2.-inviting-users-via-welcome-email)
+1. [By Registering Users](./#id-1.-registering-users)
+2. [Inviting Users via Welcome Email](./#id-2.-inviting-users-via-welcome-email)
 
 ## <mark style="color:blue;">1. Registering Users</mark>
 
