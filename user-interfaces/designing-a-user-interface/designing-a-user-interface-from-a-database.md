@@ -221,14 +221,14 @@ Using the widget designer, you have the capability to customize the appearance o
 1. Click on the **header** section of the Thank You screen. Its **Properties** panel will be displayed on the right.
 2. Do required changes to the header section from the Properties panel.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s10.png" alt=""><figcaption><p>Setting the Properties of the Thank you Screen's Header</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s10_1.png" alt=""><figcaption><p>Setting the Properties of the Thank you Screen's Header Section</p></figcaption></figure>
 
 #### <mark style="color:blue;">Setting the Properties of the Thank you Screen's Body Section</mark>
 
 1. Click on the **body** section of the Thank You screen. Its **Properties** panel will be displayed on the right.
 2. Do required changes to the body section from the Properties panel.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s11.png" alt=""><figcaption><p>Setting the Properties of the Thank you Screen's Body Section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s11_1.png" alt=""><figcaption><p>Setting the Properties of the Thank you Screen's Body Section</p></figcaption></figure>
 
 ### <mark style="color:blue;">5. Previewing the Form</mark>
 
