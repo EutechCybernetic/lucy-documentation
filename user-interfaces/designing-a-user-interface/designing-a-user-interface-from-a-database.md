@@ -164,10 +164,10 @@ Users can customize a drop-down list by adding multiple different options to it.
 
 To manually add options to a drop-down list on the form, follow these steps:
 
-1. Click on the **drop-down**.
+1. In the **Design** mode of the widget designer, click on the desired **drop-down**.
 2. On the **Properties** panel, go to **Options** section.
 3. Click **Add New Option** button. A text box will appear, allowing you to enter the name of the new option.
-4. Type in the desired option name.
+4. Type in a suitable option name.
 5. Repeat steps 3-4 to add more options to the drop-down.
 
 #### Setting Internal Values for Options in a Drop-down List
@@ -205,11 +205,11 @@ To add a background to the entire page:
    5. To upload your own image:
       1. Click **Upload your image** button on the gallery.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
-5. Go to **Preview** mode to preview the background image.
+5. Go to **Preview** mode to[ preview the background image](designing-a-user-interface-from-a-database.md#id-5.-previewing-the-form).
 
 ### <mark style="color:blue;">4. Using Widget Designer to Customize the Thank you Screen</mark>
 
-Using the widget designer, you have the capability to customize the appearance of the thank you screen of a form, enabling them to see their personalized thank you screen upon submitting the form.
+Using the widget designer, you have the capability to customize the appearance of the thank you screen of a form, enabling to see your personalized thank you screen upon submitting the form.
 
 1. On the widget designer page (Design mode), click the **Form** toggle button on the bottom bar.
 2. The view will be changed to **Thank you** screen.&#x20;
