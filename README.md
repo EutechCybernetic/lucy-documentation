@@ -40,5 +40,3 @@ As a system administrator, you have the option to facilitate the account creatio
 5. Select the appropriate **user group** of the user _e.g., Regular User._
 6. Untick the **Set the user’s password** option. If the **Set the user’s password** option is not enabled, the **Initial Password** box will be hidden, activating the feature to send an invitation to your email address, allowing you to create your own account.
 7. Click **Invite User.** An invitation request will be sent to your email address, allowing you to create your own account.
-
-##
