@@ -54,7 +54,7 @@ To customize the form's appearance, including elements such as the header, body,
 
 In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
-* [Setting a Background Color/Image](designing-a-user-interface-from-a-database.md#setting-a-background-color-image)
+* [Adding a Background Color/Image](designing-a-user-interface-from-a-database.md#adding-a-background-color-image)
 * [Setting a Background Image Size](designing-a-user-interface-from-a-database.md#setting-a-background-image-size)
 * [Aligning the Background Image](designing-a-user-interface-from-a-database.md#setting-the-alignment-of-the-background-image)
 * [Adding a Header Title](designing-a-user-interface-from-a-database.md#adding-a-header-title)
@@ -62,7 +62,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 * [Adding Fields to the Form](designing-a-user-interface-from-a-database.md#adding-fields-to-the-form)
 * [Adding a Background Image for the Entire Page](designing-a-user-interface-from-a-database.md#adding-a-background-image-to-the-entire-page)
 
-#### <mark style="color:blue;">Setting a Background Color/Image</mark>
+#### <mark style="color:blue;">Adding a Background Color/Image</mark>
 
 &#x20;To add a background color to the form header/body:
 
@@ -77,9 +77,9 @@ In the Widget Designer's Design mode, you can make several basic modifications t
    4. To select an image from the gallery, pick a background image from the gallery.
    5. To upload your own image:
       1. Click **Upload your image** button on the image gallery window.
-      2. Drag your image onto the marked area or click on the area to  select the imageand upload it.
+      2. Drag your image onto the marked area or click on the area to select the image and upload it.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s3.png" alt=""><figcaption><p>Adding a Background Color/Background Image</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s3_1.png" alt=""><figcaption><p>Adding a background color/image</p></figcaption></figure>
 
 #### <mark style="color:blue;">Setting a Background Image Size</mark>
 
