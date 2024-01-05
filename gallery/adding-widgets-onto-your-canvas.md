@@ -29,7 +29,7 @@ The following example shows the Current Monthly Energy Usage widget that can be 
 
 ## <mark style="color:blue;">Adding the Widget directly from Your Canvas</mark>
 
-The process of adding a widget from your canvas is described in four main steps.
+The process of adding a widget directly from your canvas is described in four main steps.
 
 ### <mark style="color:blue;">1</mark>. <mark style="color:blue;">Open your Canvas</mark>
 
@@ -80,7 +80,7 @@ Watch the video demonstrating how to add widgets onto your canvas here.
 
 After building a widget from the widget designer page, you can pick a canvas to add the respective widget.
 
-Refer the article below on adding widgets from widget designer page.
+Refer the article below on adding widgets from the widget designer page.
 
 
 
