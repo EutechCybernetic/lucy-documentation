@@ -76,7 +76,7 @@ Once you load the widget designer, its default mode will be the **Design** mode.
 
 There are two modes available on the widget designer page:&#x20;
 
-1. **Design mode** - Used to design, edit and customize the widget.&#x20;
+1. **Design mode** - Used to design, edit, and customize the widget.&#x20;
 2. **Preview mode** - Used to view a live version of the widget.
 
 You can switch between the two modes as needed.
