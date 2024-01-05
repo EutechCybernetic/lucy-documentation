@@ -2,13 +2,13 @@
 
 After you have designed a user interface (_e.g., form_), you can share it with others promptly. Multiple ways are available to do that:
 
-1. [Copy a Shareable Link to the Clipboard](sharing-a-user-interface.md#1.-copying-a-shareable-link-to-the-clipboard)
-2. [Open the User Interface on a New Page](sharing-a-user-interface.md#2.-opening-the-user-interface-on-a-new-page)
-3. [Add the User Interface to a Dashboard/Canvas](sharing-a-user-interface.md#3.-adding-the-user-interface-to-a-dashboard-canvas)
-4. [Send the User Interface by Email](sharing-a-user-interface.md#4.-sending-the-user-interface-by-email)
-5. [Send the User Interface as a Push Notification to Lucy Mobile App](sharing-a-user-interface.md#5.-sending-the-user-interface-as-a-push-notification-to-lucy-mobile-app)
-6. [Send the User Interface to Everyone](sharing-a-user-interface.md#6.-sending-the-user-interface-to-everyone)
-7. [Add the User Interface to Mobile App Home Screen](sharing-a-user-interface.md#7.-adding-the-user-interface-to-mobile-app-home-screen)
+1. [Copying a Shareable Link to the Clipboard](sharing-a-user-interface.md#id-1.-copying-a-shareable-link-to-the-clipboard)
+2. [Opening the User Interface on a New Page](sharing-a-user-interface.md#id-2.-opening-the-user-interface-on-a-new-page)
+3. [Adding the User Interface to a Dashboard/Canvas](sharing-a-user-interface.md#id-3.-adding-the-user-interface-to-a-dashboard-canvas)
+4. [Sending the User Interface by Email](sharing-a-user-interface.md#id-4.-sending-the-user-interface-by-email)
+5. [Sending the User Interface as a Push Notification to Lucy Mobile App](sharing-a-user-interface.md#id-5.-sending-the-user-interface-as-a-push-notification-to-lucy-mobile-app)
+6. [Sending the User Interface to Everyone](sharing-a-user-interface.md#id-6.-sending-the-user-interface-to-everyone)
+7. [Adding the User Interface to Mobile App Home Screen](sharing-a-user-interface.md#id-7.-adding-the-user-interface-to-mobile-app-home-screen)
 
 ## <mark style="color:blue;">1. Copying a Shareable Link to the Clipboard</mark>
 
