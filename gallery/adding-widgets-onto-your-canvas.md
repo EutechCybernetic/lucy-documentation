@@ -72,7 +72,7 @@ On the Widget Browser, click the green eye icon of the required Widget to get mo
 2. After selecting the required Widgets, click **Add Widgets.**
 3. The selected widget(s) will be added onto your Canvas.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Selecting Widgets</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LC_Adding Widgets onto your Canvas_S5_1.png" alt=""><figcaption><p>Select and Add required Widgets to Canvas</p></figcaption></figure>
 
 Watch the video demonstrating how to add widgets directly onto your canvas here.
 
