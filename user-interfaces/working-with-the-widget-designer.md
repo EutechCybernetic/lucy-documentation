@@ -12,15 +12,40 @@ This article shows the basic functionalities of a widget designer.
 
 ## <mark style="color:blue;">Loading Widget Designer</mark>&#x20;
 
-A widget designer can be loaded from your project's User Interfaces tab or its Databases tab.
+A widget designer can be opened and accessed in different scenarios.
 
-### Loading from User Interfaces Tab
+### <mark style="color:blue;">1. When Designing a User Interface</mark>
+
+A widget designer serves the purpose of designing and constructing a user interface, and there are multiple approaches to achieve this. Accessing the widget designer can be done through various methods when you intend to design and build a user interface.
+
+#### <mark style="color:blue;">Ways to Design and Build a User Interface</mark>
+
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualize-information.md" %}
+[designing-a-user-interface-to-visualize-information.md](designing-a-user-interface/designing-a-user-interface-to-visualize-information.md)
+{% endcontent-ref %}
+
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-capture-information.md" %}
+[designing-a-user-interface-to-capture-information.md](designing-a-user-interface/designing-a-user-interface-to-capture-information.md)
+{% endcontent-ref %}
+
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
+[designing-a-user-interface-from-scratch.md](designing-a-user-interface/designing-a-user-interface-from-scratch.md)
+{% endcontent-ref %}
+
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-from-a-database.md" %}
+[designing-a-user-interface-from-a-database.md](designing-a-user-interface/designing-a-user-interface-from-a-database.md)
+{% endcontent-ref %}
+
+### <mark style="color:blue;">2. If You have Existing User Interfaces</mark>
+
+If you have existing user interfaces inside your project, you can promptly access the widget designer page in few clicks.
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
-3. Go to the **User Interfaces** tab. User interfaces previously created by user will be listed.
-4. Hover over the required user interface and click **Edit** icon that appears.
-5. The respective user interface will be opened on widget designer page.
+3. Go to the **User Interfaces** tab. User interfaces previously created will be listed.
+4. Hover over the desired user interface and click **Edit** icon that appears.
+5. Alternatively, use the **Search User Interfaces** box to search and filter your user interface.
+6. The respective user interface will be opened on its widget designer page.
 
 
 
@@ -28,7 +53,7 @@ A widget designer can be loaded from your project's User Interfaces tab or its D
 Note: If no user interface is created under the **User Interfaces** tab, you will not see any user interface.
 {% endhint %}
 
-### Loading from Databases Tab
+### <mark style="color:blue;">3. Loading from Databases Tab</mark>
 
 Users can create Forms from a database to capture information. The respective form can be opened on a widget designer to create, edit and do further modifications.
 
