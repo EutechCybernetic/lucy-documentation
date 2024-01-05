@@ -1,8 +1,8 @@
 # Working with the Widget Designer
 
-The Widget Designer provides a user-friendly interface for designing, editing, and customizing your widgets. This enable users to customize the appearance, behavior, and content of a widget to suit their preferences. Customization denotes adjusting colors, title, font sizes, data sources and more. .
+The Widget Designer provides a user-friendly interface for designing, editing, and customizing your widgets. This enable users to customize the appearance, behavior, and content of a widget to suit their preferences. Customization denotes adjusting colors, title, font sizes, data sources and more.
 
-Widgets are versatile components for displaying information on a dashboard, such as calendar events, weather updates, etc.
+Widgets can be used to display information on a dashboard, such as calendar events, weather updates, etc.
 
 {% hint style="info" %}
 **Note**: It is recommended to know the basics of creating projects/folders, [databases](../databases/creating-and-editing-databases/) and [user interfaces ](designing-a-user-interface/)before going through this article.
@@ -12,11 +12,11 @@ This article shows the basic functionalities of a widget designer.
 
 ## <mark style="color:blue;">Loading Widget Designer</mark>&#x20;
 
-A widget designer can be opened and accessed in different scenarios.
+A Widget Designer can be opened and accessed in different scenarios.
 
 ### <mark style="color:blue;">1. When Designing a User Interface</mark>
 
-A widget designer serves the purpose of designing and constructing a user interface, and there are multiple approaches to achieve this. Accessing the widget designer can be done through various methods when you intend to design and build a user interface.
+A widget designer serves the purpose of designing and constructing a user interface, and there are different approaches to achieve this. Accessing the widget designer can be done through various methods when you intend to design and build a user interface.
 
 #### <mark style="color:blue;">Ways to Design and Build a User Interface</mark>
 
