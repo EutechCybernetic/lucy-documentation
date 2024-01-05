@@ -56,13 +56,13 @@ Note: If you haven't created any user interfaces under the User Interfaces tab o
 
 ### <mark style="color:blue;">3. When Creating a Form Using a Database</mark>
 
-Users can create Forms from a database to capture information. The respective form can be opened on a widget designer to create, edit and do further modifications.
+Users can create Forms from a database to capture information. The respective form can be opened on the widget designer to create, edit and do further modifications.
 
 1. On the app homepage, go to the **My Work** tab on the left.
 2. Search and click on the **folder** you want to open.
 3. Head to the **Databases** tab.
 4. Pick the database you wish to open. If there is a list of databases, you can search for the required database by typing its name under Search Databases.
-5. Hover over the required database and click **Edit** icon that appears.
+5. Hover over the required database and click the **Edit** icon that appears.
 6. Click **Create Form.**
 7. The respective form will be opened on its widget designer page.
 
@@ -72,20 +72,18 @@ Note: If no database is created under the **Databases** tab, you will not see an
 
 ## <mark style="color:blue;">Basic Features of a Widget Designer</mark>
 
-Once you load a widget designer, its default mode will be the **Design** Mode.
+Once you load the widget designer, its default mode will be the **Design** mode.
 
-There are two modes in a widget designer page:&#x20;
+There are two modes available on the widget designer page:&#x20;
 
 1. **Design mode** - Used to design, edit and customize the widget.&#x20;
 2. **Preview mode** - Used to view a live version of the widget.
 
+You can switch between the two modes as needed.
+
 ### <mark style="color:blue;">Features in the Widget Designer's Design Mode</mark>
 
-The below screen displays the basic features of a widget designer in its Design Mode.
-
-For the purpose of demonstrating the widget designer, we'll use a form widget as our example.
-
-
+The screen below showcases the fundamental features of a widget designer in its **Design** Mode. To demonstrate the capabilities of the widget designer, we'll use a form as our example.
 
 <figure><img src="../.gitbook/assets/LC_Working with Widget Designer_s1.png" alt=""><figcaption><p>Widget Designer's Design Mode</p></figcaption></figure>
 
