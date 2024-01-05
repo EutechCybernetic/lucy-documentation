@@ -1,11 +1,11 @@
 # Working with the Widget Designer
 
-The Widget Designer provides a user-friendly interface for designing, editing, and customizing your widgets. This enable users to customize the appearance, behavior, and content of a widget to suit their preferences. Customization denotes adjusting colors, title, font sizes, data sources and more. Additionally, the Widget Designer facilitates the creation, editing, and customization of various user interfaces, including forms, cards, graphs, and other elements.
+The Widget Designer provides a user-friendly interface for designing, editing, and customizing your widgets. This enable users to customize the appearance, behavior, and content of a widget to suit their preferences. Customization denotes adjusting colors, title, font sizes, data sources and more. .
 
-Widgets can be used for displaying information on a dashboard, such as calendar events, weather updates, etc.
+Widgets are versatile components for displaying information on a dashboard, such as calendar events, weather updates, etc.
 
 {% hint style="info" %}
-**Note**: It is recommended to know the basics of creating projects, [databases](../databases/creating-and-editing-databases/) and [user interfaces ](designing-a-user-interface/)before going through this article.
+**Note**: It is recommended to know the basics of creating projects/folders, [databases](../databases/creating-and-editing-databases/) and [user interfaces ](designing-a-user-interface/)before going through this article.
 {% endhint %}
 
 This article shows the basic functionalities of a widget designer.
