@@ -38,7 +38,7 @@ A widget designer serves the purpose of designing and constructing a user interf
 
 ### <mark style="color:blue;">2. If You have Existing User Interfaces</mark>
 
-If you have existing user interfaces inside your project, you can promptly access the widget designer page in few clicks.
+If you have existing user interfaces inside your project, you can easily jump into the widget designer page.
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -58,21 +58,17 @@ Note: If no user interface is created under the **User Interfaces** tab, you wil
 
 Users can create Forms from a database to capture information. The respective form can be opened on a widget designer to create, edit and do further modifications.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
+1. On the app homepage, go to the **My Work** tab on the left.
 2. Search and click on the **folder** you want to open.
 3. Head to the **Databases** tab.
-4. Search and select the database you want to open.
+4. Pick the database you wish to open. If there is a list of databases, you can search for the required database by typing its name under Search Databases.
 5. Hover over the required database and click **Edit** icon that appears.
 6. Click **Create Form.**
 7. The respective form will be opened on its widget designer page.
 
-
-
 {% hint style="info" %}
 Note: If no database is created under the **Databases** tab, you will not see any database.
 {% endhint %}
-
-
 
 ## <mark style="color:blue;">Basic Features of a Widget Designer</mark>
 
@@ -83,7 +79,7 @@ There are two modes in a widget designer page:&#x20;
 1. **Design mode** - Used to design, edit and customize the widget.&#x20;
 2. **Preview mode** - Used to view a live version of the widget.
 
-### Features in the Widget Designer's Design Mode
+### <mark style="color:blue;">Features in the Widget Designer's Design Mode</mark>
 
 The below screen displays the basic features of a widget designer in its Design Mode.
 
