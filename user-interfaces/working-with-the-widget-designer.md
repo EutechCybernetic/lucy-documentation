@@ -42,10 +42,11 @@ If you have existing user interfaces inside your project, you can promptly acces
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
-3. Go to the **User Interfaces** tab. User interfaces previously created will be listed.
-4. Hover over the desired user interface and click **Edit** icon that appears.
-5. Alternatively, use the **Search User Interfaces** box to search and filter your user interface.
-6. The respective user interface will be opened on its widget designer page.
+3. Go to the **User Interfaces** tab.
+4. Pick the user interface under User Interfaces tab.&#x20;
+5. If there is a list of user interfaces, you can search for the required User Interface by typing its name under Search User Interfaces.
+6. Hover over the desired user interface and click the **Edit** icon that appears.
+7. The respective user interface will be opened on its widget designer page.
 
 
 
