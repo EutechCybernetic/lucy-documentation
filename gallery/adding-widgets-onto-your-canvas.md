@@ -6,17 +6,30 @@ description: >-
 
 # Adding Widgets onto your Canvas
 
+This article shows you the process of adding a widget you've designed onto an existing dashboard/canvas. Widgets on your dashboard visually represent your data in real-time. This allows you to personalize your dashboard by incorporating widgets that align with your specific needs.&#x20;
+
 {% hint style="info" %}
-_You need to have a Canvas created to add the Widgets to it._
+_You need to have a Canvas created to add widgets to it._
 {% endhint %}
+
+Refer to the below article to gain insights into creating a dashboard if you have no idea how to create one.
+
+{% content-ref url="creating-a-canvas-in-the-gallery.md" %}
+[creating-a-canvas-in-the-gallery.md](creating-a-canvas-in-the-gallery.md)
+{% endcontent-ref %}
+
+There are two ways to add a widget onto a canvas:
+
+1. [Adding the Widget directly from Your Canvas](adding-widgets-onto-your-canvas.md#adding-the-widget-directly-from-your-canvas)
+2. [Adding the Widget from the Widget Designer Page](adding-widgets-onto-your-canvas.md#adding-the-widget-from-the-widget-designer-page)
 
 The following example shows the Current Monthly Energy Usage widget that can be used to show the current month's energy consumption.
 
 <figure><img src="../.gitbook/assets/Energy Widget.png" alt=""><figcaption><p>Current Monthly Energy Usage widget </p></figcaption></figure>
 
-## <mark style="color:blue;">How to add a Widget onto your Canvas</mark>
+## <mark style="color:blue;">Adding the Widget directly from Your Canvas</mark>
 
-The process of adding a widget onto your canvas is described in four main steps.
+The process of adding a widget from your canvas is described in four main steps.
 
 ### <mark style="color:blue;">1</mark>. <mark style="color:blue;">Open your Canvas</mark>
 
@@ -28,7 +41,7 @@ The process of adding a widget onto your canvas is described in four main steps.
 
 <figure><img src="../.gitbook/assets/Add widget buttons.PNG" alt=""><figcaption><p>+ icon and Add Widget button are visible on a freshly created Canvas</p></figcaption></figure>
 
-###
+
 
 ### <mark style="color:blue;">2. Filter Widgets from Widget Browser</mark>
 
@@ -63,4 +76,14 @@ On the Widget Browser, click the green icon of the required Widget to get more i
 
 Watch the video demonstrating how to add widgets onto your canvas here.
 
-{% embed url="https://drive.google.com/file/d/1qyUoXUAz6qIt_pT3VqNw1Ft2JFuYi_Uh/preview" %}
+## <mark style="color:blue;">Adding the Widget from the Widget Designer Page</mark>
+
+After building a widget from the widget designer page, you can pick a canvas to add the respective widget.
+
+Refer the article below on adding widgets from widget designer page.
+
+
+
+{% content-ref url="../user-interfaces/sharing-a-user-interface.md" %}
+[sharing-a-user-interface.md](../user-interfaces/sharing-a-user-interface.md)
+{% endcontent-ref %}
