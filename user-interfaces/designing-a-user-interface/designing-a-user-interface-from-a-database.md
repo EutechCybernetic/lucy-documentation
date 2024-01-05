@@ -177,7 +177,7 @@ Besides the default label (a name given to identify a option in the list) of a o
 To set internal values for options:
 
 1. After adding your options, deselect **Use label as value** option (By default, this option will be selected).
-2. This will enable a text box for each option to enter the **internal value** which is not visible to users.
+2. Once **Use label as value** option is deselected, it will enable a text box for each option to enter the **internal value** which is not visible to users.
 3. Enter the **internal value** for each option.
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s7.png" alt=""><figcaption><p>Setting Options and Internal Values</p></figcaption></figure>
