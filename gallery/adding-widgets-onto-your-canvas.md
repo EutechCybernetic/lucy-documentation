@@ -36,8 +36,8 @@ The process of adding a widget directly from your canvas is described in four ma
 1. On the Lucy app's homepage, click the **Gallery** tab on the sidebar to go to the Gallery.
 2. Pick the Canvas from the Gallery to add the widget(s).
 3. If there is a list of Canvases in the Gallery, you can search for the required Canvas by typing its name under **Search Canvases**.
-4. Click on the Canvas to view its full view. Alternatively, hover over the Canvas and click the eye icon to open the Canvas.
-5. If you have not added any Widgets onto your Canvas yet, you will see the plus icon . Click the **+** icon. The Widget Browser will open. Alternatively, click the **Add Widget** button on the top right to add widgets onto your Canvas.
+4. Click on the Canvas to view it in full, or alternatively, hover over the Canvas and click the **eye** icon to open it.
+5. If you have not added any Widgets onto your Canvas yet, you will see the **+** icon . Click the **+** icon. The Widget Browser will open. Alternatively, click the **Add Widget** button on the top right to add widgets onto your Canvas.
 
 <figure><img src="../.gitbook/assets/Add widget buttons.PNG" alt=""><figcaption><p>+ icon and Add Widget button are visible on a freshly created Canvas</p></figcaption></figure>
 
