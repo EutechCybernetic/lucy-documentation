@@ -4,7 +4,7 @@ description: >-
   Canvas by adding the Widgets as necessary.
 ---
 
-# Adding Widgets onto your Canvas
+# Adding Widgets onto Your Canvas
 
 This article shows you the process of adding a widget you've designed onto an existing dashboard/canvas. Widgets on your dashboard visually represent your data in real-time. This allows you to personalize your dashboard by incorporating widgets that align with your specific needs.&#x20;
 
@@ -50,13 +50,9 @@ Widget Browser shows the available widgets for you to add to your Canvas. In ord
 To filter and select widgets from the Widget Browser:
 
 1. Select the Category from the list displayed on the Sidebar, to see the Widgets belong to the specific Category.
-2.  You can search for the required Widget by typing the name in the box given on the top as well.
+2. You can search for the required Widget by typing the name in the box given on the top as well.
 
-
-
-<figure><img src="../.gitbook/assets/Select Widget (1).png" alt=""><figcaption><p>Filter Widgets</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/LC_Adding Widgets onto your Canvas_S4_1.png" alt=""><figcaption><p>Filter Widgets</p></figcaption></figure>
 
 ### <mark style="color:blue;">3. View Widget Preview</mark>
 
@@ -66,13 +62,13 @@ On the Widget Browser, click the green eye icon of the required Widget to get mo
 
 
 
-### <mark style="color:blue;">4. Select and add required Widgets to Canvas</mark>
+### <mark style="color:blue;">4. Select and Add required Widgets to Canvas</mark>
 
 1. Pick the required Widgets by clicking on them. You can even select the Widgets by clicking on the Tick icon  related to them.
 2. After selecting the required Widgets, click **Add Widgets.**
 3. The selected widget(s) will be added onto your Canvas.
 
-<figure><img src="../.gitbook/assets/LC_Adding Widgets onto your Canvas_S5_1.png" alt=""><figcaption><p>Select and Add required Widgets to Canvas</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LC_Adding Widgets onto your Canvas_S5_2.png" alt=""><figcaption><p>Select and Add required Widgets to Canvas</p></figcaption></figure>
 
 Watch the video demonstrating how to add widgets directly onto your canvas here.
 

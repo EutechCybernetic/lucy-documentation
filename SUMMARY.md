@@ -38,7 +38,7 @@
   * [Working with the Widget Designer](user-interfaces/working-with-the-widget-designer.md)
 * [Gallery](gallery/README.md)
   * [Creating a Canvas in the Gallery](gallery/creating-a-canvas-in-the-gallery.md)
-  * [Adding Widgets onto your Canvas](gallery/adding-widgets-onto-your-canvas.md)
+  * [Adding Widgets onto Your Canvas](gallery/adding-widgets-onto-your-canvas.md)
   * [Searching and Viewing Your Canvases](gallery/searching-and-viewing-your-canvases.md)
   * [Configuring Widget's Settings](gallery/configuring-widgets-settings.md)
   * [Moving a Widget around a Canvas](gallery/moving-a-widget-around-a-canvas.md)
