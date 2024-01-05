@@ -12,7 +12,7 @@ This article shows you the process of adding a widget you've designed onto an ex
 _You need to have a Canvas created to add widgets to it._
 {% endhint %}
 
-Refer to the below article to gain insights into creating a dashboard if you have no idea how to create one.
+Refer to the below article to gain insights into creating a canvas if you have no idea how to create one.
 
 {% content-ref url="creating-a-canvas-in-the-gallery.md" %}
 [creating-a-canvas-in-the-gallery.md](creating-a-canvas-in-the-gallery.md)
@@ -60,7 +60,7 @@ To filter and select widgets from the Widget Browser:
 
 ### <mark style="color:blue;">3. View Widget Preview</mark>
 
-On the Widget Browser, click the green icon of the required Widget to get more information about the respective Widget. Once the green icon is clicked you will see a small preview of the Widget which is interactive.
+On the Widget Browser, click the green eye icon of the required Widget to get more information about the respective Widget. Once the eye icon is clicked you will see a small preview of the Widget which is interactive.
 
 <figure><img src="../.gitbook/assets/Widget Preview.png" alt=""><figcaption><p>Preview of a Widget</p></figcaption></figure>
 
@@ -69,21 +69,27 @@ On the Widget Browser, click the green icon of the required Widget to get more i
 ### <mark style="color:blue;">4. Select and add required Widgets to Canvas</mark>
 
 1. Pick the required Widgets by clicking on them. You can even select the Widgets by clicking on the Tick icon  related to them.
-2. After selecting the required Widgets, click Add Widgets.
-3. The selected widget(s) will be added onto your Canvas
+2. After selecting the required Widgets, click **Add Widgets.**
+3. The selected widget(s) will be added onto your Canvas.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Selecting Widgets</p></figcaption></figure>
 
-Watch the video demonstrating how to add widgets onto your canvas here.
+Watch the video demonstrating how to add widgets directly onto your canvas here.
+
+{% embed url="https://drive.google.com/uc?id=1qyUoXUAz6qIt_pT3VqNw1Ft2JFuYi_Uh" %}
 
 ## <mark style="color:blue;">Adding the Widget from the Widget Designer Page</mark>
 
-After building a widget from the widget designer page, you can pick a canvas to add the respective widget.
+After building a widget from the widget designer page, you can pick a canvas to add the respective widget onto it.
 
-Refer the article below on adding widgets from the widget designer page.
+Refer the article below on adding the widget from the widget designer page.
 
 
 
 {% content-ref url="../user-interfaces/sharing-a-user-interface.md" %}
 [sharing-a-user-interface.md](../user-interfaces/sharing-a-user-interface.md)
 {% endcontent-ref %}
+
+Watch the video below to gain a better understanding of how to add a widget from the Widget Designer Page.
+
+{% embed url="https://drive.google.com/uc?id=1r2YXxdre_-nfO8fz169PW2c_3Cok9ZDC" %}
