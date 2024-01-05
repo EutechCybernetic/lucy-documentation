@@ -1,6 +1,6 @@
 # Adding your Own Widget onto a Dashboard/Canvas
 
-This article shows how to add a widget that you have designed onto an existing dashboard/canvas. Widgets on your dashboard visually represent your data in real-time. This allows you to personalize your dashboard by incorporating widgets that align with your specific needs.&#x20;
+This article shows you the process of adding a widget you've designed onto an existing dashboard/canvas. Widgets on your dashboard visually represent your data in real-time. This allows you to personalize your dashboard by incorporating widgets that align with your specific needs.&#x20;
 
 Refer to the below article to gain insights into creating a dashboard if you have no idea how to create one.&#x20;
 
@@ -44,4 +44,3 @@ After adding a widget onto the canvas, you have the flexibility to customize it 
 1. Click on the **Customise** button on the bottom right corner of the canvas.
 2. Click **Settings** icon displayed on the widget.
 3. Click **Customise the Widget**. The respective widget will be loaded on the widget designer page.
-
