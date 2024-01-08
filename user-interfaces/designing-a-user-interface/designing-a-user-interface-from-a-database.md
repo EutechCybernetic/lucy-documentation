@@ -209,7 +209,7 @@ To add a background to the entire page:
 
 ### <mark style="color:blue;">4. Using Widget Designer to Customize the Thank you Screen</mark>
 
-Using the widget designer, you have the capability to customize the appearance of the thank you screen of a form, enabling to see your personalized thank you screen upon submitting the form.
+The Thank you screen is displayed after a user submits the respective form. Using the widget designer, you have the capability to customize the appearance of the thank you screen of a form, enabling to see your personalized thank you screen upon submitting the form.
 
 1. On the widget designer page (Design mode), click the **Form** toggle button on the bottom bar.
 2. The view will be changed to **Thank you** screen.&#x20;

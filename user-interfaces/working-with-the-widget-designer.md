@@ -12,13 +12,13 @@ This article shows the basic functionalities of a widget designer.
 
 ## <mark style="color:blue;">Loading Widget Designer</mark>&#x20;
 
-A Widget Designer can be opened and accessed in different scenarios.
+The Widget Designer can be launched and utilized in various situations.
 
 ### <mark style="color:blue;">1. When Designing a User Interface</mark>
 
-A widget designer serves the purpose of designing and constructing a user interface, and there are different approaches to achieve this. Accessing the widget designer can be done through various methods when you intend to design and build a user interface.
+The widget designer serves the purpose of designing and constructing a user interface, and there are different approaches to achieve this. Accessing the widget designer can be done through various methods when you intend to design and build a user interface.
 
-#### <mark style="color:blue;">Ways to Design and Build a User Interface</mark>
+#### <mark style="color:blue;">Ways to Design and Build a User Interfaces</mark>
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualize-information.md" %}
 [designing-a-user-interface-to-visualize-information.md](designing-a-user-interface/designing-a-user-interface-to-visualize-information.md)
@@ -85,37 +85,37 @@ The screen below showcases the fundamental features of a widget designer in its 
 
 <figure><img src="../.gitbook/assets/LC_Working with Widget Designer_s1.png" alt=""><figcaption><p>Widget Designer's Design Mode</p></figcaption></figure>
 
-<table><thead><tr><th width="40" data-type="number"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>1</td><td>Used to switch between <strong>Design</strong> mode and <strong>Preview</strong> Mode. </td><td></td></tr><tr><td>2</td><td>Opens a window to share the widget with others and perform other functionalities <em>e.g., Add widget to a canvas.</em></td><td></td></tr><tr><td>3</td><td>Used to save changes done to the widget.</td><td></td></tr><tr><td>4</td><td><p>Used to configure general settings related to the widget. </p><p><em>e.g., change the background of the entire page, add a name for the widget.</em></p></td><td></td></tr><tr><td>5</td><td>Displays the respective widget (<em>e.g., form)</em> on the widget designer page.</td><td></td></tr><tr><td>6</td><td>Displays some additional settings that is enabled in the <strong>Design</strong> mode.</td><td></td></tr><tr><td>7</td><td>Used to select appropriate fields and add it to the widget. Once a field is added to the widget, users can configure its properties.</td><td></td></tr><tr><td>8</td><td>Used to direct back to the <strong>User Interfaces</strong> tab.</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="40" data-type="number"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>1</td><td>Used to switch between <strong>Design</strong> mode and <strong>Preview</strong> Mode. </td><td></td></tr><tr><td>2</td><td>Opens a window to share the widget with others and perform other functionalities <em>e.g., Add widget to a canvas.</em></td><td></td></tr><tr><td>3</td><td>Used to save changes done to the widget.</td><td></td></tr><tr><td>4</td><td><p>Used to configure general settings related to the widget. </p><p><em>e.g., change the background of the entire page, add a name for the widget.</em></p></td><td></td></tr><tr><td>5</td><td>Displays the respective widget (<em>e.g., form)</em> on the widget designer page.</td><td></td></tr><tr><td>6</td><td>Displays some additional settings that is enabled in the <strong>Design</strong> mode.</td><td></td></tr><tr><td>7</td><td>Used to select appropriate fields and add it to the widget. Once a field is added to the widget, users can configure its properties.</td><td></td></tr><tr><td>8</td><td>Used to direct back to the <strong>User Interfaces</strong> tab of the selected project/folder.</td><td></td></tr></tbody></table>
 
-#### <mark style="color:blue;">Additional Operations in a Widget Designer's Design Mode</mark>
+#### <mark style="color:blue;">Additional Features in a Widget Designer's Design Mode</mark>
 
-
+The following are some additional features available in the widget designer's design mode.
 
 <figure><img src="../.gitbook/assets/LC_Working with Widget Designer_s2.png" alt=""><figcaption><p>Additional Operations in a Widget Designer's Design Mode</p></figcaption></figure>
 
-<table><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the widget around the widget designer page. Click the padlock icon to unlock it and to move the widget around the page.</p><p>Further, users can unlock the padlock to resize the interface.</p><p><em>Note: Forms do not support resizing feature. However, it is available for the other widgets.</em></p></td></tr><tr><td>2</td><td>Used to switch between the Form screen and the Thank You screen of the form. When the widget designer is loaded, the form interface will be displayed by default. Users can do required customizations to each screen by switching between the two screens.</td></tr><tr><td>3</td><td>Used to restore any actions that were previously undone using an undo. </td></tr><tr><td>4</td><td>Used to reverse the change previously done (undo the change). </td></tr><tr><td>5</td><td>Used to Zoom in the widget to appear it larger.</td></tr><tr><td>6</td><td> Used to Zoom out the widget to appear it smaller.</td></tr></tbody></table>
+<table><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the widget around the widget designer page. Click the padlock icon to unlock it and move the widget around the page.</p><p>Further, users can unlock the padlock to resize the interface.</p><p><em>Note: Forms do not support resizing feature. However, it is available for the other widgets.</em></p></td></tr><tr><td>2</td><td>Used to switch between the Form screen and the Thank You screen of the form. When the widget designer is loaded, the form interface will be displayed by default. Users can do required customizations to each screen by switching between the two screens.</td></tr><tr><td>3</td><td>Used to restore any actions that were previously undone using an undo. </td></tr><tr><td>4</td><td>Used to reverse the change previously done (undo the change). </td></tr><tr><td>5</td><td>Used to Zoom in the widget.</td></tr><tr><td>6</td><td>Used to Zoom out the widget.</td></tr></tbody></table>
 
-#### Form Widget
+#### <mark style="color:blue;">Form Widget</mark>
 
-A form has three sections: a header, body, and Item/Field. Users can modify each section individually from the Properties tab.
+A form consists of three sections: a header, a body, and an item/field. Users can modify each section individually through the **Properties** tab.
 
 
 
 <figure><img src="../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a Form</p></figcaption></figure>
 
-#### Configuring Properties of the Widget's Header Section
+#### <mark style="color:blue;">Configuring Properties of the Widget's Header Section</mark>
 
 Users can customize the appearance of the widget’s header section on the widget designer page. _e.g., Add a title for the header section._&#x20;
 
 Find out more on configuring header properties in [this ](designing-a-user-interface/designing-a-user-interface-from-a-database.md)article.
 
-#### Configuring Properties of the Widget's Body Section
+#### <mark style="color:blue;">Configuring Properties of the Widget's Body Section</mark>
 
 Users can customize the properties of widget’s body section and the properties of each individual field/item on the widget’s body section using the widget designer.
 
 Find out more on configuring widget’s body section properties in [this ](designing-a-user-interface/designing-a-user-interface-from-a-database.md)article.
 
-### Widget Designer's Preview Mode
+### <mark style="color:blue;">Widget Designer's Preview Mode</mark>
 
 The **Preview** mode is used to preview a live session of the widget.&#x20;
 
@@ -128,13 +128,11 @@ To access widget designer's Preview mode:
 
 ## <mark style="color:blue;">Binding a Data source to a Widget from Widget Designer Page</mark>&#x20;
 
-Some widgets require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the widget that is responsible for displaying data.
+Some widgets require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the widget that is responsible for displaying data. This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronization between the data and the user interface.
 
-This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronization between the data and the user interface.
+_e.g., A bar chart displaying sales figures for different products over a month._
 
-For instance, a widget can be created to display specific information. To make this widget display the information, it's necessary to establish a connection by binding a data source to it.
-
-Find more details on binding a data source to a widget from here:
+For more detailed information on how to bind a data source to a widget, refer to the provided link.
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualize-information.md" %}
 [designing-a-user-interface-to-visualize-information.md](designing-a-user-interface/designing-a-user-interface-to-visualize-information.md)

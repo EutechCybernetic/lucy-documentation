@@ -12,4 +12,4 @@ The process of changing the position of a particular widget within the canvas is
 
 Watch the below video to move a widget within your canvas to gain more insights.
 
-{% embed url="https://drive.google.com/file/d/1rDEBDsKUyuZ0SAKmDCUBxrDlVu6FRDKj/preview" %}
+{% embed url="https://drive.google.com/uc?id=1rDEBDsKUyuZ0SAKmDCUBxrDlVu6FRDKj" %}

@@ -3,7 +3,7 @@
 * [Setting up Your Lucy Account](README.md)
   * [Settings](setting-up-your-lucy-account/settings.md)
   * [Your Profile](setting-up-your-lucy-account/your-profile.md)
-* [Getting Started](<README (1).md>)
+* [Getting Started](getting-started.md)
 * [Key Concepts](key-concepts/README.md)
   * [Dashboards and Visualizations](key-concepts/dashboards-and-visualizations.md)
   * [Projects](key-concepts/projects.md)
