@@ -18,6 +18,5 @@ If you haven't created any folders, you won't find any under the **My Work** tab
 To locate recently created Folder list:
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
-2. Click the arrow displayed on the **My Work** tab .
-3. All the recent folders will be listed on the sidebar.
-4. Click on a specific folder name to open it.
+2. Click the arrow displayed on the **My Work** tab. All the recent folders will be listed on the sidebar.
+3. Click on a specific folder name to open it.
