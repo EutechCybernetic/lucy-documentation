@@ -6,9 +6,9 @@ This article explains how to configure a widget’s settings on your canvas. Som
 It's important to note that not all widgets allow for configurable settings.&#x20;
 {% endhint %}
 
-The following example shows the Yearly water consumption budget vs actual that displays the comparison between yearly water consumption budget to actual usage.
+The following example illustrates the comparison between the yearly water consumption budgeted and the actual water consumption, showcasing the variance between the planned budget and the real consumption.
 
-<figure><img src="../.gitbook/assets/Configuring Widget&#x27;s Settings_S1.png" alt="" width="563"><figcaption><p> Yearly Water Consumption Budget vs Actual Widget</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Configuring Widget&#x27;s Settings_S1.png" alt="" width="563"><figcaption><p> Yearly Water Consumption Budgeted vs Actual Widget</p></figcaption></figure>
 
 Adjusting the widget’s settings enables users to personalize the visual representation of the data, making it more tailored to their preferences or specific needs. This involves actions like changing the color code for the baseline, changing the color code for the cumulative budget, and editing the axis labels in the Yearly Water Consumption Budget vs Actual widget.
 
