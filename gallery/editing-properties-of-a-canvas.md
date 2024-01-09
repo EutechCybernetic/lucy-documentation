@@ -12,7 +12,7 @@ Once you've created a canvas on the Gallery, you can personalize it by making th
 2. Select the **Canvas** you wish to edit.
 3. If there is a list of canvases on the Gallery, you can search for the required Canvas by typing its name/partial name under **Search Canvases.**
 4. Hover over the Canvas and click the **edit** icon that appears.
-5. Select a **color theme** for your Canvas.
+5. Select a color theme for your Canvas.
    1. To select a color theme for your Canvas from the pre-selected color themes, click on the required box. Selected color theme will be shown under the **Header Color** section.&#x20;
    2. If you need to select a custom color theme, click on the color code in the **Header Color** section to open the color picker to select a color of your own.
 6. Under **Background Image**, click the **Search** icon to select a background wallpaper for your Canvas.
