@@ -34,7 +34,7 @@ To select a data source:
    4. To confirm the selection, click **Select this source** .
    5. A table preview of the selected database will be displayed.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s1.png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s1.png" alt=""><figcaption><p>A Preview of Your Data</p></figcaption></figure>
 
 ### <mark style="color:blue;">b) Preparing Data to be Visualized</mark>
 
@@ -54,7 +54,7 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 5. After applying the condition (s), click **Done**.
 6. Based on the conditions applied, the data will be filtered and listed.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s2.png" alt=""><figcaption><p>Filter your data screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s2.png" alt=""><figcaption><p>Filter Your Data screen 1</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding Group of Conditions</mark>
 
@@ -79,9 +79,9 @@ For our example, adding group of conditions is not needed.
 Within a group of conditions, you can include multiple conditions.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s3.png" alt=""><figcaption><p>Filter your data screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s3.png" alt=""><figcaption><p>Filter Your Data screen 2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s4.png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s4.png" alt=""><figcaption><p>Filtered Data</p></figcaption></figure>
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
@@ -92,11 +92,11 @@ Aggregating data is used to summarize and condense data into a more compact form
 3. Click **Done**. Based on the aggregation, the data will be aggregated and listed.
 4. If you are happy with the aggregation, click **Looks good.**
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5.png" alt=""><figcaption><p>Aggregate your data screen 1 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5.png" alt=""><figcaption><p>Aggregate Your Data screen 1 </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s6.png" alt=""><figcaption><p>Aggregate your data screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s6.png" alt=""><figcaption><p>Aggregate Your Data screen 2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s7.png" alt=""><figcaption><p>A preview of your aggregated data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s7.png" alt=""><figcaption><p>A Preview of Your Aggregated Data</p></figcaption></figure>
 
 ### <mark style="color:blue;">c) Selecting a Template</mark>
 
@@ -118,7 +118,7 @@ There are two mode for a widget designer page:
 2\) Preview mode - Used to view a live version of the widget.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
 ### <mark style="color:blue;">d) Customizing the Widget</mark>
 
@@ -179,7 +179,7 @@ To change the appearance of the chart:
 
 
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customizing the appearance of the chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customizing the Appearance of the Chart</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding a Chart Title</mark>&#x20;
 
@@ -191,7 +191,7 @@ To add a chart title:
 
 &#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data ](designing-a-user-interface-to-visualize-information.md#previewing-your-widget)visualized on a chart image).
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8_1.png" alt=""><figcaption><p>Chart preview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8_1.png" alt=""><figcaption><p>Chart Preview</p></figcaption></figure>
 
 ## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
 
@@ -210,7 +210,7 @@ To design a user interface from scratch:
 7. Click **Edit this template**. The respective template will be displayed on the widget designer page.
 8. By default, **Design** mode will be selected on the widget designer page.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
 ### <mark style="color:blue;">a) Binding a Data source</mark>
 
@@ -241,7 +241,7 @@ For instance, let's use aggregation to summarize data to display minimum tempera
 3. After applying the aggregation, click **Done**.
 4. If you are happy with the aggregation, click **Looks good**.&#x20;
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering Data</p></figcaption></figure>
 
 ### <mark style="color:blue;">c) Customizing the Widget</mark>
 
@@ -252,7 +252,7 @@ To set properties of the radial gauge:
 1. On the widget designer page, click on the **Radial Gauge.** The **Properties** panel will be displayed.
 2. On the properties panel, set properties as required.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s13_1.png" alt=""><figcaption><p>Setting properties of the gauge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s13_1.png" alt=""><figcaption><p>Setting Properties of the Gauge</p></figcaption></figure>
 
 
 
@@ -275,9 +275,9 @@ Customizing the appearance and style of a radial gauge widget involves making vi
 3. Customize the visual aesthetics of the radial gauge according to your preferences.
 4. After setting the properties, provide a appropriate **Name** for the widget under **General** tab.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s14.png" alt=""><figcaption><p>Customize colors of the radial gauge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s14.png" alt=""><figcaption><p>Customizing Colors of the Radial Gauge</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Customizing the styling properties of the radial gauge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Customizing the Styling Properties of the Radial Gauge</p></figcaption></figure>
 
 #### <mark style="color:blue;">Customizing the Properties of the Widget's Header Section</mark>
 
@@ -291,7 +291,7 @@ To customize the properties of the widget’s header section:
 
 The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) on the gauge).
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s16.png" alt=""><figcaption><p>Radial Gauge in the preview mode</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s16.png" alt=""><figcaption><p>Radial Gauge in the Preview Mode</p></figcaption></figure>
 
 ## <mark style="color:blue;">Previewing Your Widget</mark>
 
