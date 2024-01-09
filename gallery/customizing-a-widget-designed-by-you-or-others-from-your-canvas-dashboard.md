@@ -7,7 +7,7 @@ Let's see how to customize a widget designed.
 1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Choose the canvas.
 3. If there is a list of canvases on the Gallery, you can search for the required Canvas by typing its name/partial name under **Search Canvases.**
-4. Click on the canvas to open it in a new window
+4. Click on the canvas to open it in a new window.
 5. On the canvas, click on the **Customise** icon on the bottom right to access its edit mode.
 6. Choose the widget to be customized.
 7. Click the **Settings** icon of the respective widget.
