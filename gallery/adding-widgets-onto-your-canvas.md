@@ -25,7 +25,7 @@ There are two ways to add a widget onto a canvas:
 
 The following example shows the Current Monthly Energy Usage widget that can be used to show the current month's energy consumption.
 
-<figure><img src="../.gitbook/assets/Energy Widget.png" alt=""><figcaption><p>Current Monthly Energy Usage widget </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Energy Widget.png" alt=""><figcaption><p>Current Monthly Energy Usage Widget </p></figcaption></figure>
 
 ## <mark style="color:blue;">Adding the Widget directly from Your Canvas</mark>
 
