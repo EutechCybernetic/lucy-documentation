@@ -16,7 +16,7 @@ Let's see how to build a widget easily.
 
 1. On the app homepage, head to the **Gallery** tab on the left sidebar.
 2. Choose the canvas.
-3. If there is a list of canvases in the Gallery, you can search for the required Canvas by typing its name/partial name of your canvas under **Search Canvases.**
+3. If there is a list of canvases on the Gallery, you can search for the required Canvas by typing its name/partial name under **Search Canvases.**
 4. Click on the canvas to open it in a new window
 5. On the canvas, click on the **Add Widget** button.
 6. The widget browser will be opened to select your widgets.
