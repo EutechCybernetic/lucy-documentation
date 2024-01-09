@@ -6,10 +6,10 @@ Projects/Folders aid in storing and organizing your work. This is the space for 
 
 Let’s create a new project.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Click on the + button.
-3. Type a name for your folder _e.g., Energy Budgeting_
-4. Click **Create a Folder.**
+3. Type a name for your folder, _e.g., Energy Budgeting._
+4. Click **Create a folder.**
 5. A new folder will be created and opened.
 
 ## <mark style="color:blue;">Locating Your Projects</mark>
