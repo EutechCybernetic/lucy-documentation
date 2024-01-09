@@ -5,14 +5,13 @@ If a widget is no longer needed or serves the same purpose as another, it can be
 Let's see how to delete a widget from your canvas.
 
 1. On the app homepage, head to the **Gallery** tab on the left sidebar.
-2. Search and click on the required Canvas to open it.
-3. On the canvas, click on the **Customise** icon on the bottom right to access its edit mode.
-4. Choose the widget to be deleted.
-5. Click the **Close** button of the respective widget.
-6. Click the **Confirm** button to confirm the action.
-7. The respective widget will be deleted from the canvas.
-8. Click **Exit** button to leave the edit mode.
+2. Choose the **Canvas** containing the widget to be deleted.
+3. If there is a list of canvases in the Gallery, you can search for the required Canvas by typing its name/partial name of your canvas under **Search Canvases.**
+4. Click on the canvas to open it in a new window.
+5. Choose the **Widget** to be deleted.
+6. Click the **Customise** icon to access the respective canvas's edit mode.
+7. Click the **Close** button of the respective widget.
+8. Click the **Confirm** button to confirm the action.
+9. The respective widget will be deleted from the canvas.
+10. Click **Exit** button to leave the edit mode.
 
-Below is a short video demonstrating the process of deleting a widget from canvas.
-
-{% embed url="https://drive.google.com/file/d/1xKDwqdK7LBVdhweqgXeBD3jhFass-qfj/preview" %}
