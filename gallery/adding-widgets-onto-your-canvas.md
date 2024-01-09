@@ -56,7 +56,7 @@ To filter and select widgets from the Widget Browser:
 
 ### <mark style="color:blue;">3. View Widget Preview</mark>
 
-On the Widget Browser, click the green eye icon of the required Widget to get more information about the respective Widget. Once the eye icon is clicked you will see a small preview of the Widget which is interactive.
+On the Widget Browser, click the green eye icon of the required Widget to get more information about the respective Widget. Once the green eye icon is clicked, you will see a small preview of the Widget which is interactive.
 
 <figure><img src="../.gitbook/assets/Widget Preview.png" alt=""><figcaption><p>Preview of a Widget</p></figcaption></figure>
 
@@ -64,7 +64,7 @@ On the Widget Browser, click the green eye icon of the required Widget to get mo
 
 ### <mark style="color:blue;">4. Select and Add required Widgets to Canvas</mark>
 
-1. Pick the required Widgets by clicking on them. You can even select the Widgets by clicking on the Tick icon  related to them.
+1. Pick the required Widgets by clicking on them. You can even select the Widgets by clicking on the Tick icon related to them.
 2. After selecting the required Widgets, click **Add Widgets.**
 3. The selected widget(s) will be added onto your Canvas.
 
