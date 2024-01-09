@@ -1,6 +1,6 @@
 # Editing Properties of a Canvas
 
-Once you've created a canvas in the Gallery, you can personalize it by making the following adjustments:
+Once you've created a canvas on the Gallery, you can personalize it by making the following adjustments:
 
 * Modify the header color.
 * Alter the background color.
@@ -8,7 +8,7 @@ Once you've created a canvas in the Gallery, you can personalize it by making th
 
 ## <mark style="color:blue;">Editing Properties of a Canvas</mark>
 
-1. On the app homepage, head to the **Gallery** tab on the left sidebar.
+1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Search and select the **Canvas** you wish to edit.
 3. Hover over the Canvas and click the **edit** icon that appears.
 4. Select a **color theme** for your Canvas.
