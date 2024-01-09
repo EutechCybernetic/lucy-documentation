@@ -8,9 +8,9 @@ _Note: You cannot edit the Login ID of a user._
 
 To edit User details:
 
-1. On the app homepage, go to **Users** tab on the left sidebar.
+1. On the app **homepage**, go to the **Users** tab on the left sidebar.
 2. On the Users page, the users currently registered in the system will be listed.
-3. Search and select the user you wish to edit details.
+3. If you cannot find a specific user in the list, type in the user's name under **Search Users.**
 4. Click on the required User to change details.
 5. Edit the user details and hit enter.
 6. User details will be updated.
