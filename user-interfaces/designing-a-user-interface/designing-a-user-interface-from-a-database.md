@@ -33,7 +33,7 @@ Follow the below steps to design a form from a database.
 7. By default, the widget designer will be opened in its **Design** mode.
 8. You can do required customization to the form in the **Design** mode.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s1.png" alt=""><figcaption><p>Widget designer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s1.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
 {% hint style="success" %}
 **Tip**: Once you open the widget designer, its default mode will be the **Design** Mode (design mode will be selected).
@@ -50,7 +50,7 @@ The Widget Designer offers a user-friendly interface for designing, editing, and
 
 To customize the form's appearance, including elements such as the header, body, or individual items/fields within the body, simply click on the desired section. This action opens the Properties panel, allowing you to make adjustments like changing the header background.
 
-<figure><img src="../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a form</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a Form</p></figcaption></figure>
 
 In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
