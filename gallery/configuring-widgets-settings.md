@@ -1,6 +1,6 @@
 # Configuring Widget's Settings
 
-This article explains how to configure a widget’s settings on your canvas. Some widgets enable you to customize settings that are unique to that particular widget.&#x20;
+This article explains how to configure a widget’s settings in your canvas. Some widgets enable you to customize settings that are unique to that particular widget.&#x20;
 
 {% hint style="info" %}
 It's important to note that not all widgets allow for configurable settings.&#x20;
@@ -14,12 +14,12 @@ Adjusting the widget’s settings enables users to personalize the visual repres
 
 Let's see how to configure a widget's settings.
 
-1. On the app homepage, head to the **Gallery** tab on the left sidebar.
+1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Pick the Canvas from the Gallery.&#x20;
 3. If there is a list of Canvases in the Gallery, you can search for the required Canvas by typing its name/partial name of your canvas under Search Canvases.&#x20;
 4. Click on the required canvas to open it in a new window.
-5. On the canvas, click on the **Customise** icon on the bottom right to access its edit mode.
-6. Click on the **Settings** icon of the widget you wish to configure settings.
+5. In the canvas, click on the **Customise** icon on the bottom right to access its edit mode.
+6. Click the **Settings** icon of the widget you wish to configure settings.
 7. Make the required configurations in the settings _e.g., changing chart colors and axis labels._
 8. To save the changes, click **Save**.
 9. Click **Exit** to exit from the edit mode.

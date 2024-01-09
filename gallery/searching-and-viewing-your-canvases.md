@@ -1,6 +1,6 @@
 # Searching and Viewing Your Canvases
 
-This article guides you on how to locate and view your canvases on the Gallery.
+This article guides you on how to locate and view your canvases in the Gallery.
 
 ## <mark style="color:blue;">Searching and Viewing Your Canvases</mark>
 
