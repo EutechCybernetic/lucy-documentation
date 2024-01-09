@@ -37,7 +37,7 @@
   * [Adding your Own Widget onto a Dashboard/Canvas](user-interfaces/adding-your-own-widget-onto-a-dashboard-canvas.md)
   * [Working with the Widget Designer](user-interfaces/working-with-the-widget-designer.md)
 * [Gallery](gallery/README.md)
-  * [Creating a Canvas in the Gallery](gallery/creating-a-canvas-in-the-gallery.md)
+  * [Creating a Canvas on the Gallery](gallery/creating-a-canvas-on-the-gallery.md)
   * [Adding Widgets onto Your Canvas](gallery/adding-widgets-onto-your-canvas.md)
   * [Searching and Viewing Your Canvases](gallery/searching-and-viewing-your-canvases.md)
   * [Configuring Widget's Settings](gallery/configuring-widgets-settings.md)
