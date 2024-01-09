@@ -6,5 +6,5 @@ This article guides you on how to locate and view your canvases on the Gallery.
 
 1. On the app homepage, go to the **Gallery** tab on the left.
 2. Pick the Canvas from the Gallery.&#x20;
-3. If there is a list of Canvases in the Gallery, you can search for the required Canvas by typing its **name/partial name** of your canvas under **Search Canvases.**
-4. Click on the required **canvas** to open it in a new window.
+3. If there is a list of Canvases in the Gallery, you can search for the required Canvas by typing its name/partial name of your canvas under **Search Canvases.**
+4. Click on the required canvas to open it in a new window.
