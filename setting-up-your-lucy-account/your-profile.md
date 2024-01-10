@@ -2,7 +2,7 @@
 
 Help your coworkers learn more about you by setting up your profile. You can edit your first name, last name, email, username and change the password of your account.
 
-## <mark style="color:blue;">Updating your profile</mark>
+## <mark style="color:blue;">Updating Your Profile</mark>
 
 1. From your homepage, click your profile icon on the top right.
 2. Click the menu item **Profile**.
