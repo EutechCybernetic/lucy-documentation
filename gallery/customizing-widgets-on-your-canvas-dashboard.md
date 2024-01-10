@@ -1,6 +1,12 @@
-# Customizing a Widget Designed by You or Others from Your Canvas/Dashboard
+# Customizing Widgets on Your Canvas/Dashboard
 
 Widgets on your canvas, whether made by you or other users, can be customized further when required. Lucy offers a direct link to access the widget designer, enabling you to customize these widgets directly from your canvas.
+
+
+
+{% hint style="info" %}
+Widgets added to your canvas can only be customized if they were designed by you or others.
+{% endhint %}
 
 Let's see how to customize a widget designed.
 

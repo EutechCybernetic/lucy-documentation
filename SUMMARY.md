@@ -45,7 +45,7 @@
   * [Deleting a Widget from Your Canvas](gallery/deleting-a-widget-from-your-canvas.md)
   * [Resizing a Widget on a Canvas](gallery/resizing-a-widget-on-a-canvas.md)
   * [Building a Widget from Your Canvas/Dashboard](gallery/building-a-widget-from-your-canvas-dashboard.md)
-  * [Customizing a Widget Designed by You or Others from Your Canvas/Dashboard](gallery/customizing-a-widget-designed-by-you-or-others-from-your-canvas-dashboard.md)
+  * [Customizing Widgets on Your Canvas/Dashboard](gallery/customizing-widgets-on-your-canvas-dashboard.md)
   * [Editing Properties of a Canvas](gallery/editing-properties-of-a-canvas.md)
 * [Projects](projects/README.md)
   * [Creating a New Project](projects/creating-a-new-project.md)
