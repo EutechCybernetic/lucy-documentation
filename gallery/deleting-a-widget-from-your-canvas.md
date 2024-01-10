@@ -15,3 +15,5 @@ Let's see how to delete a widget from your canvas.
 9. The respective widget will be deleted from the canvas.
 10. Click **Exit** button to leave the edit mode.
 
+Watch the video to gain a better understanding of how to delete a widget from your canvas.
+
