@@ -2,13 +2,11 @@
 
 Widgets on your canvas, whether made by you or other users, can be customized further when required. Lucy offers a direct link to access the widget designer, enabling you to customize these widgets directly from your canvas.
 
-
-
 {% hint style="info" %}
 Widgets added to your canvas can only be customized if they were designed by you or others.
 {% endhint %}
 
-Let's see how to customize a widget designed.
+Let's see how to customize a widget on your canvas.
 
 1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Choose the canvas.
@@ -20,3 +18,7 @@ Let's see how to customize a widget designed.
 8. Click on the **Customize the Widget** button to open the widget on its widget designer page.
 9. Now you can do required modification to your widget.
 10. Click the **Save Widget** button to save your modifications.
+
+Watch the video demonstrating how to customize a widget on your canvas.
+
+{% embed url="https://drive.google.com/uc?id=1zpmcn62mX1d1Kco25vS6xPX5BSGt6fRe" %}
