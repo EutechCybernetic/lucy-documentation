@@ -17,3 +17,4 @@ Let's see how to delete a widget from your canvas.
 
 Watch the video to gain a better understanding of how to delete a widget from your canvas.
 
+{% embed url="https://drive.google.com/uc?id=1-6G1Mrp0BniqDVns3YWRVOuRkdT8xIbp" %}
