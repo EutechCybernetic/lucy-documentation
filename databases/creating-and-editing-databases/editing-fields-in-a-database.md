@@ -6,7 +6,7 @@ So, when you're dealing with a database, making changes such as modifying, addin
 
 To edit fields in a database:
 
-1. On the Lucy app homepage, head to the **My Work** tab on the left sidebar.
+1. On the Lucy app **homepage**, head to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
@@ -21,7 +21,7 @@ To edit fields in a database:
 
 To add a new field:
 
-1. On the Lucy app homepage, head to the **My Work** tab on the left sidebar.
+1. On the Lucy app **homepage**, head to the **My Work** tab on the left sidebar.
 2. &#x20;All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
@@ -35,7 +35,7 @@ To add a new field:
 
 To delete an existing field in a database:
 
-1. On the Lucy app homepage, head to the **My Work** tab on the left sidebar.
+1. On the Lucy app **homepage**, head to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
@@ -51,7 +51,7 @@ Once you've made required modifications to your database fields, you need to sav
 
 To save the changes:
 
-1. On the Lucy app homepage, head to the **My Work** tab on the left sidebar.
+1. On the Lucy app **homepage**, head to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.&#x20;
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**&#x20;
 4. Click on the folder you wish to open.

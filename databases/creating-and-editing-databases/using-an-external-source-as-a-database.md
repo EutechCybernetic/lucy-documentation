@@ -6,7 +6,7 @@ When you link an external database, data is directly written and read from that 
 
 Let's see the process of creating a database using an external data source.
 
-1. On the app homepage, head to the **My Work** tab on the left sidebar.
+1. On the app **homepage**, head to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
@@ -27,7 +27,7 @@ Let's see the process of creating a database using an external data source.
 
 Once you've created your database, you can preview its contents by navigating to the **Databases** tab within the corresponding folder.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.

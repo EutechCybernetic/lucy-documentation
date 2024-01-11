@@ -10,7 +10,7 @@ Besides selecting a template to create a database, you can always design your da
 
 Let's create your database from scratch.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
@@ -51,7 +51,7 @@ Upon choosing a template, you will see its pre-designed collection of fields and
 
 Let's build our database using an existing template.&#x20;
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
