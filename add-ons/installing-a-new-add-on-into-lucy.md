@@ -11,14 +11,15 @@ Now, there are two ways to install a new add-on:
 
 ## <mark style="color:blue;">Installing an Add-on from a Dashboard/Canvas</mark>
 
-The most straightforward method to install an add-on is directly from a dashboard, eliminating the need to navigate back and forth.
+Installing an add-on may be necessary for certain widgets on your dashboard. The simplest way to do this is to install it directly from the dashboard, eliminating the need to navigate back and forth.
 
 To install add-on from a dashboard:
 
-1. On the app homepage, head to the **Gallery** tab on the left sidebar.
-2. Search and click on your **canvas** to open it.
-3. On the canvas, pick the widget you wish to install the add-on.
-4. Click **Install**.
+1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
+2. Pick the Canvas from the Gallery.
+3. If there is a list of Canvases on the Gallery, you can search for the required Canvas by typing its name under **Search Canvases**.
+4. On the canvas, pick the widget you wish to install the add-on.
+5. Click the **Install** button of the respective widget.
 
 After completing the installation, it will guide you through a sequence of configuration steps to set up the add-on. Once the configuration is done, the data will be displayed on your widget.
 
