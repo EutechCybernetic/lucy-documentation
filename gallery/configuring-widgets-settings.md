@@ -26,3 +26,5 @@ Let's see how to configure a widget's settings.
 10. Your changes will be applied and displayed on the widget.
 
 Watch this video on configuring a widget's settings to gain more understanding.
+
+{% embed url="https://drive.google.com/uc?id=1-S58Fjx5ICNymD4QoN5J__jDJh0-tG5-" %}
