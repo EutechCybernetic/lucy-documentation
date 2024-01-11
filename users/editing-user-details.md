@@ -4,7 +4,11 @@ This article explains how to edit user details in Lucy.
 
 You can edit the user’s first name, last name, email, user group and phone.
 
-_Note: You cannot edit the Login ID of a user._
+
+
+{% hint style="info" %}
+_You cannot edit the 'Login ID' of a user when editing user details._
+{% endhint %}
 
 To edit User details:
 
