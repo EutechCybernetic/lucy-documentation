@@ -40,13 +40,14 @@ The widget designer serves the purpose of designing and constructing a user inte
 
 If you have existing user interfaces inside your project, you can easily jump into the widget designer page.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Go to the **User Interfaces** tab.
-4. Pick the desired user interface.
-5. If there is a list of user interfaces, you can search for the required User Interface by typing its name under Search User Interfaces.
-6. Hover over your user interface and click the **Edit** icon that appears.
-7. The respective user interface will be opened on its widget designer page.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
+4. Go to the **User Interfaces** tab.
+5. Pick the desired user interface.
+6. If there is a list of user interfaces, you can search for the required User Interface by typing its name under Search User Interfaces.
+7. Hover over your user interface and click the **Edit** icon that appears.
+8. The respective user interface will be opened on its widget designer page.
 
 {% hint style="info" %}
 Note: If you haven't created any user interfaces under the User Interfaces tab of your project, you won't find any user interfaces there.
@@ -57,12 +58,13 @@ Note: If you haven't created any user interfaces under the User Interfaces tab o
 Users can create Forms from a database to capture information. The respective form can be opened on the widget designer to create, edit and do further modifications.
 
 1. On the app homepage, go to the **My Work** tab on the left.
-2. Search and click on the **folder** you want to open.
-3. Head to the **Databases** tab.
-4. Pick the database you wish to open. If there is a list of databases, you can search for the required database by typing its name under Search Databases.
-5. Hover over the required database and click the **Edit** icon that appears.
-6. Click **Create Form.**
-7. The respective form will be opened on its widget designer page.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
+4. Head to the **Databases** tab.
+5. Pick the database you wish to open. If there is a list of databases, you can search for the required database by typing its name under Search Databases.
+6. Hover over the required database and click the **Edit** icon that appears.
+7. Click **Create Form.**
+8. The respective form will be opened on its widget designer page.
 
 {% hint style="info" %}
 Note: If no database is created under the **Databases** tab, you will not see any database.
