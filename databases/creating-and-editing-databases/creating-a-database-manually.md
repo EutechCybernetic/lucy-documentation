@@ -35,7 +35,7 @@ Let's create your database from scratch.
 15. Click **Go to next Step**.
 16. Once you have designed the structure of your database, click **Create New Database.**
 
-<figure><img src="../../.gitbook/assets/LC_Create _DBs_StartfromScratch_s6_0_1.png" alt="" width="563"><figcaption><p>Starting from scratch screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Create _DBs_StartfromScratch_s6_0_2.png" alt="" width="563"><figcaption><p>Starting from Scratch screen 1</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/LC_Create _DBs_StartfromScratch_s6_1_1.png" alt="" width="563"><figcaption><p>Starting from scratch screen 2</p></figcaption></figure>
 
