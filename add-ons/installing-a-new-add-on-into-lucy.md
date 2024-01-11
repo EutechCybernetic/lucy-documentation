@@ -18,8 +18,9 @@ To install add-on from a dashboard:
 1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Pick the Canvas from the Gallery.
 3. If there is a list of Canvases on the Gallery, you can search for the required Canvas by typing its name under **Search Canvases**.
-4. On the canvas, pick the widget you wish to install the add-on.
-5. Click the **Install** button of the respective widget.
+4. Click on the canvas you wish to open.
+5. On the canvas, pick the widget you wish to install the add-on.
+6. Click the **Install** button of the respective widget.
 
 After completing the installation, it will guide you through a sequence of configuration steps to set up the add-on. Once the configuration is done, the data will be displayed on your widget.
 
@@ -29,7 +30,7 @@ The Add-ons page lists a collections of add-ons previously installed and allows 
 
 Let’s install a new Add-on from the Add-ons page.
 
-1. On the app homepage, go to **Add-ons** tab on the left sidebar.
+1. On the app **homepage**, go to **Add-ons** tab on the left sidebar.
 2. On the Add-ons page, click on the **Install a New Add-on** button.
 3. A list of add-ons that are currently available in the system and a list of previously installed add-ons will be displayed in a window.
 4. Click on the **add-on** you wish to instal**l** _e.g., IAQ Analytics add-on._

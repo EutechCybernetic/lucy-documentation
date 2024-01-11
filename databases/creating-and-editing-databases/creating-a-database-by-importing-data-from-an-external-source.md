@@ -16,7 +16,7 @@ Below is the step-by-step procedure for generating a new database by importing d
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
-5. Go to **Databases** tab.
+5. Go to the **Databases** tab.
 6. Click **+** button.
 7. Select **Import Data** option.
 8. Drag and drop your data file onto the marked area, or click on the area to pick the file.
