@@ -13,18 +13,20 @@ Currently, we support the import of data from **CSV** files and **xlsx** files.
 Below is the step-by-step procedure for generating a new database by importing data from an external source.
 
 1. On the app homepage, head to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Go to **Databases** tab.
-4. Click **+** button.
-5. Select **Import Data** option.
-6. Drag and drop your data file onto the marked area, or click on the area to pick the file.
-7. Once the file is uploaded, the data will be displayed in a spreadsheet format.
-8. Select the sheet from the data file that contains the information you need.
-9. Select only the columns you're interested in to include in the database.
-10. Click **Continue**.
-11. Provide a suitable name for the database.
-12. Click **Create Database.** A new database will be created related to the respective folder.
-13. Click **View Database** to open the database in a new window.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
+4. Click on the folder you wish to open.
+5. Go to **Databases** tab.
+6. Click **+** button.
+7. Select **Import Data** option.
+8. Drag and drop your data file onto the marked area, or click on the area to pick the file.
+9. Once the file is uploaded, the data will be displayed in a spreadsheet format.
+10. Select the sheet from the data file that contains the information you need.
+11. Select only the columns you're interested in to include in the database.
+12. Click **Continue**.
+13. Provide a suitable name for the database.
+14. Click **Create Database.** A new database will be created related to the respective folder.
+15. Click **View Database** to open the database in a new window.
 
 <figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s8_1.png" alt=""><figcaption><p>Selecting columns</p></figcaption></figure>
 

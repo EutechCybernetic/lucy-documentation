@@ -12,7 +12,7 @@ Let's create your database from scratch.
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
-3. If you cannot locate a folder in the list, type in the folder name under **Search Folders.**
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
 5. Go to **Databases** tab.
 6. Click **+** button and pick **Create Manually** option.
@@ -53,7 +53,7 @@ Let's build our database using an existing template.&#x20;
 
 1. On the app homepage, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
-3. If you cannot locate a folder in the list, type in the folder name under **Search Folders.**
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
 5. Go to **Databases** tab.
 6. Click **+** button and pick **Create Manually** option.
@@ -94,7 +94,7 @@ Once you've established your database, you can preview its contents by navigatin
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
-3. If you cannot locate a folder in the list, type in the folder name under **Search Folders.**
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
 5. Go to **Databases** tab.
 6. Search and select your database.
