@@ -28,7 +28,7 @@ To search for data records by entering a search term:
 
 For those with advanced expertise, you have the option to input a[ MongoDB query](https://www.mongodb.com/docs/manual/tutorial/query-documents/) directly into the search box or type it in the editor window.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
@@ -38,7 +38,7 @@ For those with advanced expertise, you have the option to input a[ MongoDB query
 8. Type in the MongoDB query in the search box.
 9. Instead, you can click the expand icon to enter the query in a editor window.
 
-<figure><img src="../.gitbook/assets/LC_Searching and Filtering Information in a Database_S2.png" alt="" width="344"><figcaption><p>Searching for Information by Entering a MongoDB Query</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LC_Searching and Filtering Information in a Database_S2.png" alt="" width="344"><figcaption><p>Searching data records by Entering a MongoDB Query</p></figcaption></figure>
 
 ## <mark style="color:blue;">Filtering Information</mark>
 
@@ -69,7 +69,7 @@ To filter data records by selecting specific column values:
 
 To filter data records by selecting specific columns:
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
@@ -85,7 +85,7 @@ To filter data records by selecting specific columns:
 
 To sort information in ascending or descending order:
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 4. Click on the folder you wish to open.
