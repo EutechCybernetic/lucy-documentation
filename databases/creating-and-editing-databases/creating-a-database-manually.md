@@ -80,7 +80,7 @@ Let's build our database using an existing template.&#x20;
 17. Click **Go to next Step**.
 18. Once you have completed designing the database, click **Create New Database.**
 
-<figure><img src="../../.gitbook/assets/LC_Create _DBs_Pick Template_S5_0.png" alt="" width="563"><figcaption><p>Selecting a template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Create _DBs_Pick Template_S5_1.png" alt="" width="563"><figcaption><p>Selecting a Template</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/LC_PickingTemplate_s5_1.png" alt="" width="563"><figcaption><p>Selected template's fields and their types</p></figcaption></figure>
 
