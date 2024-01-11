@@ -88,11 +88,13 @@ Below is a short video that guides you on creating a database manually.
 
 Once you've established your database, you can preview its contents by navigating to the **Databases** tab within the corresponding folder.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
-2. Click on the **folder** you want to open.
-3. Go to **Databases** tab.
-4. Search and select your database.
-5. Click on the database to view it.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. If you cannot locate a folder in the list, type in the folder name under **Search Folders.**
+4. Click on the folder you wish to open.
+5. Go to **Databases** tab.
+6. Search and select your database.
+7. Click on the database to view it.
 
 {% hint style="info" %}
 &#x20;Initially, a manually created database is a empty database with no data.
