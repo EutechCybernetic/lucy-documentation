@@ -10,20 +10,22 @@ We can simply type in our question, and generate a pie chart to display the resu
 
 Let’s see how to build a widget by typing a question.
 
-1. On the app homepage, head to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Go to the **Ask me something** tab.
-4. Type in the desired **question** in the box.
-5. Hit **Enter.** The answer to the question will be displayed on a widget.
-6. Click **Customize** button to open the widget designer page.
-7. On the widget designer page, click **Preview** to preview the full view of the respective widget.
+1. On the app **homepage**, head to the **My Work** tab on the left sidebar.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
+4. Click on the folder you wish to open.
+5. Go to the **Ask me something** tab.
+6. Type in the desired **question** in the box.
+7. Hit **Enter.** The answer to the question will be displayed on a widget.
+8. Click **Customize** button to open the widget designer page.
+9. On the widget designer page, click **Preview** to preview the full view of the respective widget.
 
 <figure><img src="../.gitbook/assets/LC_Ask a Question about Databases in a Folder to Build Your Own Widget_s1.png" alt=""><figcaption><p>Generated widget preview based on the entered question</p></figcaption></figure>
 
 
 
 {% hint style="info" %}
-The information presented in the generated widget will depend on the data volume within databases and the field names you specify in those databases.
+The information presented on the generated widget will depend on the data volume within databases and the field names you specify in those databases.
 {% endhint %}
 
 Watch below video on how to build a widget by typing a question.
