@@ -9,7 +9,7 @@ For instance, let’s create a database to capture employee feedback and use thi
 Utilizing Content-aware Autofill for database population involves several key steps.
 
 1. Create Your Database
-2. Add Examples to Your database
+2. Add Examples to Your Database
 3. Enable Content-aware Autofill in Your Database
 
 ## <mark style="color:blue;">1. Create Your Database</mark>
@@ -26,49 +26,53 @@ Find the article below to create a new database.
 
 The next step is to add some sample data entries to your database. Let’s create a form to easily add data.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Head to the **Databases** tab.
-4. Search and click on the **database** we previously created.
-5. Hover over the database and click **Edit** icon that appears.
-6. Click **Create a Form.**
-7. On the Mood field, click **Delete** icon (We will need this field later).
-8. Click **Save Widget**.
-9. Click **Open Page** to open the form in a new window.
-10. Fill in the form details and click **Submit**.
-11. Refresh the page to add more examples.
-12. Open the database you've created.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
+4. Click on the folder you wish to open.
+5. Head to the **Databases** tab.
+6. Search and click on the **database** we previously created.
+7. Hover over the database and click **Edit** icon that appears.
+8. Click **Create a Form.**
+9. In the Mood field, click **Delete** icon (We will need this field later).
+10. Click **Save Widget**.
+11. Click **Open Page** to open the form in a new window.
+12. Fill in the form details and click **Submit**.
+13. Refresh the page to add more examples.
+14. Open the database you've created.
     1. To open the database, go to the **My Work** tab on the left sidebar on the app homepage.
     2. Search and click on the **folder** you want to open.
     3. Head to the **Databases** tab.
     4. Search and click on the database.&#x20;
     5. Fill in the **Mood** column for each example added (enter **Good** or **Bad** appropriately for each example).
 
-<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S1.png" alt=""><figcaption><p>Feedback form designed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S1.png" alt=""><figcaption><p>Feedback Form </p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S2.png" alt="" width="392"><figcaption><p>Filling the form</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S2.png" alt="" width="392"><figcaption><p>Filling the Form</p></figcaption></figure>
 
 This is how your examples will be visible in the database.
 
-<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S3.png" alt=""><figcaption><p>Data entries added to the database</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S3.png" alt=""><figcaption><p>Data entries added to the Database</p></figcaption></figure>
 
 ## <mark style="color:blue;">3. Enable Content-aware Autofill in Your Database</mark>
 
 The last step is to enable Content-aware Autofill in your database.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Head to the **Databases** tab.
-4. Search and click on the **database** created.
-5. Hover over the database and click **Edit** icon to open its edit mode.
-6. Enable the **Content Aware Auto Fill** option.
-7. Choose the field you want to look at from the **Choose Raw Text Field** list. In this example, it is the Comment field.
-8. Select the **No of Example rows** to be checked.
-9. **Columns To AutoFill (Optional)**: This option is used to select the field you wish to fill in. In this example, it is the Mood field.
-10. Click **Done**.
-11. Click **Update Database** to save changes.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
+4. Click on the folder you wish to open.
+5. Head to the **Databases** tab.
+6. Search and click on the **database** created.
+7. Hover over the database and click **Edit** icon to open its edit mode.
+8. Enable the **Content Aware Auto Fill** option.
+9. Choose the field you want to look at from the **Choose Raw Text Field** list. In this example, it is the Comment field.
+10. Select the **No of Example rows** to be checked.
+11. **Columns To AutoFill (Optional)**: This option is used to select the field you wish to fill in. In this example, it is the Mood field.
+12. Click **Done**.
+13. Click **Update Database** to save changes.
 
 Now add few more examples to the database from the form interface and view the database to see the changes.
 
@@ -76,9 +80,11 @@ Now add few more examples to the database from the form interface and view the d
 
 Let's view the database to see the changes.
 
-1. On the app homepage, go to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Head to the **Databases** tab.
-4. Search and click on the **database** to view it.
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
+4. Click on the folder you wish to open.
+5. Head to the **Databases** tab.
+6. Search and click on the **database** to view it.
 
-<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S4.png" alt=""><figcaption><p>Viewing the updated database</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S4.png" alt=""><figcaption><p>Viewing the updated Database</p></figcaption></figure>
