@@ -82,7 +82,7 @@ Let's build our database using an existing template.&#x20;
 
 <figure><img src="../../.gitbook/assets/LC_Create _DBs_Pick Template_S5_1.png" alt="" width="563"><figcaption><p>Selecting a Template</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_PickingTemplate_s5_1.png" alt="" width="563"><figcaption><p>Selected template's fields and their types</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_PickingTemplate_s5_1.png" alt="" width="563"><figcaption><p>Selected Template's Fields and their Types</p></figcaption></figure>
 
 Below is a short video that guides you on creating a database manually.
 

@@ -28,13 +28,13 @@ Below is the step-by-step procedure for generating a new database by importing d
 14. Click **Create Database.** A new database will be created related to the respective folder.
 15. Click **View Database** to open the database in a new window.
 
-<figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s8_1.png" alt=""><figcaption><p>Selecting columns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s8_2.png" alt=""><figcaption><p>Selecting Columns</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s9_1_1.png" alt=""><figcaption><p>Creating the database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s9_1_1.png" alt=""><figcaption><p>Creating the Database</p></figcaption></figure>
 
 Below is a preview of the newly created database.
 
-<figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s10 (1).png" alt=""><figcaption><p>Database preview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Create_DB_by_importingData_s10 (1).png" alt=""><figcaption><p>Database Preview</p></figcaption></figure>
 
 Watch the video below to gain more insights on creating a database by importing data from an external source.
 
