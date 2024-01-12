@@ -69,12 +69,16 @@ If you want to manually add data records to your database, here's a step-by-step
 3. If you cannot locate the folder in the list, type in the folder name under Search Folders.&#x20;
 4. Click on the folder you wish to open.
 5. Go to the **Databases** tab.
-6. Search and click on the desired **database**.
+6. Search and click on the desired **database**. A table preview of your database will be opened.
 7. Click **Add**.
-8. An empty record will be added to enter your information.
-9. Enter your information.
-10. Click **Save Item (s).**
-11. To add more records, repeat the steps 5 to 8.
+8. An empty record will be added to enter your data.
+9. Enter your data.
+10. Click **Save Item (s).** Your data will be saved to the database.
+11. Add more data records.
+    1. To add more data records, type in the number of rows you want to add data.
+    2. Click **Add.** The entered number of empty records will be added to enter your data.
+    3. Enter your data.&#x20;
+    4. Click **Save Item (s).** Your data will be saved to the database.
 
 Find the video on adding data manually to your database to gain better insights.
 
