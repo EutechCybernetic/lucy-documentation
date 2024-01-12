@@ -1,6 +1,6 @@
 # Designing a User Interface
 
-User Interfaces can be used to represent something on display, and you can build them using a widget designer.&#x20;
+User Interfaces can be used to represent something on display, and you can build them using a Widget Designer.&#x20;
 
 There are 4 types of user interfaces that you can design:
 
