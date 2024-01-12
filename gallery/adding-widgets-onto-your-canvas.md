@@ -54,6 +54,14 @@ To filter and select widgets from the Widget Browser:
 
 <figure><img src="../.gitbook/assets/LC_Adding Widgets onto your Canvas_S4_1.png" alt=""><figcaption><p>Filter Widgets</p></figcaption></figure>
 
+
+
+{% hint style="info" %}
+Besides adding built-in widgets onto a canvas, you can also add the widgets built by yourself or others.
+
+All custom-made widgets can be filtered and accessed through the **My Widgets** filter on the the Widget Browser.
+{% endhint %}
+
 ### <mark style="color:blue;">3. View Widget Preview</mark>
 
 On the Widget Browser, click the green eye icon of the required Widget to get more information about the respective Widget. Once the green eye icon is clicked, you will see a small preview of the Widget which is interactive.
