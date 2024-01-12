@@ -47,6 +47,7 @@
   * [Building a Widget from Your Canvas/Dashboard](gallery/building-a-widget-from-your-canvas-dashboard.md)
   * [Customizing Widgets on Your Canvas/Dashboard](gallery/customizing-widgets-on-your-canvas-dashboard.md)
   * [Editing Properties of a Canvas](gallery/editing-properties-of-a-canvas.md)
+  * [Filtering Data in a Widget](gallery/filtering-data-in-a-widget.md)
 * [Projects](projects/README.md)
   * [Creating a New Project](projects/creating-a-new-project.md)
   * [Searching and Viewing Your Projects](projects/searching-and-viewing-your-projects.md)
