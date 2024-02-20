@@ -59,4 +59,6 @@
   * [Creating a News Feed](news-feeds/creating-a-news-feed.md)
   * [Searching and Viewing News Feeds](news-feeds/searching-and-viewing-news-feeds.md)
   * [Editing a News Feed](news-feeds/editing-a-news-feed.md)
-* [Workflows](workflows.md)
+* [Workflows](workflows/README.md)
+  * [Workflow Editor](workflows/workflow-editor.md)
+  * [Creating Workflows](workflows/creating-workflows.md)

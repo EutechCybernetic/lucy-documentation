@@ -1,12 +1,12 @@
 # Creating a Database Manually
 
-Databases can be created either from the ground up or by choosing an existing template.&#x20;
+Databases can be created either from the ground up or by choosing an existing database template.&#x20;
 
-When designing your database with an existing template, you can select a pre-designed template that comes with a predefined structure and build your database using it. This might require a few adjustments such as modifying available fields, adding more fields to tailor the database to your specific needs.
+When designing your database with an existing database template, you can select a pre-designed template that comes with a predefined structure and build your database using it. This might require a few adjustments such as modifying available fields, adding more fields to tailor the database to your specific needs.
 
 ## <mark style="color:blue;">Creating a Database from Scratch</mark>
 
-Besides selecting a template to create a database, you can always design your database yourself by adding required fields and their data types.
+Besides selecting a database template to create a database, you can always design your database yourself by adding required fields and their data types.
 
 Let's create your database from scratch.
 
