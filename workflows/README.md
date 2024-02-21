@@ -6,11 +6,12 @@ Overall, workflows with automated alerts and triggers help organizations streaml
 
 For example, a workflow can be created to run whenever someone adds new data to a database. This trigger could then initiate the action such as inserting the data into a dedicated Excel sheet.
 
-## **Trigger**
+**Trigger**
 
 An event/condition that initiates the workflow. When the condition is met, the workflow will start to run. Triggers can be things like receiving an email, adding a new record to a database, or a specific time or interval.
 
-## Actions
+**Actions**
 
 Actions are the tasks or steps that the workflow performs in response to the trigger. These actions may talk to external systems that you have connected to your Lucy account. The actions could also interact with your database or other entities as well.
 
+You can locate, access, and create your workflows through the **Workflows** tab within a specific folder.
