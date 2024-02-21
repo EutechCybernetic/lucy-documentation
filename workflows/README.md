@@ -4,8 +4,6 @@ Workflows enable the creation of automated sequences of actions that interact wi
 
 Overall, workflows with automated alerts and triggers help organizations streamline their processes, improve efficiency, and ensure timely responses to important events.
 
-For example, a workflow can be created to run whenever someone adds new data to a database. This trigger could then initiate the action such as inserting the data into a dedicated Excel sheet.
-
 Each workflow has:
 
 * A trigger
@@ -18,4 +16,6 @@ An event/condition that initiates the workflow. When the condition is met, the w
 ## Actions
 
 Actions are the tasks or steps that the workflow performs in response to the trigger. These actions may talk to external systems that you have connected to your Lucy account. The actions could also interact with your database or other entities as well.
+
+For example, a workflow can be created to run whenever someone adds new data to a database. This trigger could then initiate the action such as inserting the data into a dedicated Excel sheet.
 
