@@ -48,7 +48,7 @@ To create the workflow that sends an email when new data is added to the databas
    2. Filter and select blocks by category (e.g., Communications ) or type in the name of the block in the search box.
    3. Pick the **Send Email** block under **Communications**.
 7. Configure the **properties** of the Send Email block.
-   1. Click the **arrow** icon to expand the **Properties** section.
+   1. On the Send Email block, click the **arrow** icon to expand the **Properties** section.
    2. Enter the **Subject** of the email.
    3. In the **To** box, type in the recipient’s email address.
    4. In the **Body** box, type in the message to be sent.
@@ -59,7 +59,11 @@ To create the workflow that sends an email when new data is added to the databas
 8. Enter a suitable **name** for the Workflow.
 9. Click **Save**. Now you have completed creating the workflow. Next step is to test it.
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Selecting a Triger screen 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Selecting a Trigger Block screen 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S3.png" alt=""><figcaption><p>Selecting a Triger screen 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S3_1.png" alt=""><figcaption><p>Selecting a Trigger Block screen 2</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S4.png" alt=""><figcaption><p>Selecting an Action block</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S5.png" alt=""><figcaption><p>Configuring Properties of Send Email Block</p></figcaption></figure>
 
