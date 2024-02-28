@@ -15,24 +15,24 @@ Creating a workflow that activates when new data is added to a database is incre
 
 For additional insights, the article is available here.
 
-{% content-ref url="creating-a-workflow-that-triggers-when-new-data-is-added-to-a-database.md" %}
-[creating-a-workflow-that-triggers-when-new-data-is-added-to-a-database.md](creating-a-workflow-that-triggers-when-new-data-is-added-to-a-database.md)
+{% content-ref url="creating-a-workflow-to-run-when-new-data-is-added-to-a-database.md" %}
+[creating-a-workflow-to-run-when-new-data-is-added-to-a-database.md](creating-a-workflow-to-run-when-new-data-is-added-to-a-database.md)
 {% endcontent-ref %}
 
 ## Creating a Workflow to Run When an Email is Received
 
 For further insights, access the article here.
 
-{% content-ref url="creating-a-workflow-that-triggers-when-you-receive-an-email.md" %}
-[creating-a-workflow-that-triggers-when-you-receive-an-email.md](creating-a-workflow-that-triggers-when-you-receive-an-email.md)
+{% content-ref url="creating-a-workflow-to-run-when-an-email-is-received.md" %}
+[creating-a-workflow-to-run-when-an-email-is-received.md](creating-a-workflow-to-run-when-an-email-is-received.md)
 {% endcontent-ref %}
 
 ## Creating a Workflow to Run When a Message from a Chatbot is Received
 
 To gain more insights, find the article here.
 
-{% content-ref url="creating-a-workflow-that-triggers-when-you-receive-a-message-from-chatbot.md" %}
-[creating-a-workflow-that-triggers-when-you-receive-a-message-from-chatbot.md](creating-a-workflow-that-triggers-when-you-receive-a-message-from-chatbot.md)
+{% content-ref url="creating-a-workflow-to-run-when-a-message-from-a-chatbot-is-received.md" %}
+[creating-a-workflow-to-run-when-a-message-from-a-chatbot-is-received.md](creating-a-workflow-to-run-when-a-message-from-a-chatbot-is-received.md)
 {% endcontent-ref %}
 
 ## Creating a Workflow that Runs at Specified Intervals
@@ -41,7 +41,7 @@ To automate processes at regular times or intervals, you can create a scheduled 
 
 For a deeper understanding, access the article here.
 
-{% content-ref url="creating-a-workflow-that-triggers-at-specified-intervals.md" %}
-[creating-a-workflow-that-triggers-at-specified-intervals.md](creating-a-workflow-that-triggers-at-specified-intervals.md)
+{% content-ref url="creating-a-workflow-that-runs-at-specified-intervals.md" %}
+[creating-a-workflow-that-runs-at-specified-intervals.md](creating-a-workflow-that-runs-at-specified-intervals.md)
 {% endcontent-ref %}
 
