@@ -48,3 +48,18 @@ To create the workflow that sends an email when new data is added to the databas
    2. Filter and select blocks by category (e.g., Communications ) or type in the name of the block in the search box.
    3. Pick the **Send Email** block under **Communications**.
 7. Configure the **properties** of the Send Email block.
+   1. Click the **arrow** icon to expand the **Properties** section.
+   2. Enter the **Subject** of the email.
+   3. In the **To** box, type in the recipient’s email address.
+   4. In the **Body** box, type in the message to be sent.
+   5. Include output from previous blocks (Data items/pills coming from previous blocks in the workflow) to required fields.
+      1. Click on the field _e.g., Body_. A pop-up with a list of data items coming from previous blocks will be displayed.
+      2. Select required data from the pop-up to be added in the Body section of the email.
+      3. Type the content in the respective field including the selected data items accordingly.
+8. Enter a suitable **name** for the Workflow.
+9. Click **Save**. Now you have completed creating the workflow. Next step is to test it.
+
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Creating the Workflow screen 1</p></figcaption></figure>
+
+
+
