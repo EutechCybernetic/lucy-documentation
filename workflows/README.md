@@ -6,9 +6,9 @@ Overall, workflows with automated alerts and triggers help organizations streaml
 
 For example, a workflow can be created to run whenever someone adds new data to a database. This trigger could then initiate the action such as inserting the data into a dedicated Excel sheet.
 
-**Trigger**
+**Triggers**
 
-An event/condition that initiates the workflow. When the condition is met, the workflow will start to run. Triggers can be things like receiving an email, adding a new record to a database, or a specific time or interval.
+A trigger is an event/condition that initiates the workflow. When the condition is met, the workflow will start to run. Triggers can be things like receiving an email, adding a new record to a database, or a specific time or interval.
 
 **Actions**
 
