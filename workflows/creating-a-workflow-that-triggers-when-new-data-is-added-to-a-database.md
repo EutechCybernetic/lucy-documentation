@@ -38,7 +38,7 @@ To create the workflow that sends an email when new data is added to the databas
 2. Search and click on the required folder containing the database.
 3. Inside the folder, click the **Workflows** tab.
 4. Click the **+** icon. Workflow editor page will open.
-5. Select a trigger from the trigger list to start the workflow.
+5. Select a **trigger** from the trigger list to start the workflow.
    1. Click **How do you want to trigger your workflow?** box and select the required trigger.
    2.  Click **When someone submitted data to <\<Your Database Name>> Database** trigger.&#x20;
 
@@ -59,7 +59,7 @@ To create the workflow that sends an email when new data is added to the databas
 8. Enter a suitable **name** for the Workflow.
 9. Click **Save**. Now you have completed creating the workflow. Next step is to test it.
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Creating the Workflow screen 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Selecting a Triger screen 1</p></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S3.png" alt=""><figcaption><p>Selecting a Triger screen 2</p></figcaption></figure>
 
