@@ -62,7 +62,7 @@
 * [Workflows](workflows/README.md)
   * [Using the Workflow Editor](workflows/using-the-workflow-editor.md)
   * [Creating Workflows](workflows/creating-workflows.md)
-  * [Creating a Workflow that triggers when New Data is added to a Database](workflows/creating-a-workflow-that-triggers-when-new-data-is-added-to-a-database.md)
+  * [Creating a Workflow that Triggers When New Data is Added to a Database](workflows/creating-a-workflow-that-triggers-when-new-data-is-added-to-a-database.md)
   * [Creating a Workflow that triggers when You Receive an Email](workflows/creating-a-workflow-that-triggers-when-you-receive-an-email.md)
   * [Creating a Workflow that triggers when You Receive a Message from Chatbot](workflows/creating-a-workflow-that-triggers-when-you-receive-a-message-from-chatbot.md)
   * [Creating a Workflow that triggers at specified Intervals](workflows/creating-a-workflow-that-triggers-at-specified-intervals.md)
