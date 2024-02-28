@@ -2,7 +2,7 @@
 
 You can view workflows created within a Folder/Project by accessing the '**Workflows**' tab. Once you save a workflow, it will appear under the 'Workflows' tab of the respective folder.
 
-## Locate and View Your Workflows
+## Viewing Your Workflows
 
 1. On the Lucy app **homepage**, head to the **My Work** tab on the left.
 2. All the folders you have created, as well as those created by others, will be listed.
