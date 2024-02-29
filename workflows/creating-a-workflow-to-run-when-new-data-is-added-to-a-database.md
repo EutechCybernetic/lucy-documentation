@@ -65,9 +65,9 @@ To create the workflow that sends an email when new data is added to the databas
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S4.png" alt=""><figcaption><p>Selecting an Action block</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S5_1.png" alt=""><figcaption><p>Configuring Properties of Send Email Block</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S5_2.png" alt=""><figcaption><p>Configuring Properties of Send Email Block</p></figcaption></figure>
 
-### Adding New Data Record to the Database
+### Adding Data to the Database
 
 We’ll create a form to easily add data to the database.
 
@@ -79,7 +79,5 @@ We’ll create a form to easily add data to the database.
 6. Click **Save Widget.**
 7. On the pop-up window, click **Open Page** to open the form in a new window.
 8. Fill in the form and click **Submit**. Data will be inserted into the database.
-
-
 
 After a new data record is added to the database, our workflow will trigger, sending an email to the recipient.
