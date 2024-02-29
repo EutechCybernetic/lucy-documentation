@@ -34,7 +34,7 @@ Upon creating the database, we can start creating the workflow using the Workflo
 
 To create the workflow that sends an email when new data is added to the database:
 
-1. On Lucy app **homepage**, click on the **My Work** tab on the left.&#x20;
+1. On the Lucy app **homepage**, click the **My Work** tab on the left.&#x20;
 2. Search and click on the required folder containing the database.
 3. Inside the folder, click the **Workflows** tab.
 4. Click the **+** icon. Workflow editor page will open.
@@ -69,15 +69,17 @@ To create the workflow that sends an email when new data is added to the databas
 
 ### Adding New Data Record to the Database
 
-We’ll create a form to easily add data to our database.
+We’ll create a form to easily add data to the database.
 
-1. On Lucy app **homepage**, click the **My Work** tab on the left.
-2. Search and click on the required **folder** containing the database.
+1. On the Lucy app **homepage,** click the **My Work** tab on the left.
+2. Search and click the required folder containing the database.
 3. Inside your folder, click the **Databases** tab.
 4. Search and select the database you’ve created.
 5. Hover over it and click the **Edit** icon that displays. Widget designer page will open.
 6. Click **Save Widget.**
-7. On the pop up window, click **Open Page** to open the form in a new window.
-8. Fill in the form and click **Submit**. Data will be inserted into the database and listed.
+7. On the pop-up window, click **Open Page** to open the form in a new window.
+8. Fill in the form and click **Submit**. Data will be inserted into the database.
 
-After adding a new data record to the database, our workflow will be executed and an email will be sent to the recipient.
+
+
+After a new data record is added to the database, our workflow will trigger, sending an email to the recipient.
