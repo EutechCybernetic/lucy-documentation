@@ -45,7 +45,7 @@ Here are the key features in the Workflow Editor:
 
 Trigger Blocks initiate the workflow process. They act as the starting point and are designed to respond to specific events or conditions. For example, a trigger block can be set up to activate when a new email is received, a form is submitted.
 
-There are four types of trigger blocks you will find when creating a workflow.
+There are four types of trigger blocks you will find when creating a workflow using the Workflow Editor.
 
 1. Cron Trigger Blocks
 2. Message Trigger Blocks
