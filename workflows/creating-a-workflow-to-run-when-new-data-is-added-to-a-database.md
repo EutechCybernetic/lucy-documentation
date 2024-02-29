@@ -26,7 +26,7 @@ Find the article here to create a new database:
 
 Below is a image of the database we ‘ve created.
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1.png" alt=""><figcaption><p>Database Preview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1.png" alt=""><figcaption><p>Database created</p></figcaption></figure>
 
 ### Creating the Workflow
 
