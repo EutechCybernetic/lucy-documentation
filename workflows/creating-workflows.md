@@ -1,6 +1,6 @@
 # Creating Workflows
 
-Workflows enable the creation of automated sequences of actions that interact with various applications, allowing for efficient and streamlined processes. These workflows consist of a trigger, which initiates the workflow, and a sequence of actions that are executed when the trigger event occurs.
+Workflows enable the creation of automated sequences of actions that interact with various applications, allowing for efficient and streamlined processes. A workflow is initiated by a trigger event, followed by the execution of predetermined actions in response to that event.
 
 Users can easily create their workflows using the Workflow Editor. Using the Workflow Editor, you can create workflows that start when:
 
@@ -37,7 +37,7 @@ To gain more insights, find the article here.
 
 ## 4. Creating a Workflow that Runs at Specified Intervals
 
-To automate processes at regular times or intervals, you can create a scheduled workflow. This workflow is particularly useful for routine tasks like data backups, daily reports, or periodic data analysis. You can configure such a workflow to run (e.g., every 5 minutes), depending on your needs.
+To automate processes at regular times or intervals, you can create scheduled workflows. These workflows are particularly useful for routine tasks like data backups, daily reports, or periodic data analysis. You can configure such a workflow to run (e.g., every 5 minutes), depending on your needs.
 
 For a deeper understanding, access the article here.
 
