@@ -27,3 +27,31 @@ The Workflow Editor can be launched to create a new workflow or to edit an exist
 7. If there is a list of workflows, use the search box to type in the workflow name to locate your workflow.
 8. On the search results, select the **workflow** and click on it.
 9. Your workflow will be opened on the workflow editor page.
+
+## Key Features in the Workflow Editor&#x20;
+
+In the workflow editor, you create a workflow by connecting blocks together.&#x20;
+
+{% hint style="info" %}
+&#x20;Every workflow starts with a trigger block, followed by one or more action blocks.
+{% endhint %}
+
+Here are the key features in the Workflow Editor:
+
+1. Trigger Blocks
+2. Action Blocks
+
+### **Trigger Blocks**
+
+Trigger Blocks initiate the workflow process. They act as the starting point and are designed to respond to specific events or conditions. For example, a trigger block can be set up to activate when a new email is received, a form is submitted.
+
+There are four types of trigger blocks you will find when creating a workflow.
+
+1. Cron Trigger Blocks
+2. Message Trigger Blocks
+3. Email Trigger Blocks
+4. Database Trigger Blocks
+
+### Action Blocks
+
+Action Blocks are the steps that take place after a workflow has been triggered. Each action block performs a specific task, such as sending an email, updating a database record. You can string together multiple action blocks to create complex automations tailored to your needs.
