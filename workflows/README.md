@@ -14,5 +14,3 @@ A trigger is an event/condition that initiates the workflow. When the condition 
 **Actions**
 
 Actions are the tasks or steps that the workflow performs in response to the trigger. These actions may talk to external systems that you have connected to your Lucy account. The actions could also interact with your database or other entities as well.
-
-You can locate, access, and create your workflows through the **Workflows** tab within a specific folder.
