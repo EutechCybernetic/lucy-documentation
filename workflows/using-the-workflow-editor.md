@@ -54,7 +54,7 @@ The image below displays all the trigger blocks currently available in Lucy.
 
 Action Blocks are the steps that take place after a workflow has been triggered. Each action block performs a specific task, such as sending an email, updating a database record. You can string together multiple action blocks to create complex automations tailored to your needs.
 
-The following image displays the action blocks available in Lucy. You can easily locate these blocks by typing the Action Block name in the search box or by filtering blocks by  a specific category.
+This image showcases the action blocks that Lucy offers. You can find these blocks quickly by entering the block name in the search box or by filtering them by category.
 
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_3.png" alt=""><figcaption><p>Action Blocks Search pop-up</p></figcaption></figure>
 
@@ -76,14 +76,14 @@ The Workflow Editor can be launched to create a new workflow or to edit an exist
 
 ### Accessing the Workflow Editor to Edit a Workflow
 
-1. On the Lucy app **homepage**, head to the **My Work** tab on the left.
-2. All the folders you have created, as well as those created by others, will be listed.
-3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
-4. From the search results, click on the folder.
-5. Inside the folder, click the **Workflows** tab.
-6. Click on the Workflow to open it on the Workflow Editor page.
-7. If there is a list of workflows, use the search box to type in the workflow name to locate your workflow.
-8. On the search results, select the **workflow** and click on it.
-9. Your workflow will be opened on the workflow editor page.
+After you create a workflow, you can save it. You can then edit saved workflows later in the workflow editor.
+
+1. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
+2. From the search results, click on the folder.
+3. Inside the folder, click the **Workflows** tab.
+4. Click on the Workflow to open it on the Workflow Editor page.
+5. If there is a list of workflows, use the search box to type in the workflow name to locate your workflow.
+6. On the search results, select the **workflow** and click on it.
+7. Your workflow will be opened on the workflow editor page.
 
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_5.png" alt=""><figcaption><p>Accessing the Workflow Editor to Edit a Workflow</p></figcaption></figure>
