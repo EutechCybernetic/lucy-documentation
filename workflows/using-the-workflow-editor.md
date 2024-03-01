@@ -34,8 +34,6 @@ _e.g., Schedule a workflow to run every hour_
 
 These are the Cron Triggers available in Lucy.
 
-<figure><img src="../.gitbook/assets/Using the Workflow Editor_1.png" alt="" width="298"><figcaption><p>Cron Trigger Blocks</p></figcaption></figure>
-
 #### Message Trigger Block
 
 A message trigger is used to start workflows in response to messages from popular messaging applications _e.g., Telegram._ For example, you can set up a workflow to run whenever a message is received from a bot.
@@ -44,11 +42,13 @@ A message trigger is used to start workflows in response to messages from popula
 
 Email trigger is used to start workflows when an email is sent by someone.
 
+#### Database Trigger Blocks
 
+Database triggers start workflows when changes happen in a database. For example, they can activate a process when new information is added to a table.
 
 The image below displays all the trigger blocks currently available in Lucy.
 
-<figure><img src="../.gitbook/assets/Using the Workflow Editor_2.png" alt="" width="563"><figcaption><p>Trigger Blocks</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Using the Workflow Editor_2_1.png" alt=""><figcaption><p>Trigger Blocks</p></figcaption></figure>
 
 ### 2. Action Blocks
 
