@@ -64,6 +64,8 @@ The Workflow Editor can be launched to create a new workflow or to edit an exist
 
 ### Accessing the Workflow Editor to Create a New Workflow
 
+To access the workflow editor:
+
 1. On the Lucy app **homepage**, click the **My Work** tab on the left.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
@@ -77,6 +79,8 @@ The Workflow Editor can be launched to create a new workflow or to edit an exist
 ### Accessing the Workflow Editor to Edit a Workflow
 
 After you create a workflow, you can save it. You can then edit saved workflows later in the workflow editor.
+
+To access the workflow editor:
 
 1. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 2. From the search results, click on the folder.
