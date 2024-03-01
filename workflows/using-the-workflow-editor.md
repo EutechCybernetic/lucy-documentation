@@ -44,11 +44,17 @@ A message trigger is used to start workflows in response to messages from popula
 
 Email trigger is used to start workflows when an email is sent by someone.
 
+
+
+The image below displays all the trigger blocks currently available in Lucy.
+
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_2.png" alt="" width="563"><figcaption><p>Trigger Blocks</p></figcaption></figure>
 
 ### 2. Action Blocks
 
 Action Blocks are the steps that take place after a workflow has been triggered. Each action block performs a specific task, such as sending an email, updating a database record. You can string together multiple action blocks to create complex automations tailored to your needs.
+
+The following image displays the action blocks available in Lucy. You can easily locate these blocks by typing the Action Block name in the search box or by filtering blocks by  a specific category.
 
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_3.png" alt=""><figcaption><p>Action Blocks Search pop-up</p></figcaption></figure>
 
