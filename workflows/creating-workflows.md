@@ -21,6 +21,10 @@ For additional insights, the article is available here.
 
 ## 2. Creating a Workflow to Run When an Email is Received
 
+Creating a workflow to run when an email is received involves setting up a trigger that activates the workflow whenever an email is detected in a specified inbox. Once triggered, the workflow can perform various actions, such as sending an automated reply, updating a database, or triggering another process.
+
+This type of workflow automation is commonly used to streamline communication processes, manage incoming requests, and ensure timely responses to emails without manual intervention.
+
 For further insights, access the article here.
 
 {% content-ref url="creating-a-workflow-to-run-when-an-email-is-received.md" %}
@@ -28,6 +32,8 @@ For further insights, access the article here.
 {% endcontent-ref %}
 
 ## 3. Creating a Workflow to Run When a Message from a Chatbot is Received
+
+Creating a workflow to run when a message from a chatbot is received involves setting up a trigger that activates the workflow whenever the chatbot sends a message.
 
 To gain more insights, find the article here.
 
