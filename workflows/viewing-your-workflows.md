@@ -13,3 +13,9 @@ You can view workflows created within a Folder/Project by accessing the '**Workf
 7. If you cannot locate the workflow, use the search box to type in the workflow name.
 8. On the search results, select the **workflow** and click on it.
 9. Your workflow will be opened in the workflow editor.
+
+
+
+{% hint style="success" %}
+If you haven’t created any workflows under a project, you will only see the **Add** button under the **Workflows** tab.
+{% endhint %}

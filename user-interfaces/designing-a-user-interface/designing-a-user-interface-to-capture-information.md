@@ -6,7 +6,7 @@ A form is a powerful tool to capture information from users.
 
 ## Creating a Form to Capture Information
 
-The process of designing a form to collect information from users involves two main steps.
+The process of designing a form to collect information from users involves three main steps.
 
 ### Creating the Database
 
@@ -27,9 +27,29 @@ Follow the below steps to design a form from a database.
 5. Hover over the database click the **Edit** icon that displays.
 6. Click **Create a form** to open the form on the widget designer page.
 7. By default, the widget designer will be opened in its **Design** mode.
-8. Do required modifications to the form e.g., adding more fields/removing fields, etc.
-9. Click **Save Widget** to save the form and access it in the future.
-10. Click the **Open Page** button to load the form in a new window.
-11. Fill in the form details and click **Submit**.
-12. Your details will be automatically saved in the respective database.
+8. Do the required modifications to the form, _e.g., adding more fields, removing fields, customizing the form appearance etc._
+9. Under the **General** tab, in the **Name** box, type in a suitable name for the form.
+10. Click **Save Widget** to save the form and access it in the future.
+11. Click the **Open Page** button to load the form in a new window.
+12. Fill in the form details and click **Submit**.
+13. Your details will be automatically saved in the respective database.
 
+### Modifying the Form
+
+When creating a form, you may wish to personalize it by changing the fields, altering its look, and more.
+
+For further insights, access the article here.
+
+{% content-ref url="designing-a-user-interface-from-a-database.md" %}
+[designing-a-user-interface-from-a-database.md](designing-a-user-interface-from-a-database.md)
+{% endcontent-ref %}
+
+### Accessing the Form
+
+All the designed User Interfaces will be saved under **User Interfaces** tab of your respective project/folder.
+
+To  easily locate and access your forms later, find the article here:
+
+{% content-ref url="../viewing-your-user-interfaces.md" %}
+[viewing-your-user-interfaces.md](../viewing-your-user-interfaces.md)
+{% endcontent-ref %}
