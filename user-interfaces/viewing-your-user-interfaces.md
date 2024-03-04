@@ -11,5 +11,5 @@ This article explains how to view user interfaces designed by you. User Interfac
 
 
 {% hint style="info" %}
-**Note**: If you haven’t created any user interfaces under a project, you will only see the **Add** button under the **User Interfaces** tab.
+If you haven’t created any user interfaces under a project, you will only see the **Add** button under the **User Interfaces** tab.
 {% endhint %}
