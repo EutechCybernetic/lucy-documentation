@@ -28,7 +28,7 @@ Follow the below steps to design a form from a database.
 2. Search and click on the **folder** you want to open.
 3. Go to the **Databases** tab.
 4. Search and select the desired **database**.
-5. Hover over the database click **Edit** icon that displays.
+5. Hover over the database click the **Edit** icon that displays.
 6. Click **Create a form** to open the form on the widget designer page.
 7. By default, the widget designer will be opened in its **Design** mode.
 8. You can do required customization to the form in the **Design** mode.
