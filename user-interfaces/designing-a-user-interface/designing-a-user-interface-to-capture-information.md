@@ -46,9 +46,9 @@ For further insights, access the article here.
 
 ### Accessing the Form
 
-All the designed User Interfaces will be saved under **User Interfaces** tab of your respective project/folder.
+All the designed and saved User Interfaces are stored under **User Interfaces** tab within your project/folder.
 
-To  easily locate and access your forms later, find the article here:
+To easily locate and access your forms later, find the article here:
 
 {% content-ref url="../viewing-your-user-interfaces.md" %}
 [viewing-your-user-interfaces.md](../viewing-your-user-interfaces.md)
