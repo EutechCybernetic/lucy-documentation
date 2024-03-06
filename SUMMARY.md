@@ -66,4 +66,4 @@
   * [Creating a Workflow to Run When an Email is Received](workflows/creating-a-workflow-to-run-when-an-email-is-received.md)
   * [Creating a Workflow to Run When a Message from a Chatbot is Received](workflows/creating-a-workflow-to-run-when-a-message-from-a-chatbot-is-received.md)
   * [Creating a Workflow that Runs at Specified Intervals](workflows/creating-a-workflow-that-runs-at-specified-intervals.md)
-  * [Viewing Your Workflows](workflows/viewing-your-workflows.md)
+  * [Viewing and Editing Your Workflows](workflows/viewing-and-editing-your-workflows.md)
