@@ -9,5 +9,41 @@ You can set your workflow to run:
 * every hour
 * every day at midnight
 
-This article will show you how to create such a workflow.
+For instance, let's create a simple workflow that sends an email every hour using the Workflow Editor. The following steps will help you create the workflow.
 
+## 1. Creating the Workflow
+
+To create the workflow:
+
+1. On Lucy app **homepage**, click on the **My Work** tab on the left.
+2. Search and click on the required folder.
+3. Inside your folder, click the **Workflows** tab.
+4. Click the **+** icon. Workflow Editor will open.
+5. Select a trigger to start the workflow.
+   1. Click **How do you want to trigger your workflow?** box. All the available Trigger blocks will be displayed in a pop-up.
+   2. Select **Trigger every hour** trigger block.
+6. Select the action to be executed.
+   1. Click the **+** icon. All the available Action blocks will be displayed in a pop-up.
+   2. Under **Communications** category, select **Send Email** block.
+7. &#x20;Configure  the **Send Email** block.
+   1. Click the arrow icon of the **Send Email** block to expand it.
+   2. Enter the **Subject** of the email.
+   3. In the **To** box, type in the recipient’s email address.
+   4. In the **Body** box, type in the message to be sent.
+8. To test the workflow, click the **Play** button.
+9. Click **Execute**. The workflow will be executed and a email will be sent to the respective recipient.
+
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Creating the workflow screen 1</p></figcaption></figure>
+
+
+
+
+
+## 2. Saving the Workflow
+
+To ensure you can revisit your workflow later, follow these steps to save it.
+
+To save the workflow inside your folder/project:
+
+1. On the workflow editor page, type in a suitable name for the workflow in the **Name for the workflow box** on the right.
+2. Click **Save** button.

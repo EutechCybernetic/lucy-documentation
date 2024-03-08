@@ -4,7 +4,7 @@ You can view workflows created within a Folder/Project by accessing the '**Workf
 
 Saved workflow can be further modified if necessary using the workflow editor.
 
-### Viewing Your Workflows
+## Viewing Your Workflows
 
 To locate and open your workflow:
 
@@ -18,7 +18,7 @@ To locate and open your workflow:
 8. On the search results, select the **workflow** and click on it.
 9. Your workflow will be opened in the workflow editor.
 
-### Modifying a Workflow
+## Modifying a Workflow
 
 To modify an existing workflow:
 
