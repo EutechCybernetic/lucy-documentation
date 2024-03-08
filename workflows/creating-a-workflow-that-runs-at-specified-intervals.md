@@ -41,6 +41,8 @@ To create the workflow:
 
 <figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S4.png" alt=""><figcaption><p>Creating the workflow screen 4</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S5_1.png" alt=""><figcaption><p>Mail sent to the recipient</p></figcaption></figure>
+
 ## 2. Saving the Workflow
 
 To ensure you can revisit your workflow later, follow these steps to save it.
