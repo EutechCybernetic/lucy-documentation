@@ -53,7 +53,7 @@ To create the workflow that sends an email when new data is added to the databas
    3. In the **To** box, type in the recipient’s email address.
    4. In the **Body** box, type in the message to be sent.
    5. Include output from previous blocks (Data items/pills coming from previous blocks in the workflow) to required fields.
-      1. Click on the field _e.g., Body_. A pop-up with a list of data items coming from previous blocks will be displayed.
+      1. Click on the field, _e.g., Body_. A pop-up with a list of data items coming from previous blocks will be displayed.
       2. Select required data from the pop-up to be added in the Body section of the email.
       3. Type the content in the respective field including the selected data items accordingly.
 8. Enter a suitable **name** for the Workflow.
