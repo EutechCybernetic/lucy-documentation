@@ -35,9 +35,9 @@ To create the workflow:
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Creating the workflow screen 1</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S2.png" alt=""><figcaption><p>Creating the workflow screen 2</p></figcaption></figure>
 
-
-
+<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S3_2.png" alt=""><figcaption><p>Creating the workflow screen 3</p></figcaption></figure>
 
 ## 2. Saving the Workflow
 
