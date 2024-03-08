@@ -25,7 +25,7 @@ To create the workflow:
 6. Select the action to be executed.
    1. Click the **+** icon. All the available Action blocks will be displayed in a pop-up.
    2. Under **Communications** category, select **Send Email** block.
-7. &#x20;Configure  the **Send Email** block.
+7. &#x20;Configure the **Send Email** block.
    1. Click the arrow icon of the **Send Email** block to expand it.
    2. Enter the **Subject** of the email.
    3. In the **To** box, type in the recipient’s email address.
@@ -47,5 +47,5 @@ To ensure you can revisit your workflow later, follow these steps to save it.
 
 To save the workflow inside your folder/project:
 
-1. On the workflow editor page, type in a suitable name for the workflow in the **Name for the workflow box** on the right.
+1. On the workflow editor page, type in a suitable name for the workflow in the **Name for the workflow** box on the right.
 2. Click **Save** button.
