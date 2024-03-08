@@ -10,7 +10,7 @@ In this tutorial, we will create a simple workflow that automatically sends an e
 
 The process of creating a workflow to trigger when new data is added to a database is described in three main steps.
 
-### Creating the Database
+### 1. Creating the Database
 
 As the initial step, we need to have a database created within the selected project/folder.
 
@@ -28,7 +28,7 @@ Below is a image of the database we ‘ve created.
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1.png" alt=""><figcaption><p>Database created</p></figcaption></figure>
 
-### Creating the Workflow
+### 2. Creating the Workflow
 
 Upon creating the database, we can start creating the workflow using the Workflow editor.
 
@@ -67,7 +67,7 @@ To create the workflow that sends an email when new data is added to the databas
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S5_2.png" alt=""><figcaption><p>Configuring Properties of Send Email Block</p></figcaption></figure>
 
-### Adding Data to the Database
+### 3. Adding Data to the Database
 
 We’ll create a form to easily add data to the database.
 
