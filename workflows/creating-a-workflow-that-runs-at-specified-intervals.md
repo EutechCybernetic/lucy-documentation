@@ -47,9 +47,7 @@ To create the workflow:
 
 ## 2. Saving the Workflow
 
-To ensure you can revisit your workflow later, follow these steps to save it.
-
-To save the workflow inside your folder/project:
+To ensure you can revisit your workflow later, follow these steps to save it inside your folder/project:
 
 1. On the workflow editor page, type in a suitable name for the workflow in the **Name for the workflow** box on the right.
 2. Click **Save** button.
