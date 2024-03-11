@@ -1,6 +1,8 @@
 # Workflows
 
-Workflows enable the creation of automated sequences of actions that interact with various applications and devices, allowing for efficient and streamlined processes. These workflows consist of a trigger, which initiates the workflow, and a sequence of actions that are executed when the trigger event occurs. Overall, automated workflows help organizations streamline their processes, improve efficiency, and ensure timely responses to important events. For example, a workflow can be created to run whenever someone adds new data to a database. This trigger could then initiate the action, such as inserting the data into a dedicated Excel sheet.
+Workflows enable the creation of automated sequences of actions that interact with various applications and devices, allowing for efficient and streamlined processes. These workflows consist of a trigger, which initiates the workflow, and a sequence of actions that are executed when the trigger event occurs.&#x20;
+
+Overall, automated workflows help organizations streamline their processes, improve efficiency, and ensure timely responses to important events. For example, a workflow can be created to run whenever someone adds new data to a database. This trigger could then initiate the action, such as inserting the data into a dedicated Excel sheet.
 
 Each workflow has a:
 
