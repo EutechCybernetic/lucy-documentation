@@ -45,7 +45,7 @@ To create the workflow that sends an email when new data is added to the databas
    2.  Click **When someone submitted data to <\<Your Database Name>> Database** trigger.&#x20;
 
        _<mark style="color:blue;">Note: Upon creating the database, it will be populated in the Database trigger list. However, if you haven't created the database, it won't appear in the trigger list. If the respective folder contains multiple databases (e.g., 2 databases), there will be two database triggers listed under the trigger list.</mark>_
-8. Select the block that defines the actions to execute when the workflow is triggered:
+8. Select the block that defines the actions to execute when the workflow is triggered.
    1. Click the **+** icon.
    2. Filter and select blocks by category (e.g., Communications ) or type in the name of the block in the search box.
    3. Pick the **Send Email** block under **Communications**.
