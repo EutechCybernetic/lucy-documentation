@@ -35,19 +35,21 @@ Upon creating the database, we can start creating the workflow using the Workflo
 To create the workflow that sends an email when new data is added to the database:
 
 1. On the Lucy app **homepage**, click the **My Work** tab on the left.&#x20;
-2. Search and click on the required folder containing the database.
-3. Inside the folder, click the **Workflows** tab.
-4. Click the **+** icon. Workflow editor page will open.
-5. Select a **trigger** from the trigger list to start the workflow.
+2. All the folders/projects you have created, as well as those created by others, will be listed.&#x20;
+3. Click on the folder to open it.
+4. If you cannot locate the folder in the list, type in the folder name under **Search Folders.** From the search results, click on the folder.
+5. Inside the folder, click the **Workflows** tab.
+6. Click the **+** icon. Workflow editor page will open.
+7. Select a **trigger** from the trigger list to start the workflow.
    1. Click **How do you want to trigger your workflow?** box and select the required trigger.
    2.  Click **When someone submitted data to <\<Your Database Name>> Database** trigger.&#x20;
 
        _<mark style="color:blue;">Note: Upon creating the database, it will be populated in the Database trigger list. However, if you haven't created the database, it won't appear in the trigger list. If the respective folder contains multiple databases (e.g., 2 databases), there will be two database triggers listed under the trigger list.</mark>_
-6. Select the block that defines the actions to execute when the workflow is triggered:
+8. Select the block that defines the actions to execute when the workflow is triggered:
    1. Click the **+** icon.
    2. Filter and select blocks by category (e.g., Communications ) or type in the name of the block in the search box.
    3. Pick the **Send Email** block under **Communications**.
-7. Configure the **properties** of the Send Email block.
+9. Configure the **properties** of the Send Email block.
    1. On the Send Email block, click the **arrow** icon to expand the **Properties** section.
    2. Enter the **Subject** of the email.
    3. In the **To** box, type in the recipient’s email address.
@@ -56,8 +58,8 @@ To create the workflow that sends an email when new data is added to the databas
       1. Click on the field, _e.g., Body_. A pop-up with a list of data items coming from previous blocks will be displayed.
       2. Select required data from the pop-up to be added in the Body section of the email.
       3. Type the content in the respective field including the selected data items accordingly.
-8. Enter a suitable **name** for the Workflow.
-9. Click **Save**. Now you have completed creating the workflow. Next step is to test it.
+10. Enter a suitable **name** for the Workflow.
+11. Click **Save**. Now you have completed creating the workflow. Next step is to test it.
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Selecting a Trigger Block screen 1</p></figcaption></figure>
 
