@@ -6,9 +6,7 @@ The Workflow Editor offers an easy-to-use interface for creating and modifying w
 
 In the workflow editor, users have the ability to create complex workflows by interconnecting different blocks.
 
-{% hint style="info" %}
-&#x20;Every workflow starts with a trigger block, followed by one or more action blocks.
-{% endhint %}
+> **Note:** In the workflow editor, every workflow creation process begins with a trigger block, followed by one or more action blocks.
 
 Here are the key features in the Workflow Editor:
 
@@ -28,11 +26,9 @@ When you construct a workflow using the Workflow Editor, you'll encounter four d
 
 #### Cron Trigger Blocks
 
-Cron triggers allow you to schedule workflows to run at specific intervals.
+Cron triggers allow you to schedule workflows to run at specific intervals. For instance, it's possible to set up a workflow to execute on an hourly basis. Cron triggers enable scheduled execution of tasks, enhancing automation and efficiency.
 
-_e.g., Schedule a workflow to run every hour_
-
-These are the Cron Triggers available in Lucy.
+These are the available Cron Triggers in Lucy:
 
 #### Message Trigger Block
 
