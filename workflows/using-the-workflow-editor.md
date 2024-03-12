@@ -94,7 +94,7 @@ To access the workflow editor:
 
 ## Saving a Workflow
 
-Upon creating your workflow, you might want to save it to go through it later.
+After creating your workflow, you might want to save it to go through it later.
 
 To save a workflow:
 
