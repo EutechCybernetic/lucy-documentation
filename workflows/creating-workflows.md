@@ -23,9 +23,7 @@ For additional insights, the article is available here.
 
 ### 2. Creating a Workflow to Run When an Email is Received
 
-Creating a workflow that activates upon receiving an email involves configuring a trigger to detect new messages in the inbox.  Once triggered, the workflow can perform various actions, such as sending an automated reply, updating a database, or triggering another process.
-
-This type of workflow automation is commonly used to streamline communication processes, manage incoming requests, and ensure timely responses to emails without manual intervention.
+Creating a workflow that activates upon receiving an email involves configuring a trigger to detect new messages in the inbox. This type of workflow automation is commonly used to streamline communication processes, manage incoming requests, and ensure timely responses to emails without manual intervention.
 
 For further insights, access the article here.
 
