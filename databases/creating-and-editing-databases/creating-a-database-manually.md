@@ -12,8 +12,8 @@ Let's create your database from scratch.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
-3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
-4. Click on the folder you wish to open.
+3. Click on the required folder to open it.
+4. If you cannot locate the folder in the list, type in the folder name under **Search Folders.** From the search results, click on the desired folder to open it.
 5. Go to **Databases** tab.
 6. Click **+** button and pick **Create Manually** option.
 7. Enter a meaningful **name** for your database.

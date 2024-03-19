@@ -25,7 +25,7 @@ Let's manually create our database.
 9. Click **Skip this step** to manually enter database fields.
 10. Add required database fields.
     1. In the **Field Name** box, type in the name of the field, _e.g., Message._
-    2. When you enter the field name, the system will automatically determine its type, such as _"Text"._
+    2. When you enter the field name, the system will automatically determine its type, such as _"Text"._ Change the type if necessary.
     3. To add more fields, click **Add New Field.**
 11. After adding database fields, click **Go to next Step.**
 12. Click **Create New Database**. An empty database will be created and listed under Databases tab of the respective folder/project.
