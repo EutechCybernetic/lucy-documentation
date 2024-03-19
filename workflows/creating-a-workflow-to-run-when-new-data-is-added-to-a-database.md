@@ -88,7 +88,7 @@ We’ll create a form to easily add data to the database.
 7. On the pop-up window, click **Open Page** to open the form in a new window.
 8. Fill in the form and click **Submit**. Data will be inserted into the database.
 
-After a new data record is added to the database, our workflow will trigger, sending an email to the recipient.
+Whenever a new data record is added to the database, our workflow will trigger, sending an email to the recipient.
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S6.png" alt=""><figcaption><p>Preview of the Form created to submit data to the database</p></figcaption></figure>
 
