@@ -24,7 +24,7 @@ Let's manually create our database.
 8. Click **Continue**.
 9. Click **Skip this step** to manually enter database fields.
 10. Add required database fields.
-    1. In the **Field Name** box, type in the name of the field, _e.g., Message._
+    1. In the **Field Name** box, type in the name of the field, _e.g., Complaint._
     2. When you enter the field name, the system will automatically determine its type, such as _"Text"._ Change the type if necessary.
     3. To add more fields, click **Add New Field.**
 11. After adding database fields, click **Go to next Step.**
