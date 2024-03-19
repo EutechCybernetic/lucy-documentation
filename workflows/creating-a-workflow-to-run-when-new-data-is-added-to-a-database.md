@@ -22,7 +22,7 @@ Let's manually create our database.
 6. Click **+** button and pick **Create Manually** option.
 7. Enter a meaningful **name** for your database.
 8. Click **Continue**.
-9. Click **Skip this step.**
+9. Click **Skip this step** to manually enter database fields.
 10. Add required database fields.
     1. In the **Field Name** box, type in the name of the field, _e.g., Message._
     2. When you enter the field name, the system will automatically determine its type, such as _"Text"._
