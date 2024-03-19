@@ -32,7 +32,7 @@ Let's manually create our database.
 
 Below is a image of the database we ‘ve created.
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1.png" alt=""><figcaption><p>Preview of the Database created</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1_1.png" alt=""><figcaption><p>Database preview</p></figcaption></figure>
 
 ### 2. Creating the Workflow
 
