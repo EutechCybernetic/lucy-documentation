@@ -6,27 +6,33 @@ A workflow can be set up to trigger when new data is added to a specific databas
 
 In this tutorial, we will create a simple workflow that automatically sends an email whenever new data is added to a database.
 
-## Creating a Workflow to Run When New Data is Added to a Database
-
 The process of creating a workflow to trigger when new data is added to a database is described in three main steps.
 
 ### 1. Creating the Database
 
 As the initial step, we need to have a database created within the selected project/folder.
 
-Find the article here to create a new database:
+Let's manually create our database.
 
-
-
-{% content-ref url="../databases/creating-and-editing-databases/creating-a-database-manually.md" %}
-[creating-a-database-manually.md](../databases/creating-and-editing-databases/creating-a-database-manually.md)
-{% endcontent-ref %}
-
-
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. Click on the required folder to open it.
+4. If you cannot locate the folder in the list, type in the folder name under **Search Folders.** From the search results, click on the desired folder to open it.
+5. Go to **Databases** tab.
+6. Click **+** button and pick **Create Manually** option.
+7. Enter a meaningful **name** for your database.
+8. Click **Continue**.
+9. Click **Skip this step.**
+10. Add required database fields.
+    1. In the **Field Name** box, type in the name of the field, _e.g., Message._
+    2. When you enter the field name, the system will automatically determine its type, such as _"Text"._
+    3. To add more fields, click **Add New Field.**
+11. After adding database fields, click **Go to next Step.**
+12. Click **Create New Database**. An empty database will be created and listed under Databases tab of the respective folder/project.
 
 Below is a image of the database we ‘ve created.
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1.png" alt=""><figcaption><p>Database created</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1.png" alt=""><figcaption><p>Preview of the Database created</p></figcaption></figure>
 
 ### 2. Creating the Workflow
 
