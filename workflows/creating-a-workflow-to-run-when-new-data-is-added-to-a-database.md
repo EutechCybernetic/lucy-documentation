@@ -84,9 +84,10 @@ We’ll create a form to easily add data to the database.
 3. Inside your folder, click the **Databases** tab.
 4. Search and select the database you’ve created.
 5. Hover over it and click the **Edit** icon that displays. Widget designer page will open.
-6. Click **Save Widget.**
-7. On the pop-up window, click **Open Page** to open the form in a new window.
-8. Fill in the form and click **Submit**. Data will be inserted into the database.
+6. Go to **Preview** mode.
+7. Fill in the form and click **Submit**. Data will be added to the database.
+8. On the pop-up window, click **Open Page** to open the form in a new window.
+9. Fill in the form and click **Submit**. Data will be inserted into the database.
 
 Whenever a new data record is added to the database, our workflow will trigger, sending an email to the recipient.
 
