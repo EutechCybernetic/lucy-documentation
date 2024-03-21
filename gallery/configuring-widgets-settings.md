@@ -25,10 +25,12 @@ To adjust a widget's settings:
 3. If there is a list of Canvases on the Gallery, you can search for the specific Canvas by typing its name/partial name under Search Canvases.
 4. Click on the required canvas to open it in a new window.
 5. On the canvas, click on the **Customise** icon on the bottom right to access its edit mode.
-6. Click the **Settings** icon of the widget you wish to configure settings.
+6. Click the **Settings** icon of the widget you wish to adjust settings.
 7. Make the required configurations in the settings _e.g., changing chart colors and axis labels._
 8. To save the changes, click **Save**.
 9. Click **Exit** to exit from the edit mode.
 10. Your changes will be applied and displayed on the widget.
 
 Watch this video on configuring a widget's settings to gain more understanding.
+
+{% embed url="https://drive.google.com/file/d/1TSGIrJg5nQ03JRKeT12fCf_uKcon8lIW/view?usp=sharing" %}
