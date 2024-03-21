@@ -29,7 +29,7 @@ Using forms to fill in data is easy because they offer a user-friendly, structur
 
 Watch below video on creating a form to add data to your database to gain better understanding.
 
-{% embed url="https://drive.google.com/file/d/1xIol7xYxWII7lkG7GbCd90HHrEKxzz6g/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1T7Lw75QywtIwxcnVkkGYi7DcU4rGInY3/view?usp=sharing" %}
 
 ### <mark style="color:blue;">Locating the Form You have Created</mark>
 
