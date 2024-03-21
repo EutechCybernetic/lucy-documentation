@@ -10,9 +10,15 @@ The following is the 'Yearly Water Consumption Budgeted vs Actual' widget. This 
 
 <figure><img src="../.gitbook/assets/Configuring Widget&#x27;s Settings_S1.png" alt="" width="563"><figcaption><p> Yearly Water Consumption Budgeted vs Actual Widget</p></figcaption></figure>
 
-Adjusting the widget’s settings enables users to personalize the visual representation of the data, making it more tailored to their preferences or specific needs. This involves actions such as changing the color code for the baseline, changing the color code for the cumulative budget, and editing the axis labels.
+Adjusting the widget’s settings enables users to personalize the visual representation of the data, making it more tailored to their preferences or specific needs. According to the above example, you can  alter the below properties of the chart:
 
-Let's see how to configure a widget's settings.
+* change the color of the Baseline
+* change the color of the Cumulative Consumption
+* change the color of the Consumption
+* change the color of the Cumulative Budget
+* edit  X and Y axis labels
+
+To adjust a widget's settings:
 
 1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Pick the Canvas from the Gallery.&#x20;
@@ -26,5 +32,3 @@ Let's see how to configure a widget's settings.
 10. Your changes will be applied and displayed on the widget.
 
 Watch this video on configuring a widget's settings to gain more understanding.
-
-{% embed url="https://drive.google.com/uc?id=1-S58Fjx5ICNymD4QoN5J__jDJh0-tG5-" %}
