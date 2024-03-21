@@ -80,7 +80,7 @@ On the Widget Browser, click the green eye icon of the required Widget to get mo
 
 Watch the video demonstrating how to add widgets directly onto your canvas here.
 
-{% embed url="https://drive.google.com/uc?id=1qyUoXUAz6qIt_pT3VqNw1Ft2JFuYi_Uh" %}
+{% embed url="https://drive.google.com/file/d/1qyUoXUAz6qIt_pT3VqNw1Ft2JFuYi_Uh/view?usp=sharing" %}
 
 ## <mark style="color:blue;">Adding the Widget from the Widget Designer Page</mark>
 
@@ -96,4 +96,4 @@ Refer the article below on adding the widget from the widget designer page.
 
 Watch the video below to gain a better understanding of how to add a widget from the Widget Designer Page.
 
-{% embed url="https://drive.google.com/uc?id=1r2YXxdre_-nfO8fz169PW2c_3Cok9ZDC" %}
+{% embed url="https://drive.google.com/file/d/1r2YXxdre_-nfO8fz169PW2c_3Cok9ZDC/view?usp=sharing" %}
