@@ -25,17 +25,20 @@ Watch this video to learn how to add a new widget to your dashboard using the wi
 
 ## <mark style="color:blue;">2. Adding the Widget onto an existing Dashboard/Canvas</mark>
 
-To add a widget to a Dashboard:
+To add your widget to a Dashboard:
 
 1. On the lucy app **homepage**, go to **Gallery** on the left sidebar.
-2. Pick the **Canvas** to add the widget or you can use **Search** box to search for the canvas.
-3. Click on the **Canvas** to view it’s full view. Your canvas will be opened.
-4. Click **Add Widget** button.
-5. Use search box to type in the widget name and filter the widget.
-6. If necessary, click Preview icon to see what’s inside the widget.
-7. Either enable the checkbox of the widget or click on the widget to select it.
-8. Click **Add Widgets.**
-9. The selected widget will be added onto your dashboard.
+2. All the available canvases will be listed.
+3. Pick the **Canvas** from the list or you can use **Search** box to search for the canvas.
+4. Click on the **Canvas** to view it’s full view. Your canvas will open.
+5. Click **Add Widget.** Widget Browser will open.
+6. Search for your widget.
+   1. Type the name of the widget in the search box.
+   2. Or click **My Widgets** filter to see widgets created by you and others.
+7. If necessary, click Preview icon to see what’s inside the widget.
+8. Either enable the checkbox of the widget or click on the widget to select it.
+9. Click **Add Widgets.**
+10. The selected widget will be added onto your dashboard.
 
 {% hint style="success" %}
 **Tip**: If you have no widgets added to the canvas, you will see a **Add** button to add widgets. This option shows up only if the canvas has no widgets.
