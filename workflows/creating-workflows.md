@@ -9,8 +9,6 @@ Users can easily create their workflows using the Workflow Editor. Using the Wor
 3. You receive a message from a chatbot
 4. The workflow is initiated at specified intervals
 
-## Different Triggers to Create a Workflow
-
 ### 1. Creating a Workflow to Run When New Data is Added to a Database
 
 Creating a workflow that activates when new data is added to a database is incredibly useful for real-time data processing. It ensures that your system reacts promptly to new information without manual intervention.
