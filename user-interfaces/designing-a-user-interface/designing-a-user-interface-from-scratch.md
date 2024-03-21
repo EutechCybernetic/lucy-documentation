@@ -33,7 +33,7 @@ All your saved user interfaces will be listed under the User Interfaces tab of t
 
 Watch the video below on designing a user interface from the ground up to gain a better understanding.
 
-{% embed url="https://drive.google.com/uc?id=1rR6adLnVjw8BAbtLZzIUb7hqtRQ78Ske" %}
+{% embed url="https://drive.google.com/file/d/1rR6adLnVjw8BAbtLZzIUb7hqtRQ78Ske/view?usp=sharing" %}
 
 
 
