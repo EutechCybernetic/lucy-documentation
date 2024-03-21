@@ -10,8 +10,8 @@ Refer to the below article to gain insights into creating a dashboard if you hav
 
 There are two ways to add your own widget to an existing dashboard:
 
-1. [Adding the Widget from Widget Designer Page](adding-your-own-widget-onto-a-dashboard-canvas.md#1.-adding-the-widget-from-widget-designer-page)
-2. [Adding the Widget onto an existing Dashboard from the respective Dashboard](adding-your-own-widget-onto-a-dashboard-canvas.md#2.-adding-the-widget-onto-an-existing-dashboard-from-the-respective-dashboard)
+1. [Adding the Widget from Widget Designer Page](adding-your-own-widget-onto-a-dashboard-canvas.md#id-1.-adding-the-widget-from-widget-designer-page)
+2. [Adding the Widget onto an existing Dashboard](adding-your-own-widget-onto-a-dashboard-canvas.md#id-2.-adding-the-widget-onto-an-existing-dashboard)
 
 ## <mark style="color:blue;">1. Adding the Widget from Widget Designer Page</mark>
 
@@ -19,9 +19,13 @@ After creating a widget from widget designer page, you can pick a canvas to add 
 
 Refer to [this ](sharing-a-user-interface.md#adding-the-user-interface-to-a-dashboard-canvas)article on adding widgets from widget designer page.
 
-## <mark style="color:blue;">2. Adding the Widget onto an existing Dashboard from the respective Dashboard</mark>
+Watch this video to learn how to add a new widget to your dashboard using the widget designer page. It makes understanding the steps simple.
 
-Widgets created by you can be added to a dashboard by accessing the respective canvas.
+{% embed url="https://drive.google.com/file/d/1r2YXxdre_-nfO8fz169PW2c_3Cok9ZDC/view?usp=sharing" %}
+
+## <mark style="color:blue;">2. Adding the Widget onto an existing Dashboard/Canvas</mark>
+
+To add a widget to a Dashboard:
 
 1. On the lucy app **homepage**, go to **Gallery** on the left sidebar.
 2. Pick the **Canvas** to add the widget or you can use **Search** box to search for the canvas.
@@ -34,7 +38,7 @@ Widgets created by you can be added to a dashboard by accessing the respective c
 9. The selected widget will be added onto your dashboard.
 
 {% hint style="success" %}
-**Tip**: If you have no widgets added to the canvas, you will see a **Add** button to add widgets. This button will be available only when there are no widgets already present on the canvas.
+**Tip**: If you have no widgets added to the canvas, you will see a **Add** button to add widgets. This option shows up only if the canvas has no widgets.
 {% endhint %}
 
 ### <mark style="color:blue;">Customizing a Widget Designed by You</mark>
