@@ -35,10 +35,9 @@ To add your widget to a Dashboard:
 6. Search for your widget.
    1. Type the name of the widget in the search box.
    2. Or click **My Widgets** filter to see widgets created by you and others.
-7. If necessary, click Preview icon to see what’s inside the widget.
-8. Either enable the checkbox of the widget or click on the widget to select it.
-9. Click **Add Widgets.**
-10. The selected widget will be added onto your dashboard.
+7. To select the widget, you can either click its checkbox or the widget itself.
+8. Click **Add Widgets.**
+9. The selected widget will be added onto your dashboard.
 
 {% hint style="success" %}
 **Tip**: If you have no widgets added to the canvas, you will see a **Add** button to add widgets. This option shows up only if the canvas has no widgets.
