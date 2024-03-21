@@ -99,5 +99,7 @@ Whenever a new data record is added to the database, our workflow will trigger, 
 
 Watch the video below on creating a workflow to run when new data is added to a database from the ground up to gain a better understanding.
 
+{% embed url="https://drive.google.com/file/d/1yWbIpF8013YRqhac4hWH7vjyj9nW_ppj/view?usp=sharing" %}
+
 
 
