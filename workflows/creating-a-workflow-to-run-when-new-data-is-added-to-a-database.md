@@ -96,3 +96,8 @@ Whenever a new data record is added to the database, our workflow will trigger, 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S7.png" alt=""><figcaption><p>Data added to the database</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S8.png" alt=""><figcaption><p>Preview of the Email sent to the recipient's inbox</p></figcaption></figure>
+
+Watch the video below on creating a workflow to run when new data is added to a database from the ground up to gain a better understanding.
+
+
+
