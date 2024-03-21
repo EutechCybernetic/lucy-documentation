@@ -1,4 +1,4 @@
-# Creating a Canvas in the Gallery
+# Creating a Canvas on the Gallery
 
 ## <mark style="color:blue;">Canvas</mark>
 
@@ -30,5 +30,3 @@ Let’s create a Canvas in Lucy.
 {% endhint %}
 
 Below is a short video that guides you on creating a new canvas.
-
-{% embed url="https://drive.google.com/uc?id=1tOgxi7vWrCB8NOKGerrQ_CNGB0n__h4U" %}
