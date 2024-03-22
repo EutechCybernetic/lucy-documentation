@@ -6,29 +6,30 @@ After building it, you can always add it to your canvas later at any time.
 
 **What is a Widget Browser?**
 
-A widget browser is a interface that allows users to explore, search, and discover various widgets when selecting widgets to be added to a dashboard. In addition, widget browser allows to generate new widgets when none meet their specified criteria.
+A widget browser is a interface that allows users to explore, search, and locate various widgets when selecting widgets to be added to a dashboard. In addition, widget browser allows to generate new widgets when none meet their specified criteria.
 
 <figure><img src="../.gitbook/assets/LC_Building a Widget from Your Canvas_s1.png" alt=""><figcaption><p>Widget Browser</p></figcaption></figure>
 
 ## <mark style="color:blue;">Building a Widget</mark>
 
-Let's see how to build a widget easily.
+Let's see how to build a widget easily right from your canvas.
 
 1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Choose the canvas.
 3. If there is a list of canvases on the Gallery, you can search for the required Canvas by typing its name/partial name under **Search Canvases.**
 4. Click on the canvas to open it in a new window
-5. On the canvas, click on the **Add Widget** button.
-6. The widget browser will be opened to select your widgets.
-7. Type in the **widget's name** in the search box.
-8. If you don't find any matching widgets in the search results, click the **Build a new Widget** button that appears.
-9. You will be directed to select a template to build your widget and do required customizations to it.
+5. On the canvas, click on the **Add Widget** button. The widget browser will open.
+6. Search and locate your widget.
+   1. Type in the **widget's name** in the search box.
+   2. If you don't find any matching widgets in the search results, click the **Build a new Widget** button that appears.
+7. Select a template to build the widget.
+8. After you select the template, it will open on the widget designer page, allowing you to apply the required customizations and create your widget.
 
-
-
-{% hint style="success" %}
-The **Build a new Widget** button will appear on the widget browser only when no matching widgets are found in the search results.
+{% hint style="info" %}
+If your search finds no widgets, you'll see the **Build a new Widget** button.
 {% endhint %}
+
+### Building a User Interface from Scratch
 
 Find out more about building a user interface from here:
 
@@ -38,4 +39,4 @@ Find out more about building a user interface from here:
 
 Watch the video demonstrating how to build a widget from your Canvas here.
 
-{% embed url="https://drive.google.com/uc?id=1r6x0b4YLehwL2QawBLzqaaG7pzuPOwZ7" %}
+{% embed url="https://drive.google.com/file/d/1TrWtU04P4QGrOp86in_LMt0CTxi4gFqy/view?usp=sharing" %}
