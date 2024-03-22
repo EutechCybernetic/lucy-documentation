@@ -21,4 +21,4 @@ Let's see how to customize a widget on your canvas.
 
 Watch the video demonstrating how to customize a widget on your canvas.
 
-{% embed url="https://drive.google.com/uc?id=1zpmcn62mX1d1Kco25vS6xPX5BSGt6fRe" %}
+{% embed url="https://drive.google.com/file/d/1wFCLXPQbgP9zKm2OeKxjRLjeUUG5w39h/view?usp=sharing" %}
