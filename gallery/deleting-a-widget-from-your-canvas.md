@@ -1,6 +1,6 @@
 # Deleting a Widget from Your Canvas
 
-If a widget is no longer needed or serves the same purpose as another, it can be deleted from your canvas.
+If a widget is no longer needed, you can delete it from your canvas.
 
 Let's see how to delete a widget from your canvas.
 
