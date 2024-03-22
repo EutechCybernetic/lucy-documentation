@@ -6,7 +6,11 @@ The Workflow Editor offers an easy-to-use interface for creating and modifying w
 
 In the workflow editor, users have the ability to create complex workflows by interconnecting different blocks.
 
-> **Note**_–_ In the workflow editor, every workflow creation process begins with a trigger block, followed by one or more action blocks.
+
+
+{% hint style="info" %}
+In the workflow editor, every workflow creation process begins with a trigger block, followed by one or more action blocks.
+{% endhint %}
 
 Here are the key features in the Workflow Editor:
 
