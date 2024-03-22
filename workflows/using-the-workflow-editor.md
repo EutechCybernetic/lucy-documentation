@@ -75,7 +75,7 @@ To access the workflow editor:
 
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_4.png" alt=""><figcaption><p>Accessing the Workflow Editor to Create a New Workflow</p></figcaption></figure>
 
-For more insights, watch the below video on accessing  Workflow Editor to create a new workflow.
+For more insights, watch the video below on how to access the Workflow Editor to create a new workflow.
 
 {% embed url="https://drive.google.com/file/d/1UHrdWILggG6kXBTKos-M_AGuK2yOJwzO/view?usp=sharing" %}
 
@@ -90,8 +90,8 @@ To access the workflow editor:
 3. Click on the folder to open it.
 4. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
 5. From the search results, click on the folder.
-6. Inside the folder, click the **Workflows** tab.
-7. Click on the Workflow to open it on the Workflow Editor page.
+6. In the folder, click the **Workflows** tab. All the workflows created in the folder will be listed.
+7. Click on the specific Workflow to open it on the Workflow Editor page.
 8. If there is a list of workflows, use the search box to type in the workflow name to locate your workflow.
 9. On the search results, select the **workflow** and click on it.
 10. Your workflow will be opened on the workflow editor page.
