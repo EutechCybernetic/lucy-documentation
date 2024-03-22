@@ -15,4 +15,4 @@ Let's see how to resize a widget on your canvas.
 
 Watch the video demonstrating how to resize a widget to gain a better understanding.
 
-{% embed url="https://drive.google.com/uc?id=1rBFtZmEGZEJxrgiOujz96-Rj7eYYpAa-" %}
+{% embed url="https://drive.google.com/file/d/1rBFtZmEGZEJxrgiOujz96-Rj7eYYpAa-/view?usp=sharing" %}
