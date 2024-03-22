@@ -11,6 +11,6 @@ The process of changing the position of a particular widget within the canvas is
 5. Click on the widget and drag it to the desired area on the canvas you wish to place it.
 6. The widget will be placed on its new position.
 
-Watch the below video to move a widget within your canvas to gain more insights.
+For better insights, watch the video to change the widget's location on your canvas.
 
 {% embed url="https://drive.google.com/file/d/1rDEBDsKUyuZ0SAKmDCUBxrDlVu6FRDKj/view?usp=sharing" %}
