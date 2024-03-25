@@ -98,6 +98,10 @@ To access the workflow editor:
 
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_5.png" alt=""><figcaption><p>Accessing the Workflow Editor to Edit a Workflow</p></figcaption></figure>
 
+For better understanding, watch the video below on how to access the Workflow Editor to view or edit a workflow.
+
+{% embed url="https://drive.google.com/file/d/1UJDzTC8OEfGOz7RwZiTFTrgdBfjU3qNL/view?usp=sharing" %}
+
 ## Saving a Workflow
 
 After creating your workflow, you might want to save it to go through it later.
@@ -106,3 +110,4 @@ To save a workflow:
 
 1. On the workflow editor page, enter a suitable name under **Name for the workflow.**
 2. Click **Save.**
+
