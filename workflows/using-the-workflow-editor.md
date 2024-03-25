@@ -111,3 +111,8 @@ To save a workflow:
 1. On the workflow editor page, enter a suitable name under **Name for the workflow.**
 2. Click **Save.**
 
+
+
+{% hint style="info" %}
+To return to the Workflows tab from the Workflow Editor page, click the <img src="../.gitbook/assets/Closebutton_1.png" alt="" data-size="line"> icon.
+{% endhint %}
