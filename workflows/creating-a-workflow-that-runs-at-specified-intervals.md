@@ -29,9 +29,9 @@ To create the workflow:
    2. Under **Communications** category, select **Send Email** block.
 9. &#x20;Configure the **Send Email** block.
    1. Click the arrow icon of the **Send Email** block to expand it.
-   2. Enter the **Subject** of the email.
-   3. In the **To** box, type in the recipient’s email address.
-   4. In the **Body** box, type in the message to be sent.
+   2. **Subject**: Type in the subject line of the email.
+   3. **To:** Type in the recipient’s email address.
+   4. **Body:** Type in the message to be sent.
 10. To test the workflow, click the **Play** button.
 11. Click **Execute**. The workflow will be executed and a email will be sent to the respective recipient.
 
