@@ -20,8 +20,11 @@ Let’s create a Canvas in Lucy.
 6. Enable the **Blur the background** option to blur the applied background of your Canvas if necessary.
 7. Click **Next**.
 8. Provide a **Name** for your Canvas.
-9. Click **Next**.
-10. A new Canvas will be created. Click the **Go to your Canvas now** button to jump into your Canvas you created. The newly created Canvas will open in a new tab in your browser.
+9. Grant access to the Canvas.
+   1. Select the specific User Group(s), such as System Administrators, to grant access to the canvas.
+   2. Alternatively, you can skip this step to give access to any user group (without selecting any user group).
+10. Click **Next**.
+11. A new Canvas will be created. Click the **Go to your Canvas now** button to jump into your Canvas you created. The newly created Canvas will open in a new tab in your browser.
 
 
 
