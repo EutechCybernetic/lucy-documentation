@@ -12,6 +12,8 @@
   * [Mobile App](key-concepts/mobile-app.md)
 * [Add-ons](add-ons/README.md)
   * [Installing a New Add-on in Lucy](add-ons/installing-a-new-add-on-in-lucy.md)
+  * [Visitor Management](add-ons/visitor-management.md)
+  * [Internal Air Quality Reporting](add-ons/internal-air-quality-reporting.md)
 * [Databases](databases/README.md)
   * [Understanding Databases](databases/understanding-databases.md)
   * [Creating and editing databases](databases/creating-and-editing-databases/README.md)
