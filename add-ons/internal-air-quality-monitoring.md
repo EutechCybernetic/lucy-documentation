@@ -26,13 +26,13 @@ Installing the IAQ Analytics add-on is the first step to monitor indoor air qual
 
 To install the IAQ Analytics Add-on:
 
-1. On the Lucy app **homepage**, click the **Add-ons** tab on the sidebar on the left. Add-ons page will be displayed.
+1. On the Lucy app **homepage**, click the **Add-ons** tab. Add-ons page will be displayed.
 2. Click **Install a new Add-on**.&#x20;
 3. Pick the IAQ Analytics add-on from the list of add-ons.
 4. Click **Install**. The add-on will be installed and will appear on the Add-ons page.
 
 {% hint style="info" %}
-_You can skip the installation if you have done it earlier._
+You can skip the installation if you have done it earlier.
 {% endhint %}
 
 ### Configuring IAQ Analytics Add-on
@@ -41,7 +41,7 @@ This step involves setting up and connecting your IAQ devices to gather data. Th
 
 * **API**: Setup API to send IAQ data
 * **uHoo sensor:** If you have a Uhoo sensor, you can use uHoo API key to automatically configure it and start receiving sensor data.
-* **Simulator:** Used to generate data so that you can display on your IAQ related widgets. This option is useful when sensors are not available.
+* **Simulator:** Generates data for display on your IAQ related widgets, which is particularly useful when sensors are not available.
 * **AWAIR Sensors:** If you have AWAIR sensors, you can use API key and Organization ID to automatically sync sensor data.
 * **Buy from Spaceworx marketplace:** Buy third party products from Spaceworx Marketplace.
 
@@ -49,7 +49,7 @@ You can pick required source and configure it.
 
 In the absence of real-time sensor data, we'll opt for simulated data. Let's select the simulator option and move forward.
 
-1. On the app **homepage**, click the **Add-ons** tab on the sidebar on the left. Add-ons page will open.
+1. On the app **homepage**, click the **Add-ons** tab. Add-ons page will open.
 2. Click on the **IAQ Analytics** add-on. A configuration wizard will open to configure it.
 3. Click **Let’s Start.**
 4. Select the source to obtain IAQ data.
@@ -58,3 +58,27 @@ In the absence of real-time sensor data, we'll opt for simulated data. Let's sel
    3. Click **Close**.
 
 ### Creating Your Canvas/Dashboard
+
+The last step is to build the canvas.
+
+To create a canvas:
+
+1. On the Lucy app **homepage,** click the **Gallery** tab.
+2. Click the **+** button. A wizard will pop up to start creating a new Canvas.
+3. Click **Next**.
+4. Select a color theme for your Canvas if necessary.
+5. Provide a suitable unique **Name** for the canvas.
+6. Grant Access to the Canvas.
+   1. Select a User Group (e.g., System Administrators) if you wish to grant access to specific groups.
+   2. Skip the User Group selection if you intend to allow access for everyone.
+7. Click **Next**. A new Canvas will be created and listed on the Gallery page.
+8. &#x20;Click **Go to your Canvas now** button to launch it in a new window.
+9.  Pick and add IAQ related widgets on to your canvas.
+
+    1. Click + button. Widget Browser will open.
+    2. Use the Search box to search and filter required widgets by typing widget’s name/partial name, _e.g., IAQ._
+    3. We’ll select e.g., IAQ Heat map and IAQ Levels Display widgets.
+    4. Click **Add Widgets.**
+    5. The widgets will be added to the canvas. As soon as you add widgets to the canvas, it will show the simulated data on each widget.
+
+    &#x20;
