@@ -1,4 +1,4 @@
-# Internal Air Quality Reporting
+# Internal Air Quality Monitoring
 
 **Internal Air Quality (IAQ)**
 
@@ -14,8 +14,10 @@ Internal Air Quality (IAQ) data refers to the information collected from monitor
 
 ## IAQ Analytics Add-on
 
-The IAQ add-on provides a set of widgets to monitor internal air quality parameters in your building. This process involves three main steps:
+The IAQ Analytics add-on provides a set of widgets for monitoring internal air quality parameters in your workplace. This process involves three main steps:
 
-1. Install IAQ Add-on
-2. Configure Add-on
-3. Create Your Canvas/Dashboard
+1. Installing IAQ Analytics Add-on
+2. Configuring IAQ Analytics Add-on
+3. Creating Your Canvas/Dashboard
+
+### Installing IAQ Analytics Add-on
