@@ -24,10 +24,6 @@ IAQ Analytics add-on provides a set of widgets for monitoring internal air quali
 
 Installing the IAQ Analytics add-on is the first step to monitor indoor air quality in your workplace.
 
-{% hint style="info" %}
-_You can skip the installation if you have done it earlier._
-{% endhint %}
-
 To install the IAQ Analytics Add-on:
 
 1. On the Lucy app **homepage**, click the **Add-ons** tab on the sidebar on the left. Add-ons page will be displayed.
@@ -35,3 +31,30 @@ To install the IAQ Analytics Add-on:
 3. Pick the IAQ Analytics add-on from the list of add-ons.
 4. Click **Install**. The add-on will be installed and will appear on the Add-ons page.
 
+{% hint style="info" %}
+_You can skip the installation if you have done it earlier._
+{% endhint %}
+
+### Configuring IAQ Analytics Add-on
+
+This step involves setting up and connecting your IAQ devices to gather data. There are five sources from which IAQ data can be obtained.
+
+* **API**: Setup API to send IAQ data
+* **uHoo sensor:** If you have a Uhoo sensor, you can use uHoo API key to automatically configure it and start receiving sensor data.
+* **Simulator:** Used to generate data so that you can display on your IAQ related widgets. This option is useful when sensors are not available.
+* **AWAIR Sensors:** If you have AWAIR sensors, you can use API key and Organization ID to automatically sync sensor data.
+* **Buy from Spaceworx marketplace:** Buy third party products from Spaceworx Marketplace.
+
+You can pick required source and configure it.
+
+In the absence of real-time sensor data, we'll opt for simulated data. Let's select the simulator option and move forward.
+
+1. On the app **homepage**, click the **Add-ons** tab on the sidebar on the left. Add-ons page will open.
+2. Click on the **IAQ Analytics** add-on. A configuration wizard will open to configure it.
+3. Click **Let’s Start.**
+4. Select the source to obtain IAQ data.
+   1. Pick the **Simulator** option.
+   2. Click **Next**. Now the data will be simulated, and you don't need to configure anything further.
+   3. Click **Close**.
+
+### Creating Your Canvas/Dashboard
