@@ -20,7 +20,7 @@ IAQ Analytics add-on provides a set of widgets for monitoring internal air quali
 2. Configuring IAQ Analytics Add-on
 3. Creating Your Canvas/Dashboard
 
-### Installing IAQ Analytics Add-on
+### 1. Installing IAQ Analytics Add-on
 
 Installing the IAQ Analytics add-on is the first step to monitor indoor air quality in your workplace.
 
@@ -35,7 +35,7 @@ To install the IAQ Analytics Add-on:
 You can skip the installation if you have done it earlier.
 {% endhint %}
 
-### Configuring IAQ Analytics Add-on
+### 2. Configuring IAQ Analytics Add-on
 
 This step involves setting up and connecting your IAQ devices to gather data. There are five sources from which IAQ data can be obtained.
 
@@ -57,7 +57,7 @@ In the absence of real-time sensor data, we'll opt for simulated data. Let's sel
    2. Click **Next**. Now the data will be simulated, and you don't need to configure anything further.
    3. Click **Close**.
 
-### Creating Your Canvas/Dashboard
+### 3. Creating Your Canvas/Dashboard
 
 The last step is to build the canvas.
 
