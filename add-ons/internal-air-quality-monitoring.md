@@ -14,10 +14,24 @@ Internal Air Quality (IAQ) data refers to the information collected from monitor
 
 ## IAQ Analytics Add-on
 
-The IAQ Analytics add-on provides a set of widgets for monitoring internal air quality parameters in your workplace. This process involves three main steps:
+IAQ Analytics add-on provides a set of widgets for monitoring internal air quality parameters in your workplace. This process involves three main steps:
 
 1. Installing IAQ Analytics Add-on
 2. Configuring IAQ Analytics Add-on
 3. Creating Your Canvas/Dashboard
 
 ### Installing IAQ Analytics Add-on
+
+Installing the IAQ Analytics add-on is the first step to monitor indoor air quality in your workplace.
+
+{% hint style="info" %}
+_You can skip the installation if you have done it earlier._
+{% endhint %}
+
+To install the IAQ Analytics Add-on:
+
+1. On the Lucy app **homepage**, click the **Add-ons** tab on the sidebar on the left. Add-ons page will be displayed.
+2. Click **Install a new Add-on**.&#x20;
+3. Pick the IAQ Analytics add-on from the list of add-ons.
+4. Click **Install**. The add-on will be installed and will appear on the Add-ons page.
+
