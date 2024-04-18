@@ -64,21 +64,43 @@ The last step is to build the canvas.
 To create a canvas:
 
 1. On the Lucy app **homepage,** click the **Gallery** tab.
-2. Click the **+** button. A wizard will pop up to start creating a new Canvas.
+2. Click the **+** button to start creating a new Canvas.
 3. Click **Next**.
-4. Select a color theme for your Canvas if necessary.
+4. Customize the background  of the canvas if needed.
+   1. To select a color theme for your Canvas from the pre-selected color themes, click on the required box. Selected colour theme will be shown under the Header Colour section.
+   2. If you need to select a custom color theme, click on the color code in the Header Colour section to open the color picker to select a color of your own.
+   3. Under Background Image, click the Search icon to select a background wallpaper for your Canvas.
+   4. To select an image from the available collection, first, type the required keyword in the Search Images box to search for the image and then select it.
+   5. To select your own image as the background of the Canvas, click Upload your image and upload your own image.
+   6. Enable the Blur the background option to blur the applied background of your Canvas if necessary.
 5. Provide a suitable unique **Name** for the canvas.
 6. Grant Access to the Canvas.
    1. Select a User Group (e.g., System Administrators) if you wish to grant access to specific groups.
    2. Skip the User Group selection if you intend to allow access for everyone.
 7. Click **Next**. A new Canvas will be created and listed on the Gallery page.
 8. &#x20;Click **Go to your Canvas now** button to launch it in a new window.
-9.  Pick and add IAQ related widgets on to your canvas.
+9. Pick and add IAQ related widgets on to your canvas.
+   1. Click **+** button. Widget Browser will open.
+   2. Use the Search box to search and filter required widgets by typing widget’s name/partial name, _e.g., IAQ._
+   3. We'll select, for example, the IAQ Heat Map and IAQ Levels Display widgets.
+   4. Click **Add Widgets.**
+   5. Widgets will be added to the canvas. As soon as widgets are added, the canvas will display simulated data in those widgets.
 
-    1. Click + button. Widget Browser will open.
-    2. Use the Search box to search and filter required widgets by typing widget’s name/partial name, _e.g., IAQ._
-    3. We’ll select e.g., IAQ Heat map and IAQ Levels Display widgets.
-    4. Click **Add Widgets.**
-    5. The widgets will be added to the canvas. As soon as you add widgets to the canvas, it will show the simulated data on each widget.
+### Displaying Real-time Data on IAQ related Widgets
 
-    &#x20;
+Once you have the access to live sensor information, you can configure the sensor details by going back to the IAQ analytics add-on on the Add-ons page. After configuring the sensor details, the respective widgets will display live sensor data.
+
+1. On the canvas, click **Back to Gallery.**
+2. On the app homepage, click the **Add-ons** tab and open Add-ons page.
+3. Click **IAQ Analytics** add-on.
+4. Click **Let’s Start.**
+5. Select your sensor to obtain IAQ data.
+6. Click **Next**.
+7. Configure the source.
+8. After configuring the sensor details, the respective widgets will display live sensor data.
+9. Launch your canvas.
+   1. On the app homepage, click the **Gallery** tab.
+   2. Pick the Canvas from the Gallery.&#x20;
+   3. If there is a list of Canvases on the Gallery, you can search for the specific Canvas by typing its name/partial name under **Search Canvases.**
+   4. Click on the required canvas to launch it. The widgets on the canvas will display live sensor data.
+
