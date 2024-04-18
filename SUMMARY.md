@@ -14,6 +14,7 @@
   * [Installing a New Add-on in Lucy](add-ons/installing-a-new-add-on-in-lucy.md)
   * [Visitor Management](add-ons/visitor-management.md)
   * [Internal Air Quality (IAQ) Monitoring](add-ons/internal-air-quality-iaq-monitoring.md)
+  * [Occupancy Analytics](add-ons/occupancy-analytics.md)
 * [Databases](databases/README.md)
   * [Understanding Databases](databases/understanding-databases.md)
   * [Creating and editing databases](databases/creating-and-editing-databases/README.md)
