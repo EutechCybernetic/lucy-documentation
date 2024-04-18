@@ -104,3 +104,6 @@ Once you have the access to live sensor information, you can configure the senso
    3. If there is a list of Canvases on the Gallery, you can search for the specific Canvas by typing its name/partial name under **Search Canvases.**
    4. Click on the required canvas to launch it. The widgets on the canvas will display live sensor data.
 
+Find the video on monitoring Internal Air Quality (IAQ).
+
+{% embed url="https://drive.google.com/file/d/1TUwoOszXNMzDGVxgoK3J4bfQQ5aF9PpD/view?usp=drive_link" %}
