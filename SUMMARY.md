@@ -15,6 +15,7 @@
   * [Visitor Management](add-ons/visitor-management.md)
   * [Internal Air Quality (IAQ) Monitoring](add-ons/internal-air-quality-iaq-monitoring.md)
   * [Occupancy Analytics](add-ons/occupancy-analytics.md)
+  * [Energy Budgeting](add-ons/energy-budgeting.md)
 * [Databases](databases/README.md)
   * [Understanding Databases](databases/understanding-databases.md)
   * [Creating and editing databases](databases/creating-and-editing-databases/README.md)
