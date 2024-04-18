@@ -52,14 +52,14 @@ To install the add-on:
 
 ### Configuring the Occupancy Analytics Add-on
 
-After installing the Occupancy Analytics Add-on , we can configure the add-on directly from the canvas.
+After installing the Occupancy Analytics Add-on, we can configure the add-on directly from the canvas.
 
 To configure the add-on:
 
 1. Click **Let’s Start.**
 2. Pick the source to get data. There three ways to get occupancy data to visualize on your canvas.
-   1. **Pointgrab**: If you have PointGrab Occupancy sensors, you can enter PointGrab Client ID and PointGrab Client Secret and authenticate yourself.
-   2. **Simulator**: Used to generate data so that you can display on your occupancy related widgets.This option is useful when sensors are not available.
+   1. **Pointgrab**: If you have PointGrab Occupancy sensors, you can enter **PointGrab Client ID** and **PointGrab Client Secret** and authenticate yourself.
+   2. **Simulator**: Used to generate data so that you can display on your occupancy related widgets. This option is useful when sensors are not available.
    3. Buy your products on Spaceworx marketplace.
 3. Let’s select the **Simulator** option.
 4. Click **Next**.
