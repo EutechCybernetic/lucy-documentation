@@ -64,17 +64,17 @@ To configure the add-on:
 3. Let’s select the **Simulator** option.
 4. Click **Next**.
 5. Click **Close**.
-6. The respective Occupancy widgets added to your canvas will display the occupany data based on the simulated data.
+6. The respective Occupancy widgets added to your canvas will display the occupancy data based on the simulated data.
 
-### Displaying Real-time Data on IAQ related Widgets
+### Displaying Real-time Data on Widgets
 
 Once you have the access to live sensor information, you can configure the sensor details by going back to the IAQ analytics add-on on the Add-ons page. After configuring the sensor details, the respective widgets will display live sensor data.
 
 1. On the canvas, click **Back to Gallery.**
 2. On the app homepage, click the **Add-ons** tab and open Add-ons page.
-3. Click **IAQ Analytics** add-on.
+3. Click **Occupancy Analytics** add-on.
 4. Click **Let’s Start.**
-5. Select your sensor to obtain IAQ data.
+5. Select your sensor to obtain occupancy data.
 6. Click **Next**.
 7. Configure the source.
 8. After configuring the sensor details, the respective widgets will display live sensor data.
