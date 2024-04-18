@@ -16,11 +16,11 @@ Internal Air Quality (IAQ) data refers to the information collected from monitor
 
 IAQ Analytics add-on provides a set of widgets for monitoring internal air quality parameters in your workplace. This process involves three main steps:
 
-1. Installing IAQ Analytics Add-on
-2. Configuring IAQ Analytics Add-on
+1. Installing the IAQ Analytics Add-on
+2. Configuring the IAQ Analytics Add-on
 3. Creating Your Canvas/Dashboard
 
-### 1. Installing IAQ Analytics Add-on
+### 1. Installing the IAQ Analytics Add-on
 
 Installing the IAQ Analytics add-on is the first step to monitor indoor air quality in your workplace.
 
@@ -35,7 +35,7 @@ To install the IAQ Analytics Add-on:
 You can skip the installation if you have done it earlier.
 {% endhint %}
 
-### 2. Configuring IAQ Analytics Add-on
+### 2. Configuring the IAQ Analytics Add-on
 
 This step involves setting up and connecting your IAQ devices to gather data. There are five sources from which IAQ data can be obtained.
 

@@ -8,7 +8,7 @@ The Occupancy Analytics add-on lets you create custom canvases/dashboards to tra
 
 To get started, we’ll create a canvas to track occupancy data and then install and configure the Occupancy Analytics add-on right from there.
 
-### Create Your Canvas
+### Creating Your Canvas
 
 To create a new canvas:
 
@@ -33,8 +33,40 @@ To create a new canvas:
    2. Use the Search box to search and filter required widgets by typing widget’s name/partial name, _e.g., Occupancy._
    3. We’ll pick _e.g., Occupancy Heat map and Occupancy Heat map All Rooms_ widgets.
    4. Click **Add Widgets.**
-   5. Widgets will be added to the canvas. As soon as widgets are added, the canvas will display simulated data in those widgets.
+   5. The widgets will be added to the canvas.
 
-### Install the Occupancy Analytics Add-on
+### Installing the Occupancy Analytics Add-on
 
-### Configure the Occupancy Analytics Add-on
+After adding required widgets, you can install Occupancy Analytics add-on directly from the canvas.
+
+
+
+{% hint style="info" %}
+Skip this step if you have already installed the Occupancy Analytics Add-on.
+{% endhint %}
+
+To install the add-on:
+
+1. Click **Install** button of the respective widgets.
+2. After installation, we can configure the add-on.
+
+### Configuring the Occupancy Analytics Add-on
+
+### Displaying Real-time Data on IAQ related Widgets
+
+Once you have the access to live sensor information, you can configure the sensor details by going back to the IAQ analytics add-on on the Add-ons page. After configuring the sensor details, the respective widgets will display live sensor data.
+
+1. On the canvas, click **Back to Gallery.**
+2. On the app homepage, click the **Add-ons** tab and open Add-ons page.
+3. Click **IAQ Analytics** add-on.
+4. Click **Let’s Start.**
+5. Select your sensor to obtain IAQ data.
+6. Click **Next**.
+7. Configure the source.
+8. After configuring the sensor details, the respective widgets will display live sensor data.
+9. Launch your canvas.
+   1. On the app homepage, click the **Gallery** tab.
+   2. Pick the Canvas from the Gallery.&#x20;
+   3. If there is a list of Canvases on the Gallery, you can search for the specific Canvas by typing its name/partial name under **Search Canvases.**
+   4. Click on the required canvas to launch it. The widgets on the canvas will display live sensor data.
+
