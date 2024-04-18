@@ -28,7 +28,7 @@ To create a new canvas:
    2. Skip the User Group selection if you intend to allow access for everyone.
 7. Click **Next**. A new Canvas will be created and listed on the Gallery page.
 8. &#x20;Click **Go to your Canvas now** button to launch it in a new window.
-9. Pick and add IAQ related widgets on to your canvas.
+9. Pick and add occupancy related widgets on to your canvas.
    1. Click **+** button. Widget Browser will open.
    2. Use the Search box to search and filter required widgets by typing widget’s name/partial name, _e.g., Occupancy._
    3. We’ll pick _e.g., Occupancy Heat map and Occupancy Heat map All Rooms_ widgets.
@@ -68,7 +68,7 @@ To configure the add-on:
 
 ### Displaying Real-time Data on Widgets
 
-Once you have the access to live sensor information, you can configure the sensor details by going back to the IAQ analytics add-on on the Add-ons page. After configuring the sensor details, the respective widgets will display live sensor data.
+Once you have the access to live sensor information, you can configure the sensor details by going back to the occupancy analytics add-on on the Add-ons page. After configuring the sensor details, the respective widgets will display live sensor data.
 
 1. On the canvas, click **Back to Gallery.**
 2. On the app homepage, click the **Add-ons** tab and open Add-ons page.
