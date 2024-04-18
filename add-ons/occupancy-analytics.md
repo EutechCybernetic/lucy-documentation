@@ -15,7 +15,7 @@ To create a new canvas:
 1. On the Lucy app **homepage,** click the **Gallery** tab.
 2. Click the **+** button to start creating a new Canvas.
 3. Click **Next**.
-4. Customize the background  of the canvas if needed.
+4. Customize the background of the canvas if needed.
    1. To select a color theme for your Canvas from the pre-selected color themes, click on the required box. Selected colour theme will be shown under the Header Colour section.
    2. If you need to select a custom color theme, click on the color code in the Header Colour section to open the color picker to select a color of your own.
    3. Under Background Image, click the Search icon to select a background wallpaper for your Canvas.
@@ -64,7 +64,7 @@ To configure the add-on:
 3. Let’s select the **Simulator** option.
 4. Click **Next**.
 5. Click **Close**.
-6. The respective Occupancy widgets added to your canvas will display the occupancy data based on the simulated data.
+6. The respective widgets added to your canvas will display the occupancy data based on the simulated data.
 
 ### Displaying Real-time Data on Widgets
 
