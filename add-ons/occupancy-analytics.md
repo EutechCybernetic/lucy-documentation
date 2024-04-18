@@ -74,9 +74,9 @@ Once you have the access to live sensor information, you can configure the senso
 2. On the app homepage, click the **Add-ons** tab and open Add-ons page.
 3. Click **Occupancy Analytics** add-on.
 4. Click **Let’s Start.**
-5. Select your sensor to obtain occupancy data.
+5. Pick **Pointgrab** sensor option.
 6. Click **Next**.
-7. Configure the source.
+7. Configure the sensor.
 8. After configuring the sensor details, the respective widgets will display live sensor data.
 9. Launch your canvas.
    1. On the app homepage, click the **Gallery** tab.
