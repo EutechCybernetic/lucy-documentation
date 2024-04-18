@@ -1,6 +1,6 @@
 # Occupancy Analytics
 
-Occupancy analytics refers to the process of analyzing and understanding how spaces within a building or facility are utilized. This analysis typically involves tracking metrics such as the number of people in a space, patterns of space usage over time. Occupancy analytics can provide valuable insights into how spaces are being used, helping organizations optimize their use of space, improve efficiency, and enhance the overall experience for occupants.
+Occupancy analytics refers to the process of analyzing and understanding how spaces within a building or facility are utilized. This analysis typically involves tracking metrics such as the number of people in a space and patterns of space usage over time. Occupancy analytics can provide valuable insights into how spaces are being used, helping organizations optimize their use of space, improve efficiency, and enhance the overall experience for occupants.
 
 **Occupancy Analytics Add-on**
 
