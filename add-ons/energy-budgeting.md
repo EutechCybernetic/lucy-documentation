@@ -57,11 +57,15 @@ To configure the add-on:
    3. Click **Save**.
 6. Connect meters. There are three ways to feed actual energy consumption data to the system.
    1. **Get Smart Meters**: Connect smart meters to automatically send energy consumption data in.
-   2. &#x20;**Buy on Spacewox:** Buy smart meters from Spaceworx marketplace
-   3. **Manually Upload Energy data:** Upload energy consumption data manually
+   2. &#x20;**Buy on Spacewox:** Buy smart meters from Spaceworx marketplace.
+   3. **Manually Upload Energy data:** Upload energy consumption data manually.
 7. We will pick **Manually Upload Energy data** option.
 8. Select the **Date** for the month you want to add energy data.
-9. Type in the actual consumption for each category you have created for the selected month.
+9. Type in the actual consumption for each category you have created.
 10. Click **Save**.
 11. Repeat steps 7 to 10 to add more data.
+
+### 3. Creating Your Canvas
+
+
 
