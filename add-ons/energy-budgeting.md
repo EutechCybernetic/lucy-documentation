@@ -16,9 +16,9 @@ This article explains how to track your energy consumption and compare it to you
 
 This process involves three main steps:
 
-1. Installing the Energy Budgeting Add-on
-2. Configuring the Energy Budgeting Add-on
-3. Creating Your Canvas/Dashboard
+1. [Installing the Energy Budgeting Add-on](energy-budgeting.md#id-1.-installing-the-energy-budgeting-add-on)
+2. [Configuring the Energy Budgeting Add-on](energy-budgeting.md#id-2.-configuring-the-energy-budgeting-add-on)
+3. [Creating Your Canvas/Dashboard](energy-budgeting.md#id-3.-creating-your-canvas)
 
 ### 1. Installing the Energy Budgeting Add-on
 
