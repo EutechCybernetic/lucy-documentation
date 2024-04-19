@@ -104,9 +104,13 @@ To create a canvas:
     4. Select the required **Categories**.
     5. The widget will display the breakdown of energy usage into different categories.
 12. Pick Yearly Energy Consumption widget. This widget shows the energy consumption details budgeted versus the actual entire year.
+
     1. Click **Filter** icon.
     2. Choose the applicable **Year**.
     3. Pick the applicable **location**.
     4. Select the required **Category**.
     5. The widget will display the energy usage details budgeted versus the actual entire year.
 
+
+
+<figure><img src="../.gitbook/assets/Energy Add-ons_creating canvas_ s1.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying energy usage</p></figcaption></figure>
