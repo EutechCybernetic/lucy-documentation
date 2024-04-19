@@ -72,6 +72,8 @@ To configure the add-on:
 5. Click **Close**.
 6. The respective widgets added to your canvas will display the occupancy data based on the simulated data.
 
+<figure><img src="../.gitbook/assets/occupancy-analytics_s2.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying occupancy data</p></figcaption></figure>
+
 ### Displaying Real-time Data on Widgets
 
 Once you have the access to live sensor information, you can configure the sensor details by going back to the occupancy analytics add-on on the Add-ons page. After configuring the sensor details, the respective widgets will display live sensor data.
@@ -90,3 +92,6 @@ Once you have the access to live sensor information, you can configure the senso
    3. If there is a list of Canvases on the Gallery, you can search for the specific Canvas by typing its name/partial name under **Search Canvases.**
    4. Click on the required canvas to launch it. The widgets on the canvas will display live sensor data.
 
+The following video details how to monitor Occupancy data effectively.
+
+{% embed url="https://drive.google.com/file/d/1tKSJwe3DXWW-iSKaL7QkOf7PMhFEWvmB/view?usp=drive_link" %}
