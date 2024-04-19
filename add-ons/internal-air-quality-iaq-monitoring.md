@@ -16,9 +16,9 @@ Internal Air Quality (IAQ) data refers to the information collected from monitor
 
 IAQ Analytics add-on provides a set of widgets for monitoring internal air quality parameters in your workplace. This process involves three main steps:
 
-1. Installing the IAQ Analytics Add-on
-2. Configuring the IAQ Analytics Add-on
-3. Creating Your Canvas/Dashboard
+1. [Installing the IAQ Analytics Add-on](internal-air-quality-iaq-monitoring.md#id-1.-installing-the-iaq-analytics-add-on)
+2. [Configuring the IAQ Analytics Add-on](internal-air-quality-iaq-monitoring.md#id-2.-configuring-the-iaq-analytics-add-on)
+3. [Creating Your Canvas/Dashboard](internal-air-quality-iaq-monitoring.md#id-3.-creating-your-canvas-dashboard)
 
 ### 1. Installing the IAQ Analytics Add-on
 
@@ -66,7 +66,7 @@ To create a canvas:
 1. On the Lucy app **homepage,** click the **Gallery** tab.
 2. Click the **+** button to start creating a new Canvas.
 3. Click **Next**.
-4. Customize the background  of the canvas if needed.
+4. Customize the background of the canvas if needed.
    1. To select a color theme for your Canvas from the pre-selected color themes, click on the required box. Selected colour theme will be shown under the Header Colour section.
    2. If you need to select a custom color theme, click on the color code in the Header Colour section to open the color picker to select a color of your own.
    3. Under Background Image, click the Search icon to select a background wallpaper for your Canvas.
