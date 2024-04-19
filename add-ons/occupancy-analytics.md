@@ -8,7 +8,13 @@ The Occupancy Analytics add-on lets you create custom canvases/dashboards to tra
 
 To begin, we'll create a canvas to monitor occupancy data and then install and configure the Occupancy Analytics add-on directly from the canvas itself.
 
-### Creating Your Canvas
+All the steps to monitor occupancy details are given below.
+
+1. [Creating Your Canvas](occupancy-analytics.md#id-1.-creating-your-canvas)
+2. [Installing the Occupancy Analytics Add-on](occupancy-analytics.md#id-2.-installing-the-occupancy-analytics-add-on)
+3. [Configuring the Occupancy Analytics Add-on](occupancy-analytics.md#id-3.-configuring-the-occupancy-analytics-add-on)
+
+### 1. Creating Your Canvas
 
 To create a new canvas:
 
@@ -35,7 +41,7 @@ To create a new canvas:
    4. Click **Add Widgets.**
    5. The widgets will be added to the canvas.
 
-### Installing the Occupancy Analytics Add-on
+### 2. Installing the Occupancy Analytics Add-on
 
 After adding required widgets, you can install the Occupancy Analytics add-on directly from the canvas.
 
@@ -50,7 +56,7 @@ To install the add-on:
 1. Click **Install** button of the respective widgets.
 2. After installation, we can configure the add-on.
 
-### Configuring the Occupancy Analytics Add-on
+### 3. Configuring the Occupancy Analytics Add-on
 
 After installing the Occupancy Analytics Add-on, we can configure the add-on directly from the canvas.
 
