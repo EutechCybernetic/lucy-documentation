@@ -19,3 +19,26 @@ This process involves three main steps:
 1. Installing the Energy Budgeting Add-on
 2. Configuring the Energy Budgeting Add-on
 3. Creating Your Canvas/Dashboard
+
+### 1. Installing the Energy Budgeting Add-on
+
+The initial step towards monitoring your energy usage involves the installation of the Energy Budgeting add-on.
+
+To install the Energy Budgeting Add-on:
+
+1. On the Lucy app **homepage**, click the **Add-ons** tab. Add-ons page will be displayed.
+2. Click **Install a new Add-on**.
+3. Pick the **Energy Budgeting** add-on from the list of add-ons.
+4. Click **Install**. The add-on will be installed and will appear on the Add-ons page.
+
+{% hint style="info" %}
+_You can skip installing the add-on if you have done it earlier._
+{% endhint %}
+
+
+
+### 2. Configuring the Energy Budgeting Add-on
+
+After the installation is completed, you will be directed to the configuration page. This step involves configuring energy categories and budgets and connecting meters.&#x20;
+
+To configure the add-on:
