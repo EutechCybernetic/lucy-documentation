@@ -10,7 +10,7 @@ Lucy’s Energy Budgeting add-on allows you to track the energy consumption acro
 
 Energy Categories represent different types of energy consumption in a building. For example, Heating, Ventilation, and Air Conditioning (HVAC) accounts for the energy used for heating, cooling, and ventilation systems. There can be different meters that track different circuits that measure electricity.
 
-&#x20;However, in environments where such detailed metering is not available, overall energy consumption can be captured using a single category.
+However, in environments where such detailed metering is not available, overall energy consumption can be captured using a single category.
 
 This article explains how to track your energy consumption and compare it to your budget with Lucy’s Energy Budgeting Add-on.
 
@@ -67,5 +67,46 @@ To configure the add-on:
 
 ### 3. Creating Your Canvas
 
+&#x20;The last step is to create a canvas to monitor energy consumption.
 
+To create a canvas:
+
+1. On the Lucy app **homepage**, go to the **Gallery** tab.
+2. Click the **+** button to start creating a new Canvas.
+3. Click **Next**.
+4. Customize the background of the canvas if needed.
+   1. To select a color theme for your Canvas from the pre-selected color themes, click on the required box. Selected colour theme will be shown under the Header Colour section.
+   2. If you need to select a custom color theme, click on the color code in the Header Colour section to open the color picker to select a color of your own.
+   3. Under Background Image, click the Search icon to select a background wallpaper for your Canvas.
+   4. To select an image from the available collection, first, type the required keyword in the Search Images box to search for the image and then select it.
+   5. To select your own image as the background of the Canvas, click Upload your image and upload your own image.
+   6. Enable the Blur the background option to blur the applied background of your Canvas if necessary.
+5. Provide a suitable unique **Name** for the canvas.
+6. Grant Access to the Canvas.
+   1. Select a User Group (e.g., System Administrators) if you wish to grant access to specific groups.
+   2. Skip the User Group selection if you intend to allow access for everyone.
+7. Click **Next**. A new Canvas will be created.
+8. Click **Go to your Canvas now** button to launch it in a new window.
+9. Pick and add energy related widgets on to your canvas.
+   1. Click **+** button. Widget Browser will open.
+   2. Use the Search box to search and filter required widgets by typing widget’s name/partial name, _e.g., energy._
+   3. We will select, **Current Monthly Energy Usage, Energy Consumption (Category-wise) and Yearly Energy Consumption** widgets.
+   4. Click **Add Widgets.** Widgets will be added to the canvas. Initially, you will not see data in the widgets.
+10. Pick Current Monthly Energy Usage widget. This widget displays current month’s consumption.
+    1. Click **Filter** icon.
+    2. Pick the applicable **location**.
+    3. Select the required **Category** _e.g., HVAC_.
+    4. The widget will display the current month’s consumption for the selected category.
+11. Pick Energy Consumption (Category-wise) widget. This widget displays category-wise energy usage.
+    1. Click **Filter** icon.
+    2. Choose the applicable **Year** and **Month**.
+    3. Select the applicable **Location**.
+    4. Select the required **Categories**.
+    5. The widget will display the breakdown of energy usage into different categories.
+12. Pick Yearly Energy Consumption widget. This widget shows the energy consumption details budgeted versus the actual entire year.
+    1. Click **Filter** icon.
+    2. Choose the applicable **Year**.
+    3. Pick the applicable **location**.
+    4. Select the required **Category**.
+    5. The widget will display the energy usage details budgeted versus the actual entire year.
 
