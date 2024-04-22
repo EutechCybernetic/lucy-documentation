@@ -17,6 +17,8 @@
   * [Occupancy Analytics](add-ons/occupancy-analytics.md)
   * [Energy Budgeting](add-ons/energy-budgeting.md)
   * [Water Budgeting](add-ons/water-budgeting.md)
+  * [Gas Budgeting](add-ons/gas-budgeting.md)
+  * [Carbon Footprint Calculation](add-ons/carbon-footprint-calculation.md)
 * [Databases](databases/README.md)
   * [Understanding Databases](databases/understanding-databases.md)
   * [Creating and editing databases](databases/creating-and-editing-databases/README.md)
