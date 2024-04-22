@@ -2,7 +2,7 @@
 
 With lucy, you can view live weather updates for a given location.
 
-The Weather add-on provides the weather widget that displays weather information today or upcoming week for a specified location. In addition, you can anytime change the location and see live weather updates.
+The Weather add-on provides the weather widget that displays weather information today or upcoming week for a specified location. In addition, you can change the location at any time and see live weather updates.
 
 Setting up the weather widget is straightforward. The steps to this process are listed below:
 
