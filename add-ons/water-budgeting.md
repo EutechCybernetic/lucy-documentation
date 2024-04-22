@@ -93,15 +93,17 @@ To create a canvas:
     1. Select the Current Monthly Water Usage widget.
     2. Click the **Filter** icon.
     3. Pick the required **Location.**
-    4. Select the **Water Type** which is the water consumption category.
+    4. Select the **Water Type,** which is the water consumption category.
     5. The data will be automatically populated and displayed.
-11. Filter and display data in Water Consumption (Category-wise) widget.
+11. Filter and display data in the Water Consumption (Category-wise) widget. This widget displays category-wise water usage.
     1. Select the Water Consumption (Category-wise) widget.
     2. Click the **Filter** icon.
     3. Pick the required **Year, Month** and the **Location** to display the water consumption data.
     4. Select the Water Consumption Category, _e.g., Main Supply._ This widget will be useful if you have multiple categories.
-12. Filter and display data in Yearly Water Consumption widget.
+12. Filter and display data in the Yearly Water Consumption widget. This widget shows the water consumption details budgeted versus the actual entire year.
     1. Select the Yearly Water Consumption widget.
     2. Click the **Filter** icon.
     3. Pick the required **Year, Location** and **Water Type.**
     4. The data will be automatically populated and displayed.
+
+<figure><img src="../.gitbook/assets/Water Budgeting_canvas_s1.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying water consumption</p></figcaption></figure>
