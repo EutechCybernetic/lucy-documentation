@@ -8,7 +8,7 @@ Lucy’s Energy Budgeting add-on allows you to track the energy consumption acro
 
 **Energy Categories**
 
-Energy Categories represent different types of energy consumption in a building. For example, Heating, Ventilation, and Air Conditioning (HVAC) accounts for the energy used for heating, cooling, and ventilation systems. There can be different meters that track different circuits that measure electricity.
+Energy Categories represent different types of energy consumption in a building. For example, Heating, Ventilation, and Air Conditioning (HVAC) systems. There can be different meters that track different circuits that measure these types.
 
 However, in environments where such detailed metering is not available, overall energy consumption can be captured using a single category.
 

@@ -8,7 +8,7 @@ Lucy's Water Budgeting add-on simplifies the monitoring of your water consumptio
 
 **Water Categories**
 
-With Lucy, you can create multiple water consumption categories. Water Categories represent different types of water sources or consumption in a building. For example, domestic use, landscaping, HVAC (Heating, Ventilation, and Air Conditioning) systems and cleaning. There can be different meters that track different circuits that measure this.
+With Lucy, you can create multiple water consumption categories. Water Categories represent different types of water sources or consumption in a building. For example, domestic use, landscaping, Heating, Ventilation, and Air Conditioning (HVAC) systems and cleaning. There can be different meters that track different circuits that measure these types.
 
 However, in environments where such detailed metering is not available, overall water consumption can be captured using a single category.
 
@@ -19,3 +19,15 @@ This process involves three main steps:
 1. Installing Water Budgeting add-on
 2. Configuring Water Budgeting add-on
 3. Creating Dashboards
+
+### Installing Water Budgeting Add-on
+
+Installing the Water Budgeting add-on is the first step to monitor water consumption. To install the Water Budgeting Add-on:
+
+1. On the Lucy app **homepage**, click the **Add-ons** tab.&#x20;
+2. Click **Install a new Add-on.**
+3. Pick the Energy Budgeting add-on from the list of add-ons.
+4. Click **Install**. The add-on will be installed and will appear on the Add-ons page.
+
+
+
