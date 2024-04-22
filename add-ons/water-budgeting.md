@@ -8,7 +8,7 @@ Lucy's Water Budgeting add-on simplifies the monitoring of your water consumptio
 
 **Water Categories**
 
-With Lucy, you can create multiple water consumption categories. Water Categories represent different types of water sources or consumption in a building. For example, domestic use, landscaping, Heating, Ventilation, and Air Conditioning (HVAC) systems and cleaning. There can be different meters that track different circuits that measure these types.
+Water Categories represent different types of water sources or consumption in a building. For example, domestic use, landscaping, Heating, Ventilation, and Air Conditioning (HVAC) systems and cleaning. There can be different meters that track different circuits that measure these types.
 
 However, in environments where such detailed metering is not available, overall water consumption can be captured using a single category.
 
