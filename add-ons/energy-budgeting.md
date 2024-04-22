@@ -91,22 +91,25 @@ To create a canvas:
    2. Use the Search box to search and filter required widgets by typing widget’s name/partial name, _e.g., energy._
    3. We will select, **Current Monthly Energy Usage, Energy Consumption (Category-wise) and Yearly Energy Consumption** widgets.
    4. Click **Add Widgets.** Widgets will be added to the canvas. Initially, you will not see data in the widgets.
-10. Pick Current Monthly Energy Usage widget. This widget displays current month’s consumption.
-    1. Click **Filter** icon.
-    2. Pick the applicable **location**.
-    3. Select the required **Category** _e.g., HVAC_.
-    4. The widget will display the current month’s consumption for the selected category.
-11. Pick Energy Consumption (Category-wise) widget. This widget displays category-wise energy usage.
-    1. Click **Filter** icon.
-    2. Choose the applicable **Year** and **Month**.
-    3. Select the applicable **Location**.
-    4. Select the required **Categories**.
-    5. The widget will display the breakdown of energy usage into different categories.
-12. Pick Yearly Energy Consumption widget. This widget shows the energy consumption details budgeted versus the actual entire year.
-    1. Click **Filter** icon.
-    2. Choose the applicable **Year**.
-    3. Select the relevant **Location.**
-    4. Pick the required **Category**.
-    5. The widget will display the energy usage details budgeted versus the actual entire year.
+10. Filter and display data in the  Monthly Energy Usage widget. This widget displays current month’s consumption.
+    1. Select the Monthly Energy Usage widget.
+    2. Click **Filter** icon.
+    3. Pick the applicable **location**.
+    4. Select the required **Category** _e.g., HVAC_.
+    5. The widget will display the current month’s consumption for the selected category.
+11. Filter and display data in the Energy Consumption (Category-wise) widget. This widget displays category-wise energy usage.
+    1. Select the Energy Consumption (Category-wise) widget.
+    2. Click **Filter** icon.
+    3. Choose the applicable **Year** and **Month**.
+    4. Select the applicable **Location**.
+    5. Select the required **Categories**.
+    6. The widget will display the breakdown of energy usage into different categories.
+12. Filter and display data in the Yearly Energy Consumption widget. This widget shows the energy consumption details budgeted versus the actual entire year.
+    1. Select the  Yearly Energy Consumption widget.
+    2. Click **Filter** icon.
+    3. Choose the applicable **Year**.
+    4. Select the relevant **Location.**
+    5. Pick the required **Category**.
+    6. The widget will display the energy usage details budgeted versus the actual entire year.
 
 <figure><img src="../.gitbook/assets/Energy Add-ons_creating canvas_ s1.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying energy usage</p></figcaption></figure>
