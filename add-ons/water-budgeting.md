@@ -16,9 +16,9 @@ This article details how you can use Lucy's Water Budgeting Add-on to track your
 
 This process involves three main steps:
 
-1. Installing the Water Budgeting add-on
-2. Configuring the Water Budgeting add-on
-3. Creating a Canvas
+1. [Installing the Water Budgeting Add-on](water-budgeting.md#id-1.-installing-water-budgeting-add-on)
+2. [Configuring the Water Budgeting Add-on](water-budgeting.md#id-2.-configuring-the-water-budgeting-add-on)
+3. [Creating a Canvas](water-budgeting.md#id-3.-creating-a-canvas)
 
 ### 1. Installing Water Budgeting Add-on
 
