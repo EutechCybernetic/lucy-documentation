@@ -6,10 +6,10 @@ With Lucy, you can view live weather information for a specific location.
 
 The Weather Add-on provides the weather widget that displays today's weather or the forecast for the upcoming week for a selected location. You can change the location at any time to view live weather updates.
 
-Setting up the weather widget is straightforward. The steps to this process are listed below:
+Setting up the weather widget is straightforward. The steps to this process are listed below.
 
-1. Creating a New Canvas or Using an Existing One
-2. Installing and Configuring the Weather Add-on
+1. [Creating a New Canvas or Using an Existing One](weather.md#creating-a-new-canvas-or-using-an-existing-one)
+2. [Installing and Configuring the Weather Add-on](weather.md#installing-and-configuring-the-weather-add-on)
 
 ### Creating a New Canvas or Using an Existing One
 
@@ -43,7 +43,7 @@ To create a new canvas:
 
 #### Using an Existing Canvas
 
-To use an existing Canvas in the system.
+To use an existing Canvas in the system:
 
 1. On the Lucy app **homepage**, go to the **Gallery** tab.
 2. Pick the Canvas from the Gallery.
