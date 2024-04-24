@@ -107,3 +107,7 @@ To create a canvas:
     4. The data will be automatically populated and displayed.
 
 <figure><img src="../.gitbook/assets/Water Budgeting_canvas_s1.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying water consumption</p></figcaption></figure>
+
+The video below explains the process of monitoring water consumption in your building or workplace and setting budgets.
+
+{% embed url="https://drive.google.com/file/d/1CtC6qaQB_CdU45pu8W8_35pknAq-65AG/view?usp=drive_link" %}
