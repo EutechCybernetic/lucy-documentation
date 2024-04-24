@@ -106,6 +106,6 @@ Once you have the access to live sensor information, you can configure the senso
 
 <figure><img src="../.gitbook/assets/IAQ_Canvas_s2.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying Internal Air Quality (IAQ) data</p></figcaption></figure>
 
-The video below explains the process of monitoring Internal Air Quality (IAQ).
+The video below explains the process of monitoring Internal Air Quality (IAQ) data.
 
 {% embed url="https://drive.google.com/file/d/1TUwoOszXNMzDGVxgoK3J4bfQQ5aF9PpD/view?usp=drive_link" %}
