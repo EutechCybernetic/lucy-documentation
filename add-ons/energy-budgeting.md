@@ -91,7 +91,7 @@ To create a canvas:
    2. Use the Search box to search and filter required widgets by typing widget’s name/partial name, _e.g., energy._
    3. We will select, **Current Monthly Energy Usage, Energy Consumption (Category-wise) and Yearly Energy Consumption** widgets.
    4. Click **Add Widgets.** Widgets will be added to the canvas. Initially, you will not see data in the widgets.
-10. Filter and display data in the  Monthly Energy Usage widget. This widget displays current month’s consumption.
+10. Filter and display data in the Monthly Energy Usage widget. This widget displays current month’s consumption.
     1. Select the Monthly Energy Usage widget.
     2. Click **Filter** icon.
     3. Pick the applicable **location**.
@@ -113,3 +113,7 @@ To create a canvas:
     6. The widget will display the energy usage details budgeted versus the actual entire year.
 
 <figure><img src="../.gitbook/assets/Energy Add-ons_creating canvas_ s1.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying energy usage</p></figcaption></figure>
+
+The video below explains the process of monitoring energy consumption in your building or workplace and setting budgets.
+
+{% embed url="https://drive.google.com/file/d/1UUvW6vXt6gSL52yv4E4x3qehoCT5yCCc/view?usp=sharing" %}
