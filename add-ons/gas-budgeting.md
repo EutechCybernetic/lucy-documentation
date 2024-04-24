@@ -14,8 +14,27 @@ However, in environments where such detailed metering is not available, overall 
 
 This process involves three main steps:
 
-1. Installing the Gas Budgeting add-on
-2. Configuring the Gas Budgeting add-on
+1. Installing the Gas Budgeting Add-on
+2. Configuring the Gas Budgeting Add-on
 3. Creating a Canvas
 
-&#x20;
+### Installing the Gas Budgeting Add-on
+
+Installing the Gas Budgeting add-on is the first step to monitor gas consumption. To install the Gas Budgeting Add-on:
+
+1. On the Lucy app **homepage**, click the **Add-ons** tab.
+2. Click **Install a new Add-on.**
+3. Pick the Gas Budgeting add-on from the list of add-ons.
+4. Click **Install**. The add-on will be installed and will appear on the Add-ons page.
+5. If you have previously installed the add-on, you can skip this step.
+
+### Configuring the Gas Budgeting Add-on
+
+Upon successful add-on installation, you will be directed to the configuration page. This step involves configuring gas categories, setting budgets and connecting your meters.
+
+To configure the Gas Budgeting add-on:
+
+
+
+### Creating a Canvas
+
