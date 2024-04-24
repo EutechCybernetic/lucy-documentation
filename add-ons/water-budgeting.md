@@ -20,7 +20,7 @@ This process involves three main steps:
 2. [Configuring the Water Budgeting Add-on](water-budgeting.md#id-2.-configuring-the-water-budgeting-add-on)
 3. [Creating a Canvas](water-budgeting.md#id-3.-creating-a-canvas)
 
-### 1. Installing Water Budgeting Add-on
+### 1. Installing the Water Budgeting Add-on
 
 Installing the Water Budgeting add-on is the first step to monitor water consumption. To install the Water Budgeting Add-on:
 
