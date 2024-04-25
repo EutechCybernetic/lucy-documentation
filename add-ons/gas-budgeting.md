@@ -14,9 +14,9 @@ However, in environments where such detailed metering is not available, overall 
 
 This process involves three main steps:
 
-1. Installing the Gas Budgeting Add-on
-2. Configuring the Gas Budgeting Add-on
-3. Creating a Canvas
+1. [Installing the Gas Budgeting Add-on](gas-budgeting.md#installing-the-gas-budgeting-add-on)
+2. [Configuring the Gas Budgeting Add-on](gas-budgeting.md#configuring-the-gas-budgeting-add-on)
+3. [Creating a Canvas](gas-budgeting.md#creating-a-canvas)
 
 ### Installing the Gas Budgeting Add-on
 
