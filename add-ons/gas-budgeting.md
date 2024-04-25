@@ -8,7 +8,7 @@ The Gas Budgeting add-on simplifies the monitoring of gas consumption, letting y
 
 **Gas Categories**
 
-Gas Categories refers to different types of gas sources or consumption. For example, Cooking and Boilers. There can be different meters that track different circuits to measure this.
+Gas Categories refers to different types of gas sources or consumption. For example, Cooking and Boilers. There can be different meters that track different circuits to measure this usage.
 
 However, in environments where such detailed metering is not available, overall gas consumption can be captured using a single category.
 
@@ -100,3 +100,7 @@ To create a canvas:
     2. Click the **Filter** icon.
     3. Pick the required **Year, Location** and **Gas Type.**
     4. The data will be automatically populated and displayed.
+
+The video below explains the process of monitoring gas consumption in your building or workplace and setting budgets.
+
+{% embed url="https://drive.google.com/file/d/1BG0KtTkyAwKX3nSwANY1SvEyJeZz9X6o/view?usp=drive_link" %}

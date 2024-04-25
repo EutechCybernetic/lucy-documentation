@@ -78,3 +78,7 @@ After adding the Weather widget to the canvas, we will need to install and confi
    2. Enter the **location**.
    3. Click **Save Changes.**
    4. The weather information will be displayed based on the new location.
+
+The video below explains how you can view real-time weather information for a given location.
+
+{% embed url="https://drive.google.com/file/d/19tgRVuR9ajajMcjg5B4dt-ieqlQESJtI/view?usp=sharing" %}
