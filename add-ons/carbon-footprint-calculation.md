@@ -4,12 +4,24 @@ A carbon footprint is the total amount of greenhouse gases, specifically carbon 
 
 In this article we will see how to calculate carbon footprint of your workplace or building based on energy consumption data.
 
-**Prerequisites:**
 
-* Successful installation and configuration of the Energy Budgeting add-on.
-* Creation a canvas for displaying and monitoring energy consumption data
 
-### Calculating Carbon Footprint
+{% hint style="info" %}
+
+
+**Before you begin, ensure the following prerequisites are met:**
+
+* The [**Energy Budgeting**](energy-budgeting.md) add-on is successfully installed and configured.
+* A **Canvas** for displaying and monitoring energy consumption data has been created.
+{% endhint %}
+
+Find the article related to energy budgeting below.
+
+{% content-ref url="energy-budgeting.md" %}
+[energy-budgeting.md](energy-budgeting.md)
+{% endcontent-ref %}
+
+### Carbon Footprint Calculation
 
 1. On the app **homepage,** click the **Add-ons** tab. Add-ons page will open.
 2. Locate and click on the **Energy Budgeting** add-on.
@@ -28,3 +40,7 @@ In this article we will see how to calculate carbon footprint of your workplace 
 
 
 <figure><img src="../.gitbook/assets/Carbon Footprint_s1.png" alt=""><figcaption><p>Energy Budgeting Canvas updated with carbon dioxide information</p></figcaption></figure>
+
+The following video details how to calculate carbon footprint of your workplace or building based on energy consumption data.
+
+{% embed url="https://drive.google.com/file/d/18ZS8Sokl3rtIbHf3HjLD8lf86vuawNmr/view?usp=sharing" %}
