@@ -6,14 +6,10 @@ In this article we will see how to calculate carbon footprint of your workplace 
 
 
 
-{% hint style="info" %}
-
-
 **Before you begin, ensure the following prerequisites are met:**
 
 * The [**Energy Budgeting**](energy-budgeting.md) add-on is successfully installed and configured.
 * A **Canvas** for displaying and monitoring energy consumption data has been created.
-{% endhint %}
 
 Find the article related to energy budgeting below.
 
@@ -40,6 +36,8 @@ Find the article related to energy budgeting below.
 
 
 <figure><img src="../.gitbook/assets/Carbon Footprint_s1.png" alt=""><figcaption><p>Energy Budgeting Canvas updated with carbon dioxide information</p></figcaption></figure>
+
+
 
 The following video details how to calculate carbon footprint of your workplace or building based on energy consumption data.
 
