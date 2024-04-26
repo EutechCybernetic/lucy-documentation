@@ -2,9 +2,7 @@
 
 A carbon footprint is the total amount of greenhouse gases, specifically carbon dioxide, emitted directly or indirectly by human activities. It is usually expressed in equivalent tons of carbon dioxide (CO2e) per year and is used to measure the impact of individuals, organizations, or products on the environment in terms of their contribution to global warming.
 
-In this article we will see how to calculate carbon footprint of your workplace or building based on energy consumption data.
-
-
+In this article, we will explore how to calculate the carbon footprint of your workplace or building based on energy consumption data.
 
 **Before you begin, ensure the following prerequisites are met:**
 
