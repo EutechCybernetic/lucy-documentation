@@ -22,7 +22,7 @@ Let’s create a Canvas in Lucy.
 8. Provide a **Name** for your Canvas.
 9. Grant Access to the Canvas.
    1. Select a User Group (e.g., System Administrators) if you wish to grant access to specific groups.
-   2. Skip the User Group selection if you intend to allow access for everyone.
+   2. Skip the User Group selection if you intend to allow access for anyone.
 10. Click **Next**. A new Canvas will be created and listed on the Gallery page.&#x20;
 11. Click **Go to your Canvas now** button to jump into your Canvas. The newly created Canvas will open in a new tab in your browser.
 
