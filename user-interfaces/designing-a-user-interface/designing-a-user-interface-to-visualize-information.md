@@ -157,7 +157,7 @@ You can include multiple chart types within the same chart. For instance, if you
 **Note**: You need to have a data source bound to every chart type added.
 {% endhint %}
 
-#### <mark style="color:blue;">Adding</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**X-axis and Y-axis**</mark>
+#### <mark style="color:blue;">Adding</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**X-axis and Value Fields**</mark>
 
 1. Click on the **Bar/Line chart** on the widget designer page, its **Properties** panel will be displayed.
 2. Head to **X-axis Label** section. In the **X-axis Field** list, select group option.
@@ -305,9 +305,11 @@ Preview mode can be used to view a live preview of the appearance and the behavi
 After you have done required customizations, you can save the widget for future reference.
 
 1. On the widget designer page, click **Save Widget.**
-2. Enter a **Name** for the widget (adding a name is mandatory).
-   1. Go to **General** tab and enter the name.
-3. Click **Save** Widget.
+2. Under General tab, enter a **Name** for the widget (adding a name is mandatory).
+3. Add a Description if necessary.
+4. Click **Save** Widget.
+
+The system stores all your saved widgets under the User Interfaces tab of the respective folder.
 
 ## <mark style="color:blue;">Sharing Your Widget</mark>
 
