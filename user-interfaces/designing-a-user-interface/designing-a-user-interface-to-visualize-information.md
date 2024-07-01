@@ -138,20 +138,20 @@ You can choose either a single chart type or multiple chart types to display on 
 
 #### <mark style="color:blue;">Selecting a Single Chart Type</mark>
 
-1. Click on the **Bar/Line** chart on the widget designer page, its **Properties** panel will be displayed.
-2. On the properties panel, go to **Chart Elements** section, click appropriate chart type _e.g., Bar chart._
-3. The current chart type will be replaced with the newly selected chart type and the new chart will be displayed on the widget.
+1. Click on the chart on the widget designer page, its **Properties** panel will open.
+2. On the properties panel, go to **Chart Elements** section and click the **Plus** icon.
+3. By default, the bar chart will be selected and displayed on the chart.
+4. To select a different chart type, select the appropriate chart type _e.g., Line chart._
+   1. The current chart type will be replaced with the newly selected chart type and the new chart will be displayed on the widget.
 
 #### <mark style="color:blue;">Selecting Multiple Chart Types</mark>
 
-You can include multiple chart types within the same chart. For instance, if your primary chart is a line chart, you can add a bar chart, and both chart types will be displayed together.
+You can include multiple chart types within the same chart. For instance, if your primary chart is a line chart, you can add a bar chart, and both chart types will be displayed together.&#x20;
 
-1. Click on the **Bar/Line** chart on the widget designer page, its **Properties** panel will be displayed.&#x20;
+1. After you have applied a chart as described under [<mark style="color:blue;">Selecting a Single Chart Type,</mark> ](designing-a-user-interface-to-visualize-information.md#selecting-a-single-chart-type)you can select multiple if necessary.
 2. On the properties panel, go to **Chart Elements** section.
-3. Click **Add** icon next to Chart Elements.
-4. A bar chart will be displayed along with the previously selected line chart on the same chart.
-
-
+3. Click **Plus** icon next to Chart Elements.
+4. Select the appropriate chart type _e.g., Bar chart._
 
 {% hint style="info" %}
 **Note**: You need to have a data source bound to every chart type added.
