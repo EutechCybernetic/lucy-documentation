@@ -60,8 +60,6 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 
 When dealing with complex datasets, a single condition may not be sufficient. Grouping conditions enables you to create more sophisticated filters, combining multiple criteria to obtain the desired subset of data.
 
-
-
 {% hint style="info" %}
 For our example, adding group of conditions is not needed.
 {% endhint %}
@@ -124,11 +122,7 @@ There are two mode for a widget designer page:
 
 A Bar/Line chart can be customized to meet the user's needs by adjusting its appearance, changing the way data is presented (e.g., selecting different chart types), customizing legends, axis labels and other elements to provide context and improve the understanding of the presented information.
 
-There are 3 types of charts you can have in a Bar/Line chart :&#x20;
-
-* Line chart&#x20;
-* Bar chart
-* Area chart
+There are 3 main types of charts: **line charts, bar charts, and area charts**.
 
 You can choose either a single chart type or multiple chart types to display on the same chart. For example, you can have both a bar chart and a line chart on a single chart.
 
