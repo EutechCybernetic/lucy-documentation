@@ -5,7 +5,7 @@ Designing user interfaces to visualize data is a powerful way to derive meaningf
 &#x20;This article shows how to design a user interface to visualize your data and explains the two distinct approaches to do that:
 
 1. [Visualizing Data by Selecting a Data source](designing-a-user-interface-to-visualize-information.md#id-1.-visualizing-data-by-selecting-a-data-source)
-2. [Starting from Scratch by Selecting a Template](designing-a-user-interface-to-visualize-information.md#selecting-a-data-source)
+2. [Starting from Scratch by Selecting a Template](designing-a-user-interface-to-visualize-information.md#id-2.-starting-from-scratch-by-selecting-a-template)
 
 {% hint style="info" %}
 **Note**: Before you go ahead with any of these methods, ensure that a data source (database/workflow) is ready in the system.
