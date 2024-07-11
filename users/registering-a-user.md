@@ -3,7 +3,7 @@
 Typically, administrators create new users. There are two ways to register a user in Lucy.
 
 1. [Registering Users Directly in the System](registering-a-user.md#id-1.-registering-users-directly-in-the-system)
-2. [Inviting Users via Sending a Welcome Email](registering-a-user.md#inviting-users-via-sending-a-welcome-email)
+2. [Inviting Users via Sending a Welcome Email](registering-a-user.md#id-2.-inviting-users-via-sending-a-welcome-email)
 
 {% hint style="info" %}
 As a prerequisite, you need to create [User Groups](creating-a-user-group.md) before registering a user.
