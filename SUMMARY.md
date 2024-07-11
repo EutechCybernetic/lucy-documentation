@@ -67,6 +67,7 @@
   * [Weather](add-ons/weather.md)
 * [Mobile App](mobile-app.md)
 * [Users](users/README.md)
+  * [Creating a User](users/creating-a-user.md)
   * [Searching and Viewing Users](users/searching-and-viewing-users.md)
   * [Editing User Details](users/editing-user-details.md)
 * [News Feeds](news-feeds/README.md)
