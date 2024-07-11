@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Setting up Your Lucy Account](README.md)
+* [Introduction to Lucy](README.md)
+* [Setting up Your Lucy Account](<README (1).md>)
   * [Settings](setting-up-your-lucy-account/settings.md)
   * [Your Profile](setting-up-your-lucy-account/your-profile.md)
 * [Getting Started](getting-started.md)
