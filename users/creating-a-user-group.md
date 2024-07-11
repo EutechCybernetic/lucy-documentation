@@ -19,7 +19,6 @@ Let's create a User Group.
 10. To land on usual Lucy app homepage upon log in:
     1. Deselect the ‘**Enter a custom URL’** checkbox.
     2. Click **Update**.
-11. A new user group will be created and listed under User Groups tab.
 
 
 
