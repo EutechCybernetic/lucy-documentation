@@ -25,7 +25,7 @@ There are two ways to add a widget onto a canvas:
 
 The following example shows the Current Monthly Energy Usage widget that can be used to show the current month's energy consumption.
 
-<figure><img src="../.gitbook/assets/Energy Widget.png" alt=""><figcaption><p>Current Monthly Energy Usage Widget </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Energy Widget.png" alt=""><figcaption><p>Current Monthly Energy Usage Widget </p></figcaption></figure>
 
 ## <mark style="color:blue;">Adding the Widget directly from Your Canvas</mark>
 
@@ -39,7 +39,7 @@ The process of adding a widget directly from your canvas is described in four ma
 4. Click on the Canvas to view it in full, or alternatively, hover over the Canvas and click the **eye** icon to open it.
 5. If you have not added any Widgets onto your Canvas yet, you will see the **+** icon . Click the **+** icon. The Widget Browser will open. Alternatively, click the **Add Widget** button on the top right to add widgets onto your Canvas.
 
-<figure><img src="../.gitbook/assets/Add widget buttons.PNG" alt=""><figcaption><p>+ icon and Add Widget button are visible on a freshly created Canvas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Add widget buttons.PNG" alt=""><figcaption><p>+ icon and Add Widget button are visible on a freshly created Canvas</p></figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@ To filter and select widgets from the Widget Browser:
 1. Select the Category from the list displayed on the Sidebar, to see the Widgets belong to the specific Category.
 2. You can search for the required Widget by typing the name in the box given on the top as well.
 
-<figure><img src="../.gitbook/assets/LC_Adding Widgets onto your Canvas_S4_1.png" alt=""><figcaption><p>Filter Widgets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Adding Widgets onto your Canvas_S4_1.png" alt=""><figcaption><p>Filter Widgets</p></figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@ All custom-made widgets can be filtered and accessed through the **My Widgets** 
 
 On the Widget Browser, click the green eye icon of the required Widget to get more information about the respective Widget. Once the green eye icon is clicked, you will see a small preview of the Widget which is interactive.
 
-<figure><img src="../.gitbook/assets/Widget Preview.png" alt=""><figcaption><p>Preview of a Widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Widget Preview.png" alt=""><figcaption><p>Preview of a Widget</p></figcaption></figure>
 
 
 
@@ -76,7 +76,7 @@ On the Widget Browser, click the green eye icon of the required Widget to get mo
 2. After selecting the required Widgets, click **Add Widgets.**
 3. The selected widget(s) will be added onto your Canvas.
 
-<figure><img src="../.gitbook/assets/LC_Adding Widgets onto your Canvas_S5_2.png" alt=""><figcaption><p>Select and Add required Widgets to Canvas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Adding Widgets onto your Canvas_S5_2.png" alt=""><figcaption><p>Select and Add required Widgets to Canvas</p></figcaption></figure>
 
 Watch the video demonstrating how to add widgets directly onto your canvas here.
 
@@ -90,8 +90,8 @@ Refer the article below on adding the widget from the widget designer page.
 
 
 
-{% content-ref url="../user-interfaces/sharing-a-user-interface.md" %}
-[sharing-a-user-interface.md](../user-interfaces/sharing-a-user-interface.md)
+{% content-ref url="../../user-interfaces/sharing-a-user-interface.md" %}
+[sharing-a-user-interface.md](../../user-interfaces/sharing-a-user-interface.md)
 {% endcontent-ref %}
 
 Watch the video below to gain a better understanding of how to add a widget from the Widget Designer Page.

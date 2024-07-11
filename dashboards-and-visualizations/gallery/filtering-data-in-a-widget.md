@@ -12,4 +12,4 @@ Let's see how to filter data in a widget.
 6. Click the **Filter** icon on the respective widget.&#x20;
 7. Apply the appropriate filters to refine data displayed on the widget.
 
-<figure><img src="../.gitbook/assets/LC_Filtering Data in a Widget_S2.png" alt=""><figcaption><p>Filter option in a widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Filtering Data in a Widget_S2.png" alt=""><figcaption><p>Filter option in a widget</p></figcaption></figure>

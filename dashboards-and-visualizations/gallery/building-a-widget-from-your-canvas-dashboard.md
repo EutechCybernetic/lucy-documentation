@@ -8,7 +8,7 @@ After building it, you can always add it to your canvas later at any time.
 
 A widget browser is a interface that allows users to explore, search, and locate various widgets when selecting widgets to be added to a dashboard. In addition, widget browser allows to generate new widgets when none meet their specified criteria.
 
-<figure><img src="../.gitbook/assets/LC_Building a Widget from Your Canvas_s1.png" alt=""><figcaption><p>Widget Browser</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Building a Widget from Your Canvas_s1.png" alt=""><figcaption><p>Widget Browser</p></figcaption></figure>
 
 ## <mark style="color:blue;">Building a Widget</mark>
 
@@ -33,8 +33,8 @@ If your search finds no widgets, you'll see the **Build a new Widget** button.
 
 Find out more about building a user interface from here:
 
-{% content-ref url="../user-interfaces/designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
-[designing-a-user-interface-from-scratch.md](../user-interfaces/designing-a-user-interface/designing-a-user-interface-from-scratch.md)
+{% content-ref url="../../user-interfaces/designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
+[designing-a-user-interface-from-scratch.md](../../user-interfaces/designing-a-user-interface/designing-a-user-interface-from-scratch.md)
 {% endcontent-ref %}
 
 Watch the video demonstrating how to build a widget from your Canvas here.
