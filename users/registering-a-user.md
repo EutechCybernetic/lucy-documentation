@@ -32,7 +32,7 @@ If the **Set the user’s password** option is not enabled, the **Initial Passwo
 The **User Group** field is exclusively visible to administrators, and only they possess the authority to modify the User Group assignment for a user.
 {% endhint %}
 
-## <mark style="color:blue;">Inviting Users via Sending a Welcome Email</mark>
+## <mark style="color:blue;">2. Inviting Users via Sending a Welcome Email</mark>
 
 As a system administrator, you have the option to facilitate the account creation process for new users by sending them an invitation email.
 
@@ -45,7 +45,7 @@ As a system administrator, you have the option to facilitate the account creatio
 7. Click **Invite User.** An invitation request will be sent to the respective user's email address, allowing them to create their own account.
 8. Click the **Accept Invitation** link in the email to setup your account.
 
-This is an example of the invitation email the user receives.
+This is an example of the invitation email you'll receives.
 
 <figure><img src="../.gitbook/assets/EMAIL_SCREEN_1.png" alt=""><figcaption><p>Sample Invitation Email</p></figcaption></figure>
 
