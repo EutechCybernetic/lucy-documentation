@@ -11,7 +11,7 @@ Let's create a User Group.
 5. Click **Save** and the user group will be created.
 6. Then User Group Configuration window opens.
 7. Under Permissions section, select or deselect the required permissions as necessary.
-8. By default, when you log in to the Lucy app, you’ll land on the usual homepage. Instead, you can select a  specific canvas to land on upon login.
+8. By default, when you log in to the Lucy app, you’ll land on the usual homepage. Instead, you can select a  specific canvas to land on upon logging in.
 9. To land on a certain canvas upon log in:
    1. Select the ‘**Enter a custom URL’** checkbox.
    2. Type in the **URL** to that canvas.
