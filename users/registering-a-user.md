@@ -2,8 +2,8 @@
 
 Typically, administrators create new users. There are two ways to register a user in Lucy.
 
-1. Registering Users directly in the System
-2. Inviting Users via Welcome Email
+1. [Registering Users Directly in the System](registering-a-user.md#id-1.-registering-users-directly-in-the-system)
+2. [Inviting Users via Sending a Welcome Email](registering-a-user.md#inviting-users-via-sending-a-welcome-email)
 
 {% hint style="info" %}
 As a prerequisite, you need to create [User Groups](creating-a-user-group.md) before registering a user.
@@ -32,7 +32,7 @@ If the **Set the user’s password** option is not enabled, the **Initial Passwo
 The **User Group** field is exclusively visible to administrators, and only they possess the authority to modify the User Group assignment for a user.
 {% endhint %}
 
-## <mark style="color:blue;">Inviting Users via Welcome Email</mark>
+## <mark style="color:blue;">Inviting Users via Sending a Welcome Email</mark>
 
 As a system administrator, you have the option to facilitate the account creation process for new users by sending them an invitation email.
 
@@ -43,3 +43,9 @@ As a system administrator, you have the option to facilitate the account creatio
 5. Select the appropriate **user group** of the user _e.g., Regular User._
 6. Untick the **Set the user’s password** option.&#x20;
 7. Click **Invite User.** An invitation request will be sent to the respective user's email address, allowing them to create their own account.
+8. Click the **Accept Invitation** link in the email to setup your account.
+
+This is an example of the invitation email the user receives.
+
+<figure><img src="../.gitbook/assets/EMAIL_SCREEN_1.png" alt=""><figcaption><p>Sample Invitation Email</p></figcaption></figure>
+
