@@ -6,5 +6,5 @@ Typically, administrators create new users. There are two ways to create a user 
 2. Inviting Users via Welcome Email
 
 {% hint style="info" %}
-As a prerequisite, you need to create User Groups before creating a user.
+As a prerequisite, you need to create [User Groups](creating-a-user-group.md) before creating a user.
 {% endhint %}
