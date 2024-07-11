@@ -18,5 +18,5 @@ You cannot edit the 'Login ID' of a user when editing user details.
 6. User details will be updated.
 
 {% hint style="warning" %}
-You cannot edit Login ID of a user.
+Login IDs cannot be changed when editing user details.
 {% endhint %}
