@@ -45,7 +45,7 @@ As a system administrator, you have the option to facilitate the account creatio
 7. Click **Invite User.** An invitation request will be sent to the respective user's email address, allowing them to create their own account.
 8. Click the **Accept Invitation** link in the email to setup your account.
 
-This is an example of the invitation email you'll receives.
+This is an example of an invitation email you'll receive.
 
 <figure><img src="../.gitbook/assets/EMAIL_SCREEN_1.png" alt=""><figcaption><p>Sample Invitation Email</p></figcaption></figure>
 
