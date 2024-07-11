@@ -1,6 +1,6 @@
 # Setting up Your Lucy Account
 
-If you are new to Lucy, learn how to join Lucy and get started. Below is an overview of the account setup procedure you should complete as a system administrator. Within each section, you will find all the detailed instructions necessary to complete the account setup easily. Lucy offers two methods for inviting users:
+If you are new to Lucy, learn how to join Lucy and get started. Below is an overview of the account setup procedure you should complete as a system administrator. Within each section, you will find all the detailed instructions necessary to complete the account setup easily. Lucy offers two methods for creating users:
 
 1. [Registering Users](<README (1).md#id-1.-registering-users>)
 2. [Inviting Users via Welcome Email](<README (1).md#id-2.-inviting-users-via-welcome-email>)
