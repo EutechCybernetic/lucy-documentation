@@ -16,3 +16,7 @@ You cannot edit the 'Login ID' of a user when editing user details.
 4. Click on the required User to change details.
 5. Edit the user details and hit enter.
 6. User details will be updated.
+
+{% hint style="warning" %}
+You cannot edit Login ID of a user.
+{% endhint %}
