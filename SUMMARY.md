@@ -68,6 +68,7 @@
 * [Mobile App](mobile-app.md)
 * [Users](users/README.md)
   * [Creating a User](users/creating-a-user.md)
+  * [Creating a User Group](users/creating-a-user-group.md)
   * [Searching and Viewing Users](users/searching-and-viewing-users.md)
   * [Editing User Details](users/editing-user-details.md)
 * [News Feeds](news-feeds/README.md)
