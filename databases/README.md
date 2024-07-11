@@ -2,9 +2,7 @@
 
 Lucy allows you to create and manage databases, providing a flexible and schema-less storage solution for diverse sets of data. These document-based containers enable you to store and query arbitrary information according to your unique needs.
 
-Lucy lets you define databases and use them to store and query any arbitrary data you want.
 
-Databases are document-based schema-less storage containers for any kind of data you want.
 
 {% hint style="info" %}
 When we say 'database', it's more akin to a table or a collection, rather than how the word 'database' is used in a traditional database engine, where it refers to a single space that contains multiple tables + logic + security settings etc... We're trying to keep it simple here.
