@@ -6,4 +6,5 @@ Lucy provides the following features out of the box:
 * [Projects](projects.md)
 * [Databases](databases.md)
 * [Workflows and Integrations](workflows-and-integrations.md)
+* [Add-ons](../add-ons/)
 * [Mobile App](mobile-app.md)
