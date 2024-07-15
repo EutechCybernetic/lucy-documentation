@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Introduction to Lucy](README.md)
-* [Setting up Your Lucy Account](<README (1).md>)
-  * [Settings](setting-up-your-lucy-account/settings.md)
 * [Getting Started](getting-started.md)
 * [Key Concepts](key-concepts.md)
 * [Dashboards and Visualizations](dashboards-and-visualizations/README.md)
