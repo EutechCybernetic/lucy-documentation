@@ -70,9 +70,9 @@ Upon creating the database, we'll create a simple workflow that triggers wheneve
 13. Click the arrow icon![](../.gitbook/assets/Arrow.png) and fill in the email details (Enter the Subject, To and Body fields).
 14. Provide a  meaningful **Name** for the workflow and save it. Now our workflow is created.
 
-<figure><img src="../.gitbook/assets/Selecting a Bot.png" alt=""><figcaption><p>Selecting a Telegram Bot or Creating one<br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Selecting a Bot.png" alt=""><figcaption><p>Selecting a Telegram Bot or Creating a new bot<br></p></figcaption></figure>
 
-##
+<figure><img src="../.gitbook/assets/Entering bot details.png" alt=""><figcaption><p>Entering your bot details</p></figcaption></figure>
 
 ## Testing the Workflow
 
