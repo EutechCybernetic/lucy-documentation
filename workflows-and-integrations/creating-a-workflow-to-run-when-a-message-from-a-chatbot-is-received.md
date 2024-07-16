@@ -33,6 +33,8 @@ We'll create a database manually.
 
 <figure><img src="../.gitbook/assets/S1-adding fields.png" alt=""><figcaption><p>Adding Fields to the database</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Database.png" alt=""><figcaption><p>Newly created database</p></figcaption></figure>
+
 ## Creating a Workflow
 
 Upon creating the database, we'll create a simple workflow that triggers whenever someone sends a message via a telegram bot.
@@ -85,6 +87,6 @@ Now let's see how our workflow works.
 1. Open the bot in the Telegram app.
 2. Send a complaint message.
 3. Let's check our database.
-4. Go to the Databases tab within your folder.
-5. Click on the database to open it. You will see the message from the bot has been added to the database.
-6. Whenever someone sends a message via the Telegram app, it will be added to our database and we will receive an email.
+   1. Go to the **Databases** tab within your folder.
+   2. Click the respective database to open it. You will see the message from the bot has been added to the database.
+4. Whenever someone sends a message via the Telegram app, it will be added to the database and we will receive an email.
