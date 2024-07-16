@@ -20,14 +20,14 @@ Refer to the below article to gain insights into creating a canvas if you have n
 
 There are two ways to add a widget onto a canvas:
 
-1. [Adding the Widget Directly to Your Canvas](adding-widgets-onto-your-canvas.md#adding-the-widget-directly-to-your-canvas)
-2. [Adding the Widget from the Widget Designer Page](adding-widgets-onto-your-canvas.md#adding-the-widget-from-the-widget-designer-page)
+1. [Adding a Widget Directly to Your Canvas](adding-widgets-onto-your-canvas.md#adding-a-widget-directly-to-your-canvas)
+2. [Adding a Widget from the Widget Designer Page](adding-widgets-onto-your-canvas.md#adding-a-widget-from-the-widget-designer-page)
 
 The following example shows the Current Monthly Energy Usage widget that can be used to show the current month's energy consumption.
 
 <figure><img src="../.gitbook/assets/Energy Widget.png" alt=""><figcaption><p>Current Monthly Energy Usage Widget </p></figcaption></figure>
 
-## <mark style="color:blue;">Adding the Widget Directly to Your Canvas</mark>
+## <mark style="color:blue;">Adding a Widget Directly to Your Canvas</mark>
 
 The process of adding a widget directly from your canvas is described in four main steps.
 
@@ -82,7 +82,7 @@ Watch the video demonstrating how to add widgets directly onto your canvas here.
 
 {% embed url="https://drive.google.com/file/d/1qyUoXUAz6qIt_pT3VqNw1Ft2JFuYi_Uh/view?usp=sharing" %}
 
-## <mark style="color:blue;">Adding the Widget from the Widget Designer Page</mark>
+## <mark style="color:blue;">Adding a Widget from the Widget Designer Page</mark>
 
 After building a widget from the widget designer page, you can pick a canvas to add the respective widget onto it.
 
