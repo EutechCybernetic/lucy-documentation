@@ -21,7 +21,7 @@ To access the Gallery, to see all the Canvases on it,  go to the **Gallery** tab
 \
 **What is a Canvas?**
 
-A **Canvas** is a dashboard and it is your space where you can add Widgets to create, organize your work, and visualize data.&#x20;
+A **Canvas** is a dashboard and it is your space where you can add Widgets to create, organise your work, and visualise data.&#x20;
 
 You can customise the Gallery by adding your Canvases to it and editing them.
 
