@@ -2,7 +2,7 @@
 
 ## <mark style="color:blue;">Canvas</mark>
 
-In Lucy, a **Canvas** is your space or dashboard where you can add widgets to create and organize your work, and visualize your data. You can see all your Canvases, as well as the Canvases created by others by going to the **Gallery** tab on the sidebar in Lucy.&#x20;
+In Lucy, a **Canvas** is your space or dashboard where you can add widgets to create and organise your work, and visualise your data. You can see all your Canvases, as well as the Canvases created by others by going to the **Gallery** tab on the sidebar in Lucy.&#x20;
 
 ## <mark style="color:blue;">Creating a Canvas</mark>
 
