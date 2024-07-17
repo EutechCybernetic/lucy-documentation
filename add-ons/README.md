@@ -8,7 +8,7 @@ The following image shows the Add-ons page with the add-ons currently installed 
 
 You can install new add-ons from this page to update your widgets.
 
-<figure><img src="../.gitbook/assets/LC_What_are_AddOns-Add-ons_page_s1.png" alt=""><figcaption><p>Add-ons page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Add-ons page_3.png" alt=""><figcaption><p>Add-ons page</p></figcaption></figure>
 
 
 
