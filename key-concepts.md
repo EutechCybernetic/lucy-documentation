@@ -2,7 +2,7 @@
 
 Lucy provides the following features out of the box:
 
-* [Dashboards and Visualizations](dashboards-and-visualizations/)
+* [Dashboards and Visualisations](dashboards-and-visualisations/)
 * [Folders](folders/)
 * [Databases](databases/)
 * [User Interfaces](user-interfaces/)

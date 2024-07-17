@@ -23,6 +23,6 @@ To access the Gallery, to see all the Canvases on it,  go to the **Gallery** tab
 
 A **Canvas** is a dashboard and it is your space where you can add Widgets to create, organize your work, and visualize data.&#x20;
 
-You can customize the Gallery by adding your Canvases to it and editing them.
+You can customise the Gallery by adding your Canvases to it and editing them.
 
 <figure><img src="../.gitbook/assets/Gallery_2.png" alt=""><figcaption><p>Gallery containing Canvases</p></figcaption></figure>
