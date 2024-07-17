@@ -90,7 +90,7 @@ To add a widget to an existing canvas using the widget designer page:
 
 1. On the Lucy app's **homepage**, click the **My Work** tab on the sidebar.
 2. Locate and open your folder.
-3. Go to **User Interfaces** tab.
+3. Go to the **User Interfaces** tab.
 4. Hover over the desired user interface and click the **Edit** icon. It will open on the widget designer page.
 5. Click the **Share** button.
 6. Under Add this to a canvas section, pick the required canvas to add your widget.
