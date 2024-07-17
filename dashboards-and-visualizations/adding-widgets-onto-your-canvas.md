@@ -84,7 +84,7 @@ Watch the video demonstrating how to add widgets directly onto your canvas here.
 
 ## <mark style="color:blue;">Adding a Widget from the Widget Designer Page</mark>
 
-You can use Widget Designer to add custom widgets to an existing canvas.
+You can use the Widget Designer to add custom widgets to an existing canvas.
 
 To add a widget to an existing canvas using the widget designer page:
 
