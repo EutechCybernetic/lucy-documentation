@@ -5,7 +5,7 @@ Typically, administrators create new users. There are two ways to register a use
 1. [Registering Users Directly in the System](registering-a-user.md#id-1.-registering-users-directly-in-the-system)
 2. [Inviting Users via Sending a Welcome Email](registering-a-user.md#id-2.-inviting-users-via-sending-a-welcome-email)
 
-As a prerequisite, you need to create [User Groups](creating-a-user-group.md) before registering a user.
+As a prerequisite, you need to create User Groups before registering a user.
 
 {% content-ref url="creating-a-user-group.md" %}
 [creating-a-user-group.md](creating-a-user-group.md)
