@@ -20,4 +20,4 @@ The 'schema-less' aspect means there is no fixed structure for the document. Whe
 
 
 
-You can create as many databases as you want. They are useful for storing data that you need for visualizations or analytics or for driving business logic and integrations.
+You can create as many databases as you want. They are useful for storing data that you need for visualisations or analytics or for driving business logic and integrations.
