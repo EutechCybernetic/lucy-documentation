@@ -19,10 +19,11 @@ This method is used to directly create new users in the system. As a system admi
 2. Click the **+** button.
 3. Enter the **user name**.
 4. Type in user’s **email address.**
-5. Select the **Set the user’s password** option. If the **Set the user’s password** option is enabled, it will display the **Initial Password** box for entering the user's password and activating the feature to directly create a new user in the system.
-6. Enter a **password** for the user.
-7. Enable the **Send a welcome email** option if necessary to send a welcome email to the user’s email address after registering the user.
-8. Click **Register User.** The newly created user will be listed on the Users page.
+5. Pick the appropriate **User Group** _e.g., Property Manager._
+6. Select the **Set the user’s password** option. If the **Set the user’s password** option is enabled, it will display the **Initial Password** box for entering the user's password and activating the feature to directly create a new user in the system.
+7. Enter a **password** for the user.
+8. Enable the **Send a welcome email** option if necessary to send a welcome email to the user’s email address after registering the user.
+9. Click **Register User.** The newly created user will be listed on the Users page.
 
 {% hint style="info" %}
 If the **Set the user’s password** option is enabled, it will display the **Initial Password** box for entering the user's password and activating the feature to directly create a new user in the system.
