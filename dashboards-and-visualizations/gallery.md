@@ -25,6 +25,4 @@ A **Canvas** is a dashboard and it is your space where you can add Widgets to cr
 
 You can customize the Gallery by adding your Canvases to it and editing them.
 
-
-
-<figure><img src="../../.gitbook/assets/LC_GalleryTab_1 (1).png" alt=""><figcaption><p>Gallery containing Canvases</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Gallery_2.png" alt=""><figcaption><p>Gallery containing Canvases</p></figcaption></figure>
