@@ -36,7 +36,7 @@ The process of adding a widget directly from your canvas is described in four ma
 1. On the Lucy app's **homepage**, click the **Gallery** tab on the sidebar to go to the Gallery.
 2. Pick the Canvas from the Gallery to add the widget(s).
 3. If there is a list of Canvases on the Gallery, you can search for the required Canvas by typing its name under **Search Canvases**.
-4. Click on the Canvas to view it in full, or alternatively, hover over the Canvas and click the **eye** icon to open it.
+4. Click on the Canvas to view it in full, or alternatively, hover over the Canvas and click the **preview** icon![](<../.gitbook/assets/Preview icon.png>) to open it.
 5. If you have not added any Widgets onto your Canvas yet, you will see the **+** icon . Click the **+** icon. The Widget Browser will open. Alternatively, you can click the **Add Widget** button on the top right to add widgets onto your Canvas.
 
 <figure><img src="../.gitbook/assets/Add widget buttons.PNG" alt=""><figcaption><p>+ icon and Add Widget button are visible on a freshly created Canvas</p></figcaption></figure>
@@ -64,7 +64,7 @@ All custom-made widgets can be filtered and accessed through the **My Widgets** 
 
 ### <mark style="color:blue;">3. View Widget Preview</mark>
 
-On the Widget Browser, click the green eye icon of the required Widget to get more information about the respective Widget. Once the green eye icon is clicked, you will see a small preview of the Widget which is interactive.
+On the Widget Browser, click the preview icon![](<../.gitbook/assets/Preview icon (1).png>) of the required Widget to get more information about the respective Widget. Once the preview icon is clicked, you will see a small preview of the Widget which is interactive.
 
 <figure><img src="../.gitbook/assets/Widget Preview.png" alt=""><figcaption><p>Preview of a Widget</p></figcaption></figure>
 
