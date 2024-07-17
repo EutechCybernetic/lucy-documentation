@@ -2,8 +2,8 @@
 
 Once you've created a canvas on the Gallery, you can personalise it by making the following adjustments:
 
-* Modify the header color.
-* Alter the background color.
+* Modify the header colour.
+* Alter the background colour.
 * Rename the canvas.
 
 ## <mark style="color:blue;">Editing Properties of a Canvas</mark>
