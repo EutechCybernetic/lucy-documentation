@@ -1,10 +1,6 @@
 # Editing Properties of a Canvas
 
-Once you've created a canvas on the Gallery, you can personalise it by making the following adjustments:
-
-* Modify the header colour.
-* Alter the background colour.
-* Rename the canvas.
+Once you've created a canvas on the Gallery, you can customize it by changing the header color, background color, giving it a new name, and controlling who can access it.
 
 ## <mark style="color:blue;">Editing Properties of a Canvas</mark>
 
