@@ -84,15 +84,18 @@ Watch the video demonstrating how to add widgets directly onto your canvas here.
 
 ## <mark style="color:blue;">Adding a Widget from the Widget Designer Page</mark>
 
-After building a widget from the widget designer page, you can pick a canvas to add the respective widget onto it.
+You can use Widget Designer to add custom widgets to an existing canvas.
 
-Refer the article below on adding the widget from the widget designer page.
+To add a widget to an existing canvas using the widget designer page:
 
-
-
-{% content-ref url="../user-interfaces/sharing-a-user-interface.md" %}
-[sharing-a-user-interface.md](../user-interfaces/sharing-a-user-interface.md)
-{% endcontent-ref %}
+1. On the Lucy app's **homepage**, click the **My Work** tab on the sidebar.
+2. Locate and open your folder.
+3. Go to **User Interfaces** tab.
+4. Hover over the desired user interface and click the **Edit** icon. It will open on the widget designer page.
+5. Click the **Share** button.
+6. Under Add this to a canvas section, pick the required canvas to add your widget.
+7. Click **Add to Dashboard.**
+8. Now your widget will be displayed and open on the respective canvas.
 
 Watch the video below to gain a better understanding of how to add a widget from the Widget Designer Page.
 
