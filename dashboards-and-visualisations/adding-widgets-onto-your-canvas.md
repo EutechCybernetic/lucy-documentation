@@ -99,4 +99,4 @@ To add a widget to an existing canvas using the widget designer page:
 
 Watch the video below to gain a better understanding of how to add a widget from the Widget Designer Page.
 
-{% embed url="https://drive.google.com/file/d/1r2YXxdre_-nfO8fz169PW2c_3Cok9ZDC/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1xGxKhaaS3WYR64JVQ7x-DX7fTulraZHL/view?usp=drive_link" %}
