@@ -43,7 +43,7 @@ As a system administrator, you have the option to facilitate the account creatio
 2. Click on the **+** button.
 3. Enter the **user name**.
 4. Type in the user’s **email address**.
-5. Select the appropriate **user group** of the user _e.g., Regular User._
+5. Select the **user group** of the user _e.g., Regular User._
 6. Untick the **Set the user’s password** option.&#x20;
 7. Click **Invite User.** An invitation request will be sent to the respective user's email address, allowing them to create their own account.
 8. Click the **Accept Invitation** link in the email to setup your account.
