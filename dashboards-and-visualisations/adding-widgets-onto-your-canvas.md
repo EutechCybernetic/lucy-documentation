@@ -93,9 +93,9 @@ To add a widget to an existing canvas using the widget designer page:
 3. Go to the **User Interfaces** tab.
 4. Hover over the desired user interface and click the **Edit** icon. It will open on the widget designer page.
 5. Click the **Share** button.
-6. Under Add this to a canvas section, pick the required canvas to add your widget.
+6. Under Add this to a Canvas section, pick the required canvas to add your widget.
 7. Click **Add to Dashboard.**
-8. Now your widget will be displayed and open on the respective canvas.
+8. Now your widget will be displayed on the respective canvas.
 
 Watch the video below to gain a better understanding of how to add a widget from the Widget Designer Page.
 

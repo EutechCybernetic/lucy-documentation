@@ -1,6 +1,6 @@
 # Editing Properties of a Canvas
 
-Once you've created a canvas on the Gallery, you can personalize it by making the following adjustments:
+Once you've created a canvas on the Gallery, you can personalise it by making the following adjustments:
 
 * Modify the header color.
 * Alter the background color.
