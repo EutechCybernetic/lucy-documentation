@@ -52,6 +52,6 @@ This is an example of an invitation email you'll receive.
 
 <figure><img src="../.gitbook/assets/EMAIL_SCREEN_1.png" alt=""><figcaption><p>Sample Invitation Email</p></figcaption></figure>
 
-Here is a video on registering users to gain better understanding.
+Here is a video on registering users to help you gain a better understanding of the process.
 
 {% embed url="https://drive.google.com/file/d/1jTLKlJzJZFkTI7cNmNPAkd5MaP0SOv_p/view?usp=sharing" %}
