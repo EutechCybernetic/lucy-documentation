@@ -1,9 +1,9 @@
 # Configuring Widget's Settings
 
-This article explains how to adjust a widget’s settings on your canvas. Some widgets enable you to customize settings that are unique to that particular widget.&#x20;
+This article explains how to adjust widget settings on your canvas. Some widgets offer unique customization options.
 
 {% hint style="info" %}
-It's important to note that not all widgets allow for configurable settings.&#x20;
+Keep in mind that not all widgets offer adjustable settings.
 {% endhint %}
 
 The following is an image of the 'Yearly Water Consumption Budgeted vs Actual' widget. This widget compares the yearly budgeted water consumption with the actual water usage, showcasing the variance between the planned budget and the actual consumption.
@@ -20,7 +20,7 @@ Adjusting the widget’s settings enables users to personalise the visual repres
 * change the colour of the Cumulative Budget
 * edit  X and Y axis labels
 
-To adjust a widget's settings:
+To adjust widget settings:
 
 1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Pick the Canvas from the Gallery.&#x20;
@@ -33,6 +33,6 @@ To adjust a widget's settings:
 9. Click **Exit** to exit from the edit mode.
 10. Your changes will be applied and displayed on the widget.
 
-Watch this video on configuring a widget's settings to gain more understanding.
+Watch this video on configuring widget settings to gain more understanding.
 
 {% embed url="https://drive.google.com/file/d/1TSGIrJg5nQ03JRKeT12fCf_uKcon8lIW/view?usp=sharing" %}
