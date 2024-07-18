@@ -12,7 +12,7 @@ The following is an image of the 'Yearly Water Consumption Budgeted vs Actual' w
 
 As an example, we'll adjust settings of Yearly Water Consumption Budgeted vs Actual Widget.
 
-Adjusting the widget’s settings enables users to personalise the visual representation of the data, making it more tailored to their preferences or specific needs. According to the above example, you can  alter the below properties of the chart:
+Adjusting the widget settings enables users to personalise the visual representation of the data, making it more tailored to their preferences or specific needs. According to the above example, you can alter the below properties of the chart
 
 * change the colour of the Baseline
 * change the colour of the Cumulative Consumption
