@@ -33,6 +33,6 @@ To adjust widget settings:
 9. Click **Exit** to exit from the edit mode.
 10. Your changes will be applied and displayed on the widget.
 
-Watch this video on configuring widget settings to gain more understanding.
+Watch this video on adjusting widget settings to gain a better understanding.
 
-{% embed url="https://drive.google.com/file/d/1TSGIrJg5nQ03JRKeT12fCf_uKcon8lIW/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1hiBDyeBylLJT6toDKXBYF6DLuoTxj-TH/view?usp=drive_link" %}
