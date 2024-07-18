@@ -1,6 +1,6 @@
 # Moving a Widget around a Canvas
 
-Within the canvas, users can rearrange widgets, moving them to different areas on the canvas to better organise and customise the layout according to their preferences.
+Within the canvas, users can rearrange widgets by moving them around the canvas to better organise and customise the layout according to their preferences.
 
 To move a widget:
 
