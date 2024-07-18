@@ -11,7 +11,7 @@ Let's see how to resize a widget on your canvas.
 3. If there is a list of canvases on the Gallery, you can search for the required Canvas by typing its name/partial name under **Search Canvases.**
 4. Click on the canvas to open it in a new window.
 5. Choose the widget to be resized.
-6. Drag the bottom right corner of  the widget diagonally down or up to adjust its size as needed. Some reveal additional information when dragged diagonally down.
+6. Drag the bottom right corner of  the widget diagonally down or up to adjust its size as needed.&#x20;
 
 Watch the video to learn how to resize a widget.
 
