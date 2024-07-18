@@ -1,4 +1,4 @@
-# Customising Widgets on Your Canvas
+# Customising User-created Widgets on a Canvas
 
 With Lucy, you can fine-tune user-created widgets directly from your canvas. Lucy offers a direct link to access the widget designer, enabling you to customise these widgets directly from your canvas.
 
@@ -14,6 +14,6 @@ Let's see how to customise a widget on your canvas.
 8. Click on the **Customise the Widget** button to open the widget on its widget designer page.
 9. Do required modifications to the widget and click the **Save Widget** button.
 
-Watch the video demonstrating how to customise a widget on your canvas.
+Watch the video demonstrating how to customise a user-created widget on your canvas.
 
-{% embed url="https://drive.google.com/file/d/1wFCLXPQbgP9zKm2OeKxjRLjeUUG5w39h/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/15QdlSir0dycChCUgQ4TECEFqS-gZ3RJR/view?usp=sharing" %}
