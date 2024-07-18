@@ -1,6 +1,6 @@
 # Customising Widgets on Your Canvas
 
-Widgets on your canvas, whether made by you or other users, can be customised further when required. Lucy offers a direct link to access the widget designer, enabling you to customise these widgets directly from your canvas.
+Custom widget can be customised further when required. Lucy offers a direct link to access the widget designer, enabling you to customise these widgets directly from your canvas.
 
 {% hint style="info" %}
 Widgets added to your canvas can only be customised if they were designed by you or others.
