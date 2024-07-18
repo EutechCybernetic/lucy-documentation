@@ -1,6 +1,6 @@
 # Configuring Widget's Settings
 
-This article explains how to adjust widget settings on your canvas. Some widgets offer unique customization options.
+This article explains how to adjust widget settings on your canvas. Some widgets offer unique customisation options.
 
 {% hint style="info" %}
 Keep in mind that not all widgets offer adjustable settings.
