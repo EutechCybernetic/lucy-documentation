@@ -9,7 +9,7 @@
   * [Editing Properties of a Canvas](dashboards-and-visualisations/editing-properties-of-a-canvas.md)
   * [Searching and Viewing Your Canvases](dashboards-and-visualisations/searching-and-viewing-your-canvases.md)
   * [Adding Widgets onto Your Canvas](dashboards-and-visualisations/adding-widgets-onto-your-canvas.md)
-  * [Customising Widgets on Your Canvas](dashboards-and-visualisations/customising-widgets-on-your-canvas.md)
+  * [Customising User-created Widgets on a Canvas](dashboards-and-visualisations/customising-user-created-widgets-on-a-canvas.md)
   * [Configuring Widget's Settings](dashboards-and-visualisations/configuring-widgets-settings.md)
   * [Moving a Widget around a Canvas](dashboards-and-visualisations/moving-a-widget-around-a-canvas.md)
   * [Resizing a Widget on a Canvas](dashboards-and-visualisations/resizing-a-widget-on-a-canvas.md)
