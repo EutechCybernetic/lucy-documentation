@@ -14,11 +14,11 @@ As an example, we'll adjust settings of Yearly Water Consumption Budgeted vs Act
 
 Adjusting the widget settings allows users to personalise the data's visual representation, making it more relevant to their preferences or specific needs. According to the above example, you can alter the below properties of the chart:
 
-* change the colour of the Baseline
-* change the colour of the Cumulative Consumption
-* change the colour of the Consumption
-* change the colour of the Cumulative Budget
-* edit  X and Y axis labels
+* Change the colour of the Baseline
+* Change the colour of the Cumulative Consumption
+* Change the colour of the Consumption
+* Change the colour of the Cumulative Budget
+* Edit  X and Y axis labels
 
 To adjust widget settings:
 
