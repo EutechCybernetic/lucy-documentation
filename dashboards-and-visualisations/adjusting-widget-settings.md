@@ -1,4 +1,4 @@
-# Configuring Widget's Settings
+# Adjusting Widget Settings
 
 This article explains how to adjust widget settings on your canvas. Some widgets offer unique customisation options.
 
@@ -8,7 +8,7 @@ Keep in mind that not all widgets offer adjustable settings.
 
 The following is an image of the 'Yearly Water Consumption Budgeted vs Actual' widget. This widget compares the yearly budgeted water consumption with the actual water usage, showcasing the variance between the planned budget and the actual consumption.
 
-<figure><img src="../.gitbook/assets/Configuring Widget&#x27;s Settings_S1.png" alt="" width="563"><figcaption><p> Yearly Water Consumption Budgeted vs Actual Widget</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Yearly Water Consumption Budgeted vs Actual widget_1.png" alt=""><figcaption><p>Yearly Water Consumption Budgeted vs Actual Widget</p></figcaption></figure>
 
 As an example, we'll adjust settings of Yearly Water Consumption Budgeted vs Actual Widget.
 
