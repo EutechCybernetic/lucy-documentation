@@ -45,7 +45,7 @@ The process of adding a widget directly from your canvas is described in four ma
 
 ### <mark style="color:blue;">2. Filter Widgets from Widget Browser</mark>
 
-Widget Browser shows the available widgets for you to add to your Canvas. In order to add a widget, you need to install it. Already installed widgets will be displayed with a tag stating "**Installed"**.
+Widget Browser shows the available widgets for you to add to your Canvas. Already installed widgets will be displayed with a tag stating "**Installed"**.
 
 To filter and select widgets from the Widget Browser:
 
