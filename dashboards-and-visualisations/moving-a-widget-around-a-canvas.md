@@ -2,7 +2,7 @@
 
 Within the canvas, users can rearrange widgets, moving them to different areas on the canvas to better organise and customise the layout according to their preferences.
 
-The process of changing the position of a particular widget within the canvas is explained below.
+To move a widget:
 
 1. On the app **homepage**, head to the **Gallery** tab on the left sidebar.
 2. Choose the Canvas containing the widget to be moved.
