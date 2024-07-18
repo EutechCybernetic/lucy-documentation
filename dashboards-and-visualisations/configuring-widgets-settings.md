@@ -28,7 +28,7 @@ To adjust a widget's settings:
 4. Click on the required canvas to open it in a new window.
 5. On the canvas, click on the **Customise** icon![](<../.gitbook/assets/Customise icon (3).png>) on the bottom right to access its edit mode.
 6. Click the **Settings** icon of the widget you wish to adjust settings.
-7. Make the required configurations in the settings, _e.g., changing chart colors and axis labels._
+7. Make the required configuration in the settings, _e.g., changing chart colors and axis labels._
 8. To save the changes, click **Save**.
 9. Click **Exit** to exit from the edit mode.
 10. Your changes will be applied and displayed on the widget.
