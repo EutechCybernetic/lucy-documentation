@@ -1,6 +1,6 @@
 # Adding Data to a Database
 
-Adding data to a database is the key to maintaining information organized and easy to use.
+Adding data to a database is the key to maintaining information organised and easy to use.
 
 There are two approaches to adding data:
 

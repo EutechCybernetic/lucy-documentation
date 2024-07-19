@@ -1,19 +1,19 @@
-# Designing a User Interface to Visualize Information
+# Designing a User Interface to Visualise Information
 
-Designing user interfaces to visualize data is a powerful way to derive meaningful insights. Depending on the data and the user's goals, designers choose appropriate visualization types, which can include charts, graphs, maps and more.
+Designing user interfaces to visualise data is a powerful way to derive meaningful insights. Depending on the data and the user's goals, designers choose appropriate visualisation types, which can include charts, graphs, maps and more.
 
-&#x20;This article shows how to design a user interface to visualize your data and explains the two distinct approaches to do that:
+&#x20;This article shows how to design a user interface to visualise your data and explains the two distinct approaches to do that:
 
-1. [Visualizing Data by Selecting a Data source](designing-a-user-interface-to-visualize-information.md#id-1.-visualizing-data-by-selecting-a-data-source)
-2. [Starting from Scratch by Selecting a Template](designing-a-user-interface-to-visualize-information.md#id-2.-starting-from-scratch-by-selecting-a-template)
+1. [Visualising Data by Selecting a Data source](designing-a-user-interface-to-visualise-information.md#id-1.-visualising-data-by-selecting-a-data-source)
+2. [Starting from Scratch by Selecting a Template](designing-a-user-interface-to-visualise-information.md#id-2.-starting-from-scratch-by-selecting-a-template)
 
 {% hint style="info" %}
 **Note**: Before you go ahead with any of these methods, ensure that a data source (database/workflow) is ready in the system.
 {% endhint %}
 
-## <mark style="color:blue;">1. Visualizing Data by Selecting a Data source</mark>
+## <mark style="color:blue;">1. Visualising Data by Selecting a Data source</mark>
 
-Before designing a user interface for data visualization, the first step is to select a data source. This could involve choosing a workflow or a database to obtain the data that will be visualized.
+Before designing a user interface for data visualisation, the first step is to select a data source. This could involve choosing a workflow or a database to obtain the data that will be visualised.
 
 To illustrate the concept, we'll design a user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
 
@@ -25,10 +25,10 @@ To select a data source:
 2. Search and select the **folder** you wish to open.
 3. Go to the **User Interfaces** tab.
 4. Click on the **Add** button.
-5. Choose the **Visualize Data** option.
+5. Choose the **Visualise Data** option.
 6. Select the **data source**. You can either select a workflow or a database as the data source.
 7. For instance, let’s select an existing database.
-   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorized by its folder.
+   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
    2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
    3. A preview displaying the available fields of the chosen database will be listed.
    4. To confirm the selection, click **Select this source** .
@@ -36,9 +36,9 @@ To select a data source:
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s1.png" alt=""><figcaption><p>A Preview of Your Data</p></figcaption></figure>
 
-### <mark style="color:blue;">b) Preparing Data to be Visualized</mark>
+### <mark style="color:blue;">b) Preparing Data to be Visualised</mark>
 
-You can determine the specific data to display on the widget by utilizing features like data filtering and aggregation. We'll apply a filter to isolate product lines with a 'Shipped' status and then display the maximum sales for each respective product line from the previously selected database.
+You can determine the specific data to display on the widget by utilising features like data filtering and aggregation. We'll apply a filter to isolate product lines with a 'Shipped' status and then display the maximum sales for each respective product line from the previously selected database.
 
 #### <mark style="color:blue;">Filtering Data</mark>
 
@@ -142,7 +142,7 @@ You can choose either a single chart type or multiple chart types to display on 
 
 You can include multiple chart types within the same chart. For instance, if your primary chart is a line chart, you can add a bar chart, and both chart types will be displayed together.&#x20;
 
-1. After you have applied a chart as described under [<mark style="color:blue;">Selecting a Single Chart Type,</mark> ](designing-a-user-interface-to-visualize-information.md#selecting-a-single-chart-type)you can select multiple if necessary.
+1. After you have applied a chart as described under [<mark style="color:blue;">Selecting a Single Chart Type,</mark> ](designing-a-user-interface-to-visualise-information.md#selecting-a-single-chart-type)you can select multiple if necessary.
 2. On the properties panel, go to **Chart Elements** section.
 3. Click **Plus** icon next to Chart Elements.
 4. Select the appropriate chart type _e.g., Bar chart._
@@ -161,7 +161,7 @@ You can include multiple chart types within the same chart. For instance, if you
 
 
 {% hint style="success" %}
-**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See [Preview of your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) visualized on a chart image).
+**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See [Preview of your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) visualized on a chart image).
 {% endhint %}
 
 #### <mark style="color:blue;">Customizing the Appearance of the Chart</mark>
@@ -183,7 +183,7 @@ To add a chart title:
 2. Go to the **Title** section.
 3. In the **Text** field, enter a suitable title for the chart. The chart title will dynamically update in real-time as you type.
 
-&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data ](designing-a-user-interface-to-visualize-information.md#previewing-your-widget)visualized on a chart image).
+&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data ](designing-a-user-interface-to-visualise-information.md#previewing-your-widget)visualized on a chart image).
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8_1.png" alt=""><figcaption><p>Chart Preview</p></figcaption></figure>
 
@@ -283,7 +283,7 @@ To customize the properties of the widget’s header section:
 4. Select a color for the title.
 5. Type in the font size of the title. Instead, you can use the up and down arrows to increase or decrease the font size.
 
-The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualize-information.md#previewing-your-widget) on the gauge).
+The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) on the gauge).
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s16.png" alt=""><figcaption><p>Radial Gauge in the Preview Mode</p></figcaption></figure>
 

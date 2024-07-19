@@ -20,8 +20,8 @@ The widget designer serves the purpose of designing and constructing a user inte
 
 #### <mark style="color:blue;">Ways to Design and Build a User Interfaces</mark>
 
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualize-information.md" %}
-[designing-a-user-interface-to-visualize-information.md](designing-a-user-interface/designing-a-user-interface-to-visualize-information.md)
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
+[designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-to-capture-information.md" %}
@@ -136,6 +136,6 @@ _e.g., A bar chart displaying sales figures for different products over a month.
 
 For more detailed information on how to bind a data source to a widget, refer to the provided link.
 
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualize-information.md" %}
-[designing-a-user-interface-to-visualize-information.md](designing-a-user-interface/designing-a-user-interface-to-visualize-information.md)
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
+[designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}

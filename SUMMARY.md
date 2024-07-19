@@ -36,7 +36,7 @@
   * [Adding Data to a Database](databases/adding-data-to-a-database.md)
 * [User Interfaces](user-interfaces/README.md)
   * [Designing a User Interface](user-interfaces/designing-a-user-interface/README.md)
-    * [Designing a User Interface to Visualize Information](user-interfaces/designing-a-user-interface/designing-a-user-interface-to-visualize-information.md)
+    * [Designing a User Interface to Visualise Information](user-interfaces/designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
     * [Designing a User Interface to Capture Information](user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-information.md)
     * [Designing a User Interface from Scratch](user-interfaces/designing-a-user-interface/designing-a-user-interface-from-scratch.md)
     * [Designing a User Interface from a Database](user-interfaces/designing-a-user-interface/designing-a-user-interface-from-a-database.md)
