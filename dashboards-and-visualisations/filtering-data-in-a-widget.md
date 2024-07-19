@@ -8,8 +8,8 @@ Let's see how to filter data in a widget.
 2. Pick the Canvas from the Gallery.
 3. If there is a list of Canvases on the Gallery, you can search for the required Canvas by typing its name under **Search Canvases**.
 4. Click on the selected canvas to open it.
-5. Pick the widget to filter data.
-6. Click the **Filter** icon on the respective widget.&#x20;
+5. On the canvas, pick the widget to filter data.
+6. Click the **Filter** icon ![](<../.gitbook/assets/Filter icon\_2.png>)on the respective widget.&#x20;
 7. Apply the appropriate filters to refine data displayed on the widget.
 
 <figure><img src="../.gitbook/assets/LC_Filtering Data in a Widget_S2.png" alt=""><figcaption><p>Filter option in a widget</p></figcaption></figure>
