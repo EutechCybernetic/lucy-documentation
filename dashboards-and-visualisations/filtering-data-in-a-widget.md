@@ -14,6 +14,6 @@ Let's see how to filter data in a widget.
 
 <figure><img src="../.gitbook/assets/Filter Data_S1-2.png" alt=""><figcaption><p>Filtering Data in the Parking Analytics widget</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Filter Data_S2.png" alt=""><figcaption><p>Selecting required filter option (Car Park) to display data</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter Data_S2_1.png" alt=""><figcaption><p>Selecting required Car Park to display data</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Filtered data_S3.png" alt=""><figcaption><p>Displaying the Parking Analytics data in Level 2 car park</p></figcaption></figure>
