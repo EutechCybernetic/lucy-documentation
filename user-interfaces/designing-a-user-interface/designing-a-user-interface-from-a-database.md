@@ -2,7 +2,7 @@
 
 This article shows how to design a form from a database.
 
-The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organizations. By capturing and storing data in a database, businesses and organizations can better manage and utilize the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
+The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organisations. By capturing and storing data in a database, businesses and organisations can better manage and utilise the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
 
 {% hint style="success" %}
 **Tip**: When designing a user interface to capture information using a Form, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
@@ -31,7 +31,7 @@ Follow the below steps to design a form from a database.
 5. Hover over the database click the **Edit** icon that displays.
 6. Click **Create a form** to open the form on the widget designer page.
 7. By default, the widget designer will be opened in its **Design** mode.
-8. You can do required customization to the form in the **Design** mode.
+8. You can do required customisation to the form in the **Design** mode.
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s1.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
@@ -40,13 +40,13 @@ Follow the below steps to design a form from a database.
 
 There are two modes in a widget designer page:&#x20;
 
-1. **Design mode** - Used to design, edit, and customize the widget.&#x20;
+1. **Design mode** - Used to design, edit, and customise the widget.&#x20;
 2. **Preview mode** - Used to view a live version of the widget.
 {% endhint %}
 
 ### <mark style="color:blue;">3. Using Widget Designer to Customise the Form</mark>
 
-The Widget Designer offers a user-friendly interface for designing, editing, and customizing your widgets. This functionality empowers users to tailor the appearance, behavior, and content of their widgets to meet specific needs.
+The Widget Designer offers a user-friendly interface for designing, editing, and customising your widgets. This functionality empowers users to tailor the appearance, behavior, and content of their widgets to meet specific needs.
 
 To customize the form's appearance, including elements such as the header, body, or individual items/fields within the body, simply click on the desired section. This action opens the Properties panel, allowing you to make adjustments like changing the header background.
 
@@ -241,7 +241,7 @@ To preview your form:
 
 ### <mark style="color:blue;">6. Saving the Form</mark>
 
-After you have done required customizations, you can save the form for future reference.
+After you have done required customisations, you can save the form for future reference.
 
 1. On the widget designer page, click **Save Widget.**
 2. Enter a **Name** for the widget (adding a name is mandatory).
