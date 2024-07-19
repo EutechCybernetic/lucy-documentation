@@ -11,3 +11,9 @@ Let's see how to filter data in a widget.
 5. On the canvas, pick the widget to filter data.
 6. Click the **Filter** icon ![](<../.gitbook/assets/Filter icon\_2.png>)on the respective widget.&#x20;
 7. Apply the appropriate filters to refine data displayed on the widget.
+
+<figure><img src="../.gitbook/assets/Filter Data_S1-1 (1).png" alt=""><figcaption><p>Filtering Data in a widget screen 1</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Filter Data_S2.png" alt=""><figcaption><p>Filtering Data in a widget screen 2</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Filtered data_S3.png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
