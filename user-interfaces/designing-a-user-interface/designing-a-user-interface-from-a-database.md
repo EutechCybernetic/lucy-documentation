@@ -44,7 +44,7 @@ There are two modes in a widget designer page:&#x20;
 2. **Preview mode** - Used to view a live version of the widget.
 {% endhint %}
 
-### <mark style="color:blue;">3. Using Widget Designer to Customize the Form</mark>
+### <mark style="color:blue;">3. Using Widget Designer to Customise the Form</mark>
 
 The Widget Designer offers a user-friendly interface for designing, editing, and customizing your widgets. This functionality empowers users to tailor the appearance, behavior, and content of their widgets to meet specific needs.
 
@@ -116,7 +116,7 @@ To add header title and set title properties:
 
 1. In the **Design** mode of the widget designer, click on the form's header section.
 2. The Properties panel will be opened on the right.
-3. On the Properties panel, go to the **Title** section. Modify the header title and customize header title properties to suit your specific preferences.
+3. On the Properties panel, go to the **Title** section. Modify the header title and customise header title properties to suit your specific preferences.
    1. To modify the header title, go to the Text field and type in the desired title.
    2. To change the color of the title, select a color from the displayed options or choose one from the color palette.
    3. To change the font size of the header, type in the required size in the Size field.
@@ -125,7 +125,7 @@ To add header title and set title properties:
 
 #### <mark style="color:blue;">Setting the Properties of the Fields/Items on the Body</mark>
 
-Users can customize fields on the body section of the form as follows:
+Users can customise fields on the body section of the form as follows:
 
 1. In the **Design** mode of the widget designer, click on the form's body section.
 2. Click on the desired **field** within the body section, and its **Properties** panel will display on the right.
@@ -156,11 +156,11 @@ To add fields:
 4. Provide a **Name** for the newly added field _e.g., Location._
 5. Click **Done**_._
 
-Further, you can customize the properties of each field according to your preference.
+Further, you can customise the properties of each field according to your preference.
 
 **Setting properties of a Drop-down List**
 
-Users can customize a drop-down list by adding multiple different options to it. You have the choice to add options manually or import options from an external source.
+Users can customise a drop-down list by adding multiple different options to it. You have the choice to add options manually or import options from an external source.
 
 To manually add options to a drop-down list on the form, follow these steps:
 
@@ -207,9 +207,9 @@ To add a background to the entire page:
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
 5. Go to **Preview** mode to[ preview the background image](designing-a-user-interface-from-a-database.md#id-5.-previewing-the-form).
 
-### <mark style="color:blue;">4. Using Widget Designer to Customize the Thank you Screen</mark>
+### <mark style="color:blue;">4. Using Widget Designer to Customise the Thank you Screen</mark>
 
-The Thank you screen is displayed after a user submits the respective form. Using the widget designer, you have the capability to customize the appearance of the thank you screen of a form, enabling to see your personalized thank you screen upon submitting the form.
+The Thank you screen is displayed after a user submits the respective form. Using the widget designer, you have the capability to customise the appearance of the thank you screen of a form, enabling to see your personalised thank you screen upon submitting the form.
 
 1. On the widget designer page (Design mode), click the **Form** toggle button on the bottom bar.
 2. The view will be changed to **Thank you** screen.&#x20;
