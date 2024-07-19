@@ -83,7 +83,7 @@ Within a group of conditions, you can include multiple conditions.
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
-Aggregating data is used to summarize and condense data into a more compact form, often achieved by mathematical or statistical operations (_e.g., Aggregating data to find the maximum sales for each product line)._
+Aggregating data is used to summarise and condense data into a more compact form, often achieved by mathematical or statistical operations (_e.g., Aggregating data to find the maximum sales for each product line)._
 
 1. On the table preview, click **Aggregate Data**.&#x20;
 2. Select appropriate filters to aggregate data.
@@ -98,7 +98,7 @@ Aggregating data is used to summarize and condense data into a more compact form
 
 ### <mark style="color:blue;">c) Selecting a Template</mark>
 
-After selecting a data source and preparing data as needed, you can select a template to begin customization. Based on the data selected, the system will display a list of matching templates that work with those data.
+After selecting a data source and preparing data as needed, you can select a template to begin customisation. Based on the data selected, the system will display a list of matching templates that work with those data.
 
 For example, we'll select the Bar/Line chart template from the available template list.
 
@@ -111,16 +111,16 @@ For example, we'll select the Bar/Line chart template from the available templat
 {% hint style="info" %}
 There are two mode for a widget designer page:
 
-1\) Design mode - Used to design, edit, and customize the widget.
+1\) Design mode - Used to design, edit, and customise the widget.
 
 2\) Preview mode - Used to view a live version of the widget.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
-### <mark style="color:blue;">d) Customizing the Widget</mark>
+### <mark style="color:blue;">d) Customising the Widget</mark>
 
-A Bar/Line chart can be customized to meet the user's needs by adjusting its appearance, changing the way data is presented (e.g., selecting different chart types), customizing legends, axis labels and other elements to provide context and improve the understanding of the presented information.
+A Bar/Line chart can be customised to meet the user's needs by adjusting its appearance, changing the way data is presented (e.g., selecting different chart types), customising legends, axis labels and other elements to provide context and improve the understanding of the presented information.
 
 There are 3 main types of charts: **line charts, bar charts, and area charts**.
 
@@ -161,10 +161,10 @@ You can include multiple chart types within the same chart. For instance, if you
 
 
 {% hint style="success" %}
-**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See [Preview of your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) visualized on a chart image).
+**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See [Preview of your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) visualised on a chart image).
 {% endhint %}
 
-#### <mark style="color:blue;">Customizing the Appearance of the Chart</mark>
+#### <mark style="color:blue;">Customising the Appearance of the Chart</mark>
 
 To change the appearance of the chart:
 
@@ -173,7 +173,7 @@ To change the appearance of the chart:
 
 
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customizing the Appearance of the Chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customising the Appearance of the Chart</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding a Chart Title</mark>&#x20;
 
@@ -183,15 +183,15 @@ To add a chart title:
 2. Go to the **Title** section.
 3. In the **Text** field, enter a suitable title for the chart. The chart title will dynamically update in real-time as you type.
 
-&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data ](designing-a-user-interface-to-visualise-information.md#previewing-your-widget)visualized on a chart image).
+&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data ](designing-a-user-interface-to-visualise-information.md#previewing-your-widget)visualised on a chart image).
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8_1.png" alt=""><figcaption><p>Chart Preview</p></figcaption></figure>
 
 ## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
 
-This method initiates the user interface design process for data visualization by selecting a template and subsequently binding a data source at a later stage.
+This method initiates the user interface design process for data visualisation by selecting a template and subsequently binding a data source at a later stage.
 
-As the data source, you can choose either a database or a workflow for the data for visualization.
+As the data source, you can choose either a database or a workflow for the data for visualisation.
 
 To design a user interface from scratch:
 
@@ -208,27 +208,27 @@ To design a user interface from scratch:
 
 ### <mark style="color:blue;">a) Binding a Data source</mark>
 
-Once you've chosen the appropriate template, you can then decide which data source to associate with the widget. A data source provides the raw data that the widget visualizes. Without a data source, there's no information to present visually.
+Once you've chosen the appropriate template, you can then decide which data source to associate with the widget. A data source provides the raw data that the widget visualises. Without a data source, there's no information to present visually.
 
 To bind a data source to the widget:
 
 1. On the widget designer page, click **Data source is required** option.
 2. Click **Bind a Source.**
-3. As the data source, you can either select a workflow or a database to obtain data to be visualized.
+3. As the data source, you can either select a workflow or a database to obtain data to be visualised.
 4. For instance, let’s select an existing database.
-   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorized by its folder.
+   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
    2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
    3. A preview displaying the available fields of the chosen database will be listed.
    4. To confirm the selection, click **Select this source** .
    5. A table preview of the selected database will be displayed.
 
-### <mark style="color:blue;">b) Preparing Data to be Visualized</mark>
+### <mark style="color:blue;">b) Preparing Data to be Visualised</mark>
 
-Next, step is to customize data to be visualized on the widget.
+Next, step is to customise data to be visualised on the widget.
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
-For instance, let's use aggregation to summarize data to display minimum temperature in a radial gauge.
+For instance, let's use aggregation to summarise data to display minimum temperature in a radial gauge.
 
 1. On the table preview, click **Aggregate Data.**
 2. Select appropriate aggregation and the columns required for the aggregation.
@@ -237,7 +237,7 @@ For instance, let's use aggregation to summarize data to display minimum tempera
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering Data</p></figcaption></figure>
 
-### <mark style="color:blue;">c) Customizing the Widget</mark>
+### <mark style="color:blue;">c) Customising the Widget</mark>
 
 This involves modifying various visual and functional aspects of the widget to suit specific needs and preferences, such as setting minimum and maximum values of the scale.&#x20;
 
@@ -260,22 +260,22 @@ To set the Field:
 3. Choose the Field.
 {% endhint %}
 
-#### <mark style="color:blue;">Customizing the Appearance and Styling</mark>
+#### <mark style="color:blue;">Customising the Appearance and Styling</mark>
 
-Customizing the appearance and style of a radial gauge widget involves making visual adjustments to its elements, including colors, scales, labels, and other design aspects.
+Customising the appearance and style of a radial gauge widget involves making visual adjustments to its elements, including colors, scales, labels, and other design aspects.
 
 1. On the widget designer page, click on the **Radial Gauge**, The **Properties** panel will be opened on the right.
 2. On the properties panel, go to **Colors** section.
-3. Customize the visual aesthetics of the radial gauge according to your preferences.
+3. Customise the visual aesthetics of the radial gauge according to your preferences.
 4. After setting the properties, provide a appropriate **Name** for the widget under **General** tab.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s14.png" alt=""><figcaption><p>Customizing Colors of the Radial Gauge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s14.png" alt=""><figcaption><p>Customising Colors of the Radial Gauge</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Customizing the Styling Properties of the Radial Gauge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Customising the Styling Properties of the Radial Gauge</p></figcaption></figure>
 
-#### <mark style="color:blue;">Customizing the Properties of the Widget's Header Section</mark>
+#### <mark style="color:blue;">Customising the Properties of the Widget's Header Section</mark>
 
-To customize the properties of the widget’s header section:
+To customise the properties of the widget’s header section:
 
 1. On the widget designer page, click on the widget’s header section to open its Properties panel.
 2. Go to the Container section to pick a background color for the header or you can select a background image.
@@ -296,7 +296,7 @@ Preview mode can be used to view a live preview of the appearance and the behavi
 
 ## <mark style="color:blue;">Saving Your Widget</mark>
 
-After you have done required customizations, you can save the widget for future reference.
+After you have done required customisations, you can save the widget for future reference.
 
 1. On the widget designer page, click **Save Widget.**
 2. Under General tab, enter a **Name** for the widget (adding a name is mandatory).
