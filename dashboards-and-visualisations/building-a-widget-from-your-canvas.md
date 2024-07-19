@@ -23,7 +23,7 @@ Let's see how to build a widget easily right from your canvas.
    1. Type in the **widget's name** in the search box.
    2. If you don't find any matching widgets in the search results, click the **Build a new Widget** button that appears.
 7. Select a template to build the widget.
-8. After you select the template, it will open on the widget designer page, allowing you to apply the required customisations and create your widget.
+8. Click Edit this template. Your widget will open on the widget designer page, allowing you to apply the required customisations and design your widget.
 
 {% hint style="info" %}
 If your search finds no widgets, you'll see the **Build a new Widget** button.
