@@ -48,7 +48,7 @@ There are two modes in a widget designer page:&#x20;
 
 The Widget Designer offers a user-friendly interface for designing, editing, and customising your widgets. This functionality empowers users to tailor the appearance, behavior, and content of their widgets to meet specific needs.
 
-To customize the form's appearance, including elements such as the header, body, or individual items/fields within the body, simply click on the desired section. This action opens the Properties panel, allowing you to make adjustments like changing the header background.
+To customise the form's appearance, including elements such as the header, body, or individual items/fields within the body, simply click on the desired section. This action opens the Properties panel, allowing you to make adjustments like changing the header background.
 
 <figure><img src="../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a Form</p></figcaption></figure>
 
