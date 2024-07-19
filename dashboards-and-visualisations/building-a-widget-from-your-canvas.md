@@ -39,4 +39,4 @@ Find out more about building a user interface from here:
 
 Watch the video demonstrating how to build a widget from your Canvas here.
 
-{% embed url="https://drive.google.com/file/d/1vCF81gSEpcliWOMuz4r5_yCuh34CGDkf/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1dIt587nSekFpu4gNIcCrpV-Po-ZYK4eI/view?usp=drive_link" %}
