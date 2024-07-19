@@ -27,7 +27,7 @@ Follow the below steps to design a form from a database.
 5. Hover over the database click the **Edit** icon that displays.
 6. Click **Create a form** to open the form on the widget designer page.
 7. By default, the widget designer will be opened in its **Design** mode.
-8. Do the required modifications to the form, _e.g., adding more fields, removing fields, customizing the form appearance etc._
+8. Do the required modifications to the form, _e.g., adding more fields, removing fields, customising the form appearance etc._
 9. Under the **General** tab, in the **Name** box, type in a suitable name for the form.
 10. Click **Save Widget** to save the form and access it in the future.
 11. Click the **Open Page** button to load the form in a new window.
@@ -36,7 +36,7 @@ Follow the below steps to design a form from a database.
 
 ### Modifying the Form
 
-When creating a form, you may wish to personalize it by changing the fields, altering its look, and more.
+When creating a form, you may wish to personalise it by changing the fields, altering its look, and more.
 
 For further insights, access the article here.
 
