@@ -12,7 +12,7 @@ Let's see how to filter data in a widget.
 6. Click the **Filter** icon ![](<../.gitbook/assets/Filter icon\_2.png>)on the respective widget.&#x20;
 7. Apply the appropriate filters to refine data displayed on the widget.
 
-<figure><img src="../.gitbook/assets/Filter Data_S1-1 (1).png" alt=""><figcaption><p>Filtering Data in the Parking Analytics widget</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Filter Data_S1-2.png" alt=""><figcaption><p>Filtering Data in the Parking Analytics widget</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Filter Data_S2.png" alt=""><figcaption><p>Selecting required filter option (Car Park) to display data</p></figcaption></figure>
 
