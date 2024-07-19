@@ -1,4 +1,4 @@
-# Utilizing Content-aware Autofill to Automatically Populate Your Database
+# Utilising Content-aware Autofill to Automatically Populate Your Database
 
 This article explains how to automatically populate data into your database using Content-aware Autofill.
 
@@ -6,7 +6,7 @@ This article explains how to automatically populate data into your database usin
 
 For instance, let’s create a database to capture employee feedback and use this feature to automatically classify the feedback as good or bad and autofill the result in the database. We will have the Name, Email, Comment and Mood as our database fields.
 
-Utilizing Content-aware Autofill for database population involves several key steps.
+Utilising Content-aware Autofill for database population involves several key steps.
 
 1. Create Your Database
 2. Add Examples to Your Database
