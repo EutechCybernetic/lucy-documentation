@@ -29,7 +29,7 @@
     * [Editing Fields in a Database](databases/creating-and-editing-databases/editing-fields-in-a-database.md)
   * [Editing Data in a Database](databases/editing-data-in-a-database.md)
   * [Using the database collection viewer](databases/using-the-database-collection-viewer.md)
-  * [Searching, Filtering, and Sorting Information in a Database](databases/searching-filtering-and-sorting-information-in-a-database.md)
+  * [Searching, Filtering, and Sorting Data in a Database](databases/searching-filtering-and-sorting-data-in-a-database.md)
   * [Exporting Data in a Database](databases/exporting-data-in-a-database.md)
   * [Utilising Content-aware Autofill to Automatically Populate Your Database](databases/utilising-content-aware-autofill-to-automatically-populate-your-database.md)
   * [Ask a Question about Databases in a Folder to Build Your Own Widget](databases/ask-a-question-about-databases-in-a-folder-to-build-your-own-widget.md)
