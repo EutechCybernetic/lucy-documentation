@@ -84,7 +84,7 @@ Let's build our database using an existing template.&#x20;
 
 <figure><img src="../../.gitbook/assets/LC_PickingTemplate_s5_1.png" alt="" width="563"><figcaption><p>Selected Template's Fields and their Types</p></figcaption></figure>
 
-Below is a short video that guides you on creating a database manually.
+
 
 ## <mark style="color:blue;">Previewing Your Database</mark>
 
