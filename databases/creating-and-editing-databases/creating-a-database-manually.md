@@ -86,8 +86,6 @@ Let's build our database using an existing template.&#x20;
 
 Below is a short video that guides you on creating a database manually.
 
-{% embed url="https://drive.google.com/uc?id=1p6y2hi_X9yKjFG0CPT91bWxCsyLqUAiM" %}
-
 ## <mark style="color:blue;">Previewing Your Database</mark>
 
 Once you've established your database, you can preview its contents by navigating to the **Databases** tab within the corresponding folder.
