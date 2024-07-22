@@ -1,8 +1,8 @@
 # Using an External Source as a Database
 
-Lucy allows you to effortlessly build a database by directly utilizing an existing online data source, such as Google sheets or Excel, without the need to import data. It's like setting up your database with what's already there—no extra steps required.
+Lucy allows you to effortlessly build a database by directly utilising an existing online data source, such as Google sheets or Excel, without the need to import data. It's like setting up your database with what's already there—no extra steps required.
 
-When you link an external database, data is directly written and read from that source, even though it's presented in Lucy as just another database. Consequently, any changes you make to the data automatically reflect in the source database. The synchronization occurs seamlessly without requiring any additional actions on your part.
+When you link an external database, data is directly written and read from that source, even though it's presented in Lucy as just another database. Consequently, any changes you make to the data automatically reflect in the source database. The synchronisation occurs seamlessly without requiring any additional actions on your part.
 
 Let's see the process of creating a database using an external data source.
 
