@@ -8,8 +8,8 @@ In this article, we'll guide you on how to search, filter, and sort information 
 
 There are two approaches to locating information in a database:
 
-1. [Searching for Information by Entering a Search Term](searching-filtering-and-sorting-information-in-a-database.md#1.-searching-for-information-by-entering-a-search-term)
-2. [Searching for Information by Entering a MongoDB Query](searching-filtering-and-sorting-information-in-a-database.md#2.-searching-for-information-by-entering-a-mongodb-query)
+1. [Searching for Information by Entering a Search Term](searching-filtering-and-sorting-information-in-a-database.md#id-1.-searching-for-information-by-entering-a-search-term)
+2. [Searching for Information by Entering a MongoDB Query](searching-filtering-and-sorting-information-in-a-database.md#id-2.-searching-for-information-by-entering-a-mongodb-query)
 
 ### <mark style="color:blue;">1. Searching for Information by Entering a Search Term</mark>
 
@@ -46,8 +46,8 @@ Filtering information in a database involves narrowing down the dataset to only 
 
 There are several ways to filter data records in your database view:
 
-1. [Filtering Records by Selecting Column Values](searching-filtering-and-sorting-information-in-a-database.md#1.-filtering-records-by-selecting-column-values)
-2. [Filtering Records by Selecting Columns](searching-filtering-and-sorting-information-in-a-database.md#2.-filtering-records-by-selecting-columns)
+1. [Filtering Records by Selecting Column Values](searching-filtering-and-sorting-information-in-a-database.md#id-1.-filtering-records-by-selecting-column-values)
+2. [Filtering Records by Selecting Columns](searching-filtering-and-sorting-information-in-a-database.md#id-2.-filtering-records-by-selecting-columns)
 
 ### <mark style="color:blue;">1. Filtering Records by Selecting Column Values</mark>
 
