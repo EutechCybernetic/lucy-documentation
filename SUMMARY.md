@@ -22,7 +22,7 @@
   * [Adding Notes related to a Folder](folders/adding-notes-related-to-a-folder.md)
 * [Databases](databases/README.md)
   * [Understanding Databases](databases/understanding-databases.md)
-  * [Creating and editing databases](databases/creating-and-editing-databases/README.md)
+  * [Creating and Editing databases](databases/creating-and-editing-databases/README.md)
     * [Creating a Database Manually](databases/creating-and-editing-databases/creating-a-database-manually.md)
     * [Creating a Database by Importing Data from an External Source](databases/creating-and-editing-databases/creating-a-database-by-importing-data-from-an-external-source.md)
     * [Using an External Source as a Database](databases/creating-and-editing-databases/using-an-external-source-as-a-database.md)
