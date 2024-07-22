@@ -24,7 +24,7 @@ To search for data records by entering a search term:
 7. A spreadsheet view of your database will be opened in a new window.
 8. Type in the search term in the **Search** box to search and filter rows.
 
-### <mark style="color:blue;">2. Searching for</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Data by Entering a MongoDB Query</mark>
+### <mark style="color:blue;">2. Searching for Data by Entering a MongoDB Query</mark>
 
 For those with advanced expertise, you have the option to input a[ MongoDB query](https://www.mongodb.com/docs/manual/tutorial/query-documents/) directly into the search box or type it in the editor window.
 
@@ -99,4 +99,4 @@ To sort data in ascending or descending order:
 
 Here is a short video that shows how to search, filter, and sort data in a database to help you understand better.
 
-{% embed url="https://drive.google.com/uc?id=1jUyzmM4o-u_ojzV5Dag74P2TDyIBGkmX" %}
+{% embed url="https://drive.google.com/file/d/19OcgLFYvhKoLwgVYLOT1wipqa3G8xReG/view?usp=drive_link" %}
