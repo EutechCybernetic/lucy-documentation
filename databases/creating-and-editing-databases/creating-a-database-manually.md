@@ -101,3 +101,7 @@ Once you've established your database, you can preview its contents by navigatin
 {% hint style="info" %}
 &#x20;Initially, a manually created database is a empty database with no data.
 {% endhint %}
+
+Watch this video on how to create a database manually to gain a better understanding.
+
+{% embed url="https://drive.google.com/file/d/10xxdo3koySlrnmLRpGK8RZd64i4vI2Xm/view?usp=drive_link" %}
