@@ -38,5 +38,5 @@ Below is a preview of the newly created database.
 
 Watch the video below to gain more insights on creating a database by importing data from an external source.
 
-{% embed url="https://drive.google.com/uc?id=1unIyNBdJVFOIjPtF852Pp4ghLgwhHahA" %}
+{% embed url="https://drive.google.com/file/d/1unIyNBdJVFOIjPtF852Pp4ghLgwhHahA/view?usp=sharing" %}
 
