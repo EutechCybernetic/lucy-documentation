@@ -28,9 +28,9 @@ Using forms to fill in data is easy because they offer a user-friendly, structur
 13. When you submit the form, data will be populated in the respective database.
 14. Refresh the page to add more records.
 
-Watch below video on creating a form to add data to your database to gain better understanding.
+Watch the below video on creating a form to populate data in your database to gain a better understanding.
 
-
+{% embed url="https://drive.google.com/file/d/1aBCYfS5Y29DJLe-C_FDnmCG6jyh0X5x2/view?usp=drive_link" %}
 
 ### <mark style="color:blue;">Locating the Form You have Created</mark>
 
