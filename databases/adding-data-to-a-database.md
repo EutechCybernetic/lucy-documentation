@@ -20,12 +20,13 @@ Using forms to fill in data is easy because they offer a user-friendly, structur
 5. Go to the **Databases** tab.
 6. Search and click on the desired **database**.
 7. Hover over the database and click **Edit** icon that appears.
-8. Click **Create a Form**. Widget Designer page will be opened.
-9. Click **Save Widget** to save the form and access it later.
-10. On the pop up window, click **Open Page** to open the form in a new window.
-11. Fill in the form and click **Submit**.
-12. Data will be inserted into the database and listed.
-13. Refresh the page to add more records.
+8. Click **Create a Form**. A form user interface will open on the Widget Designer page.
+9. You can do required customisations to the form.
+10. Once you are happy with the customisations, click **Save Widget** to save the form and access it later.
+11. On the pop up window, click **Open Page** to open the form in a new window.
+12. Fill in the form and click **Submit**.
+13. When you submit the form, data will be populated in the respective database.
+14. Refresh the page to add more records.
 
 Watch below video on creating a form to add data to your database to gain better understanding.
 
