@@ -8,8 +8,8 @@ In this article, we'll guide you on how to search, filter, and sort data in a da
 
 There are two approaches to locating data in a database:
 
-1. [Searching for data by Entering a Search Term](searching-filtering-and-sorting-data-in-a-database.md#id-1.-searching-for-data-by-entering-a-search-term)
-2. [Searching for data by Entering a MongoDB Query](searching-filtering-and-sorting-data-in-a-database.md#id-2.-searching-for-data-by-entering-a-mongodb-query)
+1. [Searching for Data by Entering a Search Term](searching-filtering-and-sorting-data-in-a-database.md#id-1.-searching-for-data-by-entering-a-search-term)
+2. [Searching for Data by Entering a MongoDB Query](searching-filtering-and-sorting-data-in-a-database.md#id-2.-searching-for-data-by-entering-a-mongodb-query)
 
 ### <mark style="color:blue;">1. Searching for Data by Entering a Search Term</mark>
 
