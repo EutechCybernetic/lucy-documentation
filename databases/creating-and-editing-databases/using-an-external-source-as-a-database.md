@@ -39,3 +39,7 @@ Once you've created your database, you can preview its contents by navigating to
 5. Go to **Databases** tab.
 6. Search and select your database.
 7. Click on the database to view it.
+
+Watch the video below to gain more insights on creating a database using an external data source.
+
+{% embed url="https://drive.google.com/file/d/11DHpE_-v3Ma0VawnONSkXOqlLNOa5Wkw/view?usp=drive_link" %}
