@@ -30,5 +30,3 @@ The information presented on the generated widget will depend on the data volume
 
 Watch below video on how to build a widget by typing a question.
 
-{% embed url="https://drive.google.com/uc?id=1w1e8rCNO7XmwbjslabaZetwxO_XuGE-d" %}
-
