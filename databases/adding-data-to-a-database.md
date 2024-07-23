@@ -4,7 +4,7 @@ Adding data to a database is the key to maintaining information organised and ea
 
 There are two approaches to adding data:
 
-1. [Creating a Form to Add Data](adding-data-to-a-database.md#1.-creating-a-form-to-add-data)
+1. [Creating a Form to Add Data](adding-data-to-a-database.md#id-1.-creating-a-form-to-add-data)
 2. [Adding New Data Records Manually](adding-data-to-a-database.md#id-2.-adding-new-data-records-manually)
 
 ## <mark style="color:blue;">1. Creating a Form to Add Data</mark>
