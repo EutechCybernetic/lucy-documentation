@@ -15,7 +15,7 @@ Let's see the process of creating a database using an external data source.
 7. Click on the **Use External Source as Database** option.
 8. Pick the **data source** you wish to create your database (Google sheet or Excel).
 9. Click on the **Select an account** selection box. All the linked accounts will be listed.
-10. Choose the account associated with the data source you selected earlier.
+10. Choose the account associated with the previously selected data source.
 11. If you have not added your account, you can add it to the account list.
     1. Click **Add New Accoun**t button.
     2. Fill in the account details and your account will be added and listed.
