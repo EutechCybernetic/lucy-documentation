@@ -58,7 +58,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 * [Selecting a Background Image Size](designing-a-user-interface-from-a-database.md#selecting-a-background-image-size)
 * [Aligning the Background Image](designing-a-user-interface-from-a-database.md#aligning-the-background-image)
 * [Setting Header Title Properties](designing-a-user-interface-from-a-database.md#setting-header-title-properties)
-* [Setting the Properties of the Fields/Items on the Body](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-fields-items-on-the-body)
+* [Setting the Properties of the Form Fields](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-form-fields)
 * [Adding Fields to the Form](designing-a-user-interface-from-a-database.md#adding-fields-to-the-form)
 * [Adding a Background Image for the Entire Page](designing-a-user-interface-from-a-database.md#adding-a-background-image-to-the-entire-page)
 
@@ -123,7 +123,7 @@ To header title properties:
 
 <figure><img src="../../.gitbook/assets/Setting Header Title Properties_s2.png" alt=""><figcaption><p>Setting Header Title properties</p></figcaption></figure>
 
-#### <mark style="color:blue;">Setting the Properties of the Fields/Items of the Form</mark>
+#### <mark style="color:blue;">Setting the Properties of the Form Fields</mark>&#x20;
 
 Users can customise fields of the form as follows:
 
