@@ -57,7 +57,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 * [Adding a Background Colour/Image](designing-a-user-interface-from-a-database.md#adding-a-background-colour-image)
 * [Selecting a Background Image Size](designing-a-user-interface-from-a-database.md#selecting-a-background-image-size)
 * [Aligning the Background Image](designing-a-user-interface-from-a-database.md#aligning-the-background-image)
-* [Adding a Header Title](designing-a-user-interface-from-a-database.md#adding-a-header-title)
+* [Setting Header Title Properties](designing-a-user-interface-from-a-database.md#setting-header-title-properties)
 * [Setting the Properties of the Fields/Items on the Body](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-fields-items-on-the-body)
 * [Adding Fields to the Form](designing-a-user-interface-from-a-database.md#adding-fields-to-the-form)
 * [Adding a Background Image for the Entire Page](designing-a-user-interface-from-a-database.md#adding-a-background-image-to-the-entire-page)
@@ -110,7 +110,7 @@ To select the background image alignment:
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s4.png" alt=""><figcaption><p>Aligning the Background Image</p></figcaption></figure>
 
-#### <mark style="color:blue;">Setting Title Properties</mark>
+#### <mark style="color:blue;">Setting Header Title Properties</mark>
 
 To header title properties:
 
@@ -121,11 +121,11 @@ To header title properties:
    2. To change the colour of the title, select a colour from the displayed options or choose one from the colour palette.
    3. To change the font size of the header, type in the required size in the Size field.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s5_1.png" alt=""><figcaption><p>Adding a Header Title</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Setting Header Title Properties_s2.png" alt=""><figcaption><p>Setting Header Title properties</p></figcaption></figure>
 
-#### <mark style="color:blue;">Setting the Properties of the Fields/Items on the Body</mark>
+#### <mark style="color:blue;">Setting the Properties of the Fields/Items of the Form</mark>
 
-Users can customise fields on the body section of the form as follows:
+Users can customise fields of the form as follows:
 
 1. In the **Design** mode of the widget designer, click on the form's body section.
 2. Click on the desired **field** within the body section, and its **Properties** panel will display on the right.
