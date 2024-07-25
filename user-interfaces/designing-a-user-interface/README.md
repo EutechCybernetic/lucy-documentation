@@ -5,9 +5,9 @@ User Interfaces can be used to represent something on display, and you can build
 There are 4 types of user interfaces that you can design:
 
 1. [Design a User Interface to Visualise Information](./#id-1.-design-a-user-interface-to-visualise-information)
-2. [Design a User Interface to Capture Information](./#2.-design-a-user-interface-to-capture-information)
-3. [Design a User Interface from Scratch](./#3.-design-a-user-interface-from-scratch)
-4. [Design a User Interface from a Database](./#4.-design-a-user-interface-from-a-database)
+2. [Design a User Interface to Capture Information](./#id-2.-design-a-user-interface-to-capture-information)
+3. [Design a User Interface from Scratch](./#id-3.-design-a-user-interface-from-scratch)
+4. [Design a User Interface from a Database](./#id-4.-design-a-user-interface-from-a-database)
 
 ## <mark style="color:blue;">1. Design a User Interface to Visualise Information</mark>
 
