@@ -61,7 +61,7 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 
 <figure><img src="../../.gitbook/assets/Filtered data_s3 (3).png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
 
-#### <mark style="color:blue;">Adding Group of Conditions</mark>
+#### <mark style="color:blue;">Adding a Group of Conditions to Filter Data</mark>
 
 When dealing with complex datasets, a single condition may not be sufficient. Grouping conditions enables you to create more sophisticated filters, combining multiple criteria to obtain the desired subset of data.
 
@@ -82,7 +82,7 @@ For our example, adding group of conditions is not needed.
 Within a group of conditions, you can include multiple conditions.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s3.png" alt=""><figcaption><p>Adding a group of conditions to filter data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adding a Group of Conditions_s3.png" alt=""><figcaption><p>Adding a group of conditions to filter data</p></figcaption></figure>
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
@@ -95,9 +95,9 @@ Aggregating data is used to summarise and condense data into a more compact form
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5.png" alt=""><figcaption><p>Aggregating data screen 1 </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s6.png" alt=""><figcaption><p>Aggregating data screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Aggregating Data_s3.png" alt=""><figcaption><p>Aggregating data screen 2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s7.png" alt=""><figcaption><p>A Preview of aggregated data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A preview of aggregated data_s3.png" alt=""><figcaption><p>A preview of aggregated data</p></figcaption></figure>
 
 ### <mark style="color:blue;">c) Selecting a Template</mark>
 
@@ -108,8 +108,6 @@ For example, we'll select the Bar/Line chart template from the available templat
 1. Select the desired type of **Template** to display data _e.g., Bar/Line chart._
 2. Click **Edit this template**. The respective template will be displayed on widget designer page.
 3. By default, **Design** mode will be selected on the widget designer page.
-
-
 
 {% hint style="info" %}
 There are two mode for a widget designer page:
@@ -186,9 +184,9 @@ To add a chart title:
 2. Go to the **Title** section.
 3. In the **Text** field, enter a suitable title for the chart. The chart title will dynamically update in real-time as you type.
 
-&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data ](designing-a-user-interface-to-visualise-information.md#previewing-your-widget)visualised on a chart image).
+&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) visualised on a chart image).
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8_1.png" alt=""><figcaption><p>Chart Preview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Chart Preview_s3.png" alt=""><figcaption><p>Chart preview</p></figcaption></figure>
 
 ## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
 
