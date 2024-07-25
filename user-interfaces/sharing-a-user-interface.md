@@ -39,7 +39,7 @@ Users can open the desired user interface on a separate page.
 
 ## <mark style="color:blue;">3. Adding the User Interface to a Dashboard/Canvas</mark>
 
-Users can add user interfaces to their existing dashboards/canvases for future reference. Additionally, this functionality enables users to customize their dashboards according to their preferences and requirements.
+Users can add user interfaces to their existing dashboards/canvases for future reference. Additionally, this functionality enables users to customise their dashboards according to their preferences and requirements.
 
 {% hint style="info" %}
 **Note**: You need to have a [dashboard ](../dashboards-and-visualisations/creating-a-canvas-on-the-gallery.md)created to add your user interfaces.
