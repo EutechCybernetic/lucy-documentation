@@ -230,7 +230,7 @@ To set the Thank you Screen's Header Properties:
 1. Click on the **body** section of the Thank You screen. Its **Properties** panel will be displayed on the right.
 2. Do required changes to the body section from the Properties panel.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s11_1.png" alt=""><figcaption><p>Setting the Thank you Screen's Body Properties</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Setting the Thank you Screen&#x27;s Body Properties_s2.png" alt=""><figcaption><p>Setting the Thank you Screen's Body Properties</p></figcaption></figure>
 
 ### <mark style="color:blue;">5. Previewing the Form</mark>
 
