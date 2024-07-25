@@ -57,7 +57,9 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 5. After applying the condition (s), click **Done**.
 6. Based on the conditions applied, the data will be filtered and listed.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s2.png" alt=""><figcaption><p>Filtering data screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Filtering data_s2.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Filtered data_s3 (3).png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding Group of Conditions</mark>
 
@@ -80,9 +82,7 @@ For our example, adding group of conditions is not needed.
 Within a group of conditions, you can include multiple conditions.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s3.png" alt=""><figcaption><p>Filtering data screen 2</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s4.png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s3.png" alt=""><figcaption><p>Adding a group of conditions to filter data</p></figcaption></figure>
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
@@ -93,11 +93,11 @@ Aggregating data is used to summarise and condense data into a more compact form
 3. Click **Done**. Based on the aggregation, the data will be aggregated and listed.
 4. If you are happy with the aggregation, click **Looks good.**
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5.png" alt=""><figcaption><p>Aggregate Your Data screen 1 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5.png" alt=""><figcaption><p>Aggregating data screen 1 </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s6.png" alt=""><figcaption><p>Aggregate Your Data screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s6.png" alt=""><figcaption><p>Aggregating data screen 2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s7.png" alt=""><figcaption><p>A Preview of Your Aggregated Data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s7.png" alt=""><figcaption><p>A Preview of aggregated data</p></figcaption></figure>
 
 ### <mark style="color:blue;">c) Selecting a Template</mark>
 
