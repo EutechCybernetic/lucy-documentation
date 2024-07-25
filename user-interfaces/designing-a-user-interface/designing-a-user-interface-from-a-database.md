@@ -5,7 +5,7 @@ This article shows how to design a form from a database.
 The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organisations. By capturing and storing data in a database, businesses and organisations can better manage and utilise the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
 
 {% hint style="success" %}
-**Tip**: When designing a user interface to capture information using a Form, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
+**Tip**: When designing a form to capture information, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
 {% endhint %}
 
 ## <mark style="color:blue;">Designing a User Interface from a Database</mark>
@@ -256,6 +256,6 @@ After designing the form, you can share it with others. To learn more about this
 [sharing-a-user-interface.md](../sharing-a-user-interface.md)
 {% endcontent-ref %}
 
-Here is a short video on how to design a user interface to capture information.
+Here is a short video on how to design a form to populate data in a database.
 
 {% embed url="https://drive.google.com/file/d/1aBCYfS5Y29DJLe-C_FDnmCG6jyh0X5x2/view?usp=drive_link" %}
