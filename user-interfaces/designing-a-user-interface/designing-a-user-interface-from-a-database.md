@@ -205,7 +205,6 @@ To add a background to the entire page:
    5. To upload your own image:
       1. Click **Upload your image** button on the gallery.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
-5. Go to **Preview** mode to[ preview the background image](designing-a-user-interface-from-a-database.md#id-5.-previewing-the-form).
 
 ### <mark style="color:blue;">4. Using Widget Designer to Customise the Thank you Screen</mark>
 
