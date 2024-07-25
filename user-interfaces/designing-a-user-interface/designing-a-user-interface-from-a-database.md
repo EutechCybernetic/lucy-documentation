@@ -40,8 +40,8 @@ Follow the below steps to design a form from a database.
 
 There are two modes in a widget designer page:&#x20;
 
-1. **Design mode** - Used to design, edit, and customise the widget.&#x20;
-2. **Preview mode** - Used to view a live version of the widget.
+1. **Design mode** - Used to design, edit, and customise the widget
+2. **Preview mode** - Used to view a live version of the widget
 {% endhint %}
 
 ### <mark style="color:blue;">3. Using Widget Designer to Customise the Form</mark>
