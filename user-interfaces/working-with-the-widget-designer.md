@@ -24,8 +24,8 @@ The widget designer serves the purpose of designing and constructing a user inte
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}
 
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-capture-information.md" %}
-[designing-a-user-interface-to-capture-information.md](designing-a-user-interface/designing-a-user-interface-to-capture-information.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
