@@ -110,9 +110,9 @@ To select the background image alignment:
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s4.png" alt=""><figcaption><p>Aligning the Background Image</p></figcaption></figure>
 
-#### <mark style="color:blue;">Adding a Header Title</mark>
+#### <mark style="color:blue;">Setting Title Properties</mark>
 
-To add header title and set title properties:
+To header title properties:
 
 1. In the **Design** mode of the widget designer, click on the form's header section.
 2. The Properties panel will be opened on the right.
