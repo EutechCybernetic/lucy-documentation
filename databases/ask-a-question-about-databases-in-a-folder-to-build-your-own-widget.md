@@ -17,10 +17,11 @@ Let’s see how to build a widget by typing a question.
 5. Go to the **Ask me something** tab.
 6. Type in the desired **question** in the box.
 7. Hit **Enter.** The answer to the question will be displayed on a widget.
-8. Click **Customise** button to open the widget designer page.
-9. On the widget designer page, click **Preview** to preview the full view of the respective widget.
+8. Click **Customise** button to open the widget on the widget designer page.
 
-<figure><img src="../.gitbook/assets/LC_Ask a Question about Databases in a Folder to Build Your Own Widget_s1.png" alt=""><figcaption><p>Generated widget preview based on the entered question</p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Generating Widget by entering a question_s2.png" alt=""><figcaption><p>Built widget preview</p></figcaption></figure>
 
 
 
@@ -28,5 +29,5 @@ Let’s see how to build a widget by typing a question.
 The information presented on the generated widget will depend on the data volume within databases and the field names you specify in those databases.
 {% endhint %}
 
-Watch below video on how to build a widget by typing a question.
+
 
