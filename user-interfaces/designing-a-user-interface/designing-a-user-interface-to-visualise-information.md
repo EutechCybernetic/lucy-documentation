@@ -34,7 +34,7 @@ To select a data source:
    4. To confirm the selection, click **Select this source** .
    5. A table preview of the selected database will be displayed.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s1.png" alt=""><figcaption><p>A Preview of Your Data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5 (1).png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
 
 ### <mark style="color:blue;">b) Preparing Data to be Visualised</mark>
 
