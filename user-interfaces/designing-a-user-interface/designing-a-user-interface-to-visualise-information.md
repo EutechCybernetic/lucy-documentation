@@ -262,14 +262,14 @@ To set the Field:
 
 #### <mark style="color:blue;">Customising the Appearance and Styling</mark>
 
-Customising the appearance and style of a radial gauge widget involves making visual adjustments to its elements, including colors, scales, labels, and other design aspects.
+Customising the appearance and style of a radial gauge widget involves making visual adjustments to its elements, including colours, scales, labels, and other design aspects.
 
 1. On the widget designer page, click on the **Radial Gauge**, The **Properties** panel will be opened on the right.
-2. On the properties panel, go to **Colors** section.
+2. On the properties panel, go to **Colours** section.
 3. Customise the visual aesthetics of the radial gauge according to your preferences.
 4. After setting the properties, provide a appropriate **Name** for the widget under **General** tab.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s14.png" alt=""><figcaption><p>Customising Colors of the Radial Gauge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s14.png" alt=""><figcaption><p>Customising Colours of the Radial Gauge</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Customising the Styling Properties of the Radial Gauge</p></figcaption></figure>
 
@@ -278,9 +278,9 @@ Customising the appearance and style of a radial gauge widget involves making vi
 To customise the properties of the widget’s header section:
 
 1. On the widget designer page, click on the widget’s header section to open its Properties panel.
-2. Go to the Container section to pick a background color for the header or you can select a background image.
+2. Go to the Container section to pick a background colour for the header or you can select a background image.
 3. In the Text field, enter the Title of the widget.
-4. Select a color for the title.
+4. Select a colour for the title.
 5. Type in the font size of the title. Instead, you can use the up and down arrows to increase or decrease the font size.
 
 The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) on the gauge).
