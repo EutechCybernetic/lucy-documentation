@@ -54,7 +54,7 @@ To customise the form's appearance, including elements such as the header, body,
 
 In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
-* [Adding a Background Color/Image](designing-a-user-interface-from-a-database.md#adding-a-background-color-image)
+* [Adding a Background Colour/Image](designing-a-user-interface-from-a-database.md#adding-a-background-colour-image)
 * [Selecting a Background Image Size](designing-a-user-interface-from-a-database.md#selecting-a-background-image-size)
 * [Aligning the Background Image](designing-a-user-interface-from-a-database.md#aligning-the-background-image)
 * [Adding a Header Title](designing-a-user-interface-from-a-database.md#adding-a-header-title)
@@ -62,13 +62,13 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 * [Adding Fields to the Form](designing-a-user-interface-from-a-database.md#adding-fields-to-the-form)
 * [Adding a Background Image for the Entire Page](designing-a-user-interface-from-a-database.md#adding-a-background-image-to-the-entire-page)
 
-#### <mark style="color:blue;">Adding a Background Color/Image</mark>
+#### <mark style="color:blue;">Adding a Background Colour/Image</mark>
 
-&#x20;To add a background color to the form header/body:
+&#x20;To add a background colour to the form header/body:
 
 1. In the **Design** mode of the widget designer, click on a specific section, for example, the form's header section.
 2. The Properties panel will be opened on the right.
-3. Head to **Container** section and pick a **Background Color**. The selected background color will be applied to the form's header.
+3. Head to **Container** section and pick a **Background Colour**. The selected background colour will be applied to the form's header.
 4. Instead, you can pick a background image if needed.
 5. To add a background image:
    1. Click the **Search** button of the **Background Image** field.
@@ -118,7 +118,7 @@ To add header title and set title properties:
 2. The Properties panel will be opened on the right.
 3. On the Properties panel, go to the **Title** section. Modify the header title and customise header title properties to suit your specific preferences.
    1. To modify the header title, go to the Text field and type in the desired title.
-   2. To change the color of the title, select a color from the displayed options or choose one from the color palette.
+   2. To change the colour of the title, select a colour from the displayed options or choose one from the colour palette.
    3. To change the font size of the header, type in the required size in the Size field.
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s5_1.png" alt=""><figcaption><p>Adding a Header Title</p></figcaption></figure>
