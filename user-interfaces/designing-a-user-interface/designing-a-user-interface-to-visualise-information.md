@@ -54,7 +54,7 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 5. After applying the condition (s), click **Done**.
 6. Based on the conditions applied, the data will be filtered and listed.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s2.png" alt=""><figcaption><p>Filter Your Data screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s2.png" alt=""><figcaption><p>Filtering data screen 1</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding Group of Conditions</mark>
 
@@ -77,9 +77,9 @@ For our example, adding group of conditions is not needed.
 Within a group of conditions, you can include multiple conditions.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s3.png" alt=""><figcaption><p>Filter Your Data screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s3.png" alt=""><figcaption><p>Filtering data screen 2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s4.png" alt=""><figcaption><p>Filtered Data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s4.png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
