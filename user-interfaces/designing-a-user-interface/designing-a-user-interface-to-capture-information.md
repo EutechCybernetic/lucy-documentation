@@ -53,3 +53,7 @@ To easily locate and access your forms, find the article here:
 {% content-ref url="../viewing-your-user-interfaces.md" %}
 [viewing-your-user-interfaces.md](../viewing-your-user-interfaces.md)
 {% endcontent-ref %}
+
+Here is a short video on how to design a user interface to capture information.
+
+{% embed url="https://drive.google.com/file/d/1aBCYfS5Y29DJLe-C_FDnmCG6jyh0X5x2/view?usp=drive_link" %}
