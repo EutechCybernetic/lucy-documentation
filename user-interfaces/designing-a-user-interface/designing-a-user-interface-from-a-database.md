@@ -216,12 +216,14 @@ The Thank you screen is displayed after a user submits the respective form. Usin
 
 <figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s9.png" alt=""><figcaption><p>Thank you screen</p></figcaption></figure>
 
-#### <mark style="color:blue;">Setting the Properties of the Thank you Screen's Header Section</mark>
+#### <mark style="color:blue;">Setting the Thank you Screen's Header Properties</mark>
+
+To set the Thank you Screen's Header Properties:
 
 1. Click on the **header** section of the Thank You screen. Its **Properties** panel will be displayed on the right.
 2. Do required changes to the header section from the Properties panel.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s10_1.png" alt=""><figcaption><p>Setting the Properties of the Thank you screen's Header section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s10_1.png" alt=""><figcaption><p>Setting the Thank you Screen's Header Properties</p></figcaption></figure>
 
 #### <mark style="color:blue;">Setting the Properties of the Thank you Screen's Body Section</mark>
 
