@@ -270,7 +270,7 @@ Customising the appearance and style of a radial gauge widget involves making vi
 3. Customise the visual aesthetics of the radial gauge according to your preferences.
 4. After setting the properties, provide a appropriate **Name** for the widget under **General** tab.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s14.png" alt=""><figcaption><p>Customising Colours of the Radial Gauge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Customising the Colours of the Radial Gauge_s2 (1).png" alt=""><figcaption><p>Customising the colours of the Radial Gauge</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Customising the Styling Properties of the Radial Gauge</p></figcaption></figure>
 
