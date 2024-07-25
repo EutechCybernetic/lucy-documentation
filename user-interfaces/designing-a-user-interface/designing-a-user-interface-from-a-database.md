@@ -131,7 +131,7 @@ Users can customise fields of the form as follows:
 2. Click on the desired **field** within the body section, and its **Properties** panel will display on the right.
 3. Adjust the necessary properties of the field accordingly.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s6_1.png" alt=""><figcaption><p>Setting the Properties of the Fields on the Body</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Setting the Properties of the Form Fields_s2.png" alt=""><figcaption><p>Setting the Properties of the Form Fields</p></figcaption></figure>
 
 To change the position of a field:
 
@@ -214,7 +214,7 @@ The Thank you screen is displayed after a user submits the respective form. Usin
 1. On the widget designer page (Design mode), click the **Form** toggle button on the bottom bar.
 2. The view will be changed to **Thank you** screen.&#x20;
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s9.png" alt=""><figcaption><p>Thank you Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s9.png" alt=""><figcaption><p>Thank you screen</p></figcaption></figure>
 
 #### <mark style="color:blue;">Setting the Properties of the Thank you Screen's Header Section</mark>
 
