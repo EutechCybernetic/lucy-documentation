@@ -174,7 +174,7 @@ To change the appearance of the chart:
 
 
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customising the Appearance of the Chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customising the appearance of the chart</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding a Chart Title</mark>&#x20;
 
@@ -236,7 +236,7 @@ For instance, let's use aggregation to summarise data to display minimum tempera
 3. After applying the aggregation, click **Done**.
 4. If you are happy with the aggregation, click **Looks good**.&#x20;
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering Data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
 
 ### <mark style="color:blue;">c) Customising the Widget</mark>
 
@@ -272,7 +272,7 @@ Customising the appearance and style of a radial gauge widget involves making vi
 
 <figure><img src="../../.gitbook/assets/Customising the Colours of the Radial Gauge_s2 (1).png" alt=""><figcaption><p>Customising the colours of the Radial Gauge</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s15.png" alt=""><figcaption><p>Customising the Styling Properties of the Radial Gauge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Customising the Styling Properties of the Radial Gauge_s2.png" alt=""><figcaption><p>Customising the Styling Properties of the Radial Gauge</p></figcaption></figure>
 
 #### <mark style="color:blue;">Customising the Properties of the Widget's Header Section</mark>
 
