@@ -79,7 +79,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
       1. Click **Upload your image** button on the image gallery window.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s3_3.png" alt=""><figcaption><p>Adding a Background Colour/Image</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adding a Background ColourImage_s2.png" alt=""><figcaption><p>Adding a Background Colour/Image</p></figcaption></figure>
 
 #### <mark style="color:blue;">Selecting a Background Image Size</mark>
 
