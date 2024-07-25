@@ -27,14 +27,17 @@ To select a data source:
 4. Click on the **Add** button.
 5. Choose the **Visualise Data** option.
 6. Select the **data source**. You can either select a workflow or a database as the data source.
-7. For instance, let’s select an existing database.
-   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
-   2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
-   3. A preview displaying the available fields of the chosen database will be listed.
-   4. To confirm the selection, click **Select this source** .
-   5. A table preview of the selected database will be displayed.
+7.  For instance, let’s select an existing database.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5 (1).png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
+    1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
+    2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
+    3. A preview displaying the available fields of the chosen database will be listed.
+    4. To confirm the selection, click **Select this source** .
+    5. A table preview of the selected database will be displayed.
+
+
+
+<figure><img src="../../.gitbook/assets/Preview of your data_s2.png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
 
 ### <mark style="color:blue;">b) Preparing Data to be Visualised</mark>
 
