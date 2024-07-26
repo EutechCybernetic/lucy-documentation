@@ -41,7 +41,7 @@
     * [Designing a User Interface from a Database](user-interfaces/designing-a-user-interface/designing-a-user-interface-from-a-database.md)
   * [Viewing Your User Interfaces](user-interfaces/viewing-your-user-interfaces.md)
   * [Sharing a User Interface](user-interfaces/sharing-a-user-interface.md)
-  * [Adding your Own Widget onto a Dashboard/Canvas](user-interfaces/adding-your-own-widget-onto-a-dashboard-canvas.md)
+  * [Adding Your Own Widget onto a Dashboard/Canvas](user-interfaces/adding-your-own-widget-onto-a-dashboard-canvas.md)
   * [Working with the Widget Designer](user-interfaces/working-with-the-widget-designer.md)
 * [Workflows and Integrations](workflows-and-integrations/README.md)
   * [Using the Workflow Editor](workflows-and-integrations/using-the-workflow-editor.md)
