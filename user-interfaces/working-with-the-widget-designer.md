@@ -10,22 +10,22 @@ Widgets can be used to display information on a dashboard, such as calendar even
 
 This article shows the basic functionalities of a widget designer.
 
-## <mark style="color:blue;">Loading Widget Designer</mark>&#x20;
+## <mark style="color:blue;">Opening the Widget Designer</mark>&#x20;
 
-The Widget Designer can be launched and utilised in various situations.
+You can access the widget designer page
 
-### <mark style="color:blue;">1. When Designing a User Interface</mark>
+1. When Creating a New User Interface
+2. When Editing an Existing User Interface
+3. When Creating a Form Using a Database
 
-The widget designer serves the purpose of designing and constructing a user interface, and there are different approaches to achieve this. Accessing the widget designer can be done through various methods when you intend to design and build a user interface.
+### <mark style="color:blue;">1. When Creating a New User Interface</mark>
 
-#### <mark style="color:blue;">Ways to Design and Build a User Interfaces</mark>
+There are multiple ways to create a user interface. Each method provides a widget designer to easily customize your user interface.
+
+#### <mark style="color:blue;">Ways to Create User Interfaces</mark>
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
@@ -36,9 +36,9 @@ The widget designer serves the purpose of designing and constructing a user inte
 [designing-a-user-interface-from-a-database.md](designing-a-user-interface/designing-a-user-interface-from-a-database.md)
 {% endcontent-ref %}
 
-### <mark style="color:blue;">2. If You have Existing User Interfaces</mark>
+### <mark style="color:blue;">2. When Editing an Existing User Interface</mark>
 
-If you have existing user interfaces inside your project, you can easily jump into the widget designer page.
+If your Folder has user interfaces, you can open them on the widget designer page to edit them.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
@@ -65,10 +65,6 @@ Users can create Forms from a database to capture information. The respective fo
 6. Hover over the required database and click the **Edit** icon that appears.
 7. Click **Create Form.**
 8. The respective form will be opened on its widget designer page.
-
-{% hint style="info" %}
-Note: If no database is created under the **Databases** tab, you will not see any database.
-{% endhint %}
 
 ## <mark style="color:blue;">Basic Features of a Widget Designer</mark>
 
