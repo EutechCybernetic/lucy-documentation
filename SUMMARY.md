@@ -62,6 +62,7 @@
   * [Carbon Footprint Calculation](add-ons/carbon-footprint-calculation.md)
   * [Weather](add-ons/weather.md)
 * [Mobile App](mobile-app/README.md)
+  * [Downloading and Installing the Lucy Mobile App](mobile-app/downloading-and-installing-the-lucy-mobile-app.md)
   * [Creating Your Mobile App](mobile-app/creating-your-mobile-app.md)
 * [Users](users/README.md)
   * [Registering a User](users/registering-a-user.md)
