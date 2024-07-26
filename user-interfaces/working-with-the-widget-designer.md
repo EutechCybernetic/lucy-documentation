@@ -1,6 +1,6 @@
 # Working with the Widget Designer
 
-The Widget Designer provides a user-friendly interface for designing, editing, and customising your widgets. This enable users to customise the appearance, behavior, and content of a widget to suit their preferences. Customisation denotes adjusting colors, title, font sizes, data sources and more.
+The Widget Designer provides a user-friendly interface for designing, editing, and customising your widgets. This enable users to customise the appearance, behavior, and content of a widget to suit their preferences. Customisation denotes adjusting colours, title, font sizes, data sources and more.
 
 Widgets can be used to display information on a dashboard, such as calendar events, weather updates, etc.
 
