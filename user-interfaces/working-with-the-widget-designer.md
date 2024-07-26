@@ -20,7 +20,7 @@ You can access the widget designer page
 
 ### <mark style="color:blue;">1. When Creating a New User Interface</mark>
 
-There are multiple ways to create a user interface. Each method provides a widget designer to easily customize your user interface.
+There are multiple ways to create a user interface. Each method provides a widget designer to easily customise your user interface.
 
 #### <mark style="color:blue;">Ways to Create User Interfaces</mark>
 
