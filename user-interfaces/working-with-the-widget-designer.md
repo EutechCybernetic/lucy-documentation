@@ -5,7 +5,7 @@ The Widget Designer provides a user-friendly interface for designing, editing, a
 Widgets can be used to display information on a dashboard, such as calendar events, weather updates, etc.
 
 {% hint style="info" %}
-**Note**: It is recommended to know the basics of creating projects/folders, [databases](../databases/creating-and-editing-databases/) and [user interfaces ](designing-a-user-interface/)before going through this article.
+**Note**: It is recommended to know the basics of creating folders, [databases](../databases/creating-and-editing-databases/) and [user interfaces ](designing-a-user-interface/)before going through this article.
 {% endhint %}
 
 This article shows the basic functionalities of a widget designer.
@@ -56,7 +56,7 @@ If your Folder has user interfaces, you can open them on the widget designer pag
 8. The respective user interface will be opened on its widget designer page.
 
 {% hint style="info" %}
-Note: If you haven't created any user interfaces under the User Interfaces tab of your project, you won't find any user interfaces there.
+Note: If you haven't created any user interfaces under the User Interfaces tab of your folder, you won't find any user interfaces there.
 {% endhint %}
 
 ### <mark style="color:blue;">3. When Creating a Form Using a Database</mark>
