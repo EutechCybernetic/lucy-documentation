@@ -4,5 +4,4 @@ With Lucy, you can design, customise and build a mobile app that effectively rep
 
 On the Lucy app homepage, the Mobile App tab offers an app builder interface to easily design and create your mobile app.
 
-<figure><img src="../.gitbook/assets/Mobile App tab_s2 (1).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/Mobile App tab_s4 (1).png" alt=""><figcaption><p>Mobile App tab</p></figcaption></figure>
