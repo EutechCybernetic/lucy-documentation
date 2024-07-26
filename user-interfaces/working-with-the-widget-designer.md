@@ -24,6 +24,8 @@ There are multiple ways to create a user interface. Each method provides a widge
 
 #### <mark style="color:blue;">Ways to Create User Interfaces</mark>
 
+Here are few methods to create a user interface:
+
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}
@@ -34,6 +36,10 @@ There are multiple ways to create a user interface. Each method provides a widge
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-from-a-database.md" %}
 [designing-a-user-interface-from-a-database.md](designing-a-user-interface/designing-a-user-interface-from-a-database.md)
+{% endcontent-ref %}
+
+{% content-ref url="../dashboards-and-visualisations/building-a-widget-from-your-canvas.md" %}
+[building-a-widget-from-your-canvas.md](../dashboards-and-visualisations/building-a-widget-from-your-canvas.md)
 {% endcontent-ref %}
 
 ### <mark style="color:blue;">2. When Editing an Existing User Interface</mark>
