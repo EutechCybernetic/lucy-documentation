@@ -1,3 +1,3 @@
 # Mobile App
 
-With Lucy, you can customize mobile app screens to align with your organization's standards easily.
+With Lucy, you can design and customise a mobile app to effectively represents your organization and meets the needs of your target audience.
