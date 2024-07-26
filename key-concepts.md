@@ -8,4 +8,4 @@ Lucy provides the following features out of the box:
 * [User Interfaces](user-interfaces/)
 * [Workflows and Integrations](workflows-and-integrations/)
 * [Add-ons](add-ons/)
-* [Mobile App](mobile-app.md)
+* [Mobile App](mobile-app/)
