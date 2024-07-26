@@ -10,8 +10,8 @@ Refer to the below article to gain insights into creating a dashboard if you hav
 
 There are two ways to add your own widget to an existing dashboard:
 
-1. [Adding the Widget from Widget Designer Page](adding-your-own-widget-onto-a-dashboard-canvas.md#id-1.-adding-the-widget-from-widget-designer-page)
-2. [Adding the Widget onto an existing Dashboard](adding-your-own-widget-onto-a-dashboard-canvas.md#id-2.-adding-the-widget-onto-an-existing-dashboard)
+1. Adding the Widget from Widget Designer Page
+2. Adding the Widget onto an existing Dashboard
 
 ## <mark style="color:blue;">1. Adding the Widget from Widget Designer Page</mark>
 
