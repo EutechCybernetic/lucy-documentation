@@ -1,6 +1,6 @@
 # Working with the Widget Designer
 
-The Widget Designer provides a user-friendly interface for designing, editing, and customizing your widgets. This enable users to customize the appearance, behavior, and content of a widget to suit their preferences. Customization denotes adjusting colors, title, font sizes, data sources and more.
+The Widget Designer provides a user-friendly interface for designing, editing, and customising your widgets. This enable users to customise the appearance, behavior, and content of a widget to suit their preferences. Customisation denotes adjusting colors, title, font sizes, data sources and more.
 
 Widgets can be used to display information on a dashboard, such as calendar events, weather updates, etc.
 
@@ -12,7 +12,7 @@ This article shows the basic functionalities of a widget designer.
 
 ## <mark style="color:blue;">Loading Widget Designer</mark>&#x20;
 
-The Widget Designer can be launched and utilized in various situations.
+The Widget Designer can be launched and utilised in various situations.
 
 ### <mark style="color:blue;">1. When Designing a User Interface</mark>
 
@@ -76,7 +76,7 @@ Once you load the widget designer, its default mode will be the **Design** mode.
 
 There are two modes available on the widget designer page:&#x20;
 
-1. **Design mode** - Used to design, edit, and customize the widget.&#x20;
+1. **Design mode** - Used to design, edit, and customise the widget.&#x20;
 2. **Preview mode** - Used to view a live version of the widget.
 
 You can switch between the two modes as needed.
@@ -95,7 +95,7 @@ The following are some additional features available in the widget designer's de
 
 <figure><img src="../.gitbook/assets/LC_Working with Widget Designer_s2.png" alt=""><figcaption><p>Additional Operations in a Widget Designer's Design Mode</p></figcaption></figure>
 
-<table><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the widget around the widget designer page. Click the padlock icon to unlock it and move the widget around the page.</p><p>Further, users can unlock the padlock to resize the interface.</p><p><em>Note: Forms do not support resizing feature. However, it is available for the other widgets.</em></p></td></tr><tr><td>2</td><td>Used to switch between the Form screen and the Thank You screen of the form. When the widget designer is loaded, the form interface will be displayed by default. Users can do required customizations to each screen by switching between the two screens.</td></tr><tr><td>3</td><td>Used to restore any actions that were previously undone using an undo. </td></tr><tr><td>4</td><td>Used to reverse the change previously done (undo the change). </td></tr><tr><td>5</td><td>Used to Zoom in the widget.</td></tr><tr><td>6</td><td>Used to Zoom out the widget.</td></tr></tbody></table>
+<table><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the widget around the widget designer page. Click the padlock icon to unlock it and move the widget around the page.</p><p>Further, users can unlock the padlock to resize the interface.</p><p><em>Note: Forms do not support resizing feature. However, it is available for the other widgets.</em></p></td></tr><tr><td>2</td><td>Used to switch between the Form screen and the Thank You screen of the form. When the widget designer is loaded, the form interface will be displayed by default. Users can do required customisations to each screen by switching between the two screens.</td></tr><tr><td>3</td><td>Used to restore any actions that were previously undone using an undo. </td></tr><tr><td>4</td><td>Used to reverse the change previously done (undo the change). </td></tr><tr><td>5</td><td>Used to Zoom in the widget.</td></tr><tr><td>6</td><td>Used to Zoom out the widget.</td></tr></tbody></table>
 
 #### <mark style="color:blue;">Form Widget</mark>
 
@@ -107,13 +107,13 @@ A form consists of three sections: a header, a body, and an item/field. Users ca
 
 #### <mark style="color:blue;">Configuring Properties of the Widget's Header Section</mark>
 
-Users can customize the appearance of the widget’s header section on the widget designer page. _e.g., Add a title for the header section._&#x20;
+Users can customise the appearance of the widget’s header section on the widget designer page. _e.g., Add a title for the header section._&#x20;
 
 Find out more on configuring header properties in [this ](designing-a-user-interface/designing-a-user-interface-from-a-database.md)article.
 
 #### <mark style="color:blue;">Configuring Properties of the Widget's Body Section</mark>
 
-Users can customize the properties of widget’s body section and the properties of each individual field/item on the widget’s body section using the widget designer.
+Users can customise the properties of widget’s body section and the properties of each individual field/item on the widget’s body section using the widget designer.
 
 Find out more on configuring widget’s body section properties in [this ](designing-a-user-interface/designing-a-user-interface-from-a-database.md)article.
 
@@ -130,7 +130,7 @@ To access widget designer's Preview mode:
 
 ## <mark style="color:blue;">Binding a Data source to a Widget from Widget Designer Page</mark>&#x20;
 
-Some widgets require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the widget that is responsible for displaying data. This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronization between the data and the user interface.
+Some widgets require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the widget that is responsible for displaying data. This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronisation between the data and the user interface.
 
 _e.g., A bar chart displaying sales figures for different products over a month._
 
