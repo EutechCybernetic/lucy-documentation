@@ -19,10 +19,6 @@ After creating a widget from widget designer page, you can pick a canvas to add 
 
 Refer to [this ](sharing-a-user-interface.md#adding-the-user-interface-to-a-dashboard-canvas)article on adding widgets from widget designer page.
 
-Watch this video to learn how to add a new widget to your dashboard using the widget designer page. It makes understanding the steps simple.
-
-{% embed url="https://drive.google.com/file/d/1r2YXxdre_-nfO8fz169PW2c_3Cok9ZDC/view?usp=sharing" %}
-
 ## <mark style="color:blue;">2. Adding the Widget onto an existing Dashboard/Canvas</mark>
 
 To add your widget to a Dashboard:
