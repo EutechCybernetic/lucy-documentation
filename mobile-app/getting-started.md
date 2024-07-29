@@ -1,4 +1,4 @@
-# Downloading and Installing the Lucy Mobile App
+# Getting Started
 
 Before creating your mobile app, we need to download the Lucy mobile app and set it up in your mobile device.
 
