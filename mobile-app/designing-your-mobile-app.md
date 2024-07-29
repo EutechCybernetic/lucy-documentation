@@ -17,7 +17,3 @@ To add a new tab to your bottom tab bar navigation of the mobile app.
    3. Click the **Add Tab** button and a new tab will be displayed on the bottom tab bar navigation.
    4. Under **Configure Tabs** section, give a unique name for the tab, _e.g., Feeds._
    5. To change the icon of the tab, click the icon and pick a suitable icon from the Search Icons window.
-3.
-   1. Click **Add Tab** button.
-   2. Give a unique name for the tab, _e.g., Feeds._
-   3. To change the icon of the tab, click the icon
