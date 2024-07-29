@@ -18,3 +18,9 @@ After downloading and installing the Lucy mobile app, let's sign in.
 4. Enter your **Username** and **Password**, then click **Login**.
 5. App home screen opens.
 
+
+
+{% hint style="info" %}
+The login credentials will be the same as those you use in the Lucy web application.
+{% endhint %}
+
