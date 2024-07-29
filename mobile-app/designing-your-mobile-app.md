@@ -16,6 +16,10 @@ To add a new tab to your bottom tab bar navigation of the mobile app.
    6. Select the screen type to display when the tab is clicked. There are three types: Sections, Widgets and Custom Mobile Pages.
 3. Click **Save** to apply the changes in the mobile app.
 
+<figure><img src="../.gitbook/assets/Bottom Tab Bar Navigation.png" alt=""><figcaption><p>Adding a new tab screen 1</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Adding a new tab_1.png" alt=""><figcaption><p>Adding a new tab screen 2</p></figcaption></figure>
+
 ## Screen Types
 
 When a tab is clicked in your mobile app, you can display one of three screen types:
