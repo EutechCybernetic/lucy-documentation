@@ -26,7 +26,7 @@ When a tab is clicked in your mobile app, you can display one of three screen ty
 
 ### 1) Sections
 
-You can add various types of horizontal sections to a mobile screen. Each section serves a different purpose and enhances the overall user experience.
+You can add  and display various types of horizontal sections to a mobile screen. Each section serves a different purpose and enhances the overall user experience.
 
 You can add the same section multiple times if necessary.
 
@@ -40,9 +40,10 @@ To add a Icon Section Widget:
 
 1. On the Lucy web app homepage, go to **Mobile App** tab. Mobile screen displays.
 2. In the Bottom Tab Bar Navigation, click the required tab.
-3. Go to the **Sections** tab on the left.
-4. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
-5. Click **Save** to apply the changes in the mobile app.
+3. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+4. Go to the **Sections** tab on the left.
+5. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
+6. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
@@ -82,7 +83,9 @@ e) Configurable Search Widget
 
 ### 2) Widgets
 
+You can link a full-screen widget to a specific tab and display it upon tab selection.
 
+A full-screen widget can be a Form widget, Empty widget, Object View, Search widget.
 
 ### 3) Custom Mobile Pages
 
