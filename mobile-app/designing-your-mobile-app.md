@@ -1,6 +1,6 @@
 # Designing Your Mobile App
 
-Once you've set up the Lucy mobile app, you can start creating your own app. Here's how to begin:
+Once you've set up the Lucy mobile app, you can start creating your own app by designing each app sections and screens. Here's how to begin:
 
 ## Adding and Configuring Tabs in  the Bottom Tab Bar Navigation
 
@@ -20,17 +20,57 @@ To add a new tab to your bottom tab bar navigation of the mobile app.
 
 When a tab is clicked in your mobile app, you can display one of three screen types:
 
-1. **Sections**:&#x20;
-2. **Widgets**:
-3. **Custom Mobile Pages**:&#x20;
+1. **Sections**
+2. **Widgets**
+3. **Custom Mobile Pages**
 
-#### 1) Sections
+### 1) Sections
+
+You can add various horizontal sections to a mobile screen. Each section serves a different purpose and enhances the overall user experience.
+
+#### Types of Sections
+
+a) Icon Section Widget
+
+<figure><img src="../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
 
 
-#### 2) Widgets
+b) Image Card List
 
 
 
-#### 3) Custom Mobile Pages
+<figure><img src="../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
+
+
+
+c) Horizontal List of Cards
+
+<figure><img src="../.gitbook/assets/Horizontal List of Cards_1.png" alt=""><figcaption><p>Horizontal List of Cards</p></figcaption></figure>
+
+
+
+d) Currency Converter Widget
+
+
+
+<figure><img src="../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
+
+
+
+
+
+e) Configurable Search Widget
+
+
+
+<figure><img src="../.gitbook/assets/Configurable Search Widget_1.png" alt=""><figcaption><p>Configurable Search Widget</p></figcaption></figure>
+
+
+
+### 2) Widgets
+
+
+
+### 3) Custom Mobile Pages
 
