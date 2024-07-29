@@ -42,12 +42,13 @@ You can include a set of icons in an Icon Section Widget.
 
 To add a Icon Section Widget:
 
-1. On the Lucy web app homepage, go to **Mobile App** tab. Mobile screen displays.
-2. In the Bottom Tab Bar Navigation, click the required tab.
-3. Under **Configure Tabs** section,  select the **Type** as **Sections.**
-4. Go to the **Sections** tab on the left.
-5. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
-6. Click **Save** to apply the changes in the mobile app.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the Bottom Tab Bar Navigation, click the required tab.
+4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+5. Go to the **Sections** tab on the left.
+6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
+7. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
@@ -87,9 +88,24 @@ e) Configurable Search Widget
 
 ### 2) Widgets
 
-You can link a full-screen widget to a specific tab and display it upon tab selection.
+You can link a widget to a specific tab and display it upon tab selection.&#x20;
 
-A full-screen widget can be a Form widget, Empty widget, Object View, Search widget.
+These are some examples of full-screen widget templates that you can be used to create widgets.
+
+* Form Widget
+* Empty Widget
+* Object View
+* Search Widget
+
+To add a widget:
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the Bottom Tab Bar Navigation, click the required tab.
+4. Under **Configure Tabs** section,  select the **Type** as **Widget.**
+5. Click the **Select a Widget** button.
+6. Pick the required widget from the list. These are custom-made widgets.
+7. Click **Save**.
 
 ### 3) Custom Mobile Pages
 
