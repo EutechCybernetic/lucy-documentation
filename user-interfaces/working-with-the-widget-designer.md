@@ -24,7 +24,7 @@ There are multiple ways to create a user interface. Each method provides a widge
 
 #### <mark style="color:blue;">Ways to Create User Interfaces</mark>
 
-Here are few methods to create a user interface:
+Here are the methods to create a user interface:
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
