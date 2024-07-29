@@ -21,6 +21,15 @@ After downloading and installing the Lucy mobile app, let's sign in.
 
 
 {% hint style="info" %}
+You can find the organization name in the web URL. For example:
+
+<img src="../.gitbook/assets/organization name_1.png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
 The login credentials will be the same as those you use in the Lucy web application.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/Login screen_1.png" alt="" width="353"><figcaption><p>Login screen</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Home screen_1.png" alt="" width="353"><figcaption><p>Home screen</p></figcaption></figure>
