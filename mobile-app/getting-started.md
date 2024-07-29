@@ -14,7 +14,7 @@ After downloading and installing the Lucy mobile app, let's sign in.
 
 1. Open the Lucy Mobile app in your mobile device.
 2. Enter your **Organization name.**
-3. Click **Next.**
+3. Click **Next.** Login screen displays.
 4. Enter your **Username** and **Password**, then click **Login**.
 5. App home screen opens.
 
