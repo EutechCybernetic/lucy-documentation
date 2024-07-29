@@ -8,7 +8,7 @@ To add a new tab to your bottom tab bar navigation of the mobile app.
 
 1. On the Lucy web app homepage, go to **Mobile App** tab. Mobile screen displays.
 2. To add a new tab
-   1. On the mobile screen, click the bottom section to open its properties panel.
+   1. On the mobile screen, click the bottom section to open its properties panel on the right.
    2. Go to the **Configure Tabs** section in the properties panel.
    3. Click the **Add Tab** button to add a new tab in the bottom tab bar navigation.
    4. Under **Configure Tabs** section, give a unique name for the tab, _e.g., Feeds._
@@ -26,11 +26,23 @@ When a tab is clicked in your mobile app, you can display one of three screen ty
 
 ### 1) Sections
 
-You can add various horizontal sections to a mobile screen. Each section serves a different purpose and enhances the overall user experience.
+You can add various types of horizontal sections to a mobile screen. Each section serves a different purpose and enhances the overall user experience.
+
+You can add the same section multiple times if necessary.
 
 #### Types of Sections
 
 a) Icon Section Widget
+
+You can include a set of icons in an Icon Section Widget.
+
+To add a Icon Section Widget:
+
+1. On the Lucy web app homepage, go to **Mobile App** tab. Mobile screen displays.
+2. In the Bottom Tab Bar Navigation, click the required tab.
+3. Go to the **Sections** tab on the left.
+4. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
+5. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
