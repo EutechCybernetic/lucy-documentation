@@ -15,6 +15,7 @@ To add a new tab to your bottom tab bar navigation of the mobile app.
    5. To change the icon of the tab, click the icon and pick a suitable icon from the Search Icons window.
    6. Select the screen type to display when the tab is clicked. There are three types: Sections, Widgets and Custom Mobile Pages.
 3. Click **Save** to apply the changes in the mobile app.
+4. Open the mobile app to view changes.
 
 <figure><img src="../.gitbook/assets/Bottom Tab Bar Navigation.png" alt=""><figcaption><p>Adding a new tab screen 1</p></figcaption></figure>
 
