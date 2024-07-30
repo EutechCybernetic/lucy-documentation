@@ -1,6 +1,6 @@
 # Adding and Configuring Tabs in the Bottom Tab Bar Navigation
 
-Once you've set up the Lucy mobile app, you can start creating pages and navigation.
+After setting up the Lucy mobile app, you can begin creating pages and navigation. By default, the Bottom Tab Bar Navigation includes the Home and Settings tabs. You can customize these and add more tabs as needed.
 
 ## Adding and Configuring Tabs in the Bottom Tab Bar Navigation
 
