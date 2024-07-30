@@ -102,7 +102,7 @@ To add a widget:
 3. In the Bottom Tab Bar Navigation, click the required tab.
 4. Under **Configure Tabs** section,  select the **Type** as **Widget.**
 5. Click the **Select a Widget** button.
-6. Pick the required widget from the list.&#x20;
+6. Pick the required widget from the list (widget names will appear in the list).&#x20;
 7. Click **Save**.
 
 ### 3) Custom Mobile Pages
