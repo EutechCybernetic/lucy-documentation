@@ -137,7 +137,7 @@ To add a widget:
 4. Under **Configure Tabs** section,  select the **Type** as **Widget.**
 5. Click the **Select a Widget** button.
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;
-7. Click **Save** to apply the changes in the mobile app.
+7. Click **Save** to apply the changes. The selected widget will now display in your app under the required tab.
 
 ### 3) Custom Mobile Pages
 
