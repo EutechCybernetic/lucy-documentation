@@ -123,7 +123,7 @@ To add a Configurable Search Widget:
 
 ### 2) Widgets
 
-You can link a widget to a specific tab and display it upon selection. Below are some examples of full-screen widget templates that can be used to create widgets.
+You can link a preconfigured widget to a specific tab to display it upon selection. Below are some examples of full-screen widget templates that can be used to create widgets.
 
 * Form Widget
 * Empty Widget
