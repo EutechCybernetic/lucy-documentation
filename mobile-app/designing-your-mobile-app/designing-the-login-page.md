@@ -14,3 +14,7 @@ To design the Login Page:
    1. In the **Background Image** field, click the **Search** icon.
    2. Choose an image from the gallery or click the **Upload** **your image** button to add your own.
 6. Click **Save** to apply the changes in your mobile app.
+
+<figure><img src="../../.gitbook/assets/Login Page screen.png" alt=""><figcaption><p>Login page screen</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Login Page Settings.png" alt=""><figcaption><p>Login Page tab settings</p></figcaption></figure>
