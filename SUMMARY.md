@@ -64,7 +64,7 @@
 * [Mobile App](mobile-app/README.md)
   * [Getting Started](mobile-app/getting-started.md)
   * [Designing Your Mobile App](mobile-app/designing-your-mobile-app/README.md)
-    * [Adding and Configuring Tabs in the Bottom Tab Bar Navigation](mobile-app/designing-your-mobile-app/adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation.md)
+    * [Adding and Configuring Tabs in the Bottom Tab Bar Navigation](mobile-app/designing-your-mobile-app.md)
 * [Users](users/README.md)
   * [Registering a User](users/registering-a-user.md)
   * [Creating a User Group](users/creating-a-user-group.md)

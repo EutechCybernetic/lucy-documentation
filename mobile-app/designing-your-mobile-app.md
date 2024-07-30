@@ -16,9 +16,9 @@ To add a new tab to your bottom tab bar navigation of the mobile app.
    6. Select the screen type to display when the tab is clicked. There are three types: Sections, Widgets and Custom Mobile Pages.
 3. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../../.gitbook/assets/Bottom Tab Bar Navigation.png" alt=""><figcaption><p>Adding a new tab screen 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bottom Tab Bar Navigation.png" alt=""><figcaption><p>Adding a new tab screen 1</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Adding a new tab_1.png" alt=""><figcaption><p>Adding a new tab screen 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Adding a new tab_1.png" alt=""><figcaption><p>Adding a new tab screen 2</p></figcaption></figure>
 
 ## Screen Types
 
@@ -50,7 +50,7 @@ To add a Icon Section Widget:
 6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@ To add a Image Card List:
 6. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
 
 
 
@@ -82,7 +82,7 @@ To add a Horizontal List of Cards:
 6. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../../.gitbook/assets/Horizontal List of Cards_1.png" alt=""><figcaption><p>Horizontal List of Cards</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Horizontal List of Cards_1.png" alt=""><figcaption><p>Horizontal List of Cards</p></figcaption></figure>
 
 
 
@@ -98,7 +98,7 @@ To add a Currency Converter Widget:
 6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
 
 
 
@@ -116,7 +116,7 @@ To add a Configurable Search Widget:
 6. Pick the **Configurable Search Widget.** Drag and drop it onto the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../../.gitbook/assets/Configurable Search Widget_1.png" alt=""><figcaption><p>Configurable Search Widget</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Configurable Search Widget_1.png" alt=""><figcaption><p>Configurable Search Widget</p></figcaption></figure>
 
 
 

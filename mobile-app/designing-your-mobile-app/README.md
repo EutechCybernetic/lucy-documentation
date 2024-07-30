@@ -1,6 +1,6 @@
 # Designing Your Mobile App
 
-Once you've set up the Lucy mobile app, you can start creating your own app by designing each app sections and pages. Here's how to begin:
+Once you've set up the Lucy mobile app, you can start creating your own app by designing each app pages and tab navigation. Here's how to begin:
 
 1. Designing the Login Page
 2. Designing the Home Page
