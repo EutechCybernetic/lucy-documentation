@@ -2,7 +2,7 @@
 
 Once you've set up the Lucy mobile app, you can start creating your own app by designing each app sections and screens. Here's how to begin:
 
-## Adding and Configuring Tabs in  the Bottom Tab Bar Navigation
+## Adding and Configuring Tabs in the Bottom Tab Bar Navigation
 
 To add a new tab to your bottom tab bar navigation of the mobile app.
 
@@ -56,7 +56,15 @@ To add a Icon Section Widget:
 
 b) Image Card List
 
+To add a Image Card List:
 
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the Bottom Tab Bar Navigation, click the required tab.
+4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+5. Go to the **Sections** tab on the left.
+6. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
+7. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
 
@@ -64,13 +72,31 @@ b) Image Card List
 
 c) Horizontal List of Cards
 
+To add a Horizontal List of Cards:
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the Bottom Tab Bar Navigation, click the required tab.
+4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+5. Go to the **Sections** tab on the left.
+6. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
+7. Click **Save** to apply the changes in the mobile app.
+
 <figure><img src="../.gitbook/assets/Horizontal List of Cards_1.png" alt=""><figcaption><p>Horizontal List of Cards</p></figcaption></figure>
 
 
 
 d) Currency Converter Widget
 
+To add a Currency Converter Widget:
 
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the Bottom Tab Bar Navigation, click the required tab.
+4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+5. Go to the **Sections** tab on the left.
+6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen.
+7. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
 
@@ -80,7 +106,15 @@ d) Currency Converter Widget
 
 e) Configurable Search Widget
 
+To add a Configurable Search Widget:
 
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the Bottom Tab Bar Navigation, click the required tab.
+4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+5. Go to the **Sections** tab on the left.
+6. Pick the **Configurable Search Widget.** Drag and drop it onto the mobile screen.
+7. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Configurable Search Widget_1.png" alt=""><figcaption><p>Configurable Search Widget</p></figcaption></figure>
 
