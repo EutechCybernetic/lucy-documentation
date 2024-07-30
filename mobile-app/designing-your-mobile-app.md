@@ -88,9 +88,7 @@ e) Configurable Search Widget
 
 ### 2) Widgets
 
-You can link a widget to a specific tab and display it upon tab selection.&#x20;
-
-These are some examples of full-screen widget templates that you can be used to create widgets.
+You can link a widget to a specific tab and display it upon selection. Below are some examples of full-screen widget templates that can be used to create widgets.
 
 * Form Widget
 * Empty Widget
@@ -104,7 +102,7 @@ To add a widget:
 3. In the Bottom Tab Bar Navigation, click the required tab.
 4. Under **Configure Tabs** section,  select the **Type** as **Widget.**
 5. Click the **Select a Widget** button.
-6. Pick the required widget from the list. These are custom-made widgets.
+6. Pick the required widget from the list.&#x20;
 7. Click **Save**.
 
 ### 3) Custom Mobile Pages
