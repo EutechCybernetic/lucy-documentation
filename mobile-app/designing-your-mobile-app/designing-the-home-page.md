@@ -6,7 +6,8 @@ To customise the home page of your mobile app.
 
 1. On the Lucy web app homepage, go to **Mobile App** tab. Mobile app builder screen displays.
 2. Under the **General** tab on the right, go to the **Home Page** tab.
-3. Adjust the settings of the homepage as necessary.
+3. Customise the settings of the homepage as necessary.
 4. Click Save to apply the changes in the mobile app.
 5. Open the mobile app to view changes.
 
+<figure><img src="../../.gitbook/assets/App Home page settings_1.png" alt="" width="563"><figcaption><p>Customise Settings of app home page screen 1</p></figcaption></figure>
