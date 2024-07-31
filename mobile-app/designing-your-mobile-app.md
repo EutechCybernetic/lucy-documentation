@@ -134,7 +134,9 @@ You can link a preconfigured widget to a specific tab to display it upon selecti
 
 Discover how to create a widget with this link.
 
-[designing-a-user-interface](../user-interfaces/designing-a-user-interface/ "mention")
+{% content-ref url="../user-interfaces/designing-a-user-interface/" %}
+[designing-a-user-interface](../user-interfaces/designing-a-user-interface/)
+{% endcontent-ref %}
 
 To add a widget:
 
