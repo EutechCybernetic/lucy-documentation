@@ -152,3 +152,4 @@ Custom Mobile Pages are unique to the mobile app and are not available in the Lu
 
 For instance, the Settings page in the mobile app is a custom mobile page. It displays personal details, currency, language etc., which are not that relevant to the Lucy web app.
 
+<figure><img src="../.gitbook/assets/Settings screen_2.png" alt="" width="353"><figcaption><p>Settings screen</p></figcaption></figure>
