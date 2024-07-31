@@ -18,6 +18,6 @@ These are the settings related to the app bar of your mobile app.
 
 ## Adding Header Icon Buttons
 
-
+In your mobile app, you can add header icon buttons in the app bar via the lucy web app. These buttons will be added under the app bar title.
 
 ## Configuring Navigation Bar Settings
