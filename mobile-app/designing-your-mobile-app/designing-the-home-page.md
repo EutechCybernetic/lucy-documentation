@@ -2,7 +2,7 @@
 
 The mobile app's home page is fully customisable. You can change the app bar's colour and adjust its height. Additionally, you have the option to choose a background image instead of a colour.
 
-To customise the home page of your mobile app.
+Let's customise the home page of your mobile app.
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
 2. Under the **General** tab on the right, go to the **Home Page** tab.
