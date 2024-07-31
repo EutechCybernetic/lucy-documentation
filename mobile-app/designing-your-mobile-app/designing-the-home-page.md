@@ -30,13 +30,13 @@ To add a header icon button
 6. Specify the action to be executed when the respective header icon button is clicked.
    1. Click the **Edit Action** button to open the Action Editor window.
    2. Action Editor window provides five tabs: Open URL, Open Widget, Execute Action, Open Add-on and Open Mobile Screen.
-   3. Open URL: You can configure a URL to be opened when the header icon button is clicked.
-   4. Open Widget: Used to select a specific widget to opened when the header icon button is clicked.
-   5. &#x20;Execute Action: Used to execute a specific Lucy action.
-   6. Open Add-on: Used to configure a specific add-on to opened when the header icon button is clicked.
-   7. Open Mobile Screen: Used to select a predefined mobile screen to opened when the header icon button is clicked.
+   3. **Open URL:** You can configure a URL to be opened when the header icon button is clicked.
+   4. **Open Widget:** Used to select a specific widget to opened when the header icon button is clicked.
+   5. &#x20;**Execute Action**: Used to execute a specific Lucy action.
+   6. **Open Add-on**: Used to configure a specific add-on to opened when the header icon button is clicked.
+   7. **Open Mobile Screen**: Used to select a predefined mobile screen to opened when the header icon button is clicked.
    8. Click **Done**.
 7. Click **Save** to apply the changes in the mobile app.
 8. Open the mobile app to view changes.
 
-## Configuring Navigation Bar Settings
+<figure><img src="../../.gitbook/assets/App Bar and Header Icon Buttons_1.png" alt="" width="563"><figcaption><p>App Bar and Header Icon Buttons</p></figcaption></figure>
