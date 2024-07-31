@@ -132,8 +132,6 @@ You can link a preconfigured widget to a specific tab to display it upon selecti
 * Object View
 * Search Widget
 
-
-
 To add a widget:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
@@ -143,6 +141,8 @@ To add a widget:
 5. Click the **Select a Widget** button.
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;
 7. Click **Save** to apply the changes. The selected widget will now display in your app under the required tab.
+
+<figure><img src="../.gitbook/assets/Widget example_1.png" alt="" width="353"><figcaption><p>Widget example</p></figcaption></figure>
 
 ### 3) Custom Mobile Pages
 
