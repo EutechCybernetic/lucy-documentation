@@ -142,6 +142,8 @@ To add a widget:
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;
 7. Click **Save** to apply the changes. The selected widget will now display in your app under the required tab.
 
+The screen below displays a widget created using the Search widget template, linked to the Assets tab.
+
 <figure><img src="../.gitbook/assets/Widget example_1.png" alt="" width="353"><figcaption><p>Widget example</p></figcaption></figure>
 
 ### 3) Custom Mobile Pages
