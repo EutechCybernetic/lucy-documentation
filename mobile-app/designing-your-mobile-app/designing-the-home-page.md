@@ -10,4 +10,4 @@ To customise the home page of your mobile app.
 4. Click **Save** to apply the changes in the mobile app.
 5. Open the mobile app to view changes.
 
-<figure><img src="../../.gitbook/assets/App Home page settings_1_2.png" alt="" width="563"><figcaption><p>Customise the settings of app home page screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/App Home page settings_1_3.png" alt="" width="563"><figcaption><p>Customise the settings of app home page screen 1</p></figcaption></figure>
