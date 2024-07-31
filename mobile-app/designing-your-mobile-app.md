@@ -8,7 +8,7 @@ When you switch between tabs, you can configure the type of screen that opens fo
 
 To add a new tab to your bottom tab bar navigation of the mobile app.
 
-1. On the Lucy web app homepage, go to **Mobile App** tab. Mobile screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Adding a New Tab
    1. On the mobile screen, click the bottom section to open the properties panel on the right.
    2. In the **Configure Tabs** section of the properties panel, click the **Add Tab** button.

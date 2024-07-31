@@ -4,7 +4,7 @@ Designing the login page is straightforward. You can customise the login page by
 
 To design the Login Page:
 
-1. On the Lucy web app homepage, go to **Mobile App** tab. Mobile app builder screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
 2. Under the **General** tab on the right, go to the **Login Page** tab.
 3. The screen switches to login page.
 4. Change the logo by selecting a new image from the gallery or uploading your own.
