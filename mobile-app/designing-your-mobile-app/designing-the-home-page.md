@@ -15,3 +15,9 @@ Let's customise the home page of your mobile app.
 These are the settings related to the app bar of your mobile app.
 
 <figure><img src="../../.gitbook/assets/App Home page settings_1_3.png" alt="" width="563"><figcaption><p>Customise the settings of app home page screen 1</p></figcaption></figure>
+
+## Adding Header Icon Buttons
+
+
+
+## Configuring Navigation Bar Settings
