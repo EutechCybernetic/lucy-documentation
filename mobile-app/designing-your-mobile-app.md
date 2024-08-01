@@ -52,8 +52,8 @@ To add and configure a Custom UI Section:
 5. Go to the **Sections** tab on the left.
 6. Drag and drop the '**Describe a custom interface with a special interface language'** section on to the desired area on the mobile screen.
 7. A horizontal section named Custom UI will appear on the mobile screen.
-8. Click the Custom UI section to open its properties panel.
-9. In the Custom UI (Mobile) field, enter the JSON code of the UI you want to build.
+8. Click the **Custom UI** section to open its properties panel.
+9. In the **Custom UI (Mobile**) field, enter the JSON code of the UI you want to build.
 10. Configure the **Data source.**
 11. Click **Save**.
 
@@ -69,7 +69,7 @@ b) Icon Section Widget
 
 You can include a set of icons using an Icon Section Widget. Configure each icon by setting its background colour, icon colour, name, and the action to be executed when clicked.
 
-You can customize the widget by adding a title, changing colors, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background color, text color, etc.
+You can customize the widget by adding a title, changing colours, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background colour, text colour, etc.
 
 
 
