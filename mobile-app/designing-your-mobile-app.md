@@ -43,7 +43,7 @@ a) Custom UI Section
 
 Use the Custom UI Section to create a personalized user interface with JSON code.
 
-To add a Custom UI Section:
+To add and configure a Custom UI Section:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the Bottom Tab Bar Navigation.
@@ -63,7 +63,7 @@ To add a Custom UI Section:
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="466"><figcaption><p>Adding a Custom UI section screen 2</p></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/Custom UI created.png" alt="" width="563"><figcaption><p>Custom UI created</p></figcaption></figure>
 
 b) Icon Section Widget
 
