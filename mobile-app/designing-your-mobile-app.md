@@ -41,7 +41,7 @@ You can add the same section multiple times if necessary.
 
 a) Custom UI Section
 
-Use the Custom UI Section to create a personalized user interface with JSON code.
+Use the Custom UI Section to create a personalised user interface with JSON code.
 
 To add and configure a Custom UI Section:
 
@@ -69,7 +69,7 @@ b) Icon Section Widget
 
 You can include a set of icons using an Icon Section Widget. Configure each icon by setting its background colour, icon colour, name, and the action to be executed when clicked.
 
-You can customize the widget by adding a title, changing colours, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background colour, text colour, etc.
+You can customise the widget by adding a title, changing colours, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background colour, text colour, etc.
 
 
 
