@@ -101,7 +101,9 @@ To add a Icon Section Widget:
 
 <figure><img src="../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Icon Section Widget.png" alt=""><figcaption><p>Configured icons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon Section Widget customised_1.png" alt=""><figcaption><p>Configured Icon Section Widget</p></figcaption></figure>
+
+
 
 c) Image Card List
 
