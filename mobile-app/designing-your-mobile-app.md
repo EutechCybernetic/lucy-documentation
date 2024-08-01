@@ -39,7 +39,15 @@ You can add the same section multiple times if necessary.
 
 #### Types of Sections
 
-a) Icon Section Widget
+a) Custom UI Section
+
+
+
+
+
+
+
+b) Icon Section Widget
 
 You can include a set of icons in an Icon Section Widget.
 
@@ -57,7 +65,7 @@ To add a Icon Section Widget:
 
 
 
-b) Image Card List
+c) Image Card List
 
 To add a Image Card List:
 
@@ -73,7 +81,7 @@ To add a Image Card List:
 
 
 
-c) Horizontal List of Cards
+d) Horizontal List of Cards
 
 To add a Horizontal List of Cards:
 
@@ -89,7 +97,7 @@ To add a Horizontal List of Cards:
 
 
 
-d) Currency Converter Widget
+e) Currency Converter Widget
 
 To add a Currency Converter Widget:
 
@@ -107,7 +115,7 @@ To add a Currency Converter Widget:
 
 
 
-e) Configurable Search Widget
+f) Configurable Search Widget
 
 To add a Configurable Search Widget:
 
