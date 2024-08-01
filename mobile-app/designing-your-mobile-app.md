@@ -69,6 +69,16 @@ b) Icon Section Widget
 
 You can include a set of icons using an Icon Section Widget. Configure each icon by setting its background colour, icon colour, name, and the action to be executed when clicked.
 
+You can customize the widget by adding a title, changing colors, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background color, text color, etc.
+
+
+
+{% hint style="info" %}
+To customise the title section of the widget, click the title section to launch its properties panel.
+
+To customise the body section of the widget, click the body section to launch its properties panel.
+{% endhint %}
+
 To add a Icon Section Widget:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
