@@ -22,7 +22,7 @@ These are the settings related to the app bar of your mobile app.
 
 In your mobile app, you can add header icon buttons in the app bar via the lucy web app. These buttons will be added under the app bar title.
 
-To add a header icon button
+To add a header icon button:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
 2. Under the **General** tab on the right, go to the **Home Page** tab.
