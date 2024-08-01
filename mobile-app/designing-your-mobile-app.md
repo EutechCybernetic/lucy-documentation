@@ -53,7 +53,9 @@ To add a Custom UI Section:
 6. Drag and drop the '**Describe a custom interface with a special interface language'** section on to the desired area on the mobile screen.
 7. A horizontal section named Custom UI will appear on the mobile screen.
 8. Click the Custom UI section to open its properties panel.
-9.
+9. In the Custom UI (Mobile) field, enter the JSON code of the UI you want to build.
+10. Configure the **Data source.**
+11. Click **Save**.
 
 
 
