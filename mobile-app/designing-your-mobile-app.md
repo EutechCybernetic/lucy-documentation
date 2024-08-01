@@ -61,9 +61,9 @@ To add and configure a Custom UI Section:
 
 <figure><img src="../.gitbook/assets/Custom UI section_1.png" alt=""><figcaption><p>Adding a Custom UI section screen 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="466"><figcaption><p>Adding a Custom UI section screen 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Adding a Custom UI section_2.png" alt="" width="430"><figcaption><p>Adding a Custom UI section screen 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Custom UI created.png" alt="" width="563"><figcaption><p>Custom UI created</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Custom UI created_3.png" alt="" width="353"><figcaption><p>Custom UI created</p></figcaption></figure>
 
 b) Icon Section Widget
 
@@ -89,7 +89,7 @@ To add a Icon Section Widget:
 6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
 7. An icon section widget will be added and displayed on the mobile screen.
 8. Add a new icon
-   1. Click the Add icon![](<../.gitbook/assets/Add icon.png>).
+   1. Click the Add icon![](<../.gitbook/assets/Add icon (1).png>).
    2. An icon will be added and displayed on the mobile screen.
    3. Click the newly added icon to launch its properties panel.
    4. Click the **Icon** field to pick a suitable icon from the Search Icons window.
@@ -115,7 +115,10 @@ To add a Image Card List:
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
-7. Click **Save** to apply the changes in the mobile app.
+7. An image card list will be added and displayed on the mobile screen.
+8. Click the ![](<../.gitbook/assets/Add icon.png>)icon.
+9.
+10. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
 
