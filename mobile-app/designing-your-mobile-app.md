@@ -67,7 +67,7 @@ To add and configure a Custom UI Section:
 
 b) Icon Section Widget
 
-You can include a set of icons in an Icon Section Widget.
+You can include a set of icons using an Icon Section Widget. Configure each icon by setting its background colour, icon colour, name, and the action to be executed when clicked.
 
 To add a Icon Section Widget:
 
@@ -77,11 +77,21 @@ To add a Icon Section Widget:
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
-7. Click **Save** to apply the changes in the mobile app.
+7. An icon section widget will be added and displayed on the mobile screen.
+8. Add a new icon
+   1. Click the Add icon![](<../.gitbook/assets/Add icon.png>).
+   2. An icon will be added and displayed on the mobile screen.
+   3. Click the newly added icon to launch its properties panel.
+   4. Click the **Icon** field to pick a suitable icon from the Search Icons window.
+   5. Choose a **Background Colour.**
+   6. Choose a **Icon Colour.**
+   7. In the **Label** box, type a unique name for the icon.
+   8. Click the **Edit Action** button to define the action to be executed when the respective button is clicked. Once the action is configured, click **Done.**
+9. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/Icon Section Widget.png" alt=""><figcaption><p>Configured icons</p></figcaption></figure>
 
 c) Image Card List
 
