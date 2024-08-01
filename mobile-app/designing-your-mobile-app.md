@@ -127,7 +127,7 @@ To add a Configurable Search Widget:
 
 You can link a preconfigured widget to a specific tab to display it when clicked.&#x20;
 
-To add a widget:
+To link a widget to a specific tab:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the Bottom Tab Bar Navigation.
