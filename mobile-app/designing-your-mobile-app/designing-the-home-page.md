@@ -26,9 +26,9 @@ To add a header icon button:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
 2. Under the **General** tab on the right, go to the **Home Page** tab.
-3. Go to Header Icon Buttons section and click **Add Button.**
-4. In the Name box, provide a suitable name for the button.
-5. Click the Icon field to pick a icon from the gallery.
+3. Go to the Header Icon Buttons section and click **Add Button.**
+4. In the **Name** box, provide a suitable name for the button.
+5. Click the **Icon** field to pick a icon from the gallery.
 6. Specify the action to be executed when the respective header icon button is clicked.
    1. Click the **Edit Action** button to open the Action Editor window.
    2. Action Editor window provides five tabs: Open URL, Open Widget, Execute Action, Open Add-on and Open Mobile Screen.
@@ -43,7 +43,7 @@ To add a header icon button:
 
 <figure><img src="../../.gitbook/assets/Header Icon Buttons_0.png" alt=""><figcaption><p>Adding a header icon button screen 1</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Header Icon Buttons_1.png" alt=""><figcaption><p>Adding a header icon button screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Header Icon Buttons_1-1.png" alt=""><figcaption><p>Adding a header icon button screen 2</p></figcaption></figure>
 
 
 
