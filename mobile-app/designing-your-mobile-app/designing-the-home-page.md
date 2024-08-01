@@ -41,4 +41,10 @@ To add a header icon button:
 7. Click **Save** to apply the changes in the mobile app.
 8. Open the mobile app to view changes.
 
+<figure><img src="../../.gitbook/assets/Header Icon Buttons_0.png" alt=""><figcaption><p>Adding a header icon button screen 1</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Header Icon Buttons_1.png" alt=""><figcaption><p>Adding a header icon button screen 2</p></figcaption></figure>
+
+
+
 <figure><img src="../../.gitbook/assets/App Bar elements_2.png" alt=""><figcaption><p>App Bar elements</p></figcaption></figure>
