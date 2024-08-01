@@ -33,7 +33,7 @@ When a tab is clicked in your mobile app, you can display one of three screen ty
 
 ### 1) Sections
 
-You can add  and display various types of horizontal sections to a mobile screen. Each section serves a different purpose and enhances the overall user experience.
+Effortlessly add, configure, and display various horizontal sections on a mobile screen. Simply drag and drop them into place. Each section serves a unique purpose and enhances the user experience.
 
 You can add the same section multiple times if necessary.
 
@@ -41,9 +41,25 @@ You can add the same section multiple times if necessary.
 
 a) Custom UI Section
 
+Use the Custom UI Section to create a personalized user interface with JSON code.
+
+To add a Custom UI Section:
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the Bottom Tab Bar Navigation, click the required tab.
+4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+5. Go to the **Sections** tab on the left.
+6. Drag and drop the '**Describe a custom interface with a special interface language'** section on to the desired area on the mobile screen.
+7. A horizontal section named Custom UI will appear on the mobile screen.
+8. Click the Custom UI section to open its properties panel.
+9.
 
 
 
+<figure><img src="../.gitbook/assets/Custom UI section_1.png" alt=""><figcaption><p>Adding a Custom UI section screen 1</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="466"><figcaption><p>Adding a Custom UI section screen 2</p></figcaption></figure>
 
 
 
