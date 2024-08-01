@@ -107,6 +107,12 @@ To add a Icon Section Widget:
 
 c) Image Card List
 
+You can add and customize an image card list for specific mobile screens, offering various options for personalisation.
+
+For example, you can customise the number of cards per row to be displayed. If a specific card reaches the end of a container, you can move the remaining cards to the next line.
+
+You can also customise the title section properties in the Image Card List.
+
 To add a Image Card List:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
@@ -116,8 +122,8 @@ To add a Image Card List:
 5. Go to the **Sections** tab on the left.
 6. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
 7. An image card list will be added and displayed on the mobile screen.
-8. Click the ![](<../.gitbook/assets/Add icon.png>)icon.
-9.
+8. Click on the image card to launch its properties panel.
+9. Do required customisations.
 10. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
