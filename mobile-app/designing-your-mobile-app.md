@@ -158,6 +158,8 @@ Now, the new card will appear on your mobile app.
 
 d) Horizontal List of Cards
 
+The Horizontal List of Cards section is similar to an Image Card List, with the added functionality of swiping the cards to the left.
+
 To add a Horizontal List of Cards:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
@@ -166,7 +168,9 @@ To add a Horizontal List of Cards:
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
-7. Click **Save** to apply the changes in the mobile app.
+7. The newly added Horizontal List of Cards section will appear on the mobile screen.
+8. Do required customisations.
+9. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Horizontal List of Cards_1.png" alt=""><figcaption><p>Horizontal List of Cards</p></figcaption></figure>
 
