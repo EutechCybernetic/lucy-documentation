@@ -174,9 +174,7 @@ To add a Horizontal List of Cards:
 8. Do required customisations.
 9. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../.gitbook/assets/Horizontal List of Cards_1.png" alt=""><figcaption><p>Horizontal List of Cards</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Horizontal List of Cards.jpg" alt="" width="563"><figcaption><p>An example designed using the Horizontal List of Cards section</p></figcaption></figure>
 
 e) Currency Converter Widget
 
