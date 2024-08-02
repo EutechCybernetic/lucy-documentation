@@ -111,7 +111,7 @@ You can add and customize an image card list for specific mobile screens, offeri
 
 For example, you can customise the number of cards per row to be displayed. If a specific card reaches the end of a container, you can move the remaining cards to the next line.
 
-You can also customise the title section properties in the Image Card List.
+In addition, you can customise the title and the body section properties in the Image Card List. To customise the title section, click the title section to launch properties panel. To customise the body section, click the body section to launch properties panel.
 
 To add a Image Card List:
 
