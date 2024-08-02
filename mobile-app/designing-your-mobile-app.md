@@ -132,11 +132,25 @@ To add a Image Card List:
 
 
 
-
-
 <figure><img src="../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
 
 
+
+{% hint style="info" %}
+**Adding a New Card to the Image Card List**
+
+Navigate to the **Mobile App** tab in the lucy web app.
+
+Pick the image card list and click the ![](<../.gitbook/assets/Add icon (2).png>) icon.
+
+A new card will be added to the image card list.
+
+Customize the new card as needed.
+
+Click **Save** to apply changes in the mobile app.
+
+Now, the new card will appear on your mobile app.
+{% endhint %}
 
 d) Horizontal List of Cards
 
