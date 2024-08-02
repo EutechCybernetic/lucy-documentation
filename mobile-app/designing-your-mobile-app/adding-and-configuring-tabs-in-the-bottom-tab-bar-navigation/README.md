@@ -19,9 +19,9 @@ To add a new tab to your bottom tab bar navigation of the mobile app.
    7. Click **Save** to apply the changes in the mobile app.
    8. Open the mobile app to view changes.
 
-<figure><img src="../.gitbook/assets/Bottom Tab Bar Navigation.png" alt=""><figcaption><p>Adding a new tab screen 1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Bottom Tab Bar Navigation.png" alt=""><figcaption><p>Adding a new tab screen 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Adding a new tab_1.png" alt=""><figcaption><p>Adding a new tab screen 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adding a new tab_1.png" alt=""><figcaption><p>Adding a new tab screen 2</p></figcaption></figure>
 
 ## Screen Types
 
@@ -59,11 +59,11 @@ To add and configure a Custom UI Section:
 
 
 
-<figure><img src="../.gitbook/assets/Custom UI section_1.png" alt=""><figcaption><p>Adding a Custom UI section screen 1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Custom UI section_1.png" alt=""><figcaption><p>Adding a Custom UI section screen 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Adding a Custom UI section_2.png" alt="" width="430"><figcaption><p>Adding a Custom UI section screen 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adding a Custom UI section_2.png" alt="" width="430"><figcaption><p>Adding a Custom UI section screen 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Custom UI created_3.png" alt="" width="353"><figcaption><p>Custom UI created</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Custom UI created_3.png" alt="" width="353"><figcaption><p>Custom UI created</p></figcaption></figure>
 
 b) Icon Section Widget
 
@@ -89,7 +89,7 @@ To add a Icon Section Widget:
 6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
 7. An icon section widget will be added and displayed on the mobile screen.
 8. Add a new icon
-   1. Click the Add icon![](<../.gitbook/assets/Add icon (1).png>).
+   1. Click the Add icon![](<../../../.gitbook/assets/Add icon (1).png>).
    2. An icon will be added and displayed on the mobile screen.
    3. Click the newly added icon to launch its properties panel.
    4. Click the **Icon** field to pick a suitable icon from the Search Icons window.
@@ -99,9 +99,9 @@ To add a Icon Section Widget:
    8. Click the **Edit Action** button to define the action to be executed when the respective button is clicked. Once the action is configured, click **Done.**
 9. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Icon Section Widget customised_1.png" alt=""><figcaption><p>Configured Icon Section Widget</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Icon Section Widget customised_1.png" alt=""><figcaption><p>Configured Icon Section Widget</p></figcaption></figure>
 
 
 
@@ -126,13 +126,13 @@ To add a Image Card List:
 9. Do required customisations.
 10. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../.gitbook/assets/Configuring Image Card properties_1.png" alt=""><figcaption><p>Configuring Image Card properties screen 1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Configuring Image Card properties_1.png" alt=""><figcaption><p>Configuring Image Card properties screen 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Configuring Image Card properties_2.png" alt=""><figcaption><p>Configuring Image Card properties screen 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Configuring Image Card properties_2.png" alt=""><figcaption><p>Configuring Image Card properties screen 2</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
 
 
 
@@ -141,7 +141,7 @@ To add a Image Card List:
 
 Navigate to the **Mobile App** tab in the lucy web app.
 
-Pick the image card list and click the ![](<../.gitbook/assets/Add icon (2).png>) icon.
+Pick the image card list and click the ![](<../../../.gitbook/assets/Add icon (2).png>) icon.
 
 A new card will be added to the image card list.
 
@@ -152,7 +152,7 @@ Click **Save** to apply changes in the mobile app.
 Now, the new card will appear on your mobile app.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Configured Image Card List (1).png" alt="" width="528"><figcaption><p>An example of a Image Card List designed</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Configured Image Card List (1).png" alt="" width="528"><figcaption><p>An example of a Image Card List designed</p></figcaption></figure>
 
 
 
@@ -174,7 +174,7 @@ To add a Horizontal List of Cards:
 8. Do required customisations.
 9. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../.gitbook/assets/Horizontal List of Cards.jpg" alt="" width="563"><figcaption><p>An example designed using the Horizontal List of Cards section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Horizontal List of Cards.jpg" alt="" width="563"><figcaption><p>An example designed using the Horizontal List of Cards section</p></figcaption></figure>
 
 e) Currency Converter Widget
 
@@ -188,7 +188,7 @@ To add a Currency Converter Widget:
 6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen and it will appear on the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
 
 
 
@@ -206,7 +206,7 @@ To add a Configurable Search Widget:
 6. Pick the **Configurable Search Widget.** Drag and drop it onto the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
 
-<figure><img src="../.gitbook/assets/Configurable Search Widget_1.png" alt=""><figcaption><p>Configurable Search Widget</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Configurable Search Widget_1.png" alt=""><figcaption><p>Configurable Search Widget</p></figcaption></figure>
 
 
 
@@ -226,7 +226,7 @@ To link a widget to a specific tab:
 
 The screen below displays a widget created using the Search widget template, linked to the Assets tab.
 
-<figure><img src="../.gitbook/assets/Widget example_1.png" alt="" width="353"><figcaption><p>Widget example</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Widget example_1.png" alt="" width="353"><figcaption><p>Widget example</p></figcaption></figure>
 
 ### 3) Custom Mobile Pages
 
@@ -234,4 +234,4 @@ Custom Mobile Pages are unique to the mobile app and are not available in the Lu
 
 For instance, the Settings page in the mobile app is a custom mobile page. It displays personal details, currency, language etc., which are not that relevant to the Lucy web app.
 
-<figure><img src="../.gitbook/assets/Settings screen_2.png" alt="" width="353"><figcaption><p>Settings screen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Settings screen_2.png" alt="" width="353"><figcaption><p>Settings screen</p></figcaption></figure>
