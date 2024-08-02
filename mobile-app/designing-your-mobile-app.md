@@ -152,6 +152,10 @@ Click **Save** to apply changes in the mobile app.
 Now, the new card will appear on your mobile app.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/Configured Image Card List (1).png" alt="" width="528"><figcaption><p>An example of a Image Card List designed</p></figcaption></figure>
+
+
+
 d) Horizontal List of Cards
 
 To add a Horizontal List of Cards:
