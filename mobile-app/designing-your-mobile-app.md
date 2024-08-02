@@ -158,7 +158,7 @@ Now, the new card will appear on your mobile app.
 
 d) Horizontal List of Cards
 
-The Horizontal List of Cards section is similar to an Image Card List, with the added functionality of swiping the cards to the left.
+A Horizontal List of Cards section is similar to an Image Card List, with the added functionality of swiping the cards to the left or right. You can also display buttons or text labels at the top or bottom
 
 To add a Horizontal List of Cards:
 
