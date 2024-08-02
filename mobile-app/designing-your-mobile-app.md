@@ -126,6 +126,14 @@ To add a Image Card List:
 9. Do required customisations.
 10. Click **Save** to apply the changes in the mobile app.
 
+<figure><img src="../.gitbook/assets/Configuring Image Card properties_1.png" alt=""><figcaption><p>Configuring Image Card properties screen 1</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Configuring Image Card properties_2.png" alt=""><figcaption><p>Configuring Image Card properties screen 2</p></figcaption></figure>
+
+
+
+
+
 <figure><img src="../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
 
 
