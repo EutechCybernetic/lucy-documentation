@@ -107,7 +107,7 @@ To add a Icon Section Widget:
 
 c) Image Card List
 
-You can add and customize an image card list for specific mobile screens, offering various options for personalisation.
+You can add and customise an image card list for specific mobile screens, offering various options for personalisation.
 
 For example, you can customise the number of cards per row to be displayed. If a specific card reaches the end of a container, you can move the remaining cards to the next line.
 
@@ -145,7 +145,7 @@ Pick the image card list and click the ![](<../../../.gitbook/assets/Add icon (2
 
 A new card will be added to the image card list.
 
-Customize the new card as needed.
+Customise the new card as needed.
 
 Click **Save** to apply changes in the mobile app.
 
