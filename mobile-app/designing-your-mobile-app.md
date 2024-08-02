@@ -185,7 +185,7 @@ To add a Currency Converter Widget:
 3. In the Bottom Tab Bar Navigation, click the required tab.
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
-6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen.
+6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen and it will appear on the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
