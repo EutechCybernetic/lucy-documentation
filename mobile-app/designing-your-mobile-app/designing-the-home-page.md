@@ -34,7 +34,7 @@ To add a header icon button:
    2. Action Editor window provides five tabs: Open URL, Open Widget, Execute Action, Open Add-on and Open Mobile Screen.
    3. **Open URL:** You can configure a URL to be opened when the header icon button is clicked.
    4. **Open Widget:** Used to select a specific widget to opened when the header icon button is clicked.
-   5. &#x20;**Execute Action**: Used to execute a specific Lucy action.
+   5. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
    6. **Open Add-on**: Used to configure a specific add-on to opened when the header icon button is clicked.
    7. **Open Mobile Screen**: Used to select a predefined mobile screen to opened when the header icon button is clicked.
    8. Click **Done**.
