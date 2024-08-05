@@ -75,7 +75,7 @@ To build a widget:
 
 <figure><img src="../../../.gitbook/assets/Search Widget template_1.png" alt=""><figcaption><p>Search Widget Template opened on the Widget Designer page</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Search Widget template_2.png" alt=""><figcaption><p>A preview of the designed widget</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Search Widget template_3.png" alt=""><figcaption><p>A preview of the designed widget</p></figcaption></figure>
 
 ## Linking the Widget to a Tab in Your Mobile App
 
