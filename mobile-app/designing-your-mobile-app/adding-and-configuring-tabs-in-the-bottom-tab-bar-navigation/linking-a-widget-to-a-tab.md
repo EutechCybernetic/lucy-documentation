@@ -66,7 +66,7 @@ To build a widget:
          3. In the Text field, Remove the 'My label' text.
          4. Select the suitable database value from the  Available Values pop up window or you can just enter a label.
          5. Click the Icon field and pick an appropriate icon for the label.
-         6. Pick a label colou![](<../../../.gitbook/assets/Widget example\_2.jpeg>)r.
+         6. Pick a icon colour.
          7. Select how you want to display the label (Normal or Pill).
          8. Add more labels as necessary.
          9. In the properties panel, go to the Bottom Label section. Repeat steps 4-1 to 4-8 to add bottom labels.
