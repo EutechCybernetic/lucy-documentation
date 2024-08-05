@@ -66,14 +66,12 @@ To build a widget:
          3. In the Text field, Remove the 'My label' text.
          4. Select the suitable database value from the  Available Values pop up window or you can just enter a label.
          5. Click the Icon field and pick an appropriate icon for the label.
-         6. Pick a label color.
+         6. Pick a label colou![](<../../../.gitbook/assets/Widget example\_2.jpeg>)r.
          7. Select how you want to display the label (Normal or Pill).
          8. Add more labels as necessary.
          9. In the properties panel, go to the Bottom Label section. Repeat steps 4-1 to 4-8 to add bottom labels.
-      5. Customise the UI elements in the widget as necessary, _e.g., changing the colour, size etc._
+      5. Customise the UI elements as necessary, such as changing the title colour, size, etc.
 10. Click **Save Widget** to save the changes. Now your widget will be saved under the User Interfaces tab within the folder.
-
-
 
 <figure><img src="../../../.gitbook/assets/Search Widget template_1.png" alt=""><figcaption><p>Search Widget Template opened on the Widget Designer page</p></figcaption></figure>
 
@@ -97,3 +95,6 @@ Click here to learn more about adding and configuring a tab in your mobile app.
 6. Click the **Select a Widget** button on the mobile screen.
 7. Pick the required widget from the list (widget names will appear in the list).&#x20;
 8. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
+
+<figure><img src="../../../.gitbook/assets/Widget example_2.jpeg" alt="" width="375"><figcaption><p>A preview of the designed widget displayed in the mobile app</p></figcaption></figure>
+
