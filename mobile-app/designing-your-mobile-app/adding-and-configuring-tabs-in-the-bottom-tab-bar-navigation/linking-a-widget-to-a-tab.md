@@ -4,7 +4,7 @@ This article covers building a widget and linking it to a specific tab in your m
 
 You can link a preconfigured widget to a specific tab for display upon clicking.
 
-First, we will build our widget using the Search Widget Template.
+First, we'll build our widget using the Search Widget Template. This template lets you configure multiple tabs, each connected to a data source to display specific information.
 
 {% hint style="info" %}
 Familiarity with creating folders and databases is recommended before following this guide.
