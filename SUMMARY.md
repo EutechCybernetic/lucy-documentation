@@ -66,6 +66,7 @@
   * [Designing Your Mobile App](mobile-app/designing-your-mobile-app/README.md)
     * [Designing the Login Page](mobile-app/designing-your-mobile-app/designing-the-login-page.md)
     * [Designing the Home Page](mobile-app/designing-your-mobile-app/designing-the-home-page.md)
+    * [Designing the Settings Page](mobile-app/designing-your-mobile-app/designing-the-settings-page.md)
     * [Adding and Configuring Tabs in the Bottom Tab Bar Navigation](mobile-app/designing-your-mobile-app/adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/README.md)
       * [Linking a Widget to a Tab](mobile-app/designing-your-mobile-app/adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/linking-a-widget-to-a-tab.md)
 * [Users](users/README.md)
