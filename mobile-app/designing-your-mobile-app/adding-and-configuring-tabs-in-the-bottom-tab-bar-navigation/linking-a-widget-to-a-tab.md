@@ -4,7 +4,7 @@ This article covers building a widget and linking it to a specific tab in your m
 
 You can link a preconfigured widget to a specific tab for display upon clicking.
 
-First, we will build a widget using the Search Widget Template.
+First, we will build our widget using the Search Widget Template.
 
 {% hint style="info" %}
 Familiarity with creating folders and databases is recommended before following this guide.
@@ -37,10 +37,11 @@ To build a widget:
       1. Under **Search Tabs** section, in the Tab 1 box, type a appropriate name for the first tab.
       2. Click the **Add Column** button to add more tabs.
       3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.
-   6. Bind a data source to each tab to display information in each tab.
-      1. Go to required tab and click the **Bind a Source** button.
-      2. You can choose a workflow or a existing database.
-      3.
+   6. Bind a data source to each tab to display information:
+      1. In the widget, navigate to the required tab and click the **Bind a Source** button.
+      2. Choose either a workflow or an existing database_. For example, let's bind a database._
+      3. Go to the **Databases** tab.
+      4.
    7.
 10. Click **Save widget** to save the widget in the system.
 
