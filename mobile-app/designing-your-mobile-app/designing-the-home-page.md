@@ -37,7 +37,7 @@ To add a header icon button:
    5. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
    6. **Open Add-on**: Used to configure a specific add-on to opened when the header icon button is clicked.
    7. **Open Mobile Screen**: Used to select a predefined mobile screen to opened when the header icon button is clicked.
-   8. Click **Done**.
+   8. After configuring the action, Click **Done**.
 7. Click **Save** to apply the changes in the mobile app.
 8. Open the mobile app to view changes.
 
