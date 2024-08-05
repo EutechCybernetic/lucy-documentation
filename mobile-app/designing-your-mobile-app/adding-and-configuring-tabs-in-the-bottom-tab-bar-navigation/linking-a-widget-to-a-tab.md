@@ -1,16 +1,18 @@
 # Linking a Widget to a Tab
 
-This article covers building a widget and linking it to a specific tab in your mobile app.
+This article covers building a widget and linking it to a specific tab in your mobile app. Learn how to link a preconfigured widget to a specific tab for display upon clicking.
 
-You can link a preconfigured widget to a specific tab for display upon clicking.
+First, we'll build our widget using the Search Widget Template. This template lets you configure multiple tabs, each connected to a data source to display specific information. The data source can originate from either the MongoDB collection or Lucy Actions. After selecting a data source, you can even customise the information shown under each tab by mapping UI elements to the selected data source values.
 
-First, we'll build our widget using the Search Widget Template. This template lets you configure multiple tabs, each connected to a data source to display specific information.
+
 
 {% hint style="info" %}
 Familiarity with creating folders and databases is recommended before following this guide.
 {% endhint %}
 
 ## Building the Widget
+
+In this example, we will use a database as the data source.
 
 To build a widget:
 
@@ -36,7 +38,7 @@ To build a widget:
    5. Add and Configure Tabs in the widget.
       1. Under **Search Tabs** section, in the Tab 1 box, type a appropriate name for the first tab.
       2. Click the **Add Column** button to add more tabs.
-      3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.
+      3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.![](<../../../.gitbook/assets/image (7).png>)
    6. Bind a data source to each tab to display information:
       1. In the widget, navigate to the required tab and click the **Bind a Source** button.
       2. Choose either an existing Lucy Action or a database_. For example, let's bind a database._
@@ -44,15 +46,54 @@ To build a widget:
       4. Search and select the required database.
       5. Click **Select this Source.**
       6. Format the data as required, _e.g., filtering data_
-      7. Click **Looks Good**.
-   7.
-10. Click **Save widget** to save the widget in the system.
+      7. Click **Looks Good**. Now the selected database will be displayed under Source field and will be linked to the respective tab.
+   7. Map the database properties/values to required UI elements.
+      1. Add a database value to the Image Field.
+         1. In the properties panel, go to Image section and select the Image Type as Image.
+         2. In the Image Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
+         3. The selected value will be applied and displayed in the Image Field. ![](<../../../.gitbook/assets/image (2).png>)
+      2. Add a database value to the Title Field.
+         1. In the properties panel, go to the Title section.
+         2. In the Title Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
+         3. The selected value will be applied and displayed in the Title Field. ![](<../../../.gitbook/assets/image (3).png>)
+      3. Add a database value to the Sub Title Field.
+         1. In the properties panel, go to the  Sub Title section.
+         2. In the Sub Title Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
+         3. The selected value will be applied and displayed in the Sub Title Field. ![](<../../../.gitbook/assets/image (4).png>)
+      4. Configure the top labels and bottom labels if necessary.
+         1. In the properties panel, go to the Top Label section.
+         2. Click Add New Item.&#x20;
+         3. In the Text field, Remove the 'My label' text.
+         4. Select the suitable database value from the  Available Values pop up window or you can just enter a label.
+         5. Click the Icon field and pick an appropriate icon for the label.
+         6. Pick a label color.
+         7. Select how you want to display the label (Normal or Pill).
+         8. Add more labels as necessary.
+         9. In the properties panel, go to the Bottom Label section. Repeat steps 4-1 to 4-8 to add bottom labels.
+      5. Customise the UI elements in the widget as necessary, _e.g., changing the colour, size etc._
+10. Click **Save Widget** to save the changes. Now your widget will be saved under the User Interfaces tab within the folder.
 
 
 
 <figure><img src="../../../.gitbook/assets/Search Widget template_1.png" alt=""><figcaption><p>Search Widget Template opened on the Widget Designer page</p></figcaption></figure>
 
-
+<figure><img src="../../../.gitbook/assets/Search Widget template_2.png" alt=""><figcaption><p>A preview of the designed widget</p></figcaption></figure>
 
 ## Linking the Widget to a Tab in Your Mobile App
 
+After building our widget, let's link it to a tab in the mobile app.
+
+Click here to learn more about adding and configuring a tab in your mobile app.
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the Bottom Tab Bar Navigation, click the required tab.
+4. Under **Configure Tabs** section, locate the tab you want to link the widget.
+5. Select the **Type** as **Widget.**
+6. Click the **Select a Widget** button on the mobile screen.
+7. Pick the required widget from the list (widget names will appear in the list).&#x20;
+8. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
