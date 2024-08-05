@@ -39,9 +39,12 @@ To build a widget:
       3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.
    6. Bind a data source to each tab to display information:
       1. In the widget, navigate to the required tab and click the **Bind a Source** button.
-      2. Choose either a workflow or an existing database_. For example, let's bind a database._
+      2. Choose either an existing Lucy Action or a database_. For example, let's bind a database._
       3. Go to the **Databases** tab.
-      4.
+      4. Search and select the required database.
+      5. Click **Select this Source.**
+      6. Format the data as required, _e.g., filtering data_
+      7. Click **Looks Good**.
    7.
 10. Click **Save widget** to save the widget in the system.
 
