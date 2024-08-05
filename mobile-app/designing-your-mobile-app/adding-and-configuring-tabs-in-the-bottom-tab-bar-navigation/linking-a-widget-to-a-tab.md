@@ -7,12 +7,12 @@ First, we'll build our widget using the Search Widget Template. This template le
 
 
 {% hint style="info" %}
-Familiarity with creating folders and databases is recommended before following this guide.
+Before following this tutorial, ensure you are familiar with [creating folders](../../../folders/creating-a-new-folder.md), [databases](../../../databases/creating-and-editing-databases/), and Lucy Actions.
 {% endhint %}
 
 ## Building the Widget
 
-In this example, we will use a database as the data source.
+In this example, we will use an existing database as the data source.
 
 To build a widget:
 
