@@ -80,7 +80,7 @@ To execute a Lucy Action
 
 ## Open an Add-on
 
-Set a section, button, icon, or tab in your mobile app to open a add-on when clicked.
+You can select an add-on to be opened when certain section/button/tab/icon is clicked in your mobile app.
 
 To open an add-on
 
