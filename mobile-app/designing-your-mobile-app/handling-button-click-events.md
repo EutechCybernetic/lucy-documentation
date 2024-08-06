@@ -2,9 +2,7 @@
 
 When customising your mobile app via Lucy web app, you can control what happens when a certain button, icon or section is clicked.
 
-Take the Settings page in the mobile app, for example.
-
-When you click on a specific section in the Settings page, here are the actions you can take:
+Here are the actions you can take:
 
 1. Open a Web page
 2. Launch a Prebuilt Widget
@@ -14,7 +12,9 @@ When you click on a specific section in the Settings page, here are the actions 
 
 ## Open a Web Page
 
-To configure the section to open a web page when clicked follow these steps,
+To open a web page:
+
+For example, when you click on the Help section in your mobile app's Settings page, it opens the Help page.
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
@@ -30,6 +30,8 @@ To configure the section to open a web page when clicked follow these steps,
 ## Launch a Prebuilt Widget
 
 To launch a prebuilt widget
+
+For example, when you click on the Personal Details section in your mobile app's Settings page, it opens the corresponding user-created widget, a form to edit personal details.
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
