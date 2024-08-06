@@ -2,7 +2,7 @@
 
 When customising your mobile app via Lucy web app, you can control what happens when a certain button, icon, tab or section is clicked.
 
-Here are the actions you can take:
+Here are the five types of actions you can take:
 
 1. Open a Web page
 2. Launch a Prebuilt Widget
@@ -13,6 +13,14 @@ Here are the actions you can take:
 {% hint style="info" %}
 You will also encounter button click events when creating widgets, such as the Search widget.
 {% endhint %}
+
+### Action Editor Window
+
+The Action Editor Window provides five types of pages that can be displayed when you click specific button, icon, tab, or section.
+
+<figure><img src="../../.gitbook/assets/Action Editor Window.png" alt="" width="563"><figcaption><p>Action Editor Window</p></figcaption></figure>
+
+
 
 ## Open a Web Page
 
