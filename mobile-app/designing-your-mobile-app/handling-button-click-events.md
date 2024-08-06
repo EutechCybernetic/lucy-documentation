@@ -16,7 +16,7 @@ You will also encounter button click events when creating widgets, such as the S
 
 ### Action Editor Window
 
-The Action Editor Window provides five types of pages that can be displayed when you click specific button, icon, tab, or section.
+Use the Action Editor window to set actions for clickable elements like buttons, icons, tabs, or sections. It supports five types of actions: open a web page, launch a prebuilt widget, execute a Lucy Action, open an add-on, and open a mobile screen.
 
 <figure><img src="../../.gitbook/assets/Action Editor Window.png" alt="" width="563"><figcaption><p>Action Editor Window</p></figcaption></figure>
 
