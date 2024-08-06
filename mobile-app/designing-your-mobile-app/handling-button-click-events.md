@@ -52,6 +52,8 @@ To launch a prebuilt widget
 9. Click **Save.**
 10. Open the Settings page in your mobile app and click the specific section to launch the respective widget.
 
+<figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Launch a prebuilt widget</p></figcaption></figure>
+
 ## Execute a Lucy Action
 
 Set up a Lucy Action to trigger when a specific section is clicked, such as sending a notification after creating a work request.
