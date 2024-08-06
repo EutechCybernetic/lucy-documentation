@@ -1,6 +1,6 @@
 # Handling Button Click Events
 
-When customising your mobile app via Lucy web app, you can control what happens when a certain button, icon or section is clicked.
+When customising your mobile app via Lucy web app, you can control what happens when a certain button, icon, tab or section is clicked.
 
 Here are the actions you can take:
 
@@ -12,9 +12,9 @@ Here are the actions you can take:
 
 ## Open a Web Page
 
-To open a web page:
+For example, when you click on the Help section in your mobile app's Settings page, it opens the Help page.&#x20;
 
-For example, when you click on the Help section in your mobile app's Settings page, it opens the Help page.
+To open a web page
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
@@ -29,9 +29,9 @@ For example, when you click on the Help section in your mobile app's Settings pa
 
 ## Launch a Prebuilt Widget
 
-To launch a prebuilt widget
-
 For example, when you click on the Personal Details section in your mobile app's Settings page, it opens the corresponding user-created widget, a form to edit personal details.
+
+To launch a prebuilt widget
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
@@ -48,6 +48,8 @@ For example, when you click on the Personal Details section in your mobile app's
 
 Set up a Lucy Action to trigger when a specific section is clicked, such as sending a notification after creating a work request.
 
+To execute a Lucy Action
+
 1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
 3. On the Settings page, click the required section to open the properties panel.
@@ -60,6 +62,32 @@ Set up a Lucy Action to trigger when a specific section is clicked, such as send
 
 ## Open an Add-on
 
+To open an add-on
 
+1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
+2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
+3. On the Settings page, click the required section to open the properties panel.
+4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.
+5. Navigate to the **Open Add-on** tab.
+6. Select the required add-on.
+7. Click **Done**.
+8. Click **Save** to save and apply the changes in the mobile app.
+9. Open the Settings page in your mobile app and click the specific section to launch the respective add-on.
 
 ## Open a Mobile Screen
+
+You can select a predefined mobile screen to be opened when certain section/button/tab/icon is clicked in your mobile app.
+
+For instance, you can configure a section to open the Currency page.
+
+To open a mobile screen
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
+2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
+3. On the Settings page, click the required section to open the properties panel.
+4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.
+5. Navigate to the **Open Mobile Screen** tab.
+6. Select the required mobile screen.
+7. Click **Done**.
+8. Click **Save** to save and apply the changes in the mobile app.
+9. Open the Settings page in your mobile app and click the specific section to launch the respective mobile screen.
