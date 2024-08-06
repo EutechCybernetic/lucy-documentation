@@ -10,7 +10,13 @@ Here are the actions you can take:
 4. Open an Add-on
 5. Open a Mobile Screen
 
+{% hint style="info" %}
+You will also encounter button click events when creating widgets, such as the Search widget.
+{% endhint %}
+
 ## Open a Web Page
+
+Set a section, button, icon, or tab in your mobile app to open a webpage when clicked.
 
 For example, when you click on the Help section in your mobile app's Settings page, it opens the Help page.&#x20;
 
@@ -28,6 +34,8 @@ To open a web page
 10. Open the Settings page in your mobile app and click the specific section to launch the web page.
 
 ## Launch a Prebuilt Widget
+
+Set a section, button, icon, or tab in your mobile app to open a widget when clicked.
 
 For example, when you click on the Personal Details section in your mobile app's Settings page, it opens the corresponding user-created widget, a form to edit personal details.
 
@@ -61,6 +69,8 @@ To execute a Lucy Action
 9. Click **Save.**
 
 ## Open an Add-on
+
+Set a section, button, icon, or tab in your mobile app to open a add-on when clicked.
 
 To open an add-on
 
