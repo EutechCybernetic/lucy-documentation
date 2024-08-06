@@ -34,11 +34,11 @@ To design the Settings Page
     4. Pick the required Setting Group.
     5. **Edit Action:** Used to define the action to be executed when specific section is clicked. Define an action.
        1. Click the **Edit Action** button to open the Action Editor window. Action Editor window provides five tabs: Open URL, Open Widget, Execute Action, Open Add-on and Open Mobile Screen.
-       2. **Open URL:** You can configure a URL to be opened when the header icon button is clicked.
-       3. **Open Widget:** Used to select a specific widget to opened when the header icon button is clicked.
+       2. **Open URL:** You can configure a URL to be opened when specific section is clicked.
+       3. **Open Widget:** Used to select a specific widget to be opened when specific section is clicked.
        4. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
-       5. **Open Add-on**: Used to configure a specific add-on to opened when the header icon button is clicked.
-       6. **Open Mobile Screen**: Used to select a predefined mobile screen to opened when the header icon button is clicked.
+       5. **Open Add-on**: Used to configure a specific add-on to be opened when specific section is clicked.
+       6. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the specific section is clicked.
        7. After configuring the action, click **Done**.
     6. Add more sections.
 12. Click **Save** to apply the changes in the mobile app.
