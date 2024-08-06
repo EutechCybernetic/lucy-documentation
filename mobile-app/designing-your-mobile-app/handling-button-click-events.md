@@ -6,8 +6,8 @@ Take the Settings page in the mobile app, for example.
 
 When you click on a specific section in the Settings page, here are the actions you can take:
 
-1. Configure the Section to Open Certain URL
-2. Configure the Section to Open a prebuilt widget
-3. Configure the Section to Execute certain Lucy Action
-4. Configure the Section to Open a Specific Add-on
-5. Configure the Section to Open Certain Mobile Screen
+1. Open a Webpage
+2. Launch a Prebuilt Widget
+3. Execute a Lucy Action
+4. Open an Add-on
+5. Open a Mobile Screen
