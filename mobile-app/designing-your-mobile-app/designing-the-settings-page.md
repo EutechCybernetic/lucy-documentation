@@ -8,7 +8,7 @@ To design the Settings Page
 2. On the mobile screen, click the bottom section to open the properties panel on the right.
 3. In the **Configure Tabs** section of the properties panel, click the **Add Tab** button.
 4. A new tab will be added along with an icon in the bottom tab bar navigation.
-5. Enter an appropriate **Name** for the new tab (e.g., Settings).
+5. Enter an appropriate **Name** for the new tab _(e.g., Profile)_.
 6. To change the tab icon, click the icon and select an appropriate one from the Search Icons window.
 7. **Type**: Choose Custom Mobile Page as the screen type.
 8. **Enter custom UI or select one:** On the mobile screen, select the Settings Page from the list.
@@ -44,3 +44,6 @@ To design the Settings Page
 12. Click **Save** to apply the changes in the mobile app.
 13. Open the mobile app to view changes.
 
+<figure><img src="../../.gitbook/assets/Creating Settings page_1-1.png" alt=""><figcaption><p>Designing the settings page</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Settings Page_1.png" alt="" width="353"><figcaption><p>Designed settings page</p></figcaption></figure>
