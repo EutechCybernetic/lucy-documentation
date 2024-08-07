@@ -64,19 +64,7 @@ To launch a prebuilt widget
 
 ## Execute a Lucy Action
 
-Set up a Lucy Action to trigger when a specific section is clicked, such as sending a notification after creating a work request.
-
-To execute a Lucy Action
-
-1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
-2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
-3. On the Settings page, click the required section to open the properties panel.
-4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.
-5. Navigate to the **Execute Action** tab.
-6. Pick the required Model.
-7. Select the Action related to the selected model.
-8. Fill in required details and click **Done**.
-9. Click **Save.**
+Set up a Lucy Action to trigger when a specific section, button, tab or icon is clicked, such as sending a notification after creating a work request.
 
 ## Open an Add-on
 
