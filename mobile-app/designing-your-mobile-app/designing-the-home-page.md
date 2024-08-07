@@ -30,14 +30,13 @@ To add a header icon button:
 4. In the **Name** box, provide a suitable name for the button.
 5. Click the **Icon** field to pick a icon from the gallery.
 6. Specify the action to be executed when the respective header icon button is clicked.
-   1. Click the **Edit Action** button to open the Action Editor window.
-   2. Action Editor window provides five tabs: Open URL, Open Widget, Execute Action, Open Add-on and Open Mobile Screen.
-   3. **Open URL:** You can configure a URL to be opened when the header icon button is clicked.
-   4. **Open Widget:** Used to select a specific widget to be opened when the header icon button is clicked.
-   5. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
-   6. **Open Add-on**: Used to configure a specific add-on to be opened when the header icon button is clicked.
-   7. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the header icon button is clicked.
-   8. After configuring the action, Click **Done**.
+   1. Click the **Edit Action** button to open the Action Editor window. This window provides five tabs: Open URL, Open Widget, Execute Action, Open Add-on and Open Mobile Screen.
+   2. **Open URL:** You can configure a URL to be opened when the header icon button is clicked.
+   3. **Open Widget:** Used to select a specific widget to be opened when the header icon button is clicked.
+   4. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
+   5. **Open Add-on**: Used to configure a specific add-on to be opened when the header icon button is clicked.
+   6. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the header icon button is clicked.
+   7. After configuring the action, Click **Done**.
 7. Click **Save** to apply the changes in the mobile app.
 8. Open the mobile app to view changes.
 
@@ -51,11 +50,11 @@ To add a header icon button:
 
 When configuring the Home tab of your mobile app in Lucy web app, you can add a unique name, select an icon and pick a screen type for your Mobile app home page. There are available screen types.
 
-| Type               | Description                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Section            | <p>This type of screen lets you add horizontal sections to your mobile screen. You can drag and drop the required section to the mobile screen. Each section serves a unique purpose and enhances the user experience.</p><p></p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p>   |
-| Widget             | You can link a preconfigured widget to a specific tab to display it when clicked.                                                                                                                                                                                                                                                                                                                                         |
-| Custom Mobile Page | <p>Custom Mobile Pages are unique to the mobile app and are not available in the Lucy web app. Though the mobile app is configured using the Lucy web platform, these pages are specifically designed for mobile use.</p><p></p><p>For instance, the Settings page in the mobile app is a custom mobile page. It displays personal details, currency, language etc., which are not that relevant to the Lucy web app.</p> |
+| Type               | Description                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Section            | <p>This type of screen lets you add horizontal sections to your mobile screen. You can drag and drop the required section to the mobile screen. Each section serves a unique purpose and enhances the user experience.</p><p></p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p> |
+| Widget             | You can link a preconfigured widget to a specific tab to display it when clicked.                                                                                                                                                                                                                                                                                                                                       |
+| Custom Mobile Page | Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.                                                                                                                                                                                         |
 
 To configure the home tab:
 

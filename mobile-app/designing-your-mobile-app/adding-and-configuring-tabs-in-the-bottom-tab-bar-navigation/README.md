@@ -238,8 +238,6 @@ The screen below displays a widget created using the Search widget template, lin
 
 ### 3) Custom Mobile Pages
 
-Custom Mobile Pages are unique to the mobile app and are not available in the Lucy web app. Though the mobile app is configured using the Lucy web platform, these pages are specifically designed for mobile use.
-
-For instance, the Settings page in the mobile app is a custom mobile page. It displays personal details, currency, language etc., which are not that relevant to the Lucy web app.
+Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, _e.g., Settings page._
 
 <figure><img src="../../../.gitbook/assets/Settings screen_2.png" alt="" width="353"><figcaption><p>Settings screen</p></figcaption></figure>

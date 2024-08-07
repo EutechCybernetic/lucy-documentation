@@ -30,14 +30,13 @@ To design the Settings Page
     2. Enter a suitable name for the section, _e.g., Personal Details._
     3. In the Icon field, pick a icon for the section.
     4. Pick the required Setting Group.
-    5. [**Edit Action:** ](handling-button-click-events.md)Used to define the action to be executed when specific section is clicked. Define an action.
-       1. Click the **Edit Action** button to open the Action Editor window. Action Editor window provides five tabs: Open URL, Open Widget, Execute Action, Open Add-on and Open Mobile Screen.
-       2. **Open URL:** You can configure a URL to be opened when specific section is clicked.
-       3. **Open Widget:** Used to select a specific widget to be opened when specific section is clicked.
-       4. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
-       5. **Open Add-on**: Used to configure a specific add-on to be opened when specific section is clicked.
-       6. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the specific section is clicked.
-       7. After configuring the action, click **Done**.
+    5. [**Edit Action:** ](handling-button-click-events.md)Click this button to open the [**Action Editor** window.](handling-button-click-events.md#action-editor-window) This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific section is clicked.
+       1. **Open URL:** You can configure a URL to be opened when specific section is clicked.
+       2. **Open Widget:** Used to select a specific widget to be opened when specific section is clicked.
+       3. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
+       4. **Open Add-on**: Used to configure a specific add-on to be opened when specific section is clicked.
+       5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the specific section is clicked.
+       6. After configuring the action, click **Done**.
     6. Add more sections.
 10. Click **Save** to apply the changes in the mobile app.
 11. Open the mobile app to view changes.
