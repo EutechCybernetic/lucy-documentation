@@ -17,4 +17,4 @@ To design the Login Page:
 
 <figure><img src="../../.gitbook/assets/Login Page screen.png" alt=""><figcaption><p>Login page screen</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Login Page Settings.png" alt=""><figcaption><p>Login Page tab settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Login Page Settings.png" alt=""><figcaption><p>General tab-Login Page settings</p></figcaption></figure>
