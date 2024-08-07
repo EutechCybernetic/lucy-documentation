@@ -47,4 +47,23 @@ To add a header icon button:
 
 
 
+## Adding and Configuring Sections
+
+Effortlessly add, configure, and display various horizontal sections on your homepage. Simply drag and drop them into place. Each section serves a unique purpose and enhances the user experience. You can add the same section multiple times if necessary.&#x20;
+
+Types of Sections
+
+1. Custom UI Section
+2. Icon Section Widget
+3. Image Card List
+4. Horizontal List of Cards
+5. &#x20;Currency Converter Widget
+6. Configurable Search Widget
+
+To gain better understanding on adding and configuring [sections](adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/#id-1-sections), find the article here:
+
+
+
+
+
 <figure><img src="../../.gitbook/assets/App Bar elements_2.png" alt=""><figcaption><p>App Bar elements</p></figcaption></figure>
