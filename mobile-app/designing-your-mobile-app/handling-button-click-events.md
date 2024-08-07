@@ -1,6 +1,6 @@
 # Handling Button Click Events
 
-When customising your mobile app via Lucy web app, you can control what happens when a certain button, icon, tab or section is clicked.
+When customising your mobile app via Lucy web app, you can control what happens when a certain button or icon is clicked.
 
 Here are the five types of actions you can take:
 
@@ -16,15 +16,13 @@ You will also encounter button click events when creating widgets, such as the S
 
 ### Action Editor Window
 
-Use the Action Editor window to set actions for clickable elements like buttons, icons, tabs, or sections. It supports five types of actions: open a web page, launch a prebuilt widget, execute a Lucy Action, open an add-on, and open a mobile screen.
+Use the Action Editor window to set actions for clickable elements like buttons and icons. It supports five types of actions: open a web page, launch a prebuilt widget, execute a Lucy Action, open an add-on, and open a mobile screen.
 
 <figure><img src="../../.gitbook/assets/Action Editor Window.png" alt="" width="563"><figcaption><p>Action Editor Window</p></figcaption></figure>
 
 
 
 ## Open a Web Page
-
-Set a section, button, icon, or tab in your mobile app to open a webpage when clicked.
 
 For example, when you click on the Help section in your mobile app's Settings page, it opens the Help page.&#x20;
 
@@ -42,8 +40,6 @@ To open a web page
 10. Open the Settings page in your mobile app and click the specific section to launch the web page.
 
 ## Launch a Prebuilt Widget
-
-Set a section, button, icon, or tab in your mobile app to open a widget when clicked.
 
 For example, when you click on the Personal Details section in your mobile app's Settings page, it opens the corresponding user-created widget, a form to edit personal details.
 
@@ -64,11 +60,11 @@ To launch a prebuilt widget
 
 ## Execute a Lucy Action
 
-Set up a Lucy Action to trigger when a specific section, button, tab or icon is clicked, such as sending a notification after creating a work request.
+Set up a Lucy Action to trigger when a specific button, or icon is clicked, such as sending a notification after creating a work request.
 
 ## Open an Add-on
 
-You can select an add-on to be opened when certain section, button, tab, or icon is clicked in your mobile app.
+You can select an add-on to be opened when certain button or icon is clicked in your mobile app.
 
 To open an add-on
 
@@ -84,7 +80,7 @@ To open an add-on
 
 ## Open a Mobile Screen
 
-Select a predefined mobile screen, such as the Currency page, to be launched when certain section, button, tab, or icon is clicked in your mobile app.
+Choose a predefined mobile screen, like the Currency page, to display when you click on the Currency section in your mobile app's Settings page.
 
 To open a mobile screen
 
