@@ -6,7 +6,7 @@ When you switch between tabs, you can configure the type of screen that opens fo
 
 ## Adding and Configuring Tabs in the Bottom Tab Bar Navigation
 
-To add a new tab to your bottom tab bar navigation of the mobile app.
+To add and configure a new tab in the bottom tab bar navigation of the mobile app
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Adding a New Tab
@@ -40,6 +40,26 @@ This type of screen allows you to effortlessly add, configure, and display vario
 You can add the same section multiple times if necessary.
 
 #### Types of Sections
+
+There are multiple types of horizontal sections that you can add.
+
+a) Custom UI Section
+
+b) Icon Section Widget
+
+c) Image Card List
+
+d) Horizontal List of Cards
+
+e) Currency Converter Widget
+
+{% hint style="info" %}
+When configuring a tab, the Type should be selected as 'Section' to add horizontal sections. In other words, you cannot add horizontal sections for other types.
+{% endhint %}
+
+
+
+
 
 a) Custom UI Section
 
