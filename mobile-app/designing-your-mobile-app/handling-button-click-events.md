@@ -96,9 +96,7 @@ To open an add-on
 
 ## Open a Mobile Screen
 
-You can select a predefined mobile screen to be opened when certain section/button/tab/icon is clicked in your mobile app.
-
-For instance, you can configure a section to open the Currency page.
+Select a predefined mobile screen, such as the Currency page, to be launched when certain section, button, tab, or icon is clicked in your mobile app.
 
 To open a mobile screen
 
@@ -111,3 +109,5 @@ To open a mobile screen
 7. Click **Done**.
 8. Click **Save** to save and apply the changes in the mobile app.
 9. Open the Settings page in your mobile app and click the specific section to launch the respective mobile screen.
+
+<figure><img src="../../.gitbook/assets/Launch a Mobile screen_1.png" alt=""><figcaption><p>Open a mobile screen</p></figcaption></figure>
