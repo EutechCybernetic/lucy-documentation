@@ -43,4 +43,5 @@ To design the Settings Page
 
 <figure><img src="../../.gitbook/assets/Creating Settings page_1-1.png" alt=""><figcaption><p>Designing the settings page</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Settings Page_1.png" alt="" width="353"><figcaption><p>Designed settings page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Settings Page_1.png" alt="" width="353"><figcaption><p>A example of a Settings page</p></figcaption></figure>
+
