@@ -4,5 +4,6 @@ Once you've set up the Lucy mobile app, you can start creating your own app by d
 
 1. Designing the Login Page
 2. Designing the Home Page
-3. Adding and Configuring Tabs in the Bottom Tab Bar Navigation
+3. Designing the Settings Page
+4. Adding and Configuring Tabs in the Bottom Tab Bar Navigation
 
