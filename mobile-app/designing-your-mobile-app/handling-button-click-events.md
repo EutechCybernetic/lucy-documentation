@@ -66,17 +66,31 @@ Set up a Lucy Action to trigger when a specific button, or icon is clicked, such
 
 You can select an add-on to be opened when certain button or icon is clicked in your mobile app.
 
+For example, you can add an icon to your app home page to open the Weather add-on when clicked.
+
 To open an add-on
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
-2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
-3. On the Settings page, click the required section to open the properties panel.
-4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.
-5. Navigate to the **Open Add-on** tab.
-6. Select the required add-on.
-7. Click **Done**.
-8. Click **Save** to save and apply the changes in the mobile app.
-9. Open the Settings page in your mobile app and click the specific section to launch the respective add-on.
+2. Under **Sections**, drag and drop the **Icon Section Widget** to the mobile screen.
+3. An icon section widget will be added and displayed on the mobile screen.
+4. Click the ![](<../../.gitbook/assets/Add icon (1).png>)Add icon.
+5. An icon will be added and displayed on the mobile screen. Click the newly added icon to launch its properties panel.
+6. Pick an icon image, Background Colour, Icon Colour and a Label.
+7. Click the **Edit Action** button to open the Action Editor window.
+8. Go to Open Add-on tab.
+9. Once the action is configured, click **Done.**
+10. An icon will be added and displayed on the mobile screen.
+11. Click the newly added icon to launch its properties panel.
+12. Click the **Icon** field to pick a suitable icon from the Search Icons window.
+13. Choose a **Background Colour.**
+14. Choose a **Icon Colour.**
+15. In the **Label** box, type a unique name for the icon.
+16. Click the **Edit Action** button to launch the Action Editor window.
+17. Navigate to the **Open Add-on** tab.
+18. Select the required add-on, _e.g, Weather._
+19. Click **Done**.
+20. Click **Save** to save and apply the changes in the mobile app.
+21. Open the home page in your mobile app and click the icon to launch the respective add-on.
 
 ## Open a Mobile Screen
 
