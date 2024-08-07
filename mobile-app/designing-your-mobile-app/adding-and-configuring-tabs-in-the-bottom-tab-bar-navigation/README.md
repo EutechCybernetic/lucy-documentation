@@ -27,13 +27,13 @@ To add a new tab to your bottom tab bar navigation of the mobile app.
 
 When a tab is clicked in your mobile app, you can display one of three screen types:
 
-1. **Sections**
+1. **Section**
 2. **Widgets**
 3. **Custom Mobile Pages**
 
-### 1) Sections
+### 1) Section
 
-Effortlessly add, configure, and display various horizontal sections on a mobile screen. Simply drag and drop them into place. Each section serves a unique purpose and enhances the user experience.
+This type of screen allows you to effortlessly add, configure, and display various horizontal sections on a mobile screen. Simply drag and drop them into place. Each section serves a unique purpose and enhances the user experience.
 
 You can add the same section multiple times if necessary.
 
@@ -219,7 +219,7 @@ To link a widget to a specific tab:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the Bottom Tab Bar Navigation.
 3. In the Bottom Tab Bar Navigation, click the required tab.
-4. Under **Configure Tabs** section,  select the **Type** as **Widget.**
+4. Under **Configure Tabs** section, select the **Type** as **Widget.**
 5. Click the **Select a Widget** button.
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;
 7. Click **Save** to apply the changes. The selected widget will now display in your app under the required tab.
