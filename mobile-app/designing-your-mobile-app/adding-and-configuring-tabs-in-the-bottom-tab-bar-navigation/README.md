@@ -95,8 +95,8 @@ To add a Icon Section Widget:
    2. An icon will be added and displayed on the mobile screen.
    3. Click the newly added icon to launch its properties panel.
    4. Click the **Icon** field to pick a suitable icon from the Search Icons window.
-   5. Choose a **Background Colour.**
-   6. Choose a **Icon Colour.**
+   5. Select a **Background Colour.**
+   6. Choose an **Icon Colour.**
    7. In the **Label** box, type a unique name for the icon.
    8. Click the **Edit Action** button to define the action to be executed when the respective button is clicked. Once the action is configured, click **Done.**
 9. Click **Save** to apply the changes in the mobile app.
