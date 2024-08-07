@@ -17,12 +17,12 @@ To design the Settings Page
    3. Add multiple settings groups as necessary.
 9.  **Section:** A section is a smaller grouping of settings within a setting group. It focuses on a specific aspect of the setting group.&#x20;
 
-    _**Example:** Within the **Account** setting group, you might have sections like:_
+    **Example:** Within the **Account** setting group, you might have sections like:
 
-    * _Personal Details_
-    * _Currency_
-    * _Language_
-    * _Notifications_
+    * Personal Details
+    * Currency
+    * Language
+    * Notifications
 
     Add a new section.
 
