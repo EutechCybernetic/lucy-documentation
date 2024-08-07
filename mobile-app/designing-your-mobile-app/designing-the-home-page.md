@@ -47,23 +47,31 @@ To add a header icon button:
 
 
 
-## Adding and Configuring Sections
+## Configuring the Home Tab
 
-Effortlessly add, configure, and display various horizontal sections on your homepage. Simply drag and drop them into place. Each section serves a unique purpose and enhances the user experience. You can add the same section multiple times if necessary.&#x20;
+When configuring the Home tab of your mobile app in Lucy web app, you can add a unique name, select an icon and pick a screen type for your Mobile app home page. There are available screen types.
 
-Types of Sections
+| Type               | Description                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sections           | <p>This type of screen lets you add horizontal sections to your mobile screen. You can drag and drop the required section to the mobile screen. Each section serves a unique purpose and enhances the user experience.</p><p></p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p>   |
+| Widget             | You can link a preconfigured widget to a specific tab to display it when clicked.                                                                                                                                                                                                                                                                                                                                         |
+| Custom Mobile Page | <p>Custom Mobile Pages are unique to the mobile app and are not available in the Lucy web app. Though the mobile app is configured using the Lucy web platform, these pages are specifically designed for mobile use.</p><p></p><p>For instance, the Settings page in the mobile app is a custom mobile page. It displays personal details, currency, language etc., which are not that relevant to the Lucy web app.</p> |
 
-1. Custom UI Section
-2. Icon Section Widget
-3. Image Card List
-4. Horizontal List of Cards
-5. &#x20;Currency Converter Widget
-6. Configurable Search Widget
+To configure the home tab:
 
-To gain better understanding on adding and configuring [sections](adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/#id-1-sections), find the article here:
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the Bottom Tab Bar Navigation.
+3. In the bottom tab bar navigation, click the required tab to access your home page.
+4. Under **Configure Tabs** section,&#x20;
+   1. **Name**: Enter a unique name for the home tab.
+   2. **Icon**: Click the **Icon** field and pick an icon from the Search Icons window.
+   3. **Type**: Pick the required screen type.
+5. Click **Save.**
+
+To gain a better understanding on configuring the screen type, find the article here.
+
+[Configuring the Screen Type](adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/#screen-types)
 
 
 
-
-
-<figure><img src="../../.gitbook/assets/App Bar elements_2.png" alt=""><figcaption><p>App Bar elements</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/App Bar elements_2.png" alt=""><figcaption><p>An example of a Home page</p></figcaption></figure>
