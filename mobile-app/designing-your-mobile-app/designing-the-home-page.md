@@ -43,16 +43,18 @@ To add a header icon button:
 
 <figure><img src="../../.gitbook/assets/Header Icon Buttons_1-1.png" alt=""><figcaption><p>Adding a header icon button screen 2</p></figcaption></figure>
 
-
+<figure><img src="../../.gitbook/assets/App Bar elements_3.png" alt=""><figcaption><p>Designed app bar</p></figcaption></figure>
 
 ### **Displaying Larger Icons**
 
-To display larger icons:
+When designing your mobile app homepage, you can add icons to the home page content without placing them in the App bar.
+
+To add and display larger icons:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the Bottom Tab Bar Navigation.
 3. In the bottom tab bar navigation, click the required tab to access your home page.
-4. Under **Configure Tabs** section, pick the **Type** as 'Section''.
+4. Under **Configure Tabs** section, pick the **Type** as 'Section'.
 5. Go to the **Sections** tab on the left. Pick the **Icon Section Widget.**
 6. Drag and drop it onto the mobile screen.
 7. An icon section widget will be added and displayed on the mobile screen.
