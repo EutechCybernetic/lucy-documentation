@@ -81,9 +81,7 @@ To add and configure a Custom UI Section:
 
 
 
-<figure><img src="../../../.gitbook/assets/Custom UI section_1.png" alt=""><figcaption><p>Adding a Custom UI section screen 1</p></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Adding a Custom UI section_2.png" alt="" width="430"><figcaption><p>Adding a Custom UI section screen 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adding a Custom UI section_2.png" alt="" width="430"><figcaption><p>Adding a Custom UI section</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Custom UI created_3.png" alt="" width="353"><figcaption><p>Custom UI created</p></figcaption></figure>
 
