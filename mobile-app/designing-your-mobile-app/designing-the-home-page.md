@@ -1,6 +1,6 @@
 # Designing the Home Page
 
-The mobile app's home page is fully customisable. You can configure the app bar by changing its color, and height, and adding and configuring header icon buttons. Also, determine and configure the content displayed on the home page.
+The mobile app's home page is fully customisable. You can configure the app bar by changing its colour, and height, and adding and configuring header icon buttons. If you prefer not to have header icon buttons and want larger icons, you can modify your homepage accordingly. Additionally, you can determine and configure the content displayed on the home page.
 
 Let's customise the home page of your mobile app.
 
