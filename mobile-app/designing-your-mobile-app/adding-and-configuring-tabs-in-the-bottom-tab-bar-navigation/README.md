@@ -152,7 +152,11 @@ To add a Image Card List:
 7. An image card list will be added and displayed on the mobile screen.
 8. Click on the image card to launch its properties panel.
 9. Do required customisations.
-10. Click **Save** to apply the changes in the mobile app.
+10. Add a new card to the Image Card List.
+    1. In the image card list, click the add ![](<../../../.gitbook/assets/Add icon (2).png>) icon.
+    2. A new card will be added to the image card list.
+    3. Customise the new card as needed.
+11. Click **Save** to apply changes in the mobile app.
 
 <figure><img src="../../../.gitbook/assets/Configuring Image Card properties_1.png" alt=""><figcaption><p>Configuring Image Card properties screen 1</p></figcaption></figure>
 
@@ -160,27 +164,7 @@ To add a Image Card List:
 
 
 
-<figure><img src="../../../.gitbook/assets/Image Card List_1.png" alt=""><figcaption><p>Image Card List</p></figcaption></figure>
-
-
-
-{% hint style="info" %}
-**Adding a New Card to the Image Card List**
-
-Navigate to the **Mobile App** tab in the lucy web app.
-
-Pick the image card list and click the ![](<../../../.gitbook/assets/Add icon (2).png>) icon.
-
-A new card will be added to the image card list.
-
-Customise the new card as needed.
-
-Click **Save** to apply changes in the mobile app.
-
-Now, the new card will appear on your mobile app.
-{% endhint %}
-
-<figure><img src="../../../.gitbook/assets/Configured Image Card List (1).png" alt="" width="528"><figcaption><p>An example of a Image Card List designed</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Image Card List_1.jpg" alt="" width="563"><figcaption><p>An example designed using a Image Card List</p></figcaption></figure>
 
 
 
