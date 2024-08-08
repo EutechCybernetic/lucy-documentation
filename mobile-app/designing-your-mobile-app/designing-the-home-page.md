@@ -97,5 +97,3 @@ For detailed instructions on configuring the screen type, read this article.
 
 [Configuring the Screen Type](adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/#screen-types)
 
-<figure><img src="../../.gitbook/assets/App Bar elements_2.png" alt=""><figcaption><p>An example of a Home page</p></figcaption></figure>
-
