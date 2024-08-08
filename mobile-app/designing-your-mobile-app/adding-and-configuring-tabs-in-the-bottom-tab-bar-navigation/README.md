@@ -215,27 +215,6 @@ To add a Currency Converter Widget:
 
 <figure><img src="../../../.gitbook/assets/Currency Converter Widget_2.png" alt="" width="530"><figcaption><p>Currency Converter Widget section displayed in mobile app</p></figcaption></figure>
 
-
-
-f) Configurable Search Widget
-
-To add a Configurable Search Widget:
-
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the Bottom Tab Bar Navigation, click the required tab.
-4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
-5. Go to the **Sections** tab on the left.
-6. Pick the **Configurable Search Widget.** Drag and drop it onto the mobile screen.
-7. In the properties panel, edit the widget properties as necessary.
-8. Click **Save** to apply the changes in the mobile app.
-
-<figure><img src="../../../.gitbook/assets/Configurable Search Widget_1.png" alt=""><figcaption><p>Configurable Search Widget</p></figcaption></figure>
-
-{% hint style="info" %}
-The configurable search widget is same as the Search widget template.
-{% endhint %}
-
 ### 2) Widgets
 
 You can link a preconfigured widget to a specific tab to display it when clicked.&#x20;
