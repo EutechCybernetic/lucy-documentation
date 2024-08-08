@@ -227,11 +227,14 @@ To add a Configurable Search Widget:
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Pick the **Configurable Search Widget.** Drag and drop it onto the mobile screen.
-7. Click **Save** to apply the changes in the mobile app.
+7. In the properties panel, edit the widget properties as necessary.
+8. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../../../.gitbook/assets/Configurable Search Widget_1.png" alt=""><figcaption><p>Configurable Search Widget</p></figcaption></figure>
 
-
+{% hint style="info" %}
+The configurable search widget is same as the Search widget template.
+{% endhint %}
 
 ### 2) Widgets
 
