@@ -88,13 +88,12 @@ Click here to learn more about adding and configuring a tab in your mobile app.
 {% endcontent-ref %}
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the Bottom Tab Bar Navigation, click the required tab.
-4. Under **Configure Tabs** section, locate the tab you want to link the widget.
-5. Select the **Type** as **Widget.**
-6. Click the **Select a Widget** button on the mobile screen.
-7. Pick the required widget from the list (widget names will appear in the list).&#x20;
-8. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
+2. Click the Bottom Tab Bar Navigation to open Properties panel.
+3. Under the **Configure Tabs** section, locate the tab you want to link the widget.
+4. Select the **Type** as **Widget.**
+5. Click the **Select a Widget** button on the mobile screen.
+6. Pick the required widget from the list (widget names will appear in the list).&#x20;
+7. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
 
 <figure><img src="../../../.gitbook/assets/Widget example_2.jpeg" alt="" width="375"><figcaption><p>A preview of the designed widget displayed in the mobile app</p></figcaption></figure>
 
