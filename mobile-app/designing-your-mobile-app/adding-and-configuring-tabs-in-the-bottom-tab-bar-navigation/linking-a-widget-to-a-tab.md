@@ -1,6 +1,6 @@
 # Launching a Widget on Tab Click
 
-This guide explains how to set up a preconfigured widget to display upon clicking a designated tab.
+This guide explains how to set up a preconfigured widget to display upon clicking a designated tab in your mobile app.
 
 First, we'll build our widget using the Search Widget Template. This template lets you configure multiple tabs, each connected to a data source to display specific information. The data source can originate from either the MongoDB collection or Lucy Actions. After selecting a data source, you can even customise the information shown under each tab by mapping UI elements to the selected data source values.
 

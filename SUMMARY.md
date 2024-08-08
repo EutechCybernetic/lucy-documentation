@@ -69,7 +69,7 @@
     * [Designing the Settings Page](mobile-app/designing-your-mobile-app/designing-the-settings-page.md)
     * [Handling Button Click Events](mobile-app/designing-your-mobile-app/handling-button-click-events.md)
     * [Adding and Configuring Tabs in the Bottom Tab Bar Navigation](mobile-app/designing-your-mobile-app/adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/README.md)
-      * [Launching a Widget on Tab Click](mobile-app/designing-your-mobile-app/adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/launching-a-widget-on-tab-click.md)
+      * [Launching a Widget on Tab Click](mobile-app/designing-your-mobile-app/adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/linking-a-widget-to-a-tab.md)
 * [Users](users/README.md)
   * [Registering a User](users/registering-a-user.md)
   * [Creating a User Group](users/creating-a-user-group.md)

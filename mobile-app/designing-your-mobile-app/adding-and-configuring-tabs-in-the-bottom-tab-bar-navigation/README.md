@@ -231,8 +231,8 @@ To link a widget to a specific tab:
 
 Learn to build and link a widget to a tab. Find the article here to gain more insights:
 
-{% content-ref url="launching-a-widget-on-tab-click.md" %}
-[launching-a-widget-on-tab-click.md](launching-a-widget-on-tab-click.md)
+{% content-ref url="linking-a-widget-to-a-tab.md" %}
+[linking-a-widget-to-a-tab.md](linking-a-widget-to-a-tab.md)
 {% endcontent-ref %}
 
 
