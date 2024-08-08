@@ -153,7 +153,7 @@ To add a Image Card List:
 8. Click on the image card to launch its properties panel.
 9. Do required customisations.
 10. Add a new card to the Image Card List.
-    1. In the image card list, click the add ![](<../../../.gitbook/assets/Add icon (2).png>) icon.
+    1. In the image card list, click the add icon.
     2. A new card will be added to the image card list.
     3. Customise the new card as needed.
 11. Click **Save** to apply changes in the mobile app.
