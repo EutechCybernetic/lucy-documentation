@@ -59,8 +59,6 @@ When configuring a tab, the Type should be selected as 'Section' to add horizont
 
 
 
-
-
 a) Custom UI Section
 
 Use the Custom UI Section to create a personalised user interface with JSON code.
@@ -209,10 +207,13 @@ To add a Currency Converter Widget:
 5. Go to the **Sections** tab on the left.
 6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen and it will appear on the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
+8. Open your mobile app and go to the required tab. The Currency Converter section will be displayed.
+9. In the Currency Converter section, select the original currency (_e.g., USD)_ and enter the amount you want to convert.
+10. Choose the currency you want to convert the original amount into (_e.g., SGD)_. The entered amount will be automatically displayed in the selected currency.
 
 <figure><img src="../../../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
 
-
+<figure><img src="../../../.gitbook/assets/Currency Converter Widget_2.png" alt="" width="530"><figcaption><p>Currency Converter Widget section displayed in mobile app</p></figcaption></figure>
 
 
 
