@@ -1,6 +1,6 @@
 # Designing the Home Page
 
-The mobile app's home page is fully customisable. You can change the app bar's colour and adjust its height. Additionally, you have the option to choose a background image instead of a colour.
+The mobile app's home page is fully customisable. You can configure the app bar by changing its color, and height, and adding and configuring header icon buttons. Also, determine and configure the content displayed on the home page.
 
 Let's customise the home page of your mobile app.
 
@@ -18,7 +18,7 @@ These are the settings related to the app bar of your mobile app.
 
 <figure><img src="../../.gitbook/assets/App Home page settings_1_3.png" alt="" width="563"><figcaption><p>Customise the settings of app home page</p></figcaption></figure>
 
-## Adding Header Icon Buttons
+### Adding and Configuring Header Icon Buttons
 
 In your mobile app, you can add header icon buttons in the app bar via the lucy web app. These buttons will be added under the app bar title.
 
