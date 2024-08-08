@@ -91,8 +91,6 @@ You can include a set of icons using an Icon Section Widget. Configure each icon
 
 You can customise the widget by adding a title, changing colours, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background colour, text colour, etc.
 
-
-
 {% hint style="info" %}
 To customise the title section of the widget, click the title section to launch its properties panel.
 
@@ -109,14 +107,20 @@ To add a Icon Section Widget:
 6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
 7. An icon section widget will be added and displayed on the mobile screen.
 8. Add a new icon
-   1. Click the Add icon![](<../../../.gitbook/assets/Add icon (1).png>).
+   1. Click the **Add** icon.
    2. An icon will be added and displayed on the mobile screen.
    3. Click the newly added icon to launch its properties panel.
    4. Click the **Icon** field to pick a suitable icon from the Search Icons window.
    5. Select a **Background Colour.**
    6. Choose an **Icon Colour.**
    7. In the **Label** box, type a unique name for the icon.
-   8. Click the **Edit Action** button to define the action to be executed when the respective button is clicked. Once the action is configured, click **Done.**
+   8. [**Edit Action:** ](https://help.iviva.com/lucy/mobile-app/designing-your-mobile-app/handling-button-click-events)Click this button to open the [**Action Editor** window.](https://help.iviva.com/lucy/mobile-app/designing-your-mobile-app/handling-button-click-events#action-editor-window) This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific icon is clicked.
+      1. **Open URL:** You can configure a URL to be opened when the icon is clicked.
+      2. **Open Widget:** Used to select a specific widget to be opened when the icon is clicked.
+      3. **Execute Action**: Used to run a specific Lucy action when the icon is clicked. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
+      4. **Open Add-on**: Used to configure a specific add-on to be opened when the icon is clicked.
+      5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the the icon is clicked.
+      6. After configuring the action, Click **Done**.
 9. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../../../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
