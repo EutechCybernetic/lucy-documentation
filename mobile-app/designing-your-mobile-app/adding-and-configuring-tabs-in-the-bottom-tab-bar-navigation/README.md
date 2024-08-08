@@ -92,9 +92,9 @@ You can include a set of icons using an Icon Section Widget. Configure each icon
 You can customise the widget by adding a title, changing colours, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background colour, text colour, etc.
 
 {% hint style="info" %}
-To customise the title section of the widget, click the title section to launch its properties panel.
+To customise the title section of the icon section widget, click the title section to launch its properties panel.
 
-To customise the body section of the widget, click the body section to launch its properties panel.
+To customise the body section of the icon section widget, click the body section to launch its properties panel.
 {% endhint %}
 
 To add a Icon Section Widget:
@@ -136,6 +136,10 @@ You can add and customise an image card list for specific mobile screens, offeri
 For example, you can customise the number of cards per row to be displayed. If a specific card reaches the end of a container, you can move the remaining cards to the next line.
 
 In addition, you can customise the title and the body section properties in the Image Card List. To customise the title section, click the title section to launch properties panel. To customise the body section, click the body section to launch properties panel.
+
+{% hint style="info" %}
+To customise the title section of the image card list, click the title section to launch its properties panel.
+{% endhint %}
 
 To add a Image Card List:
 
