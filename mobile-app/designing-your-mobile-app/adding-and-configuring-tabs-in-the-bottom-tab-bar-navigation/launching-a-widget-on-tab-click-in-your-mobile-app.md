@@ -24,7 +24,7 @@ To build a widget:
 6. Pick the desired type of **Widget Template,** _e.g., Search Widget._
 7. Click **Edit this Template** to open the template on its widget designer page.
 8. Give a name for the widget.
-   1. Go to **General** tab on the right.
+   1. Go to the **General** tab on the right.
    2. In the **Name** box, type in a suitable name.
 9. Customise the properties of the widget.
    1. Click the header section of the widget. Its properties panel will open.
