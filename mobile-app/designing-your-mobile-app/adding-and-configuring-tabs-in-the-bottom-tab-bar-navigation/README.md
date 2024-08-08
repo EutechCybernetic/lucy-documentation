@@ -68,14 +68,16 @@ To add and configure a Custom UI Section:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the Bottom Tab Bar Navigation.
 3. In the Bottom Tab Bar Navigation, click the required tab.
-4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+4. Under **Configure Tabs** section, select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Drag and drop the '**Describe a custom interface with a special interface language'** section on to the desired area on the mobile screen.
 7. A horizontal section named Custom UI will appear on the mobile screen.
 8. Click the **Custom UI** section to open its properties panel.
 9. In the **Custom UI (Mobile**) field, enter the JSON code of the UI you want to build.
 10. Configure the **Data source.**
-11. Click **Save**.
+    1. Click the **Bind a Source** button.
+    2. You can select an existing Lucy action or a database as the data source.
+11. Click **Save** to apply the changes in the mobile app.
 
 
 
