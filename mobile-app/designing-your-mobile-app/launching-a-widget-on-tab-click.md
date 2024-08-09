@@ -1,4 +1,4 @@
-# Launching a Widget on Tab Click in Your Mobile App
+# Launching a Widget on Tab Click
 
 Discover how to launch a widget when a user clicks a tab in your mobile app.&#x20;
 
@@ -7,7 +7,7 @@ First, we'll build our widget using the Search Widget Template. This template le
 
 
 {% hint style="info" %}
-Before following this tutorial, ensure you are familiar with [creating folders](../../../folders/creating-a-new-folder.md), [databases](../../../databases/creating-and-editing-databases/), and Lucy Actions.
+Before following this tutorial, ensure you are familiar with [creating folders](../../folders/creating-a-new-folder.md), [databases](../../databases/creating-and-editing-databases/), and Lucy Actions.
 {% endhint %}
 
 ## Building the Widget
@@ -38,7 +38,7 @@ To build a widget:
    5. Add and Configure Tabs in the widget.
       1. Under **Search Tabs** section, in the Tab 1 box, type a appropriate name for the first tab.
       2. Click the **Add Column** button to add more tabs.
-      3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.![](<../../../.gitbook/assets/image (7).png>)
+      3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.![](<../../.gitbook/assets/image (7).png>)
    6. Bind a data source to each tab to display information:
       1. In the widget, navigate to the required tab and click the **Bind a Source** button.
       2. Choose either an existing Lucy Action or a database_. For example, let's bind a database._
@@ -51,15 +51,15 @@ To build a widget:
       1. Add a database value to the Image Field.
          1. In the properties panel, go to Image section and select the Image Type as Image.
          2. In the Image Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
-         3. The selected value will be applied and displayed in the Image Field. ![](<../../../.gitbook/assets/image (2).png>)
+         3. The selected value will be applied and displayed in the Image Field. ![](<../../.gitbook/assets/image (2) (1).png>)
       2. Add a database value to the Title Field.
          1. In the properties panel, go to the Title section.
          2. In the Title Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
-         3. The selected value will be applied and displayed in the Title Field. ![](<../../../.gitbook/assets/image (3).png>)
+         3. The selected value will be applied and displayed in the Title Field. ![](<../../.gitbook/assets/image (3) (1).png>)
       3. Add a database value to the Sub Title Field.
          1. In the properties panel, go to the  Sub Title section.
          2. In the Sub Title Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
-         3. The selected value will be applied and displayed in the Sub Title Field. ![](<../../../.gitbook/assets/image (4).png>)
+         3. The selected value will be applied and displayed in the Sub Title Field. ![](<../../.gitbook/assets/image (4).png>)
       4. Configure the top labels and bottom labels if necessary.
          1. In the properties panel, go to the Top Label section.
          2. Click Add New Item.&#x20;
@@ -73,9 +73,9 @@ To build a widget:
       5. Customise the UI elements as necessary, such as changing the title colour, size, etc.
 10. Click **Save Widget** to save the changes. Now your widget will be saved under the User Interfaces tab within the folder.
 
-<figure><img src="../../../.gitbook/assets/Search Widget template_1.png" alt=""><figcaption><p>Search Widget Template opened on the Widget Designer page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Search Widget template_1.png" alt=""><figcaption><p>Search Widget Template opened on the Widget Designer page</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Search Widget template_3.png" alt=""><figcaption><p>A preview of the designed widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Search Widget template_3.png" alt=""><figcaption><p>A preview of the designed widget</p></figcaption></figure>
 
 ## Linking the Widget to a Tab in Your Mobile App
 
@@ -83,8 +83,8 @@ After building our widget, let's link it to a tab in the mobile app.
 
 Click here to learn more about adding and configuring a tab in your mobile app.
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="choosing-a-screen-type.md" %}
+[choosing-a-screen-type.md](choosing-a-screen-type.md)
 {% endcontent-ref %}
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
@@ -95,5 +95,5 @@ Click here to learn more about adding and configuring a tab in your mobile app.
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;
 7. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
 
-<figure><img src="../../../.gitbook/assets/Widget example_2.jpeg" alt="" width="375"><figcaption><p>A preview of the designed widget displayed in the mobile app</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Widget example_2.jpeg" alt="" width="375"><figcaption><p>A preview of the designed widget displayed in the mobile app</p></figcaption></figure>
 
