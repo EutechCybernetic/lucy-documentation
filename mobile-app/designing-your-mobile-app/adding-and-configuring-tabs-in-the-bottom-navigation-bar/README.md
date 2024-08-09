@@ -1,18 +1,18 @@
-# Adding and Configuring Tabs in the Bottom Tab Bar Navigation
+# Adding and Configuring Tabs in the Bottom Navigation Bar
 
-After setting up the Lucy mobile app, you can begin creating pages and navigation. By default, the Bottom Tab Bar Navigation includes the Home and Settings tabs. You can customise these and add more tabs as needed.
+After setting up the Lucy mobile app, you can begin creating pages and navigation. By default, the Navigation Bar at the bottom includes the Home and Settings tabs. You can customise these and add more tabs as needed.
 
 When you switch between tabs, you can configure the type of screen that opens for each tab.
 
-## Adding and Configuring Tabs in the Bottom Tab Bar Navigation
+## Adding and Configuring a New Tab in the Navigation Bar
 
-To add and configure a new tab in the bottom tab bar navigation of the mobile app
+To add and configure a new tab in the navigation bar of the mobile app
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Adding a New Tab
-   1. On the mobile screen, click the bottom tab bar to open the properties panel on the right.
+2. Add a new Tab.
+   1. On the mobile screen, click the navigation bar to open the properties panel on the right.
    2. In the **Configure Tabs** section of the properties panel, click the **Add Tab** button.
-   3. A new tab will be added along with an icon in the bottom tab bar navigation.
+   3. A new tab will be added along with an icon in the bottom navigation bar.
    4. Enter a appropriate **Name** for the new tab (e.g., Feeds).
    5. To change the tab icon, click the icon and select an appropriate one from the Search Icons window.
    6. Choose the screen type to display when the tab is clicked: Sections, Widgets, or Custom Mobile Pages.
@@ -66,8 +66,8 @@ Use the Custom UI Section to create a personalised user interface with JSON code
 To add and configure a Custom UI Section:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the Bottom Tab Bar Navigation, click the required tab.
+2. Click the bottom navigation bar.
+3. In the bottom navigation bar, click the required tab.
 4. Under **Configure Tabs** section, select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Drag and drop the '**Describe a custom interface with a special interface language'** section on to the desired area on the mobile screen.
@@ -100,8 +100,8 @@ To customise the body section of the icon section widget, click the body section
 To add a Icon Section Widget:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the Bottom Tab Bar Navigation, click the required tab.
+2. Click the bottom navigation bar.
+3. In the bottom navigation bar, click the required tab.
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
@@ -144,8 +144,8 @@ To customise the title section of the image card list, click the title section t
 To add a Image Card List:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the Bottom Tab Bar Navigation, click the required tab.
+2. Click the bottom navigation bar.
+3. In the bottom navigation bar, click the required tab.
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
@@ -177,8 +177,8 @@ It allows to bind a data source to the card list to display required details in 
 To add a Horizontal List of Cards:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the Bottom Tab Bar Navigation, click the required tab.
+2. Click the bottom navigation bar.
+3. In the bottom navigation bar, click the required tab.
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
@@ -193,8 +193,8 @@ e) Currency Converter Widget
 To add a Currency Converter Widget:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the Bottom Tab Bar Navigation, click the required tab.
+2. Click the bottom navigation bar.
+3. In the bottom navigation bar, click the required tab.
 4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
 5. Go to the **Sections** tab on the left.
 6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen and it will appear on the mobile screen.
@@ -214,8 +214,8 @@ You can link a preconfigured widget to a specific tab to display it when clicked
 To link a widget to a specific tab:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the Bottom Tab Bar Navigation, click the required tab.
+2. Click the bottom navigation bar.
+3. In the bottom navigation bar, click the required tab.
 4. Under **Configure Tabs** section, select the **Type** as **Widget.**
 5. Click the **Select a Widget** button.
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;

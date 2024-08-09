@@ -110,5 +110,5 @@ To configure the home tab:
 
 For detailed instructions on configuring the screen type, read this article.
 
-[Configuring the Screen Type](adding-and-configuring-tabs-in-the-bottom-tab-bar-navigation/#screen-types)
+[Configuring the Screen Type](adding-and-configuring-tabs-in-the-bottom-navigation-bar/#screen-types)
 
