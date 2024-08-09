@@ -8,7 +8,7 @@ A page type determines the content displayed when a tab is clicked in your mobil
 
 ### 1) Section
 
-The Section page type allows you to add and configure horizontal sections on a mobile page using the Lucy web app. Simply drag and drop them into place. Each section serves a unique purpose and enhances the user experience.
+The 'Section**'** page type lets you effortlessly add and configure horizontal sections on a mobile page using the Lucy web app. Just drag and drop them into place. Each section has a unique function to enhance the user experience.
 
 You can add the same section multiple times if necessary.
 
