@@ -33,7 +33,7 @@ When you add a new tab to the navigation bar, you can configure it to open a spe
 
 For further information on selecting the appropriate screen type, click here.
 
-{% content-ref url="choosing-a-screen-type.md" %}
-[choosing-a-screen-type.md](choosing-a-screen-type.md)
+{% content-ref url="choosing-a-page-type.md" %}
+[choosing-a-page-type.md](choosing-a-page-type.md)
 {% endcontent-ref %}
 

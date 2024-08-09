@@ -1,4 +1,4 @@
-# Designing the Home Page
+# Designing the Homepage
 
 The mobile app's home page is fully customisable. You can configure the app bar by changing its colour, and height, and adding and configuring header icon buttons. If you prefer not to have header icon buttons and want larger icons, you can modify your homepage accordingly. Additionally, you can determine and configure the content displayed on the home page.
 
@@ -24,7 +24,7 @@ In your mobile app, you can add header icon buttons in the app bar via the lucy 
 
 To add a header icon button:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
+1. On the Lucy web app home page, go to the **Mobile App** tab. Mobile app builder screen displays.
 2. Under the **General** tab on the right, go to the **Home Page** tab.
 3. Go to the Header Icon Buttons section and click **Add Button.**
 4. In the **Name** box, provide a suitable name for the button.
@@ -85,7 +85,7 @@ Steps to Customise the Navigation Bar
 
 ## Configuring the Home Tab
 
-When configuring the Home tab of your mobile app in Lucy web app, you can add a unique name, select an icon and pick a screen type.&#x20;
+When configuring the Home tab of your mobile app in Lucy web app, you can add a unique name, select an icon and pick a type (page type).&#x20;
 
 To configure the home tab:
 
@@ -98,19 +98,19 @@ To configure the home tab:
    3. **Type**: Pick the required page type, _e.g., Sections._
 5. Click **Save.**
 
-### **Selecting a Screen Type**
+### **Selecting a Page Type**
 
-A screen type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar.
+A page type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar.
 
-Available Screen Types
+Available Page Types
 
 * Sections
 * Widget
 * Custom Mobile Page
 
-For detailed instructions on configuring the screen type, read this article.
+For detailed instructions on configuring the page type, read this article.
 
-{% content-ref url="choosing-a-screen-type.md" %}
-[choosing-a-screen-type.md](choosing-a-screen-type.md)
+{% content-ref url="choosing-a-page-type.md" %}
+[choosing-a-page-type.md](choosing-a-page-type.md)
 {% endcontent-ref %}
 

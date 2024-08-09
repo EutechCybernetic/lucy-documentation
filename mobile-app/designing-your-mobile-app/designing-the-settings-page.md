@@ -9,7 +9,7 @@ To design the Settings Page
 3. In the **Configure Tabs** section of the properties panel, locate the Settings tab.
 4. Enter an appropriate **Name** for the new tab _(e.g., Profile)_.
 5. **Icon:** To change the tab icon, click the icon and select an appropriate one from the Search Icons window.
-6. **Type**: Choose the required screen type, _e.g., Custom Mobile Page._
+6. **Type**: Choose the required page type, _e.g., Custom Mobile Page._
 7. On the mobile screen, select the Settings Page from the list. A new section labeled 'Click here to configure sections in settings page' will appear on the mobile screen. Click the section.
 8. **Setting Group:** A setting group is a broad category that encompasses related settings. It serves as a container for multiple sections. Add a setting group.
    1. In the properties panel, Click the **Add Settings Group** button.

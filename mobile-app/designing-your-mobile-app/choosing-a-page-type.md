@@ -1,14 +1,14 @@
-# Choosing a Screen Type
+# Choosing a Page Type
 
-## Screen Types
+## Page Types
 
-A screen type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar. These are the available screen types.
+A page type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar. These are the available page types.
 
-<table><thead><tr><th width="306">Type</th><th>Description</th></tr></thead><tbody><tr><td>Section</td><td><p>This type of page lets you add horizontal sections to a mobile screen. You can drag and drop the required section to the mobile screen. Each section serves a unique purpose and enhances the user experience.</p><p></p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p></td></tr><tr><td>Widget</td><td>You can link a preconfigured widget to a specific tab to display it when clicked.</td></tr><tr><td>Custom Mobile Page</td><td>Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.</td></tr></tbody></table>
+<table><thead><tr><th width="306">Type</th><th>Description</th></tr></thead><tbody><tr><td>Section</td><td><p>This type of page displays horizontal sections, each serving a unique purpose and enhancing the user experience.</p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p></td></tr><tr><td>Widget</td><td>You can link a preconfigured widget to a specific tab to display it when clicked.</td></tr><tr><td>Custom Mobile Page</td><td>Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.</td></tr></tbody></table>
 
 ### 1) Section
 
-This type of screen allows you to effortlessly add, configure, and display various horizontal sections on a mobile screen. Simply drag and drop them into place. Each section serves a unique purpose and enhances the user experience.
+The Section page type allows you to add and configure horizontal sections on a mobile page using the Lucy web app. Simply drag and drop them into place. Each section serves a unique purpose and enhances the user experience.
 
 You can add the same section multiple times if necessary.
 

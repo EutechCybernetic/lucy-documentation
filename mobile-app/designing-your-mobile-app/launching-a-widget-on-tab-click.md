@@ -83,8 +83,8 @@ After building our widget, let's link it to a tab in the mobile app.
 
 Click here to learn more about adding and configuring a tab in your mobile app.
 
-{% content-ref url="choosing-a-screen-type.md" %}
-[choosing-a-screen-type.md](choosing-a-screen-type.md)
+{% content-ref url="choosing-a-page-type.md" %}
+[choosing-a-page-type.md](choosing-a-page-type.md)
 {% endcontent-ref %}
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
