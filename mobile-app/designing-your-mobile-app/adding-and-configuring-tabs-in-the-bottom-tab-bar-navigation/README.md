@@ -223,8 +223,8 @@ To link a widget to a specific tab:
 
 Learn to build and link a widget to a tab. Find the article here to gain more insights:
 
-{% content-ref url="launching-a-widget-on-tab-click-in-your-mobile-app.md" %}
-[launching-a-widget-on-tab-click-in-your-mobile-app.md](launching-a-widget-on-tab-click-in-your-mobile-app.md)
+{% content-ref url="launching-a-widget-on-tab-click.md" %}
+[launching-a-widget-on-tab-click.md](launching-a-widget-on-tab-click.md)
 {% endcontent-ref %}
 
 
