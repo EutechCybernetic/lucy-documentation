@@ -45,9 +45,13 @@ To add a header icon button:
 
 <figure><img src="../../.gitbook/assets/App Bar elements_3.png" alt=""><figcaption><p>Designed app bar</p></figcaption></figure>
 
-### **Displaying Larger Icons**
+### **Adding Icons to the Content Section of the Homepage**
 
-When designing your mobile app homepage, you can add icons to the home page content without placing them in the App bar.
+When designing your mobile app homepage, you can add icons to the home page content section without placing them in the app bar.
+
+{% hint style="info" %}
+Icons can be added to the content only if the page [type ](choosing-a-page-type.md)is set to 'Section'.
+{% endhint %}
 
 To add and display larger icons:
 
