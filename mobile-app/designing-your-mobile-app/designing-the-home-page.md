@@ -52,7 +52,7 @@ When designing your mobile app homepage, you can add icons to the home page cont
 To add and display larger icons:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
+2. Click the bottom navigation bar.
 3. In the bottom tab bar navigation, click the required tab to access your home page.
 4. Under **Configure Tabs** section, pick the **Type** as 'Section'.
 5. Go to the **Sections** tab on the left. Pick the **Icon Section Widget.**
@@ -100,8 +100,8 @@ Choosing a screen type for the home tab or any other tab determines the content 
 To configure the home tab:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the Bottom Tab Bar Navigation.
-3. In the bottom tab bar navigation, click the required tab to access your home page.
+2. Click the bottom navigation bar.
+3. In the bottom navigation bar, click the required tab to access your home page.
 4. Under **Configure Tabs** section configure the following,&#x20;
    1. **Name**: Enter a unique name for the home tab.
    2. **Icon**: Click the **Icon** field and pick an icon from the Search Icons window.
