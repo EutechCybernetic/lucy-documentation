@@ -95,10 +95,22 @@ To configure the home tab:
 4. Under **Configure Tabs** section configure the following,&#x20;
    1. **Name**: Enter a unique name for the home tab.
    2. **Icon**: Click the **Icon** field and pick an icon from the Search Icons window.
-   3. **Type**: Pick the required screen type.
+   3. **Type**: Pick the required page type, _e.g., Sections._
 5. Click **Save.**
+
+### **Selecting a Screen Type**
+
+A screen type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar.
+
+Available Screen Types
+
+* Sections
+* Widget
+* Custom Mobile Page
 
 For detailed instructions on configuring the screen type, read this article.
 
-[Configuring the Screen Type](choosing-a-screen-type.md#screen-types)
+{% content-ref url="choosing-a-screen-type.md" %}
+[choosing-a-screen-type.md](choosing-a-screen-type.md)
+{% endcontent-ref %}
 
