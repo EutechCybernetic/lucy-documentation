@@ -18,7 +18,7 @@ These are the settings related to the app bar of your mobile app.
 
 <figure><img src="../../.gitbook/assets/App Home page settings_1_3.png" alt="" width="563"><figcaption><p>Customise the settings of app home page</p></figcaption></figure>
 
-### Adding and Configuring Header Icon Buttons
+## Adding and Configuring Header Icon Buttons
 
 In your mobile app, you can add header icon buttons in the app bar via the lucy web app. These buttons will be added under the app bar title.
 
@@ -68,19 +68,34 @@ To add and display larger icons:
    7. In the **Label** box, type a unique name for the icon.
    8. [**Edit Action:** ](handling-button-click-events.md)Click this button to open the [**Action Editor** window.](handling-button-click-events.md#action-editor-window) This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when the icon is clicked.
    9. Once the action is configured, click **Done.**
-9. Click **Save** to apply the changes. Open the home page in the mobile app to view your updates.
+9. Click **Save**. Open the home page in the mobile app to view your updates.
 
 <figure><img src="../../.gitbook/assets/Icon Section Widget.png" alt=""><figcaption><p>Set of Icons configured</p></figcaption></figure>
 
+## Customising the Navigation Bar
+
+Customise the bottom navigation bar by selecting a background colour, button colour and active button colours to match your design preferences.
+
+Steps to Customise the Navigation Bar
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
+2. Under the **General** tab on the right, click the **Home Page** tab.
+3. Select a Navigation Bar Background Color, Navigation Bar Button Color, and Navigation Bar Active Button Color as necessary.
+4. Click **Save.** Open your mobile app to view the updates.
+
 ## Configuring the Home Tab
 
-When configuring the Home tab of your mobile app in Lucy web app, you can add a unique name, select an icon and pick a screen type for your Mobile app home page. There are available screen types.
+When configuring the Home tab of your mobile app in Lucy web app, you can add a unique name, select an icon and pick a screen type.&#x20;
+
+There are the available screen types.
 
 | Type               | Description                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Section            | <p>This type of screen lets you add horizontal sections to your mobile screen. You can drag and drop the required section to the mobile screen. Each section serves a unique purpose and enhances the user experience.</p><p></p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p> |
 | Widget             | You can link a preconfigured widget to a specific tab to display it when clicked.                                                                                                                                                                                                                                                                                                                                       |
 | Custom Mobile Page | Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.                                                                                                                                                                                         |
+
+Choosing a screen type for the home tab or any other tab determines the content displayed when the user clicks on that tab.
 
 To configure the home tab:
 
