@@ -10,11 +10,9 @@ A page type determines the content displayed when a tab is clicked in your mobil
 
 Select a page type when adding a new tab to your mobile app's bottom navigation bar.
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the bottom navigation bar.
-3. In the bottom navigation bar, click the required tab.
-4. Under **Configure Tabs** section, select the  desired **Type.**
-5. Click **Save.**
+{% content-ref url="adding-a-new-tab-in-the-navigation-bar.md" %}
+[adding-a-new-tab-in-the-navigation-bar.md](adding-a-new-tab-in-the-navigation-bar.md)
+{% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/Adding a new tab_2.png" alt=""><figcaption><p>Choosing a Type</p></figcaption></figure>
 
@@ -39,7 +37,7 @@ d) Horizontal List of Cards
 e) Currency Converter Widget
 
 {% hint style="info" %}
-When configuring a tab, the Type should be selected as 'Section' to add horizontal sections. In other words, you cannot add horizontal sections for other types.
+When adding a tab, the Type should be selected as 'Section' to add horizontal sections. In other words, you cannot add horizontal sections for other types.
 {% endhint %}
 
 
@@ -206,6 +204,10 @@ To link a widget to a specific tab:
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;
 7. Click **Save** to apply the changes. The selected widget will now display in your app under the required tab.
 
+{% hint style="info" %}
+When adding a tab, the type should be selected as 'Widget' to link a preconfigured widget to that tab.
+{% endhint %}
+
 Learn to build and link a widget to a tab. Find the article here to gain more insights:
 
 {% content-ref url="launching-a-widget-on-tab-click.md" %}
@@ -220,11 +222,15 @@ The screen below displays a widget created using the Search widget template, lin
 
 ### 3) Custom Mobile Page
 
-Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, _e.g., Settings page._
+Custom Mobile Pages, such as the Settings page, are unique to the mobile app and not available in the Lucy web app.
+
+{% hint style="info" %}
+When adding a tab, the type should be selected as 'Custom Mobile Page' to design the required page.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Settings screen_2.png" alt="" width="353"><figcaption><p>Settings screen</p></figcaption></figure>
 
-Here is an example for designing a page using the Custom Mobile Page type.
+Here is an example for designing a page using the 'Custom Mobile Page' type.
 
 {% content-ref url="designing-the-settings-page.md" %}
 [designing-the-settings-page.md](designing-the-settings-page.md)
