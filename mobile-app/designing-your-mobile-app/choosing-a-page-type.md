@@ -41,7 +41,7 @@ To add and configure a Custom UI Section:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. Under **Configure Tabs** section, select the **Type** as **Sections.**
+4. Under **Configure Tabs** section, select the **Type** as 'Section'**.**
 5. Go to the **Sections** tab on the left.
 6. Drag and drop the '**Describe a custom interface with a special interface language'** section on to the desired area on the mobile screen.
 7. A horizontal section named Custom UI will appear on the mobile screen.
@@ -75,7 +75,7 @@ To add a Icon Section Widget:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+4. Under **Configure Tabs** section,  select the **Type** as 'Section'.
 5. Go to the **Sections** tab on the left.
 6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
 7. An icon section widget will be added and displayed on the mobile screen.
@@ -119,7 +119,7 @@ To add a Image Card List:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+4. Under **Configure Tabs** section,  select the **Type** as 'Section'.
 5. Go to the **Sections** tab on the left.
 6. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
 7. An image card list will be added and displayed on the mobile screen.
@@ -152,7 +152,7 @@ To add a Horizontal List of Cards:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+4. Under **Configure Tabs** section,  select the **Type** as 'Section'.
 5. Go to the **Sections** tab on the left.
 6. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
 7. The newly added Horizontal List of Cards section will appear on the mobile screen.
@@ -168,7 +168,7 @@ To add a Currency Converter Widget:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. Under **Configure Tabs** section,  select the **Type** as **Sections.**
+4. Under **Configure Tabs** section,  select the **Type** as 'Section'.
 5. Go to the **Sections** tab on the left.
 6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen and it will appear on the mobile screen.
 7. Click **Save** to apply the changes in the mobile app.
