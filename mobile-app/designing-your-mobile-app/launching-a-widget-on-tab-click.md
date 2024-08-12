@@ -4,17 +4,15 @@ Discover how to launch a widget when a user clicks a tab in your mobile app.&#x2
 
 First, we'll build our widget using the Search Widget Template. This template lets you configure multiple tabs, each connected to a data source to display specific information. The data source can originate from either the MongoDB collection or Lucy Actions. After selecting a data source, you can even customise the information shown under each tab by mapping UI elements to the selected data source values.
 
-
-
 {% hint style="info" %}
 Before following this tutorial, ensure you are familiar with [creating folders](../../folders/creating-a-new-folder.md), [databases](../../databases/creating-and-editing-databases/), and Lucy Actions.
 {% endhint %}
 
-## Building the Widget
+## Creating the Widget
 
 In this example, we will use an existing database as the data source.
 
-To build a widget:
+To create a widget
 
 1. On the app homepage, go to the **My Work** tab.
 2. Search and click the required folder and open it.
@@ -22,7 +20,7 @@ To build a widget:
 4. Click the **+** button.
 5. Choose the **Start from Scratch** option.
 6. Pick the desired type of **Widget Template,** _e.g., Search Widget._
-7. Click **Edit this Template** to open the template on its widget designer page.
+7. Click **Edit this Template** to open it on the widget designer page.
 8. Give a name for the widget.
    1. Go to the **General** tab on the right.
    2. In the **Name** box, type in a suitable name.

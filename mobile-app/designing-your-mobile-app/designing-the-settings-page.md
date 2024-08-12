@@ -51,6 +51,29 @@ After designing the structure of the Settings page, link each section to its rel
 
 For example, let's set the Personal Details section to launch a widget displaying the user's personal details.
 
-### Building the Widget
+### Creating the Widget
+
+We'll use the 'Object View' widget template to create a widget that shows user's personal details. Follow these steps to create the widget.
+
+1. On the app homepage, go to the **My Work** tab.
+2. Search and click the required folder and open it.
+3. Go to the **User Interfaces** tab.
+4. Click the **+** button.
+5. Choose the **Start from Scratch** option.
+6. Pick the desired type of **Widget Template,** _e.g., Object View._
+7. Click **Edit this Template** to open it on its widget designer page.
+8. Give a name for the widget.
+   1. Go to the **General** tab on the right.
+   2. In the **Name** box, type in a suitable name.
+9. Customise the properties of the widget.
+   1. Customise the header section.
+      1. Click the header section of the widget to open its properties panel on the right.
+      2. In the properties panel, go to the **Title** section.
+      3. Enter a suitable title for the widget. Pick a colour and adjust its size as necessary.
+   2. Add a profile picture field.
+      1. Under Fields tab on the left, drag and drop the Profile Picture field on to the widget's body section.
+   3. Add
+10. Click the **Preview** button to preview the design.
+11. Once you are happy with the design, click **Save Widget.**
 
 ### Linking the Widget to the Respective Section
