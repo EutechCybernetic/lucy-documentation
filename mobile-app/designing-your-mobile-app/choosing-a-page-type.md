@@ -180,7 +180,7 @@ To add a Currency Converter Widget:
 
 <figure><img src="../../.gitbook/assets/Currency Converter Widget_2.png" alt="" width="530"><figcaption><p>Currency Converter Widget section displayed in mobile app</p></figcaption></figure>
 
-### 2) Widgets
+### 2) Widget
 
 You can link a preconfigured widget to a specific tab to display it when clicked.&#x20;
 
@@ -189,7 +189,7 @@ To link a widget to a specific tab:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. Under **Configure Tabs** section, select the **Type** as **Widget.**
+4. Under **Configure Tabs** section, select the **Type** as 'Widget'**.**
 5. Click the **Select a Widget** button.
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;
 7. Click **Save** to apply the changes. The selected widget will now display in your app under the required tab.
@@ -206,7 +206,7 @@ The screen below displays a widget created using the Search widget template, lin
 
 <figure><img src="../../.gitbook/assets/Widget example_1.png" alt="" width="353"><figcaption><p>Widget example</p></figcaption></figure>
 
-### 3) Custom Mobile Pages
+### 3) Custom Mobile Page
 
 Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, _e.g., Settings page._
 
