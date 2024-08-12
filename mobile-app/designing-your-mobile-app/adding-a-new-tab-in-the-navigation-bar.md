@@ -1,6 +1,6 @@
 # Adding a New Tab in the Navigation Bar
 
-Once the mobile app is set up, you can create pages and configure tab navigation. The default Navigation Bar at the bottom includes Home and Settings tabs. The default Navigation Bar at the bottom has Home and Settings tabs. You can customize and add more tabs as needed. When you switch between tabs, you can configure the type of screen that opens for each one.
+Once the mobile app is set up, you can create pages and configure tab navigation. The default Navigation Bar at the bottom includes Home and Settings tabs. The default Navigation Bar at the bottom has Home and Settings tabs. You can customise and add more tabs as needed. When you switch between tabs, you can configure the type of screen that opens for each one.
 
 ## Adding a New Tab in the Navigation Bar
 
@@ -27,7 +27,7 @@ To add and configure a new tab in the navigation bar of the mobile app
 
 ## Customising the Page that is Opened upon Tab Selection
 
-When you add a new tab to the navigation bar, you can configure it to open a specific page based on the type of screen you select. Then, you can start customizing the respective page.
+When you add a new tab to the navigation bar, you can configure it to open a specific page based on the type of screen you select. Then, you can start customising the respective page.
 
 For further information on selecting the appropriate screen type, click here.
 
