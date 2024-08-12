@@ -84,7 +84,7 @@ Steps to Customise the Navigation Bar
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
 2. Under the **General** tab on the right, click the **Home Page** tab.
-3. Select a Navigation Bar Background Color, Navigation Bar Button Color, and Navigation Bar Active Button Color as necessary.
+3. Select a Navigation Bar Background Colour, Navigation Bar Button Colour, and Navigation Bar Active Button Colour as necessary.
 4. Click **Save.** Open your mobile app to view the updates.
 
 ## Configuring the Home Tab
