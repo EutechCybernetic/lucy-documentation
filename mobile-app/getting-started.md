@@ -23,7 +23,7 @@ After downloading and installing the Lucy mobile app, let's sign in.
 {% hint style="info" %}
 You can find the organization name in the web URL. For example:
 
-<img src="../.gitbook/assets/organization name_1.png" alt="" data-size="original">
+![](<../.gitbook/assets/organization name\_2.png>)
 {% endhint %}
 
 {% hint style="info" %}
