@@ -6,6 +6,18 @@ A page type determines the content displayed when a tab is clicked in your mobil
 
 <table><thead><tr><th width="306">Type</th><th>Description</th></tr></thead><tbody><tr><td>Section</td><td><p>This type of page displays horizontal sections, each serving a unique purpose and enhancing the user experience.</p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p></td></tr><tr><td>Widget</td><td>You can link a preconfigured widget to a specific tab to display it when clicked.</td></tr><tr><td>Custom Mobile Page</td><td>Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.</td></tr></tbody></table>
 
+## Choosing a Page Type
+
+Select a page type when adding a new tab to your mobile app's bottom navigation bar.
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. Click the bottom navigation bar.
+3. In the bottom navigation bar, click the required tab.
+4. Under **Configure Tabs** section, select the  desired **Type.**
+5. Click **Save.**
+
+<figure><img src="../../.gitbook/assets/Adding a new tab_2.png" alt=""><figcaption><p>Choosing a Type</p></figcaption></figure>
+
 ### 1) Section
 
 The 'Section**'** page type lets you effortlessly add and configure horizontal sections on a mobile page using the Lucy web app. Just drag and drop them into place. Each section has a unique function to enhance the user experience.
