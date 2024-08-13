@@ -68,7 +68,7 @@
     * [Designing the Homepage](mobile-app/designing-your-mobile-app/designing-the-homepage.md)
     * [Designing the Settings Page](mobile-app/designing-your-mobile-app/designing-the-settings-page.md)
     * [Choosing a Page Type](mobile-app/designing-your-mobile-app/choosing-a-page-type.md)
-    * [Adding a New Tab in the Navigation Bar](mobile-app/designing-your-mobile-app/adding-a-new-tab-in-the-navigation-bar.md)
+    * [Adding a New Tab to the Bottom Navigation Bar](mobile-app/designing-your-mobile-app/adding-a-new-tab-to-the-bottom-navigation-bar.md)
     * [Handling Button Click Events](mobile-app/designing-your-mobile-app/handling-button-click-events.md)
     * [Launching a Widget on Tab Click](mobile-app/designing-your-mobile-app/launching-a-widget-on-tab-click.md)
 * [Users](users/README.md)

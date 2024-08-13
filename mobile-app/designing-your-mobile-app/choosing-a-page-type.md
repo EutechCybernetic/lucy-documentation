@@ -10,8 +10,8 @@ A page type determines the content displayed when a tab is clicked in your mobil
 
 Select a page type when adding a new tab to your mobile app's bottom navigation bar.
 
-{% content-ref url="adding-a-new-tab-in-the-navigation-bar.md" %}
-[adding-a-new-tab-in-the-navigation-bar.md](adding-a-new-tab-in-the-navigation-bar.md)
+{% content-ref url="adding-a-new-tab-to-the-bottom-navigation-bar.md" %}
+[adding-a-new-tab-to-the-bottom-navigation-bar.md](adding-a-new-tab-to-the-bottom-navigation-bar.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/Adding a new tab_2.png" alt=""><figcaption><p>Choosing a Type</p></figcaption></figure>
