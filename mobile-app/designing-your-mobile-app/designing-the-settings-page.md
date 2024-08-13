@@ -45,7 +45,7 @@ This tutorial explains how to design the Settings page in your mobile app.
 
 <figure><img src="../../.gitbook/assets/Settings Page_1.png" alt="" width="353"><figcaption><p>A example of a Settings page</p></figcaption></figure>
 
-## Setting the Page to Open When a Section is Clicked
+## Launching a Page When a Section is Clicked
 
 After designing the structure of the Settings page, link each section to its relevant page. You can set a section to open a webpage, an add-on, a widget, a Lucy action, or a mobile screen.
 
