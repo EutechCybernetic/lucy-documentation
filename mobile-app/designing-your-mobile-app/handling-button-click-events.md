@@ -5,7 +5,7 @@ When customising your mobile app via Lucy web app, you can control what happens 
 Here are the five types of actions you can take:
 
 1. Open a Web page
-2. Launch a Prebuilt Widget
+2. Open a Prebuilt Widget
 3. Execute a Lucy Action
 4. Open an Add-on
 5. Open a Mobile Screen
@@ -41,7 +41,9 @@ To open a web page
 9. Click **Save.**
 10. Open the Settings page in your mobile app and click the specific section to launch the web page.
 
-## Launch a Prebuilt Widget
+<figure><img src="../../.gitbook/assets/Launch a web page_1.png" alt=""><figcaption><p>Open a web page</p></figcaption></figure>
+
+## Open a Prebuilt Widget
 
 For example, when you click on the Personal Details section in your mobile app's Settings page, it opens the corresponding user-created widget, a form to edit personal details.
 
@@ -58,7 +60,7 @@ To launch a prebuilt widget
 9. Click **Save.**
 10. Open the Settings page in your mobile app and click the specific section to launch the respective widget.
 
-<figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Launch a prebuilt widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Open a prebuilt widget</p></figcaption></figure>
 
 ## Execute a Lucy Action
 
