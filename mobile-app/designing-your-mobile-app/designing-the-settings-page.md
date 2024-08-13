@@ -70,9 +70,29 @@ We'll use the 'Object View' widget template to create a widget that shows user's
       1. Click the header section of the widget to open its properties panel on the right.
       2. In the properties panel, go to the **Title** section.
       3. Enter a suitable title for the widget. Pick a colour and adjust its size as necessary.
-   2. Add a profile picture field.
-      1. Under Fields tab on the left, drag and drop the Profile Picture field on to the widget's body section.
-   3. Add
+   2. Set to add a profile picture.
+      1. Under Fields tab on the left, drag and drop the Profile Picture field on to the blue highlighted area.
+      2. Provide a name for the field and Click Done.
+      3. Customise the profile picture field as necessary from the properties panel.
+   3. Add a field to add the name.
+      1. Under Fields tab on the left, drag and drop the Name Input field on to the blue highlighted area.
+      2. Name the field and Click Done.
+      3. Use the Properties panel to customise the text fields as necessary.
+   4. Add field to add the Email address.
+      1. Under Fields tab on the left, drag and drop the Email Input field on to the blue highlighted area.
+      2. Name the field and Click Done.
+      3. Use the Properties panel to customise the text fields as necessary.
+   5. Add a field to set Gender.
+      1. Under Fields tab on the left, drag and drop the Toggle Input field on to the blue highlighted area.
+      2. Name the field and Click Done.
+      3. Click on the respective field to open its properties panel.
+      4. Under Options section, click the Add New Option button.
+      5. A text field will be displayed. Type the gender in the provided text field _e.g., Male._
+      6. Click on the icon image to pick a appropriate icon.
+      7. Repeat the steps 5-4 to 5-6 to add more options.
+   6. Set a field to pick the nationality.
+   7. Set a field to enter age.
+   8. Set a field to enter mobile number.
 10. Click the **Preview** button to preview the design.
 11. Once you are happy with the design, click **Save Widget.**
 
