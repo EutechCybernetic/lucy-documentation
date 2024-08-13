@@ -146,6 +146,21 @@ Steps to add a Horizontal Container
 
 <figure><img src="../../.gitbook/assets/Horizontal Container_3.png" alt=""><figcaption><p>Horizontal Container example</p></figcaption></figure>
 
+### Linking the Widget
 
+After building our widget, let's link it to a section in the settings page.
 
-### Linking the Widget to the Respective Section
+Steps to Link the Widget
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. On the mobile screen, click the Settings tab to open the settings page.
+3. Click the designed area with the sections and section groups to open its properties panel.
+4. &#x20;In the properties panel, go to the Personal Details section.
+5. Click **Edit Action.**
+6. Go to the **Open Widget** tab.
+7. Pick the designed widget and click **Done.**
+8. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
+9. Open the mobile app's settings page and click the required section.
+
+<figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Launching a predesigned widget</p></figcaption></figure>
+
