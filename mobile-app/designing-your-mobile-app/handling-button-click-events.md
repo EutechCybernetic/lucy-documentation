@@ -24,13 +24,15 @@ Use the Action Editor window to set actions for clickable elements like buttons 
 
 ## Open a Web Page
 
+You can configure a button, icon, or section to open a specific web page when clicked.
+
 For example, when you click on the Help section in your mobile app's Settings page, it opens the Help page.&#x20;
 
 To open a web page
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
-3. On the Settings page, click the required section to open the properties panel.
+3. On the Settings page, click the required section (e.g., Help) to open the properties panel.
 4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.
 5. Navigate to the **Open URL** tab.
 6. Enter the URL of the required web page.
