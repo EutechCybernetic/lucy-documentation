@@ -1,10 +1,10 @@
 # Occupancy Analytics
 
-Occupancy analytics refers to the process of analyzing and understanding how spaces within a building or facility are utilized. This analysis typically involves tracking metrics such as the number of people in a space and patterns of space usage over time. Occupancy analytics can provide valuable insights into how spaces are being used, helping organizations optimize their use of space, improve efficiency, and enhance the overall experience for occupants.
+Occupancy analytics refers to the process of analysing and understanding how spaces within a building or facility are utilised. This analysis typically involves tracking metrics such as the number of people in a space and patterns of space usage over time. Occupancy analytics can provide valuable insights into how spaces are being used, helping organizations optimise their use of space, improve efficiency, and enhance the overall experience for occupants.
 
 **Occupancy Analytics Add-on**
 
-The Occupancy Analytics add-on lets you create custom canvases/dashboards to track the utilization of spaces and rooms. By using this add-on, you can monitor how different areas are being used and make informed decisions about space planning and resource allocation.
+The Occupancy Analytics add-on lets you create custom canvases/dashboards to track the utilisation of spaces and rooms. By using this add-on, you can monitor how different areas are being used and make informed decisions about space planning and resource allocation.
 
 To begin, we'll create a canvas to monitor occupancy data and then install and configure the Occupancy Analytics add-on directly from the canvas itself.
 
@@ -21,9 +21,9 @@ To create a new canvas:
 1. On the Lucy app **homepage,** click the **Gallery** tab.
 2. Click the **+** button to start creating a new Canvas.
 3. Click **Next**.
-4. Customize the background of the canvas if needed.
-   1. To select a color theme for your Canvas from the pre-selected color themes, click on the required box. Selected colour theme will be shown under the Header Colour section.
-   2. If you need to select a custom color theme, click on the color code in the Header Colour section to open the color picker to select a color of your own.
+4. Customise the background of the canvas if needed.
+   1. To select a colour theme for your Canvas from the pre-selected colour themes, click on the required box. Selected colour theme will be shown under the Header Colour section.
+   2. If you need to select a custom colour theme, click on the colour code in the Header Colour section to open the colour picker to select a colour of your own.
    3. Under Background Image, click the Search icon to select a background wallpaper for your Canvas.
    4. To select an image from the available collection, first, type the required keyword in the Search Images box to search for the image and then select it.
    5. To select your own image as the background of the Canvas, click Upload your image and upload your own image.
@@ -63,7 +63,7 @@ After installing the Occupancy Analytics Add-on, we can configure the add-on dir
 To configure the add-on:
 
 1. Click **Let’s Start.**
-2. Pick the source to get data. There three ways to get occupancy data to visualize on your canvas.
+2. Pick the source to get data. There three ways to get occupancy data to visualise on your canvas.
    1. **Pointgrab**: If you have PointGrab Occupancy sensors, you can enter **PointGrab Client ID** and **PointGrab Client Secret** and authenticate yourself.
    2. **Simulator**: Used to generate data so that you can display on your occupancy related widgets. This option is useful when sensors are not available.
    3. Buy your products on Spaceworx marketplace.
