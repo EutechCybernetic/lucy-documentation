@@ -66,9 +66,9 @@ To create a canvas:
 1. On the Lucy app **homepage,** click the **Gallery** tab.
 2. Click the **+** button to start creating a new Canvas.
 3. Click **Next**.
-4. Customize the background of the canvas if needed.
-   1. To select a color theme for your Canvas from the pre-selected color themes, click on the required box. Selected colour theme will be shown under the Header Colour section.
-   2. If you need to select a custom color theme, click on the color code in the Header Colour section to open the color picker to select a color of your own.
+4. Customise the background of the canvas if needed.
+   1. To select a colour theme for your Canvas from the pre-selected colour themes, click on the required box. Selected colour theme will be shown under the Header Colour section.
+   2. If you need to select a custom colour theme, click on the colour code in the Header Colour section to open the colour picker to select a color of your own.
    3. Under Background Image, click the Search icon to select a background wallpaper for your Canvas.
    4. To select an image from the available collection, first, type the required keyword in the Search Images box to search for the image and then select it.
    5. To select your own image as the background of the Canvas, click Upload your image and upload your own image.
