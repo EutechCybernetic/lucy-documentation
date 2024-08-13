@@ -53,7 +53,9 @@ For example, let's set the Personal Details section to launch a widget displayin
 
 ### Creating the Widget
 
-We'll use the 'Object View' widget template to create a widget that shows user's personal details. Follow these steps to create the widget.
+We'll use the 'Object View' widget template to create a widget that shows user's personal details. Design your widget by adding required fields.
+
+Follow these steps to create the widget.
 
 1. On the app homepage, go to the **My Work** tab.
 2. Search and click the required folder and open it.
@@ -69,31 +71,81 @@ We'll use the 'Object View' widget template to create a widget that shows user's
    1. Customise the header section.
       1. Click the header section of the widget to open its properties panel on the right.
       2. In the properties panel, go to the **Title** section.
-      3. Enter a suitable title for the widget. Pick a colour and adjust its size as necessary.
+      3. **Text** field: Enter a suitable title for the widget. Pick a colour and adjust its size as necessary.
    2. Set to add a profile picture.
-      1. Under Fields tab on the left, drag and drop the Profile Picture field on to the blue highlighted area.
+      1. Under the Fields tab on the left, drag and drop the Profile Picture field on to the blue highlighted area.
       2. Provide a name for the field and Click Done.
       3. Customise the profile picture field as necessary from the properties panel.
    3. Add a field to add the name.
-      1. Under Fields tab on the left, drag and drop the Name Input field on to the blue highlighted area.
+      1. Under the Fields tab on the left, drag and drop the Name Input field on to the blue highlighted area.
       2. Name the field and Click Done.
-      3. Use the Properties panel to customise the text fields as necessary.
-   4. Add field to add the Email address.
-      1. Under Fields tab on the left, drag and drop the Email Input field on to the blue highlighted area.
+      3. Use the Properties panel to customise the field as necessary.
+   4. Add a field to add the Email address.
+      1. Under the Fields tab on the left, drag and drop the Email Input field on to the blue highlighted area.
       2. Name the field and Click Done.
-      3. Use the Properties panel to customise the text fields as necessary.
+      3. Use the Properties panel to customise the field as necessary.
    5. Add a field to set Gender.
-      1. Under Fields tab on the left, drag and drop the Toggle Input field on to the blue highlighted area.
+      1. Under the Fields tab on the left, drag and drop the Toggle Input field on to the blue highlighted area.
       2. Name the field and Click Done.
       3. Click on the respective field to open its properties panel.
-      4. Under Options section, click the Add New Option button.
+      4. Under the Options section, click the Add New Option button.
       5. A text field will be displayed. Type the gender in the provided text field _e.g., Male._
       6. Click on the icon image to pick a appropriate icon.
       7. Repeat the steps 5-4 to 5-6 to add more options.
    6. Set a field to pick the nationality.
+      1. Under the Fields tab on the left, drag and drop the Toggle Input field on to the blue highlighted area.
+      2. Name the field and Click Done.
+      3. Click the field to open its properties panel on the right.
+      4. Bind a data source to the widget to fetch data.
+         1. Under the Options section, select the **Get Options from a Data source** option. Bind a Source button will be displayed.
+         2. Click **Bind a Source.** You can pick a lucy action or a database as the data source.
+         3. Bind a database.
+            1. Go to the **Databases** tab.&#x20;
+            2. Search and select the required database.
+            3. Click **Select this Source** button. A preview of your data will be displayed in a table.
+            4. Format the data if necessary. If you are satisfied with the data preview, click **Looks Good.** The selected database will be displayed.
+            5. **Label Field:** Select name as the label.
+      5. Under the Dropdown section, in the **Value** field, type in the nationality to be displayed to user. Remove the text in the Placeholder and Default Text fields.
    7. Set a field to enter age.
+      1. Under the Fields tab on the left, drag and drop the Number Input field on to the blue highlighted area.
+      2. Name the field and Click Done.
+      3. In the properties panel, go to the Number Input section.
+      4. **Value**: Type in the age to be displayed to user.&#x20;
+      5. Type in the **Min Value** and the **Max Value** for the age input.
    8. Set a field to enter mobile number.
+      1. Under the Fields tab on the left, drag and drop the Phone No Input field on to the blue highlighted area.
+      2. Name the field and Click Done.
+      3. In the properties panel, go to the Text Input section.
+      4. Default Country: Type in the country name to set as the default country. Once set, it will display the country code along with the flag.
 10. Click the **Preview** button to preview the design.
 11. Once you are happy with the design, click **Save Widget.**
+
+#### **Adding Horizontal Containers**
+
+Use horizontal containers to store fields horizontally when designing your widget.
+
+Steps to add a Horizontal Container
+
+1. On the app homepage, go to the **My Work** tab.
+2. Search and click the required folder and open it.
+3. Go to the **User Interfaces** tab.
+4. Click the **+** button.
+5. Choose the **Start from Scratch** option.
+6. Pick the desired type of **Widget Template,** _e.g., Object View._
+7. Click **Edit this Template** to open it on its widget designer page.
+8. Give a name for the widget.
+   1. Go to the **General** tab on the right.
+   2. In the **Name** box, type in a suitable name.
+9. Add a horizontal container.
+   1. Under the Fields tab on the left, drag and drop the **Horizontal Container** field on to the blue highlighted area.
+   2. Pick a field and drag and drop it to the right or left column of the horizontal container.
+   3. Continue adding more fields to each column.
+10. Click the **Preview** button to preview the design.
+11. Once you are happy with the design, click **Save Widget.**\
+
+
+<figure><img src="../../.gitbook/assets/Horizontal Container_3.png" alt=""><figcaption><p>Horizontal Container example</p></figcaption></figure>
+
+
 
 ### Linking the Widget to the Respective Section
