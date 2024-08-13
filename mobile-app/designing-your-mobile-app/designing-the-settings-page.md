@@ -162,5 +162,5 @@ Steps to Link the Widget
 8. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
 9. Open the mobile app's settings page and click the required section.
 
-<figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Launching a predesigned widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Launching the predesigned widget</p></figcaption></figure>
 
