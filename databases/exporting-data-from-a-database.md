@@ -1,4 +1,4 @@
-# Exporting Data in a Database
+# Exporting Data from a Database
 
 With Lucy, you can export a database as a CSV file.
 
@@ -13,3 +13,9 @@ Let's see how to do it.
 7. A spreadsheet view of your database will be opened in a new window.
 8. Click **Export**.
 9. Your database will be exported as a downloadable .CSV file.
+
+Watch this video to learn how to export a database to a CSV file.
+
+{% embed url="https://drive.google.com/file/d/19418mVuZEaqKYWx5lyAgvR1i-nBUa2ZD/view?usp=sharing" %}
+
+\
