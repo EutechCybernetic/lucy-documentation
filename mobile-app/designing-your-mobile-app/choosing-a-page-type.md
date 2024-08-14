@@ -32,7 +32,7 @@ There are multiple types of horizontal sections that you can add.
 
 [d) Horizontal List of Cards](choosing-a-page-type.md#d-horizontal-list-of-cards)
 
-[e) Currency Converter Widget](choosing-a-page-type.md#b-icon-section-widget)
+[e) Currency Converter Widget](choosing-a-page-type.md#e-currency-converter-widget)
 
 {% hint style="info" %}
 To add horizontal sections, set the **Type** to 'Section' when adding a tab. Other types do not support horizontal sections.

@@ -1,8 +1,8 @@
 # Designing the Settings Page
 
-This tutorial explains how to design the Settings page in your mobile app.
+This tutorial explains how to design the Settings page in your mobile app. By default, you will have a Settings page and you can customise it as necessary.
 
-## Designing the Settings Page
+Let's customise the Settings page of your mobile app using the Lucy web app.
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. On the mobile screen, click the bottom section to open the properties panel on the right.
