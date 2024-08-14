@@ -4,11 +4,11 @@ When customising your mobile app via Lucy web app, you can control what happens 
 
 Here are the five types of actions you can take:
 
-1. Open a Web page
-2. Open a Prebuilt Widget
-3. Execute a Lucy Action
-4. Open an Add-on
-5. Open a Mobile Screen
+1. [Open a Web page](handling-button-click-events.md#open-a-web-page)
+2. [Open a Prebuilt Widget](handling-button-click-events.md#open-a-prebuilt-widget)
+3. [Execute a Lucy Action](handling-button-click-events.md#execute-a-lucy-action)
+4. [Open an Add-on](handling-button-click-events.md#open-an-add-on)
+5. [Open a Mobile Screen](handling-button-click-events.md#open-a-mobile-screen)
 
 {% hint style="info" %}
 You will also encounter button click events when creating widgets, such as the Search widget.
