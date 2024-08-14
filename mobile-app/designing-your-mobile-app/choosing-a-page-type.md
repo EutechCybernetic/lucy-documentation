@@ -4,7 +4,7 @@
 
 A page type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar. These are the available page types.
 
-<table><thead><tr><th width="306">Type</th><th>Description</th></tr></thead><tbody><tr><td>Section</td><td><p>This type of page displays horizontal sections, each serving a unique purpose and enhancing the user experience.</p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p></td></tr><tr><td>Widget</td><td>You can link a preconfigured widget to a specific tab to display it when clicked.</td></tr><tr><td>Custom Mobile Page</td><td>Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.</td></tr></tbody></table>
+<table><thead><tr><th width="306">Type</th><th>Description</th></tr></thead><tbody><tr><td><a href="choosing-a-page-type.md#id-1-section">Section</a></td><td><p>This type of page displays horizontal sections, each serving a unique purpose and enhancing the user experience.</p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p></td></tr><tr><td><a href="choosing-a-page-type.md#id-2-widget">Widget</a></td><td>You can link a preconfigured widget to a specific tab to display it when clicked.</td></tr><tr><td><a href="choosing-a-page-type.md#id-3-custom-mobile-page">Custom Mobile Page</a></td><td>Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.</td></tr></tbody></table>
 
 ## Choosing a Page Type
 
@@ -22,27 +22,23 @@ The 'Section**'** page type lets you effortlessly add and configure horizontal s
 
 You can add the same section multiple times if necessary.
 
-#### Types of Sections
-
 There are multiple types of horizontal sections that you can add.
 
-a) Custom UI Section
+[a) Custom UI Section](choosing-a-page-type.md#a-custom-ui-section)
 
-b) Icon Section Widget
+[b) Icon Section Widget](choosing-a-page-type.md#b-icon-section-widget)
 
-c) Image Card List
+[c) Image Card List](choosing-a-page-type.md#c-image-card-list)
 
-d) Horizontal List of Cards
+[d) Horizontal List of Cards](choosing-a-page-type.md#d-horizontal-list-of-cards)
 
-e) Currency Converter Widget
+[e) Currency Converter Widget](choosing-a-page-type.md#b-icon-section-widget)
 
 {% hint style="info" %}
 To add horizontal sections, set the **Type** to 'Section' when adding a tab. Other types do not support horizontal sections.
 {% endhint %}
 
-
-
-a) Custom UI Section
+#### a) Custom UI Section
 
 Use the Custom UI Section to create a personalised user interface with JSON code.
 
@@ -68,7 +64,7 @@ To add and configure a Custom UI Section:
 
 <figure><img src="../../.gitbook/assets/Custom UI created_3.png" alt="" width="353"><figcaption><p>Custom UI created</p></figcaption></figure>
 
-b) Icon Section Widget
+#### b) Icon Section Widget
 
 You can include a set of icons using an Icon Section Widget. Configure each icon by setting its background colour, icon colour, name, and the action to be executed when clicked.
 
@@ -112,7 +108,7 @@ To add a Icon Section Widget:
 
 
 
-c) Image Card List
+#### c) Image Card List
 
 You can add and customise an image card list for specific mobile screens, offering various options for personalisation.
 
@@ -151,7 +147,7 @@ To add a Image Card List:
 
 
 
-d) Horizontal List of Cards
+#### d) Horizontal List of Cards
 
 A Horizontal List of Cards section is similar to an Image Card List, with the added functionality of swiping the cards to the left or right. You can also display buttons or text labels at the top or bottom.
 
@@ -171,7 +167,7 @@ To add a Horizontal List of Cards:
 
 <figure><img src="../../.gitbook/assets/Horizontal List of Cards.jpg" alt="" width="563"><figcaption><p>An example designed using the Horizontal List of Cards section</p></figcaption></figure>
 
-e) Currency Converter Widget
+#### e) Currency Converter Widget
 
 To add a Currency Converter Widget:
 
