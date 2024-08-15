@@ -38,16 +38,25 @@ Next, create a form to easily add sample data to your database.
 6. Search and click on the **database** we previously created.
 7. Hover over the database and click **Edit** icon that appears.
 8. Click **Create a Form.**
-9. Under the **General** tab on the right, provide a name for the widget.
-10. Click **Save Widget**.
-11. Click **Open Page** to open the form in a new window.
-12. Fill in the form details and click **Submit**.
-13. Refresh the page to add more data.
-14. Open the database to view data.
+9. Under the **General** tab on the right, provide a name for the form.
+10. Click the **Delete** icon of the corresponding field (e.g., Mood) to remove it from the form.
+11. Click **Save Widget**.
+12. Click **Open Page** to open the form in a new window.
+13. Fill in the form details and click **Submit**.
+14. Refresh the page to add more data.
+15. Open the database to view and add data to the required column.
     1. Within your folder, go to the **Databases** tab.
     2. Search and click on the required database. Entered data will be displayed.
+    3. Click the **Edit** button to enter the edit mode in the database.
+    4. Fill in the data in the required column _e.g., Mood._
 
 <figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S1.png" alt=""><figcaption><p>Feedback Form </p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S2.png" alt="" width="392"><figcaption><p>Entering form details</p></figcaption></figure>
+
+
+
+
 
 ## <mark style="color:blue;">3. Enable Content-Aware Autofill in Your Database</mark>
 
