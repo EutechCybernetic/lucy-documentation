@@ -1,6 +1,6 @@
-# Ask a Question about Databases in a Folder to Build Your Own Widget
+# Enter a Question about Databases within a Folder to Build Your Own Widget
 
-In Lucy, you can ask a question related to existing databases in a folder to create your very own widget. The system then pulls out the answers from the data in those databases and turns them into a cool visual widget for you.
+In Lucy, you can type in a question related to existing databases within in a folder to create your very own widget. The system then pulls out the answers from the data in those databases and turns them into a cool visual widget for you.
 
 Imagine we have a database storing asset information, and now, our goal is to create a widget visualising the count of operational assets for each asset category in a pie chart.
 
@@ -29,5 +29,7 @@ Let’s see how to build a widget by typing a question.
 The information presented on the generated widget will depend on the data volume within databases and the field names you specify in those databases.
 {% endhint %}
 
+Watch this video to gain more insights on building a widget by entering a question related to databases within a folder.
 
+{% embed url="https://drive.google.com/file/d/1xUc3YKVVbdtzXzIWjeF8cFnFsoM0joAq/view?usp=drive_link" %}
 

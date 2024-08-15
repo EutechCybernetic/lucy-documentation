@@ -32,7 +32,7 @@
   * [Searching, Filtering, and Sorting Data in a Database](databases/searching-filtering-and-sorting-data-in-a-database.md)
   * [Exporting Data from a Database](databases/exporting-data-from-a-database.md)
   * [Utilising Content-aware Autofill to Automatically Populate Your Database](databases/utilising-content-aware-autofill-to-automatically-populate-your-database.md)
-  * [Ask a Question about Databases in a Folder to Build Your Own Widget](databases/ask-a-question-about-databases-in-a-folder-to-build-your-own-widget.md)
+  * [Enter a Question about Databases within a Folder to Build Your Own Widget](databases/enter-a-question-about-databases-within-a-folder-to-build-your-own-widget.md)
   * [Adding Data to a Database](databases/adding-data-to-a-database.md)
 * [User Interfaces](user-interfaces/README.md)
   * [Designing a User Interface](user-interfaces/designing-a-user-interface/README.md)
