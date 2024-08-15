@@ -14,10 +14,9 @@ To edit data in a database:
 4. Click on the folder you wish to open.
 5. Go to the **Databases** tab.
 6. Search and click on the desired **database**. Your database will be opened in a spreadsheet view.
-7. Select the data record you wish to edit in the spreadsheet view.
-8. Go to the cell and double click on it to edit data in it.
-9. Type in your data.
-10. As soon as you enter data, the change will be saved. It will show a green tick once the edit is done.
+7. Click the **Edit** button to enter the edit mode in the database.
+8. Enter your data.
+9. As soon as you enter data, the change will be saved. It will show a green tick once the edit is done.
 
 ## <mark style="color:blue;">Deleting Data Records in a Database</mark>
 
