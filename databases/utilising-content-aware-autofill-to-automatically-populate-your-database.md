@@ -54,13 +54,11 @@ Next, create a form to easily add sample data to your database.
 
 <figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S2.png" alt="" width="392"><figcaption><p>Entering form details</p></figcaption></figure>
 
-
-
-
+<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S3.png" alt=""><figcaption><p>Previewing the data</p></figcaption></figure>
 
 ## <mark style="color:blue;">3. Enable Content-Aware Autofill in Your Database</mark>
 
-After creating your database and adding sample data, enable the Content-aware Autofill feature in your database.
+After creating your database and adding sample data, enable the Content-aware Autofill feature to learn from the given data and automatically populate relevant columns.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
@@ -72,7 +70,7 @@ After creating your database and adding sample data, enable the Content-aware Au
 8. Enable the **Content Aware Autofill** option.
 9. Choose the field you want to look at from the **Choose Raw Text Field** list. In this example, it is the 'Comment' field.
 10. Select the **No of Example Rows** to be checked.
-11. **Columns to AutoFill (Optional)**: This option is used to select the field you wish to fill in. In this example, it is the 'Mood' field.
+11. **Columns to AutoFill (Optional)**: Select the field you wish to fill in. In this example, it is the 'Mood' field.
 12. Click **Done**.
 13. Click **Update Database** to save changes.
 
@@ -85,26 +83,19 @@ To add more data
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Click on the folder you wish to open.
 3. Head to the **User Interfaces** tab.
-4. Find the form user interface we previously designed and hover your cursor over it.
-5. Click the **Edit** icon that appears. This will launch your form on the widget designer page.
-6. Click the **Delete** icon of the corresponding field (e.g., Mood) to remove it from the widget.
-7. Click **Save Widget.**
-8. Open the form to add data.
-   1. Click **Share** and click **Open Widget** button. Your form will open in a new window.
-   2. Enter the form details and click **Submit**.
-   3. Refresh the page to add more data.
-9. Click **Share** and click **Open Widget** button.
+4. Find the form user interface and click on it.
+5. The form will be launched in a new page.
+6. Enter the form details and click **Submit**.
+7. Refresh the page to add more data.
 
 ## <mark style="color:blue;">5. Viewing Your Updated Database</mark>
 
 Let's view the database to see the changes.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
-2. All the folders you have created, as well as those created by others, will be listed.
-3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
-4. Click on the folder you wish to open.
-5. Head to the **Databases** tab.
-6. Search and click on the **database** to view it.
-7. The 'Mood' field will be autofilled based on the data you entered.
+2. Click on the folder you wish to open.
+3. Head to the **Databases** tab.
+4. Search and click on the **database** to view it.
+5. The 'Mood' field will be auto filled based on the data you entered.
 
 <figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S4.png" alt=""><figcaption><p>A preview of the updated database</p></figcaption></figure>
