@@ -1,6 +1,6 @@
-# Using the database collection viewer
+# Using the Database Collection Viewer
 
-Inside each project you create, there is a dedicated tab called **Databases**. This tab is where you can create, edit, view, store, and delete your databases. Let’s see how to locate and view the databases you have previously created.
+Within each project you create, there is a dedicated tab called **Databases**. This tab is where you can create, edit, view, store, and delete your databases. Let’s see how to locate and view the databases you have previously created.
 
 ## <mark style="color:blue;">Creating a Database</mark>
 
@@ -43,7 +43,7 @@ If there are databases you don't want, you can simply delete them from your proj
 5. Navigate to the **Databases** tab. A list of previously created databases will be displayed.
 6. Search and select the database you wish to delete.
 7. Click the **Delete Items** button to enter the delete mode.
-8. Click the **delete** icon  inside the selected database.
+8. Click the **delete** icon inside the selected database.
 9. Click **Yes** to confirm the action.
 10. The database will be deleted from the list.
 11. Click **Done** to exit the delete mode.
