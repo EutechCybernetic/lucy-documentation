@@ -8,9 +8,10 @@ For instance, let’s create a database to capture employee feedback and use thi
 
 Utilising Content-aware Autofill for database population involves several key steps.
 
-1. Create Your Database
-2. Add Examples to Your Database
-3. Enable Content-aware Autofill in Your Database
+1. [Create Your Database](utilising-content-aware-autofill-to-automatically-populate-your-database.md#id-1.-create-your-database)
+2. [Add Data to Your Database](utilising-content-aware-autofill-to-automatically-populate-your-database.md#id-2.-add-data-to-your-database)
+3. [Enable Content-aware Autofill in Your Database](utilising-content-aware-autofill-to-automatically-populate-your-database.md#id-3.-enable-content-aware-autofill-in-your-database)
+4. [Viewing Your Updated Database](utilising-content-aware-autofill-to-automatically-populate-your-database.md#viewing-your-updated-database)
 
 ## <mark style="color:blue;">1. Create Your Database</mark>
 
@@ -22,7 +23,7 @@ Find the article below to create a new database.
 [creating-a-database-manually.md](creating-and-editing-databases/creating-a-database-manually.md)
 {% endcontent-ref %}
 
-## <mark style="color:blue;">2. Add Examples to Your Database</mark>
+## <mark style="color:blue;">2. Add Data to Your Database</mark>
 
 The next step is to add some sample data entries to your database. Let’s create a form to easily add data.
 
