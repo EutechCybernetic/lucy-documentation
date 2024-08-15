@@ -31,7 +31,7 @@
   * [Using the Database Collection Viewer](databases/using-the-database-collection-viewer.md)
   * [Searching, Filtering, and Sorting Data in a Database](databases/searching-filtering-and-sorting-data-in-a-database.md)
   * [Exporting Data from a Database](databases/exporting-data-from-a-database.md)
-  * [Utilising Content-aware Autofill to Automatically Populate Your Database](databases/utilising-content-aware-autofill-to-automatically-populate-your-database.md)
+  * [Utilising Content-Aware Autofill to Automatically Populate Your Database](databases/utilising-content-aware-autofill-to-automatically-populate-your-database.md)
   * [Entering a Question about Databases within a Folder to Build Your Own Widget](databases/entering-a-question-about-databases-within-a-folder-to-build-your-own-widget.md)
   * [Adding Data to a Database](databases/adding-data-to-a-database.md)
 * [User Interfaces](user-interfaces/README.md)
