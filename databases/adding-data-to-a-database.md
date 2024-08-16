@@ -11,7 +11,7 @@ There are two approaches to adding data:
 
 You can create a form to capture data and add data to an existing database.
 
-Using forms to fill in data is easy because they offer a user-friendly, structured, and efficient way to input information.
+Forms make data entry simple by providing a user-friendly, structured, and efficient method to input information.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
