@@ -1,15 +1,15 @@
-# Adding Data to a Database
+# Adding Data into a Database
 
-Adding data to a database is the key to maintaining information organised and easy to use.
+Adding data into a database is the key to maintaining information organised and easy to use.
 
 There are two approaches to adding data:
 
-1. [Creating a Form to Populate Data in a Database](adding-data-to-a-database.md#id-1.-creating-a-form-to-populate-data-in-a-database)
-2. [Adding New Data Records Manually](adding-data-to-a-database.md#id-2.-adding-new-data-records-manually)
+1. [Creating a Form to Populate Data in a Database](adding-data-into-a-database.md#id-1.-creating-a-form-to-populate-data-in-a-database)
+2. [Adding New Data Records Manually](adding-data-into-a-database.md#id-2.-adding-new-data-records-manually)
 
 ## <mark style="color:blue;">1. Creating a Form to Populate Data in a Database</mark>
 
-You can create a form to capture data and add data to an existing database.
+You can create a form to capture data and add data into an existing database.
 
 Forms make data entry simple by providing a user-friendly, structured, and efficient method to input information.
 
@@ -64,7 +64,7 @@ To view the changes in the database
 
 ## <mark style="color:blue;">2. Adding New Data Records Manually</mark>
 
-If you want to manually add data records to your database, here's a step-by-step instructions:
+If you want to manually add data records into your database, here's a step-by-step instructions:
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.&#x20;
