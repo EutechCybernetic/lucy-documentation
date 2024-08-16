@@ -30,7 +30,7 @@ Forms make data entry simple by providing a user-friendly, structured, and effic
 
 Watch the below video on creating a form to populate data in your database to gain a better understanding.
 
-{% embed url="https://drive.google.com/file/d/1aBCYfS5Y29DJLe-C_FDnmCG6jyh0X5x2/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1fMRulQDqsSz728JLhKO3EezIOk2xIpVl/view?usp=sharing" %}
 
 ### <mark style="color:blue;">Locating the Form You have Created</mark>
 
