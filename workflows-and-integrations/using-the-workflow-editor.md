@@ -75,10 +75,6 @@ To access the workflow editor:
 
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_4.png" alt=""><figcaption><p>Accessing the Workflow Editor to Create a New Workflow</p></figcaption></figure>
 
-For more insights, watch the video below on how to access the Workflow Editor to create a new workflow.
-
-{% embed url="https://drive.google.com/file/d/1UHrdWILggG6kXBTKos-M_AGuK2yOJwzO/view?usp=sharing" %}
-
 ### Accessing the Workflow Editor to Edit/View a Workflow
 
 After you create a workflow, you can save it. You can then edit or view saved workflows later in the workflow editor.
@@ -97,10 +93,6 @@ To access the workflow editor:
 10. Your workflow will be opened on the workflow editor page.
 
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_5.png" alt=""><figcaption><p>Accessing the Workflow Editor to Edit a Workflow</p></figcaption></figure>
-
-For better understanding, watch the video below on how to access the Workflow Editor to view or edit a workflow.
-
-{% embed url="https://drive.google.com/file/d/1UJDzTC8OEfGOz7RwZiTFTrgdBfjU3qNL/view?usp=sharing" %}
 
 ## Saving a Workflow
 
