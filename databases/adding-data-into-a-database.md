@@ -5,7 +5,7 @@ Adding data into a database is the key to maintaining information organised and 
 There are two approaches to adding data:
 
 1. [Creating a Form to Populate Data in a Database](adding-data-into-a-database.md#id-1.-creating-a-form-to-populate-data-in-a-database)
-2. [Adding New Data Records Manually](adding-data-into-a-database.md#id-2.-adding-new-data-records-manually)
+2. [Adding New Data Records Manually into a Database](adding-data-into-a-database.md#id-2.-adding-new-data-records-manually-into-a-database)
 
 ## <mark style="color:blue;">1. Creating a Form to Populate Data in a Database</mark>
 
@@ -62,7 +62,7 @@ To view the changes in the database
 8. Click on the database to view it.
 9. Previously added data using the form will be displayed on the database view.
 
-## <mark style="color:blue;">2. Adding New Data Records Manually</mark>
+## <mark style="color:blue;">2. Adding New Data Records Manually into a Database</mark>
 
 If you want to manually add data records into your database, here's a step-by-step instructions:
 
@@ -79,6 +79,6 @@ If you want to manually add data records into your database, here's a step-by-st
    4. Fill in the data.&#x20;
    5. Click **Save Item(s).** Your data will be saved in the database.
 
-Find the video on adding data manually to your database to gain better insights.
+Find the video on adding data manually into your database to gain better insights.
 
-{% embed url="https://drive.google.com/file/d/1qjMiRhUOXc9KWEeldPTGTTutGs4sNf5V/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1NaUycVzGF3LghxkeUHsQaf4IX6eusSHo/view?usp=drive_link" %}
