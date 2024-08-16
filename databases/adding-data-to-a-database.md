@@ -19,14 +19,15 @@ Forms make data entry simple by providing a user-friendly, structured, and effic
 4. Click on the folder you wish to open.
 5. Go to the **Databases** tab.
 6. Search and click on the desired **database**.
-7. Hover over the database and click **Edit** icon that appears.
+7. Hover over the database and click the **Edit** icon that appears.
 8. Click **Create a Form**. A form user interface will open on the Widget Designer page.
-9. You can do required customisations to the form.
-10. Once you are happy with the customisations, click **Save Widget** to save the form and access it later.
-11. On the pop up window, click **Open Page** to open the form in a new window.
-12. Fill in the form and click **Submit**.
-13. When you submit the form, data will be populated in the respective database.
-14. Refresh the page to add more records.
+9. Go to the **General** tab on the right and enter a name for the form in the **Name** field.
+10. You can customize the form as needed.
+11. After completing your edits, click **Save Widget.**
+12. On the pop up window, click **Open Page** to open the form in a new window.
+13. Fill in the form and click **Submit**.
+14. When you submit the form, data will be populated in the respective database.
+15. Refresh the page to add more records.
 
 Watch the below video on creating a form to populate data in your database to gain a better understanding.
 
@@ -36,12 +37,12 @@ Watch the below video on creating a form to populate data in your database to ga
 
 All the forms you have created will be saved and listed under the **User Interfaces** tab of the respective folder.&#x20;
 
-If you wish to see your form, here is what you can do:
+If you wish to see your form, here is what you can do.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you wish to open.
 3. Head to the **User Interfaces** tab.
-4. Enter the name of your form in the search box to find it.
+4. Find and select the designated form.
 5. Click on the desired form to open it.
 6. Your form will be opened in a new window.
 
@@ -49,7 +50,7 @@ If you wish to see your form, here is what you can do:
 
 After entering data using a form, all the details will be saved in your database.
 
-To view the changes in the database:
+To view the changes in the database
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
@@ -74,12 +75,12 @@ If you want to manually add data records to your database, here's a step-by-step
 7. Click **Add**.
 8. An empty record will be added to enter data.
 9. Enter your data.
-10. Click **Save Item (s).** Your data will be saved in the database.
+10. Click **Save Item(s).** Your data will be saved in the database.
 11. Add more data records.
-    1. To add more data records, type in the number of rows you want to add data.
-    2. Click **Add.** The entered number of empty records will be added to enter data.
+    1. Type in the number of rows you want to add data.
+    2. Click **Add Row(s).** The entered number of empty records will be added to enter data.
     3. Enter data.&#x20;
-    4. Click **Save Item (s).** Your data will be saved in the database.
+    4. Click **Save Item(s).** Your data will be saved in the database.
 
 Find the video on adding data manually to your database to gain better insights.
 
