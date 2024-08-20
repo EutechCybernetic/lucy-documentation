@@ -18,7 +18,7 @@ Let's manually create our database.
 2. All the folders you have created, as well as those created by others, will be listed.
 3. Click on the required folder to open it.
 4. If you cannot locate the folder in the list, type in the folder name under **Search Folders.** From the search results, click on the desired folder to open it.
-5. Go to **Databases** tab.
+5. Go to the **Databases** tab.
 6. Click **+** button and pick **Create Manually** option.
 7. Enter a meaningful **name** for your database.
 8. Click **Continue**.
@@ -30,7 +30,7 @@ Let's manually create our database.
 11. After adding database fields, click **Go to next Step.**
 12. Click **Create New Database**. An empty database will be created and listed under Databases tab of the respective folder/project.
 
-Below is a image of the database we ‘ve created.
+Below is a image of the database we have created.
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1_1.png" alt=""><figcaption><p>Database preview</p></figcaption></figure>
 
