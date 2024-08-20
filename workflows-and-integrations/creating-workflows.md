@@ -15,8 +15,8 @@ Creating a workflow that activates when new data is added to a database is incre
 
 For additional insights, the article is available here.
 
-{% content-ref url="creating-a-workflow-to-run-when-new-data-is-added-to-a-database.md" %}
-[creating-a-workflow-to-run-when-new-data-is-added-to-a-database.md](creating-a-workflow-to-run-when-new-data-is-added-to-a-database.md)
+{% content-ref url="creating-a-workflow-to-run-when-new-data-is-added-into-a-database.md" %}
+[creating-a-workflow-to-run-when-new-data-is-added-into-a-database.md](creating-a-workflow-to-run-when-new-data-is-added-into-a-database.md)
 {% endcontent-ref %}
 
 ### 2. Creating a Workflow to Run When an Email is Received
