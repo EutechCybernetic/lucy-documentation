@@ -51,3 +51,4 @@ To ensure you can revisit your workflow later, follow these steps to save it ins
 
 1. On the workflow editor page, type in a suitable name for the workflow in the **Name for the workflow** box on the right.
 2. Click **Save** button.
+3. All your saved workflows will be listed under the **Workflows** tab within the respective folder.

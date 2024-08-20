@@ -4,3 +4,6 @@ Automating tasks can significantly enhance workflow efficiency. One powerful met
 
 
 
+{% hint style="info" %}
+All your saved workflows will be listed under the **Workflows** tab within the respective folder.
+{% endhint %}

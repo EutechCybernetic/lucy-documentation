@@ -67,6 +67,10 @@ To create the workflow that sends an email when new data is added to the databas
 10. Enter a suitable **name** for the Workflow.
 11. Click **Save**. Now you have completed creating the workflow. Next step is to test it.
 
+{% hint style="info" %}
+You can find all your saved workflows under the **Workflows** tab within the respective folder.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Selecting a Trigger Block screen 1</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S3_1.png" alt=""><figcaption><p>Selecting a Trigger Block screen 2</p></figcaption></figure>

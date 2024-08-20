@@ -71,7 +71,7 @@ To access the workflow editor:
 5. From the search results, click on the folder.
 6. Inside your folder, click the **Workflows** tab.
 7. Click the **+** icon.&#x20;
-8. This will launch the empty workflow editor where you can create your workflow from scratch.
+8. This will launch the empty workflow editor where you can create your workflow.
 
 <figure><img src="../.gitbook/assets/Using the Workflow Editor_4.png" alt=""><figcaption><p>Accessing the Workflow Editor to Create a New Workflow</p></figcaption></figure>
 
@@ -108,8 +108,7 @@ To save a workflow:
 
 1. On the workflow editor page, enter a suitable name under **Name for the workflow.**
 2. Click **Save.**
-
-
+3. All your saved workflows will be listed under the **Workflows** tab within the respective folder.
 
 {% hint style="info" %}
 To return to the Workflows tab from the Workflow Editor page, click the <img src="../.gitbook/assets/Closebutton_1.png" alt="" data-size="line"> icon.

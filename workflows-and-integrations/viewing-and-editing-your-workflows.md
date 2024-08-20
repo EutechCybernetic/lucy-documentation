@@ -1,12 +1,12 @@
 # Viewing and Editing Your Workflows
 
-You can view workflows created within a Folder/Project by accessing the '**Workflows**' tab. Once you save a workflow, it will appear under the 'Workflows' tab of the respective folder.
+You can view workflows created within a Folder by accessing the '**Workflows**' tab. Once you save a workflow, it will appear under the 'Workflows' tab of the respective folder.
 
 Saved workflow can be further modified if necessary using the workflow editor.
 
 ## Viewing Your Workflows
 
-To locate and open your workflow:
+To locate and open your workflow
 
 1. On the Lucy app **homepage**, head to the **My Work** tab on the left.
 2. All the folders you have created, as well as those created by others, will be listed.
@@ -33,8 +33,3 @@ To modify an existing workflow:
 9. Your workflow will be opened in the workflow editor.
 10. Edit your workflow and click **Save.**
 
-
-
-{% hint style="success" %}
-If you haven’t created any workflows under a project, you will only see the **Add** button under the **Workflows** tab.
-{% endhint %}
