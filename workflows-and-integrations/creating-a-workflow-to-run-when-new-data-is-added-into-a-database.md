@@ -78,9 +78,9 @@ You can find all your saved workflows under the **Workflows** tab within the res
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S5_2.png" alt=""><figcaption><p>Configuring Properties of Send Email Block</p></figcaption></figure>
 
-### 3. Adding Data to the Database
+### 3. Adding Data into the Database
 
-There are two ways to add data to the database.
+There are two ways to add data into the database.
 
 * Adding Data Directly from the Workflow Editor
 * Adding Data from a Form
@@ -98,6 +98,8 @@ This is the easiest method to add data to the database.
 7. Complete the form and click **Execute** to run the workflow and insert the data into the database.
 8. Open your database to preview the changes.
 
+When a new record is added to the database, our workflow will send an email to the recipient.
+
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Adding Data from a Form
@@ -114,7 +116,7 @@ Here is the step-by-step instructions to create a form to add data to your datab
 8. On the pop-up window, click **Open Page** to open the form in a new window.
 9. Fill in the form and click **Submit**. Data will be inserted into the database.
 
-Whenever a new data record is added to the database, our workflow will trigger, sending an email to the recipient.
+Whenever a new data record is added into the database, our workflow will trigger, sending an email to the recipient.
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S6.png" alt=""><figcaption><p>Preview of the Form created to submit data to the database</p></figcaption></figure>
 
