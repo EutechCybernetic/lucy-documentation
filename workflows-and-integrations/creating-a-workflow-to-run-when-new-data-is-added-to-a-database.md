@@ -50,7 +50,7 @@ To create the workflow that sends an email when new data is added to the databas
    1. Click **How do you want to trigger your workflow?** box and select the required trigger.
    2.  Click **When someone submitted data to <\<Your Database Name>> Database** trigger.&#x20;
 
-       _<mark style="color:blue;">Note: Upon creating the database, it will be populated in the Database trigger list. However, if you haven't created the database, it won't appear in the trigger list. If the respective folder contains multiple databases (e.g., 2 databases), there will be two database triggers listed under the trigger list.</mark>_
+       _<mark style="color:blue;">Note: Upon creating the database, it will be populated in the Database trigger list. However, if you haven't created the database, it won't appear in the trigger list. If the respective folder contains multiple databases (e.g., two databases), there will be two database triggers listed under the trigger list.</mark>_
    3. The selected trigger will display on the workflow editor page.
 8. Select the block that defines the actions to execute when the workflow is triggered.
    1. Click the **+** icon of the selected trigger.
@@ -58,13 +58,11 @@ To create the workflow that sends an email when new data is added to the databas
    3. Pick the required block, _e.g., Send Email._
 9. Configure the properties of the Send Email block.
    1. On the Send Email block, click the **arrow** icon ![](<../.gitbook/assets/image (11).png>)to open its **Properties** section.
-   2. Enter the **Subject** of the email.
+   2. Enter the **Subject** of the email. Use Pills and customise the subject as necessary. Pills are tags coming from previous blocks attached to the workflow.
    3. In the **To** box, type in the recipient’s email address.
-   4. In the **Body** box, type in the message to be sent.
-   5. Include output from previous blocks (Data items/pills coming from previous blocks in the workflow) to required fields.
-      1. Click on the field, _e.g., Body_. A pop-up with a list of data items coming from previous blocks will be displayed.
-      2. Select required data from the pop-up to be added in the Body section of the email.
-      3. Type the content in the respective field including the selected data items accordingly.
+   4. In the **Body** box, type the message to be sent. Use Pills and format the message as necessary.
+      1. To add pills, click the Body box. A popup with a list of pills from previous blocks will be displayed.
+      2. Select required pills from the pop-up to be added in the Body section of the email.
 10. Enter a suitable **name** for the Workflow.
 11. Click **Save**. Now you have completed creating the workflow. Next step is to test it.
 
