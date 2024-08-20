@@ -41,7 +41,7 @@ Upon creating the database, we can start creating the workflow using the Workflo
 To create the workflow that sends an email when new data is added to the database:
 
 1. On the Lucy app **homepage**, click the **My Work** tab on the left.&#x20;
-2. All the folders/projects you have created, as well as those created by others, will be listed.&#x20;
+2. All the folders you have created, as well as those created by others, will be listed.&#x20;
 3. Click on the folder to open it.
 4. If you cannot locate the folder in the list, type in the folder name under **Search Folders.** From the search results, click on the folder.
 5. Inside the folder, click the **Workflows** tab.
@@ -58,13 +58,13 @@ To create the workflow that sends an email when new data is added to the databas
    3. Pick the required block, _e.g., Send Email._
 9. Configure the properties of the Send Email block.
    1. On the Send Email block, click the **arrow** icon ![](<../.gitbook/assets/image (11).png>)to open its **Properties** section.
-   2. Enter the **Subject** of the email.Use Pills to customize the subject as necessary. These pills are used in input fields and originate from previous blocks in your workflow.
+   2. Enter the **Subject** of the email. Use Pills to customize the subject as necessary. These pills are used in input fields and originate from previous blocks in your workflow.
    3. In the **To** box, type in the recipient’s email address.
    4. In the **Body** box, type the message to be sent. Use Pills and format the message as necessary.
       1. To add pills, click on the Body box. A list of pills will appear in a pop-up window.
       2. Select required pills from the pop-up to be added in the Body section of the email.
 10. Enter a suitable **name** for the Workflow.
-11. Click **Save**. Now you have completed creating the workflow. Next step is to test it.
+11. Click **Save**.
 
 {% hint style="info" %}
 You can find all your saved workflows under the **Workflows** tab within the respective folder.
@@ -80,7 +80,29 @@ You can find all your saved workflows under the **Workflows** tab within the res
 
 ### 3. Adding Data to the Database
 
-We’ll create a form to easily add data to the database.
+There are two ways to add data to the database.
+
+* Adding Data Directly from the Workflow Editor
+* Adding Data from a Form
+
+#### Adding Data Directly from the Workflow Editor
+
+This is the easiest method to add data to the database.
+
+1. On the Lucy app **homepage**, click the **My Work** tab on the left.&#x20;
+2. All the folders you have created, as well as those created by others, will be listed.&#x20;
+3. Click on the folder to open it.
+4. Within the folder, navigate to the **Workflows** tab.
+5. Locate and click on your workflow to open it on the Workflow editor page.
+6. Click the ![](../.gitbook/assets/image.png)Run button. It will open a form displaying the database fields.
+7. Complete the form and click **Execute** to run the workflow and insert the data into the database.
+8. Open your database to preview the changes.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Adding Data from a Form
+
+Here is the step-by-step instructions to create a form to add data to your database.
 
 1. On the Lucy app **homepage,** click the **My Work** tab on the left.
 2. Search and click the required folder containing the database.

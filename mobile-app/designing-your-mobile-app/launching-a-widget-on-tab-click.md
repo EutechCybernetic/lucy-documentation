@@ -49,7 +49,7 @@ To create a widget
       1. Add a database value to the Image Field.
          1. In the properties panel, go to Image section and select the Image Type as Image.
          2. In the Image Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
-         3. The selected value will be applied and displayed in the Image Field. ![](<../../.gitbook/assets/image (2) (1).png>)
+         3. The selected value will be applied and displayed in the Image Field. ![](<../../.gitbook/assets/image (2) (1) (1).png>)
       2. Add a database value to the Title Field.
          1. In the properties panel, go to the Title section.
          2. In the Title Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
