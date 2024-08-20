@@ -82,8 +82,9 @@ You can find all your saved workflows under the **Workflows** tab within the res
 
 There are two ways to add data into the database.
 
-* Adding Data Directly from the Workflow Editor
-* Adding Data from a Form
+* [Adding Data Directly from the Workflow Editor](creating-a-workflow-to-run-when-new-data-is-added-into-a-database.md#adding-data-directly-from-the-workflow-editor)
+* [Adding Data from the Database](../databases/adding-data-into-a-database.md)
+* [Adding Data from a Form](../databases/adding-data-into-a-database.md)
 
 #### Adding Data Directly from the Workflow Editor
 
@@ -94,33 +95,15 @@ This is the easiest method to add data to the database.
 3. Click on the folder to open it.
 4. Within the folder, navigate to the **Workflows** tab.
 5. Locate and click on your workflow to open it on the Workflow editor page.
-6. Click the ![](../.gitbook/assets/image.png)Run button. It will open a form displaying the database fields.
+6. Click the ![](../.gitbook/assets/image.png)Run button. Execute Workflow form opens.
 7. Complete the form and click **Execute** to run the workflow and insert the data into the database.
 8. Open your database to preview the changes.
 
 When a new record is added to the database, our workflow will send an email to the recipient.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S6_1.png" alt=""><figcaption><p>Execute Workflow form</p></figcaption></figure>
 
-#### Adding Data from a Form
-
-Here is the step-by-step instructions to create a form to add data to your database.
-
-1. On the Lucy app **homepage,** click the **My Work** tab on the left.
-2. Search and click the required folder containing the database.
-3. Inside your folder, click the **Databases** tab.
-4. Search and select the database you’ve created.
-5. Hover over it and click the **Edit** icon that displays. Widget designer page will open.
-6. Go to **Preview** mode.
-7. Fill in the form and click **Submit**. Data will be added to the database.
-8. On the pop-up window, click **Open Page** to open the form in a new window.
-9. Fill in the form and click **Submit**. Data will be inserted into the database.
-
-Whenever a new data record is added into the database, our workflow will trigger, sending an email to the recipient.
-
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S6.png" alt=""><figcaption><p>Preview of the Form created to submit data to the database</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S7.png" alt=""><figcaption><p>Data added to the database</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S7.png" alt=""><figcaption><p>New data record added</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S8.png" alt=""><figcaption><p>Preview of the Email sent to the recipient's inbox</p></figcaption></figure>
 
