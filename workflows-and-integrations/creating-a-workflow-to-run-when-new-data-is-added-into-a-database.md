@@ -36,7 +36,7 @@ Below is a image of the database we have created.
 
 ### 2. Creating the Workflow
 
-Upon creating the database, we can start creating the workflow using the Workflow editor.
+Upon creating the database, we can start creating the workflow using the Workflow editor. Design your workflow by starting from a trigger block and connecting action blocks to it.
 
 To create the workflow that sends an email when new data is added to the database:
 
