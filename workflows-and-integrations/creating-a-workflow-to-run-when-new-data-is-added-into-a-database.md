@@ -28,7 +28,7 @@ Let's manually create our database.
     2. When you enter the field name, the system will automatically determine its type, such as '_Text'._ Change the type if necessary.
     3. To add more fields, click **Add New Field.**
 11. After adding database fields, click **Go to next Step.**
-12. Click **Create New Database**. An empty database will be created and listed under Databases tab of the respective folder/project.
+12. Click **Create New Database**. An empty database will be created and listed under Databases tab of the respective folder.
 
 Below is a image of the database we have created.
 
@@ -103,7 +103,4 @@ You can add data records through the database as well. (Navigate to the Database
 
 Watch the video below on creating a workflow to run when new data is added to a database from the ground up to gain a better understanding.
 
-{% embed url="https://drive.google.com/file/d/1yWbIpF8013YRqhac4hWH7vjyj9nW_ppj/view?usp=sharing" %}
-
-
-
+{% embed url="https://drive.google.com/file/d/10JDGVebiukIfa-2-zmnqOZeUh4baXaMz/view?usp=drive_link" %}
