@@ -80,7 +80,7 @@ You can find all your saved workflows under the **Workflows** tab within the res
 
 ### 3. Adding Data into the Database and Executing the Workflow
 
-To add data into the Database and execute the workflow
+To add a data record into the Database and execute the workflow
 
 1. On the Lucy app **homepage**, click the **My Work** tab on the left.&#x20;
 2. All the folders you have created, as well as those created by others, will be listed.&#x20;
@@ -90,6 +90,10 @@ To add data into the Database and execute the workflow
 6. Click the ![](../.gitbook/assets/image.png)Run button. Execute Workflow form opens.
 7. Complete the form and click **Execute.** This will execute the workflow and insert the data into the database.
 8. Open your database to preview the changes. When a new record is added to the database, our workflow will send an email to the recipient.
+
+{% hint style="success" %}
+You can add data records through the database as well. (Navigate to the Databases tab in the folder and select the required database to open it.)
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S6_1.png" alt=""><figcaption><p>Execute Workflow form</p></figcaption></figure>
 
