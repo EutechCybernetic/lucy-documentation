@@ -30,6 +30,11 @@ Steps to Set up Email Forwarding
 6. Click **Next**. Complete the Google verification process.&#x20;
 7. Click **Proceed** and Click **OK**.
 8. A confirmation link will be sent to the email address that you want to forward emails from. Click the link in that message.
+9. Go back to the settings page for the Gmail account you want to forward messages from, and refresh your browser.
+10. Click the **Forwarding and POP/IMAP** tab.
+11. In the "Forwarding" section, select **Forward a copy of incoming mail to.**
+12. Choose what you want to happen with the Gmail copy of your emails. We recommend Keep Gmail's copy in the Inbox.
+13. Click **Save Changes.**
 
 ## 2) Creating the Workflow
 
