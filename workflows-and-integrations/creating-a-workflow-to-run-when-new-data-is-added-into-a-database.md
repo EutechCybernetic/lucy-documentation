@@ -78,9 +78,9 @@ You can find all your saved workflows under the **Workflows** tab within the res
 
 <figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S5_2.png" alt=""><figcaption><p>Configuring Properties of Send Email Block</p></figcaption></figure>
 
-### 3. Adding Data into the Database and Executing the Workflow
+### 3. Testing/Executing the Workflow
 
-To add a data record into the Database and execute the workflow
+The last step is to test the workflow by adding a data record into the database.
 
 1. On the Lucy app **homepage**, click the **My Work** tab on the left.&#x20;
 2. All the folders you have created, as well as those created by others, will be listed.&#x20;
