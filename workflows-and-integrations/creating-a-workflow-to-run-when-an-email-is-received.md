@@ -3,14 +3,14 @@
 Automating tasks can significantly enhance workflow efficiency. One powerful method is creating a workflow that triggers upon receiving an email.
 
 {% hint style="info" %}
-Before starting this tutorial, ensure you have set up a forwarding email address that ends with '**.<\<Your Organization name>>@inbox.lucyhq.com'** format, for example, collins\_k.eutech@inbox.lucyhq.com.
+Before starting this tutorial, ensure you have created a forwarding email address  in '<\<Your organization name>>**@inbox.lucyhq.com**' format (e.g., collins\_k.eutech@inbox.lucyhq.com).
 {% endhint %}
 
 
 
 ## Configuring Email Forwarding
 
-
+We cannot directly listen to incoming emails. However, we can configure forwarding of incoming emails to another address.
 
 
 
