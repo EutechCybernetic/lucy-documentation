@@ -19,7 +19,7 @@ Steps to Set up Email Forwarding
 3. Click the **Forwarding and POP/IMAP** tab.
 4. In the "Forwarding" section, click **Add a forwarding address**.
 5. Enter the email address you want to forward emails to _e.g., collins\_k.eutech@inbox.lucyhq.com._
-6. Click **Next**.
+6. Click **Next**. Complete the Google verification process.
 
 ## Creating the Workflow
 
