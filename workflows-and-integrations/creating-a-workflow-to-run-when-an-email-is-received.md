@@ -21,7 +21,7 @@ Steps to Set up Email Forwarding
 5. Enter the email address you want to forward emails to _e.g., collins\_k.eutech@inbox.lucyhq.com._
 6. Click **Next**.
 
-## Creating the Worflow
+## Creating the Workflow
 
 
 
