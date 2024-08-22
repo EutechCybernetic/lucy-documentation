@@ -1,16 +1,24 @@
 # Creating a Workflow to Run When an Email is Received
 
-Automating tasks can significantly enhance workflow efficiency. One powerful method is creating a workflow that triggers upon receiving an email.
+Automating tasks can greatly improve workflow efficiency. One effective approach is setting up a workflow that initiates when an email is received.
+
+In this article, we will see how to create a workflow to run when an email is received using an example.
+
+Here are the basic steps of creating a workflow to run when an email is received.
+
+1. Setting Up Email Forwarding
+2. Creating the Workflow
+3. Testing the Workflow
+
+## 1) Setting Up Email Forwarding
+
+Generally, we cannot directly listen to incoming emails. However, we can configure forwarding of incoming emails to another address. Once we have a forwarding email address in place, we can set up email forwarding.&#x20;
 
 {% hint style="info" %}
-Before starting this tutorial, ensure you have created a forwarding email address  in this format '<\<Your organization name>>**@inbox.lucyhq.com**' (e.g., collins\_k.eutech@inbox.lucyhq.com).
+Before setting up email forwarding, ensure you have created a forwarding email address in this format '<\<Your organization name>>**@inbox.lucyhq.com**' (e.g., collins\_k.eutech@inbox.lucyhq.com).
 {% endhint %}
 
 
-
-## Configuring Email Forwarding
-
-We cannot directly listen to incoming emails. However, we can configure forwarding of incoming emails to another address.
 
 Steps to Set up Email Forwarding
 
@@ -21,15 +29,29 @@ Steps to Set up Email Forwarding
 5. Enter the email address you want to forward emails to _e.g., collins\_k.eutech@inbox.lucyhq.com._
 6. Click **Next**. Complete the Google verification process.&#x20;
 7. Click **Proceed** and Click **OK**.
-8. A confirmation link will be sent to the email address that you want to forward emails from.
-9. Click the verification link in that message.
-10.
+8. A confirmation link will be sent to the email address that you want to forward emails from. Click the link in that message.
 
-## Creating the Workflow
+## 2) Creating the Workflow
+
+Next, let's create the workflow.
+
+1. On the Lucy app **homepage**, click the **My Work** tab on the left.&#x20;
+2. All the folders you have created, as well as those created by others, will be listed.&#x20;
+3. Click on the desired folder.
+4. Inside the folder, click the **Workflows** tab.
+5. Click the **+** icon. Workflow editor page will open.
+6. Select the email trigger and configure it.
+   1. Click the **How do you want to trigger your workflow?** box.
+   2. Pick **When someone send a email** trigger from the list.
+   3. Enter the email address that you want to forward emails to.
+   4. Click **Use this email address.** The trigger block will be added and displayed on the workflow editor page.
+7. Add the block that defines the action to execute when the workflow is triggered.
+   1. Click the **+** icon of the trigger block.
+   2. Select the required action block.
 
 
 
-## Testing the Workflow
+## 3) Testing the Workflow
 
 
 
