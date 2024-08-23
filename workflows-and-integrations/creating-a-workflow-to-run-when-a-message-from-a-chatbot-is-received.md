@@ -4,7 +4,7 @@ You can create workflow automations linked to popular messaging apps. This way, 
 
 Lucy now supports creating bots for Telegram, the widely-used messaging platform. Easily register a new bot and integrate it with a Lucy workflow for seamless bot operations.
 
-Let's build a simple bot that will receive requests from clients, store them in a database.
+Let's build a simple bot that will receive requests from clients and store them in a database. Also, send an email notification to the client, once the request is made.
 
 Here are the steps:
 
@@ -86,7 +86,7 @@ All your saved workflows will be listed under the **Workflows** tab within the r
 
 ## Testing the Workflow
 
-Now let's see how our workflow works.
+Let's see how our workflow functions.
 
 1. Open the bot in the Telegram app.
 2. Send a complaint message.
@@ -94,8 +94,8 @@ Now let's see how our workflow works.
    1. Go to the **Databases** tab within your folder.
    2. Click the respective database to open it. You will see the message from the bot has been added to the database.
 
-Whenever someone sends a message via the Telegram app, it will be added to the database and we will receive an email.
+When a message is sent via the Telegram app, it is added to the database, and send an email to the client.
 
-Watch below video on setting up a chatbot to receive requests from clients and insert them into a database.
+Watch below video on setting up a chatbot to receive requests from clients and add them into a database.
 
 {% embed url="https://drive.google.com/file/d/1mZvpeHfo1DnrV9sIFM33DdXg8UIQYYFO/view?usp=sharing" %}
