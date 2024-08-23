@@ -15,7 +15,7 @@ Here are the basic steps of creating a workflow to run when an email is received
 Generally, we cannot directly listen to incoming emails. However, we can configure forwarding of incoming emails to another address. Once we have a forwarding email address in place, we can set up email forwarding.&#x20;
 
 {% hint style="info" %}
-Before setting up email forwarding, ensure you have created a forwarding email address in this format '<\<Your organization name>>**@inbox.lucyhq.com**' (e.g., collins\_k.eutech@inbox.lucyhq.com).
+The forwarding email address should follow this format, e.g., collins.eutech@inbox.lucyhq.com.
 {% endhint %}
 
 
