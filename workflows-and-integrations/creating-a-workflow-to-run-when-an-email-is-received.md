@@ -2,7 +2,7 @@
 
 Automating tasks can greatly improve workflow efficiency. One effective approach is setting up a workflow that initiates when an email is received.
 
-In this article, we will see how to create a workflow to run when an email is received using an example.
+In this article, we will see how to set up a workflow automation to take incoming emails and send it to a database.
 
 Here are the basic steps of creating a workflow to run when an email is received.
 
