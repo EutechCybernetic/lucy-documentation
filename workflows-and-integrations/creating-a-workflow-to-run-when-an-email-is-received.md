@@ -15,10 +15,10 @@ Here are the basic steps of creating a workflow to run when an email is received
 Generally, we cannot directly listen to incoming emails. However, we can configure forwarding of incoming emails to another address. Once we have a forwarding email address in place, we can set up email forwarding.&#x20;
 
 {% hint style="info" %}
-The forwarding email address should follow this format, e.g., collins.eutech@inbox.lucyhq.com.
+The forwarding email address should follow this format: your name.organization name@inbox.lucyhq.com. For example, _collins.eutech@inbox.lucyhq.com._
+
+Ensure it ends with '**.organization name@inbox.lucyhq.com'.**
 {% endhint %}
-
-
 
 Steps to Set up Email Forwarding
 
@@ -26,7 +26,7 @@ Steps to Set up Email Forwarding
 2. In the top right, click **Settings** and click **See all settings.**
 3. Click the **Forwarding and POP/IMAP** tab.
 4. In the "Forwarding" section, click **Add a forwarding address**.
-5. Enter the email address you want to forward emails to _e.g., collins\_k.eutech@inbox.lucyhq.com._
+5. Enter the email address you want to forward emails to _e.g., collins.eutech@inbox.lucyhq.com._
 6. Click **Next**. Complete the Google verification process.&#x20;
 7. Click **Proceed** and Click **OK**.
 8. A confirmation link will be sent to the email address that you want to forward emails from. Click the link in that message.
