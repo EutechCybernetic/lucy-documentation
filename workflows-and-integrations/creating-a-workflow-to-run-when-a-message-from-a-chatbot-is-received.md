@@ -94,3 +94,5 @@ Now let's see how our workflow works.
    1. Go to the **Databases** tab within your folder.
    2. Click the respective database to open it. You will see the message from the bot has been added to the database.
 4. Whenever someone sends a message via the Telegram app, it will be added to the database and we will receive an email.
+
+Watch below video on setting up a workflow automation

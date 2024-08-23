@@ -2,7 +2,9 @@
 
 Automating tasks can greatly improve workflow efficiency. One effective approach is setting up a workflow that initiates when an email is received.
 
-In this article, we'll show you how to automate a workflow to handle incoming emails and store them in a database. We'll categorise each email as either an "Order" or an "Inquiry" and populate the database accordingly.
+In this article, you'll learn how to automate a workflow for handling incoming emails and saving them in a database. To do that, we need to forward incoming emails to another address and then send that data into a database.
+
+For example, we can create a simple workflow to categorise each email we receive from clients as either an 'Order' or an 'Inquiry' and store them in a database.
 
 Here are the basic steps of creating a workflow to run when an email is received.
 
@@ -13,7 +15,7 @@ Here are the basic steps of creating a workflow to run when an email is received
 
 ## 1) Setting Up Email Forwarding
 
-Generally, we cannot directly listen to incoming emails. However, we can configure forwarding of incoming emails to another address. Once we have a forwarding email address in place, we can set up email forwarding.&#x20;
+Generally, we cannot directly listen to incoming emails. However, we can configure forwarding of incoming emails to another address.&#x20;
 
 {% hint style="info" %}
 The forwarding email address should follow this format: your name.organization name@inbox.lucyhq.com. For example, _collins.eutech@inbox.lucyhq.com._
