@@ -57,6 +57,8 @@ Let's create a simple database.
 
 After creating the database, insert data into it and activate the content-aware autofill feature.
 
+<figure><img src="../.gitbook/assets/Database_1.png" alt=""><figcaption><p>Sample database</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Activating the content-aware autofill feature</p></figcaption></figure>
 
 Refer to this article on how to use content-aware autofill to auto populate your database.
@@ -99,7 +101,7 @@ All your saved workflows will be listed under the **Workflows** tab within the r
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Configuring the Email trigger block</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Workflow created_1.png" alt=""><figcaption><p>Workflow diagram created</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Workflow created_1.png" alt=""><figcaption><p>Workflow diagram</p></figcaption></figure>
 
 
 
@@ -107,4 +109,4 @@ All your saved workflows will be listed under the **Workflows** tab within the r
 
 Each incoming email will be recorded in the corresponding database and categorized accordingly.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Testing the workflow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/testing workflow.png" alt=""><figcaption><p>Testing the workflow</p></figcaption></figure>
