@@ -8,69 +8,7 @@ Widgets can be used to display information on a dashboard, such as calendar even
 **Note**: It is recommended to know the basics of [creating folders,](../folders/) [databases](../databases/creating-and-editing-databases/) and [user interfaces ](designing-a-user-interface/)before going through this article.
 {% endhint %}
 
-This article shows the basic functionalities of a widget designer.
-
-## <mark style="color:blue;">Opening the Widget Designer</mark>&#x20;
-
-You can access the widget designer page
-
-1. When Creating a New User Interface
-2. When Editing an Existing User Interface
-3. When Creating a Form Using a Database
-
-### <mark style="color:blue;">1. When Creating a New User Interface</mark>
-
-There are multiple ways to create a user interface. Each method provides a widget designer to easily customise your user interface.
-
-#### <mark style="color:blue;">Ways to Create User Interfaces</mark>
-
-Here are the methods to create a user interface:
-
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
-[designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
-{% endcontent-ref %}
-
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
-[designing-a-user-interface-from-scratch.md](designing-a-user-interface/designing-a-user-interface-from-scratch.md)
-{% endcontent-ref %}
-
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-from-a-database.md" %}
-[designing-a-user-interface-from-a-database.md](designing-a-user-interface/designing-a-user-interface-from-a-database.md)
-{% endcontent-ref %}
-
-{% content-ref url="../dashboards-and-visualisations/building-a-widget-from-your-canvas.md" %}
-[building-a-widget-from-your-canvas.md](../dashboards-and-visualisations/building-a-widget-from-your-canvas.md)
-{% endcontent-ref %}
-
-### <mark style="color:blue;">2. When Editing an Existing User Interface</mark>
-
-If your Folder has user interfaces, you can open them on the widget designer page to edit them.
-
-1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
-2. All the folders you have created, as well as those created by others, will be listed.
-3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
-4. Go to the **User Interfaces** tab.
-5. Pick the desired user interface.
-6. If there is a list of user interfaces, you can search for the required User Interface by typing its name under Search User Interfaces.
-7. Hover over your user interface and click the **Edit** icon that appears.
-8. The respective user interface will be opened on its widget designer page.
-
-{% hint style="info" %}
-Note: If you haven't created any user interfaces under the User Interfaces tab of your folder, you won't find any user interfaces there.
-{% endhint %}
-
-### <mark style="color:blue;">3. When Creating a Form Using a Database</mark>
-
-Users can create Forms from a database to capture information. The respective form can be opened on the widget designer to create, edit and do further modifications.
-
-1. On the app homepage, go to the **My Work** tab on the left.
-2. All the folders you have created, as well as those created by others, will be listed.
-3. If you cannot locate the folder in the list, type in the folder name under **Search Folders.**
-4. Head to the **Databases** tab.
-5. Pick the database you wish to open. If there is a list of databases, you can search for the required database by typing its name under Search Databases.
-6. Hover over the required database and click the **Edit** icon that appears.
-7. Click **Create Form.**
-8. The respective form will be opened on its widget designer page.
+This article shows the basic features of a widget designer.
 
 ## <mark style="color:blue;">Basic Features of a Widget Designer</mark>
 
@@ -136,8 +74,12 @@ Some widgets require linking a data source to them. The purpose of this binding 
 
 _e.g., A bar chart displaying sales figures for different products over a month._
 
-For more detailed information on how to bind a data source to a widget, refer to the provided link.
+Refer to this tutorial to learn how to bind a data source to a widget.
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}
+
+Here is a short video on how you can use the widget designer to visualise information using the donut chart widget.
+
+{% embed url="https://drive.google.com/file/d/1XAcYWbE-gx8TXYliYiWFN84-28yhWTpw/view?usp=sharing" %}
