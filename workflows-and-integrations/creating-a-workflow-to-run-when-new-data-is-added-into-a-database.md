@@ -58,7 +58,7 @@ To create the workflow that sends an email when new data is added to the databas
    3. Pick the required block, _e.g., Send Email._
 9. Configure the properties of the Send Email block.
    1. On the Send Email block, click the **arrow** icon ![](<../.gitbook/assets/image (11).png>)to open its **Properties** section.
-   2. Enter the **Subject** of the email. Use Pills to customize the subject as necessary. These pills are used in input fields and originate from previous blocks in your workflow.
+   2. Enter the **Subject** of the email. Use Pills to customise the subject as necessary. These pills are used in input fields and originate from previous blocks in your workflow.
    3. In the **To** box, type in the recipient’s email address.
    4. In the **Body** box, type the message to be sent. Use Pills and format the message as necessary.
       1. To add pills, click on the Body box. A list of pills will appear in a pop-up window.

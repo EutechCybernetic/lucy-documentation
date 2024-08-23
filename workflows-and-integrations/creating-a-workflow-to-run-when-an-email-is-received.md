@@ -107,6 +107,6 @@ All your saved workflows will be listed under the **Workflows** tab within the r
 
 ## 3) Testing the Workflow
 
-Each incoming email will be recorded in the corresponding database and categorized accordingly.
+Each incoming email will be recorded in the corresponding database and categorised accordingly.
 
 <figure><img src="../.gitbook/assets/testing workflow.png" alt=""><figcaption><p>Testing the workflow</p></figcaption></figure>
