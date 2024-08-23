@@ -30,11 +30,12 @@ Steps to Set up Email Forwarding
 6. Click **Next**. Complete the Google verification process.&#x20;
 7. Click **Proceed** and Click **OK**.
 8. A confirmation link will be sent to the email address that you want to forward emails from. Click the link in that message.
-9. Go back to the settings page for the Gmail account you want to forward messages from, and refresh your browser.
-10. Click the **Forwarding and POP/IMAP** tab.
-11. In the "Forwarding" section, select **Forward a copy of incoming mail to.**
-12. Choose what you want to happen with the Gmail copy of your emails. We recommend Keep Gmail's copy in the Inbox.
-13. Click **Save Changes.**
+9. Click **Confirm.**
+10. Go back to the settings page for the Gmail account you want to forward messages from, and refresh your browser.
+11. Click the **Forwarding and POP/IMAP** tab.
+12. In the "Forwarding" section, select **Forward a copy of incoming mail to** and it will automatically pick your forwarding email address.
+13. Choose what you want to happen with the Gmail copy of your emails. We recommend **Keep Gmail's copy in the Inbox.**
+14. Click **Save Changes.**
 
 ## 2) Creating the Workflow
 
@@ -48,11 +49,19 @@ Next, let's create the workflow.
 6. Select the email trigger and configure it.
    1. Click the **How do you want to trigger your workflow?** box.
    2. Pick **When someone send a email** trigger from the list.
-   3. Enter the email address that you want to forward emails to.
+   3. Enter the email address that you want to forward emails to, e.g., _collins.eutech@inbox.lucyhq.com._
    4. Click **Use this email address.** The trigger block will be added and displayed on the workflow editor page.
 7. Add the block that defines the action to execute when the workflow is triggered.
    1. Click the **+** icon of the trigger block.
-   2. Select the required action block.
+   2. Click on the **Databases and Analytics** category and pick **Insert into Database** block. The selected block will be added and displayed.
+   3. Click the **arrow** icon ![](<../.gitbook/assets/image (11).png>)to open **Insert into Database** block's properties section.
+      1. Select the Database you wish to insert data you receive.
+      2. Once the database is selected, its fields will be displayed.
+      3. Add Pills to the required fields. Pills originate from previous blocks added in the workflow, and you can use them in input fields.
+         1. Click on a field and a list of pills will appear in a pop-up window. Select required pills from the pop-up to be added in the field.
+         2. Customise each field as necessary.
+8. Provide a suitable **name** for the workflow in the text box on the top left.
+9. Click **Save**.
 
 
 
