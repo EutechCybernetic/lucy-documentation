@@ -63,18 +63,10 @@ Next, let's create the workflow.
 8. Provide a suitable **name** for the workflow in the text box on the top left.
 9. Click **Save**.
 
-
-
-## 3) Testing the Workflow
-
-
-
-
-
-
-
-
-
 {% hint style="info" %}
 All your saved workflows will be listed under the **Workflows** tab within the respective folder.
 {% endhint %}
+
+## 3) Testing the Workflow
+
+When you receive an email at the forwarding address, it will be recorded in the corresponding database.
