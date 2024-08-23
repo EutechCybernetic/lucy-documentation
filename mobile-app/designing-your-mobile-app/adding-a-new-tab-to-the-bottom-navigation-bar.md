@@ -17,11 +17,11 @@ To add and configure a new tab in the navigation bar of the mobile app
    7. Click **Save** to apply the changes in the mobile app.
    8. Open the mobile app to view changes.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Adding a new tab screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Adding a new tab screen 1</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Adding a new tab screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Adding a new tab screen 2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption><p>Adding a new tab screen 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption><p>Adding a new tab screen 3</p></figcaption></figure>
 
 
 

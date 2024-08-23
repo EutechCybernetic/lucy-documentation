@@ -2,13 +2,14 @@
 
 Automating tasks can greatly improve workflow efficiency. One effective approach is setting up a workflow that initiates when an email is received.
 
-In this article, we will see how to set up a workflow automation to take incoming emails and send it to a database.
+In this article, we'll show you how to automate a workflow to handle incoming emails and store them in a database. We'll categorise each email as either an "Order" or an "Inquiry" and populate the database accordingly.
 
 Here are the basic steps of creating a workflow to run when an email is received.
 
 1. Setting Up Email Forwarding
-2. Creating the Workflow
-3. Testing the Workflow
+2. Creating a Database with Content-Aware Autofill Feature
+3. Creating the Workflow
+4. Testing the Workflow
 
 ## 1) Setting Up Email Forwarding
 
@@ -37,7 +38,36 @@ Steps to Set up Email Forwarding
 13. Choose what you want to happen with the Gmail copy of your emails. We recommend **Keep Gmail's copy in the Inbox.**
 14. Click **Save Changes.**
 
-## 2) Creating the Workflow
+## 2) Creating a Database with Content-Aware Autofill Feature
+
+Let's create a simple database.
+
+1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
+2. All the folders you have created, as well as those created by others, will be listed.
+3. Click on the required folder to open it.
+4. Go to the **Databases** tab.
+5. Click the **Plus icon** and pick the **Create Manually** option.
+6. Enter a meaningful **name** for your database.
+7. Click **Continue**.
+8. Click **Skip this Step.**
+9. Add Fields to the database.
+10. Click **Go to Next Step**. Once you have designed the structure of your database, click **Create New Database.** An empty database will be created.
+
+### Utilising Content-Aware Autofill to Automatically Populate Your Database
+
+After creating the database, insert data into it and activate the content-aware autofill feature.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Activating the content-aware autofill feature</p></figcaption></figure>
+
+Refer to this article on how to use content-aware autofill to auto populate your database.
+
+{% content-ref url="../databases/utilising-content-aware-autofill-to-automatically-populate-your-database.md" %}
+[utilising-content-aware-autofill-to-automatically-populate-your-database.md](../databases/utilising-content-aware-autofill-to-automatically-populate-your-database.md)
+{% endcontent-ref %}
+
+This is an example of the database we created.
+
+## 3) Creating the Workflow
 
 Next, let's create the workflow.
 
@@ -67,6 +97,14 @@ Next, let's create the workflow.
 All your saved workflows will be listed under the **Workflows** tab within the respective folder.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Configuring the Email trigger block</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Workflow created_1.png" alt=""><figcaption><p>Workflow diagram created</p></figcaption></figure>
+
+
+
 ## 3) Testing the Workflow
 
-When you receive an email at the forwarding address, it will be recorded in the corresponding database.
+Each incoming email will be recorded in the corresponding database and categorized accordingly.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Testing the workflow</p></figcaption></figure>

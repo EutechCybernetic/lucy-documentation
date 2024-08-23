@@ -87,7 +87,7 @@ The last step is to test the workflow by adding a data record into the database.
 3. Click on the folder to open it.
 4. Within the folder, navigate to the **Workflows** tab.
 5. Locate and click on your workflow to open it on the Workflow editor page.
-6. Click the ![](../.gitbook/assets/image.png)Run button. Execute Workflow form opens.
+6. Click the ![](<../.gitbook/assets/image (5).png>)Run button. Execute Workflow form opens.
 7. Complete the form and click **Execute.** This will execute the workflow and insert the data into the database.
 8. Open your database to preview the changes. When a new record is added to the database, our workflow will send an email to the recipient.
 
