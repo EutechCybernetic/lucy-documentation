@@ -2,7 +2,7 @@
 
 Automating tasks can greatly improve workflow efficiency. One effective approach is setting up a workflow that initiates when an email is received.
 
-In this article, you'll learn how to automate a workflow for handling incoming emails and saving them in a database. To do that, we need to forward incoming emails to a designated address and then send that data into a database.
+Learn how to create a workflow to handle incoming emails and save them in a database. To handle incoming emails, we need to forward them to a designated address and then send the data to a database.
 
 For example, we can create a simple workflow to categorise each email we receive from clients as either an 'Order' or an 'Inquiry' and store them in a database.
 
@@ -112,3 +112,7 @@ All your saved workflows will be listed under the **Workflows** tab within the r
 Each incoming email will be automatically forwarded to the designated address, recorded in the corresponding database, and categorised accordingly.
 
 <figure><img src="../.gitbook/assets/testing workflow.png" alt=""><figcaption><p>Testing the workflow</p></figcaption></figure>
+
+Watch this video on how to automate handling incoming emails and saving them in a database.
+
+{% embed url="https://drive.google.com/file/d/1EpqmxnO9Moyh7IZ7oNbPxwFojUm4Dz-T/view?usp=sharing" %}
