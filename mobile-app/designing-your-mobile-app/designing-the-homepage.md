@@ -18,10 +18,12 @@ To configure the home tab
 
 ## Configuring the App Bar Settings
 
+Personalise your app bar's appearance by choosing a different color or uploading a background image, adding a company logo, including a title etc.&#x20;
+
 To configure the app bar settings:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
-2. Under the **General** tab on the right, go to the **Home** tab.
+2. Under the **General** tab on the right, go to the **Home Page** tab.
 3. Customise the settings as necessary.
 4. Click **Save** to apply the changes in the mobile app.
 5. Open the mobile app to view changes.
