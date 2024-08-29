@@ -45,3 +45,6 @@ To create the workflow:
 
 <figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S5_3.png" alt=""><figcaption><p>Creating the workflow screen 5</p></figcaption></figure>
 
+Watch this video that automate sending a daily to-do list to employees via email every day at midnight.
+
+{% embed url="https://drive.google.com/file/d/19qeYSiMH7DAnZJ9KJKgDn6ekFNIdm2Zt/view?usp=drive_link" %}
