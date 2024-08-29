@@ -41,9 +41,7 @@ To create the workflow:
 
 <figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S3_3.png" alt=""><figcaption><p>Creating the workflow screen 3</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S4_3.png" alt=""><figcaption><p>Creating the workflow screen 4</p></figcaption></figure>
 
-
-
-
-
+<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S5_3.png" alt=""><figcaption><p>Creating the workflow screen 5</p></figcaption></figure>
 
