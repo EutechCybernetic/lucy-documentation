@@ -4,7 +4,7 @@ Add-ons are pre-integrated bundles consisting of workflows, widgets, dashboards 
 
 Since add-ons are pre-made packages, no need to go through the hassle of building integrations yourself. These add-ons come with all the functions and configuration your widgets need, saving you time and effort.
 
-The following image shows the Add-ons page with the add-ons currently installed in the system.
+The following image shows the Add-ons page with the add-ons currently installed in Lucy.
 
 You can install new add-ons from this page to update your widgets.
 
