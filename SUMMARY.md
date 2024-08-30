@@ -54,7 +54,7 @@
 * [Add-ons](add-ons/README.md)
   * [Installing a New Add-on in Lucy](add-ons/installing-a-new-add-on-in-lucy.md)
   * [Visitor Management](add-ons/visitor-management.md)
-  * [Internal Air Quality (IAQ) Monitoring](add-ons/internal-air-quality-iaq-monitoring.md)
+  * [Monitoring Internal Air Quality (IAQ) at Your Workplace](add-ons/monitoring-internal-air-quality-iaq-at-your-workplace.md)
   * [Occupancy Analytics](add-ons/occupancy-analytics.md)
   * [Energy Budgeting](add-ons/energy-budgeting.md)
   * [Water Budgeting](add-ons/water-budgeting.md)
