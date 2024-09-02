@@ -1,4 +1,4 @@
-# Occupancy Analytics
+# Setting up Occupancy Analytics at Your Workplace
 
 Occupancy analytics refers to the process of analysing and understanding how spaces within a building or facility are utilised. This analysis typically involves tracking metrics such as the number of people in a space and patterns of space usage over time. Occupancy analytics can provide valuable insights into how spaces are being used, helping organizations optimise their use of space, improve efficiency, and enhance the overall experience for occupants.
 
@@ -6,15 +6,15 @@ Occupancy analytics refers to the process of analysing and understanding how spa
 
 The Occupancy Analytics add-on lets you create custom canvases to track the utilisation of spaces and rooms. By using this add-on, you can monitor how different areas are being used and make informed decisions about space planning and resource allocation.
 
-## Monitoring Occupancy Data
+## Setting up Occupancy Analytics
 
-To begin, we'll create a canvas to monitor occupancy data and then install and configure the Occupancy Analytics add-on directly from the canvas itself.
+This article explains the steps to set up occupancy analytics at your workplace.
 
-Follow these steps to efficiently monitor occupancy details.
+Follow these steps to efficiently set up occupancy details.
 
-1. [Creating Your Canvas](occupancy-analytics.md#id-1.-creating-your-canvas)
-2. [Installing the Occupancy Analytics Add-on](occupancy-analytics.md#id-2.-installing-the-occupancy-analytics-add-on)
-3. [Configuring the Occupancy Analytics Add-on](occupancy-analytics.md#id-3.-configuring-the-occupancy-analytics-add-on)
+1. [Creating Your Canvas](setting-up-occupancy-analytics-at-your-workplace.md#id-1.-creating-your-canvas)
+2. [Installing the Occupancy Analytics Add-on](setting-up-occupancy-analytics-at-your-workplace.md#id-2.-installing-the-occupancy-analytics-add-on)
+3. [Configuring the Occupancy Analytics Add-on](setting-up-occupancy-analytics-at-your-workplace.md#id-3.-configuring-the-occupancy-analytics-add-on)
 
 ### 1. Creating Your Canvas
 
