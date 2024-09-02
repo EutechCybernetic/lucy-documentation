@@ -12,9 +12,9 @@ Internal Air Quality (IAQ) data refers to the information collected from monitor
 * **Regulatory Compliance**: Many jurisdictions have regulations and guidelines in place to ensure indoor air quality meets certain standards. Monitoring IAQ data helps ensure compliance with these regulations.
 * **Building Maintenance:** IAQ data can also help identify issues with building systems, such as ventilation systems or building materials, that may need maintenance or replacement to improve indoor air quality.
 
-## IAQ Analytics Add-on
+## Monitoring IAQ Data
 
-IAQ Analytics add-on provides a set of widgets for monitoring internal air quality parameters in your workplace. This process involves three main steps:
+The IAQ Analytics add-on provides a set of widgets for monitoring internal air quality parameters in a building. This process involves three main steps:
 
 1. [Installing the IAQ Analytics Add-on](monitoring-internal-air-quality-iaq-at-your-workplace.md#id-1.-installing-the-iaq-analytics-add-on)
 2. [Configuring the IAQ Analytics Add-on](monitoring-internal-air-quality-iaq-at-your-workplace.md#id-2.-configuring-the-iaq-analytics-add-on)

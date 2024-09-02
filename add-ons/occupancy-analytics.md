@@ -4,7 +4,9 @@ Occupancy analytics refers to the process of analysing and understanding how spa
 
 **Occupancy Analytics Add-on**
 
-The Occupancy Analytics add-on lets you create custom canvases/dashboards to track the utilisation of spaces and rooms. By using this add-on, you can monitor how different areas are being used and make informed decisions about space planning and resource allocation.
+The Occupancy Analytics add-on lets you create custom canvases to track the utilisation of spaces and rooms. By using this add-on, you can monitor how different areas are being used and make informed decisions about space planning and resource allocation.
+
+## Monitoring Occupancy Data
 
 To begin, we'll create a canvas to monitor occupancy data and then install and configure the Occupancy Analytics add-on directly from the canvas itself.
 
