@@ -33,7 +33,7 @@ To create a new canvas:
 5. Provide a suitable unique **Name** for the canvas, _e.g., Occupancy Analytics._
 6. Grant Access to the Canvas.
    1. Select a User Group (e.g., System Administrators) if you wish to grant access to specific groups.
-   2. Skip the User Group selection if you intend to allow access for everyone.
+   2. &#x20;If you intend to allow access for everyone, skip the user group selection.
 7. Click **Next**. A new Canvas will be created and listed on the Gallery page.
 8. &#x20;Click **Go to your Canvas now** button to launch it in a new window.
 9. Pick and add occupancy related widgets on to your canvas.
@@ -66,9 +66,9 @@ To configure the add-on:
 
 1. Click **Let’s Start.**
 2. Pick the source to get data. There three ways to get occupancy data to visualise on your canvas.
-   1. **Pointgrab**: If you have PointGrab Occupancy sensors, you can enter **PointGrab Client ID** and **PointGrab Client Secret** and authenticate yourself.
+   1. **Pointgrab**: If you have PointGrab Occupancy sensors, you can enter PointGrab Client ID and PointGrab Client Secret and authenticate yourself.
    2. **Simulator**: Used to generate data so that you can display on your occupancy related widgets. This option is useful when sensors are not available.
-   3. Buy your products on Spaceworx marketplace.
+   3. **Buy on Spaceworx**: Buy your products on Spaceworx marketplace.
 3. Let’s select the **Simulator** option.
 4. Click **Next**.
 5. Click **Close**.
