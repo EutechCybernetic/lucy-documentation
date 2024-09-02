@@ -37,7 +37,7 @@ You can skip the installation if you have done it earlier.
 
 ### 2. Configuring the IAQ Analytics Add-on
 
-This step involves setting up and connecting your IAQ devices to gather data. There are five sources from which IAQ data can be obtained.
+This step involves setting up and connecting your IAQ devices to collect data. There are five sources from which IAQ data can be obtained.
 
 * **API**: Setup API to send IAQ data
 * **uHoo sensor:** If you have a Uhoo sensor, you can use uHoo API key to automatically configure it and start receiving sensor data.
@@ -74,9 +74,9 @@ To create a canvas:
    5. To select your own image as the background of the Canvas, click Upload your image and upload your own image.
    6. Enable the Blur the background option to blur the applied background of your Canvas if necessary.
 5. Provide a suitable unique **Name** for the canvas.
-6. Grant Access to the Canvas.
+6. Choose who can access the Canvas.
    1. Select a User Group (e.g., System Administrators) if you wish to grant access to specific groups.
-   2. Skip the User Group selection if you intend to allow access for everyone.
+   2. If you want to allow access for everyone, skip the User Group selection.
 7. Click **Next**. A new Canvas will be created and listed on the Gallery page.
 8. &#x20;Click **Go to your Canvas now** button to launch it in a new window.
 9. Pick and add IAQ related widgets on to your canvas.
@@ -86,7 +86,7 @@ To create a canvas:
    4. Click **Add Widgets.**
    5. Widgets will be added to the canvas. As soon as widgets are added, the canvas will display simulated data in those widgets.
 
-### Displaying Real-time Data on IAQ related Widgets
+### Displaying Real-time Data on IAQ-related Widgets
 
 Once you have the access to live sensor information, you can configure the sensor details by going back to the IAQ analytics add-on on the Add-ons page. After configuring the sensor details, the respective widgets will display live sensor data.
 
