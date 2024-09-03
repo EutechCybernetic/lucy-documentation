@@ -65,8 +65,8 @@ After creating the database, insert data into it and activate the content-aware 
 
 Refer to this article on how to use content-aware autofill to auto populate your database.
 
-{% content-ref url="../databases/utilising-content-aware-autofill-to-automatically-populate-your-database.md" %}
-[utilising-content-aware-autofill-to-automatically-populate-your-database.md](../databases/utilising-content-aware-autofill-to-automatically-populate-your-database.md)
+{% content-ref url="../databases/utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md" %}
+[utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md](../databases/utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md)
 {% endcontent-ref %}
 
 This is an example of the database we created.

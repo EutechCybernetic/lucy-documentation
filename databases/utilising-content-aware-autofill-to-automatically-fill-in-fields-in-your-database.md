@@ -1,4 +1,4 @@
-# Utilising Content-Aware Autofill to Automatically Populate Your Database
+# Utilising Content-Aware Autofill to Automatically Fill-in Fields in Your Database
 
 This article explains how to automatically populate data into your database using Content-aware Autofill.
 
@@ -8,11 +8,11 @@ For instance, let’s create a database to capture employee feedback and use thi
 
 Utilising Content-aware Autofill for database population involves several key steps.
 
-1. [Create Your Database](utilising-content-aware-autofill-to-automatically-populate-your-database.md#id-1.-create-your-database)
-2. [Add Data to Your Database](utilising-content-aware-autofill-to-automatically-populate-your-database.md#id-2.-add-data-to-your-database)
-3. [Enable Content-aware Autofill in Your Database](utilising-content-aware-autofill-to-automatically-populate-your-database.md#id-3.-enable-content-aware-autofill-in-your-database)
-4. [Testing the Content-Aware Autofill Feature](utilising-content-aware-autofill-to-automatically-populate-your-database.md#id-4.-testing-the-content-aware-autofill-feature)
-5. [Viewing Your Updated Database](utilising-content-aware-autofill-to-automatically-populate-your-database.md#viewing-your-updated-database)
+1. [Create Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-1.-create-your-database)
+2. [Add Data to Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-2.-add-data-to-your-database)
+3. [Enable Content-aware Autofill in Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-3.-enable-content-aware-autofill-in-your-database)
+4. [Testing the Content-Aware Autofill Feature](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-4.-testing-the-content-aware-autofill-feature)
+5. [Viewing Your Updated Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#viewing-your-updated-database)
 
 ## <mark style="color:blue;">1. Create Your Database</mark>
 
