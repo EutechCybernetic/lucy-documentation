@@ -39,4 +39,4 @@ Find the article related to energy budgeting below.
 
 The following video details how to calculate carbon footprint of your workplace or building based on energy consumption data.
 
-{% embed url="https://drive.google.com/file/d/18ZS8Sokl3rtIbHf3HjLD8lf86vuawNmr/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1ybiLl1CE6HLGJOGFiPalnlf-p6_u6x9e/view?usp=sharing" %}
