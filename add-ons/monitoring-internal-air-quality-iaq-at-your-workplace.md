@@ -18,7 +18,7 @@ The IAQ Analytics add-on provides a set of widgets for monitoring internal air q
 
 1. [Installing the IAQ Analytics Add-on](monitoring-internal-air-quality-iaq-at-your-workplace.md#id-1.-installing-the-iaq-analytics-add-on)
 2. [Configuring the IAQ Analytics Add-on](monitoring-internal-air-quality-iaq-at-your-workplace.md#id-2.-configuring-the-iaq-analytics-add-on)
-3. [Creating Your Canvas/Dashboard](monitoring-internal-air-quality-iaq-at-your-workplace.md#id-3.-creating-your-canvas-dashboard)
+3. [Creating Your Canvas](monitoring-internal-air-quality-iaq-at-your-workplace.md#id-3.-creating-your-canvas)
 
 ### 1. Installing the IAQ Analytics Add-on
 
@@ -57,7 +57,7 @@ In the absence of real-time sensor data, we'll opt for simulated data. Let's sel
    2. Click **Next**. Now the data will be simulated, and you don't need to configure anything further.
    3. Click **Close**.
 
-### 3. Creating Your Canvas/Dashboard
+### 3. Creating Your Canvas
 
 The last step is to build the canvas.
 

@@ -1,6 +1,6 @@
 # Energy Budgeting
 
-Energy budgeting refers to the process of setting and managing budgets for energy consumption within a building or workplace. This involves determining the amount of energy expected to be used over a specific period, and then tracking actual energy consumption against this budget. Monitoring energy usage is essential for organizations looking to manage their energy consumption more effectively, reduce costs, and improve their environmental impact.
+Energy budgeting refers to the process of setting and managing budgets for energy consumption within a building or workplace. This involves determining the amount of energy expected to be used over a specific period and then tracking actual energy consumption against this budget. Monitoring energy usage is essential for organizations looking to manage their energy consumption more effectively, reduce costs, and improve their environmental impact.
 
 **Energy Budgeting Add-on**
 
@@ -12,17 +12,19 @@ Energy Categories represent different types of energy sources or consumption in 
 
 However, in environments where such detailed metering is not available, overall energy consumption can be captured using a single category.
 
+## Monitoring Energy Consumption
+
 This article explains how to track your energy consumption and compare it to your budget with Lucy’s Energy Budgeting Add-on.
 
 This process involves three main steps:
 
 1. [Installing the Energy Budgeting Add-on](energy-budgeting.md#id-1.-installing-the-energy-budgeting-add-on)
 2. [Configuring the Energy Budgeting Add-on](energy-budgeting.md#id-2.-configuring-the-energy-budgeting-add-on)
-3. [Creating Your Canvas/Dashboard](energy-budgeting.md#id-3.-creating-your-canvas)
+3. [Creating Your Canvas](energy-budgeting.md#id-3.-creating-your-canvas)
 
 ### 1. Installing the Energy Budgeting Add-on
 
-The initial step towards monitoring your energy usage involves the installation of the Energy Budgeting add-on.
+To start monitoring your energy usage, first install the Energy Budgeting add-on.
 
 To install the Energy Budgeting Add-on:
 
@@ -32,7 +34,7 @@ To install the Energy Budgeting Add-on:
 4. Click **Install**. The add-on will be installed and will appear on the Add-ons page.
 
 {% hint style="info" %}
-You can skip installing the add-on if you have done it earlier.
+You can skip installing the add-on if you have already done it.
 {% endhint %}
 
 ### 2. Configuring the Energy Budgeting Add-on
