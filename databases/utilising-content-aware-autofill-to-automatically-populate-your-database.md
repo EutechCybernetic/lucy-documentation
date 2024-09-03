@@ -78,6 +78,10 @@ After creating your database and adding sample data, enable the Content-aware Au
 
 Now, add more examples using the form interface to test the Content-Aware Autofill Feature.
 
+{% hint style="info" %}
+You can also add data directly within the specific database.
+{% endhint %}
+
 To add more data
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
