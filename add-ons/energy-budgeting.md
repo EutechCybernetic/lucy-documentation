@@ -116,6 +116,6 @@ To create a canvas:
 
 <figure><img src="../.gitbook/assets/Energy Add-ons_creating canvas_ s1.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying energy usage</p></figcaption></figure>
 
-The video below explains the process of monitoring energy consumption in your building or workplace and setting budgets.
+The video below explains the process of monitoring energy consumption in your building or workplace.
 
-{% embed url="https://drive.google.com/file/d/1UUvW6vXt6gSL52yv4E4x3qehoCT5yCCc/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1eW13QEMTAcq6Wftsm_PyqLs1xCK8YqK5/view?usp=drive_link" %}
