@@ -110,4 +110,4 @@ To create a canvas:
 
 The video below explains the process of monitoring water consumption in your building or workplace and setting budgets.
 
-{% embed url="https://drive.google.com/file/d/1CtC6qaQB_CdU45pu8W8_35pknAq-65AG/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1k02IByEvpNaFbrUOJgH8kKMbP4070TQV/view?usp=drive_link" %}
