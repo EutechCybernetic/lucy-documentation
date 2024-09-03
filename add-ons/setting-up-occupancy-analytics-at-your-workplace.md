@@ -78,7 +78,7 @@ To configure the add-on:
 
 ### Displaying Real-time Data on Widgets
 
-Once you have the access to live sensor information, you can configure the sensor details by going back to the occupancy analytics add-on on the Add-ons page. After configuring the sensor details, the respective widgets will display live sensor data.
+Once you have the live sensor data, you can configure the sensor details by accessing the Add-ons page and selecting the Occupancy Analytics add-on. After configuring the sensor details, the respective widgets will display live sensor data.
 
 1. On the canvas, click **Back to Gallery.**
 2. On the app homepage, click the **Add-ons** tab and open Add-ons page.
