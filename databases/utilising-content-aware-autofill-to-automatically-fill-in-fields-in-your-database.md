@@ -103,3 +103,7 @@ Let's view the database to see the changes.
 5. The 'Mood' field will be auto filled based on the data you entered.
 
 <figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S4.png" alt=""><figcaption><p>A preview of the updated database</p></figcaption></figure>
+
+Watch this video to learn how to automatically fill-in your database fields using the content-aware autofill feature in Lucy.
+
+{% embed url="https://drive.google.com/file/d/1tJYWsPdnK2_NgIq3uWhxM4JK5m2f0kgC/view?usp=drive_link" %}
