@@ -1,4 +1,4 @@
-# Utilising Content-Aware Autofill to Automatically Fill in Fields in Your Database
+# Utilising Content-aware Autofill to Automatically Fill in Fields in Your Database
 
 This article explains how to automatically fill in your database fields using the content-aware autofill feature in Lucy.
 
@@ -104,6 +104,6 @@ Let's view the database to see the changes.
 
 <figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S4.png" alt=""><figcaption><p>A preview of the updated database</p></figcaption></figure>
 
-Watch this video to learn how to automatically fill-in your database fields using the content-aware autofill feature in Lucy.
+Watch this video to learn how to automatically fill in your database fields using the content-aware autofill feature in Lucy.
 
 {% embed url="https://drive.google.com/file/d/1wAziJi3li2xhJnA0eb2vSGZ9FNdWOZNM/view?usp=drive_link" %}
