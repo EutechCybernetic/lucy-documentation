@@ -9,7 +9,7 @@ For instance, let’s create a database to capture employee feedback and use thi
 Utilising Content-aware Autofill for database population involves several key steps.
 
 1. [Create Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-1.-create-your-database)
-2. [Add Data to Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-2.-add-data-to-your-database)
+2. [Add Data into Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-2.-add-data-into-your-database)
 3. [Enable Content-aware Autofill in Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-3.-enable-content-aware-autofill-in-your-database)
 4. [Testing the Content-Aware Autofill Feature](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-4.-testing-the-content-aware-autofill-feature)
 5. [Viewing Your Updated Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#viewing-your-updated-database)
@@ -26,9 +26,9 @@ Find the article below to create a new database.
 
 <figure><img src="../.gitbook/assets/Database example_1.png" alt=""><figcaption><p>Database example</p></figcaption></figure>
 
-## <mark style="color:blue;">2. Add Data to Your Database</mark>
+## <mark style="color:blue;">2. Add Data into Your Database</mark>
 
-Next, create a form to easily add sample data to your database.
+Next, create a form to easily add sample data into your database.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. All the folders you have created, as well as those created by others, will be listed.
@@ -44,7 +44,7 @@ Next, create a form to easily add sample data to your database.
 12. Click **Open Page** to open the form in a new window.
 13. Fill in the form details and click **Submit**.
 14. Refresh the page to add more data.
-15. Open the database to view and add data to the required column.
+15. Open the database to view and fill in data in the required column.
     1. Within your folder, go to the **Databases** tab.
     2. Search and click on the required database. Entered data will be displayed.
     3. Click the **Edit** button to enter the edit mode in the database.
@@ -106,4 +106,4 @@ Let's view the database to see the changes.
 
 Watch this video to learn how to automatically fill-in your database fields using the content-aware autofill feature in Lucy.
 
-{% embed url="https://drive.google.com/file/d/1tJYWsPdnK2_NgIq3uWhxM4JK5m2f0kgC/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1wAziJi3li2xhJnA0eb2vSGZ9FNdWOZNM/view?usp=drive_link" %}
