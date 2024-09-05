@@ -1,8 +1,8 @@
-# Utilising Content-Aware Autofill to Automatically Fill-in Fields in Your Database
+# Utilising Content-Aware Autofill to Automatically Fill in Fields in Your Database
 
-This article explains how to automatically fill-in your database fields using the content-aware autofill feature in Lucy.
+This article explains how to automatically fill in your database fields using the content-aware autofill feature in Lucy.
 
-**Content-aware Autofill** is a powerful feature that uses AI (Artificial Intelligence) to automatically fill in data in a database based on existing columns. All that's required is the provision of some examples for the initial rows, and subsequently, this feature will fill in columns automatically when new data is inserted.
+**Content-aware Autofill** is a powerful feature that uses AI (Artificial Intelligence) to automatically fill in data in a database based on existing columns. Simply provide initial row examples, and subsequently, this feature will fill columns automatically when new data is added.
 
 For instance, let’s create a database to capture employee feedback and use this feature to automatically classify the feedback as 'Good' or 'Bad' and autofill the result in the database.&#x20;
 
