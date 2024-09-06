@@ -113,7 +113,7 @@ To configure the home tab:
 4. Under **Configure Tabs** section configure the following,&#x20;
    1. **Name**: Enter a unique name for the home tab.
    2. **Icon**: Click the **Icon** field and pick an icon from the Search Icons window.
-   3. **Type**: Pick the required page type, _e.g., Sections._
+   3. **Type**: Select the screen type to open when your tab is clicked, such as Sections.
 5. Click **Save.**
 
 ### **Selecting a Page Type**
