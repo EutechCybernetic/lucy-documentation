@@ -13,7 +13,7 @@ To configure the home tab
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
 2. Click the bottom navigation bar to open its properties panel.
 3. Go to the **Home** tab properties section.
-4. Edit the **Name, Icon** and the **Type** as necessary.
+4. Edit the **Name, Icon** and the [**Type** ](choosing-a-page-type.md)as necessary.
 5. Click **Save**.
 
 ## Configuring the App Bar Settings
