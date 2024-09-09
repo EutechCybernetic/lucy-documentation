@@ -47,7 +47,7 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
 
 ## Launching a Page When a Section is Clicked
 
-After designing the structure of the Settings page, link each section to its relevant page. You can set a section to open a webpage, an add-on, a widget, a Lucy action, or a mobile screen.
+After designing the structure of the Settings page, link each section to its relevant page. You can set a section to open a webpage, open an existing add-on, open a widget, execute a Lucy action, or open a certain mobile screen.
 
 For example, let's set the Personal Details section to launch a widget displaying the user's personal details.
 
