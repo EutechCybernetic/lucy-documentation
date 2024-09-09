@@ -13,7 +13,7 @@ To add and configure a new tab in the navigation bar of the mobile app
    3. A new tab will be added along with an icon in the bottom navigation bar.
    4. Enter a appropriate **Name** for the new tab (e.g., Feeds).
    5. To change the tab icon, click the icon and select an appropriate one from the Search Icons window.
-   6. **Type:** Choose the page type to display when the tab is clicked: Sections, Widgets, or Custom Mobile Pages.
+   6. **Type:** Choose the page type to display when the tab is clicked: Section, Widget, and Custom Mobile Page.
    7. Click **Save** to apply the changes in the mobile app.
    8. Open the mobile app to view changes.
 
