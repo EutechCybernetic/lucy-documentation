@@ -1,6 +1,6 @@
 # Handling Button Click Events
 
-When customising your mobile app via Lucy web app, you can control what happens when a certain button or icon is clicked.
+When customising your mobile app via Lucy web app, you can control what happens when a certain button is clicked.
 
 Here are the five types of actions you can take:
 
@@ -24,7 +24,7 @@ Use the Action Editor window to set actions for clickable elements like buttons 
 
 ## Open a Web Page
 
-You can configure a button, icon, or section to open a specific web page when clicked.
+You can configure a button to open a specific web page when clicked.
 
 For example, when you click on the Help section in your mobile app's Settings page, it opens the Help page.&#x20;
 
@@ -64,11 +64,11 @@ To launch a prebuilt widget
 
 ## Execute a Lucy Action
 
-Set up a Lucy Action to trigger when a specific button, or icon is clicked, such as sending a notification after creating a work request.
+Set up a Lucy Action to trigger when a specific button is clicked, such as sending a notification after creating a work request.
 
 ## Open an Add-on
 
-You can select an add-on to be opened when certain button or icon is clicked in your mobile app.
+You can select an add-on to be opened when certain button is clicked in your mobile app.
 
 For example, you can add an icon to your app home page to open the Weather add-on when clicked.
 
@@ -98,7 +98,9 @@ To open an add-on
 
 ## Open a Mobile Screen
 
-Choose a predefined mobile screen, like the Currency page, to display when you click on the Currency section in your mobile app's Settings page.
+You can set a button to open a predefined mobile screen.
+
+For example, choose a predefined mobile screen, like the Currency page, to display when you click on the Currency section in your mobile app's Settings page.
 
 To open a mobile screen
 
