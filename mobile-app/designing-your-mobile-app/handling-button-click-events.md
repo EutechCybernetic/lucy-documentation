@@ -14,7 +14,7 @@ You will also encounter button click events when creating widgets, such as the S
 
 ### Action Editor Window
 
-Use the Action Editor window to set actions for clickable elements like buttons and icons. It supports five types of actions: open a web page, launch a prebuilt widget, execute a Lucy Action, open an add-on, and open a mobile screen.
+Use the Action Editor window to set actions for clickable elements like buttons and icons. It supports five types of actions: open a web page, launch a pre-built widget, execute a Lucy Action, open an add-on, and open a mobile screen.
 
 <figure><img src="../../.gitbook/assets/Action Editor Window.png" alt="" width="563"><figcaption><p>Action Editor Window</p></figcaption></figure>
 
@@ -45,7 +45,7 @@ To open a web page
 
 For example, when you click on the Personal Details section in your mobile app's Settings page, it opens the corresponding user-created widget, a form to edit personal details.
 
-To launch a prebuilt widget
+To launch a pre-built widget
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
@@ -58,7 +58,7 @@ To launch a prebuilt widget
 9. Click **Save.**
 10. Open the Settings page in your mobile app and click the specific section to launch the respective widget.
 
-<figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Open a prebuilt widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Open a pre-built widget</p></figcaption></figure>
 
 ## Execute a Lucy Action
 
