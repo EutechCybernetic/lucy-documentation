@@ -1,6 +1,6 @@
 # Handling Button Click Events
 
-When customizing your mobile app via the Lucy web app, you can control the actions triggered by button clicks. Here are the five types of actions available:
+When customising your mobile app via the Lucy web app, you can control the actions triggered by button clicks. Here are the five types of actions available:
 
 1. [Open a Web Page](handling-button-click-events.md#open-a-web-page)
 2. [Open a Pre-built Widget](handling-button-click-events.md#open-a-pre-built-widget)
