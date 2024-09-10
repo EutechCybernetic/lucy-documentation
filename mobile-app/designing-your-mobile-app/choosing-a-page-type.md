@@ -157,7 +157,12 @@ To add a Horizontal List of Cards:
 5. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
 6. The newly added Horizontal List of Cards section will appear on the mobile screen.
 7. Do required customisations.
-8. Click **Save** to apply the changes in the mobile app.
+8. Edit the Title section as necessary.
+   1. Click on the Title section and its properties panel will open on the right.
+   2. Under **Container** section, pick a background color for the section.
+   3. Enter a  suitable Title, change the colour, edit the size of the title.
+9.
+10. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../../.gitbook/assets/Horizontal List of Cards.jpg" alt="" width="563"><figcaption><p>An example designed using the Horizontal List of Cards section</p></figcaption></figure>
 
