@@ -158,11 +158,15 @@ To add a Horizontal List of Cards:
 6. The newly added Horizontal List of Cards section will appear on the mobile screen.
 7. Do required customisations.
 8. Edit the Title section as necessary.
-   1. Click on the Title section and its properties panel will open on the right.
-   2. Under **Container** section, pick a background color for the section.
-   3. Enter a  suitable Title, change the colour, edit the size of the title.
-9.
-10. Click **Save** to apply the changes in the mobile app.
+   1. Click on the Title of the card and its properties panel will open on the right.
+   2. Under the **Container** section, pick a background color for the section.
+   3. Under the **Title** section, add a suitable title, change the colour, edit the size of the title.
+   4. Under the **Subtitle** section, edit the subtitle properties.
+9. Customise the card list.
+   1. Click on the card list to open its properties panel.
+   2. Under the Card List section, choose the card type.
+   3. Bind a datasource to the card list. You can bind an existing lucy action or a database.
+10. Click **Save** to reflect the changes in the mobile app.
 
 <figure><img src="../../.gitbook/assets/Horizontal List of Cards.jpg" alt="" width="563"><figcaption><p>An example designed using the Horizontal List of Cards section</p></figcaption></figure>
 
