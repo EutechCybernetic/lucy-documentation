@@ -20,9 +20,7 @@ Select a page type when adding a new tab to your mobile app's bottom navigation 
 
 The 'Section**'** page type lets you effortlessly add and configure horizontal sections on a mobile page using the Lucy web app. Just drag and drop them into place. Each section has a unique function to enhance the user experience.
 
-You can add the same section multiple times if necessary.
-
-There are multiple types of horizontal sections that you can add.
+Below are the available sections. You can add the same section multiple times if needed.
 
 [a) Custom UI Section](choosing-a-page-type.md#a-custom-ui-section)
 
@@ -47,16 +45,15 @@ To add and configure a Custom UI Section:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. <mark style="color:blue;">Note: Under</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Configure Tabs**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">section, select the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Type**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">as 'Section'</mark><mark style="color:blue;">**.**</mark>
-5. Go to the **Sections** tab on the left.
-6. Drag and drop the '**Describe a custom interface with a special interface language'** section on to the desired area on the mobile screen.
-7. A horizontal section named Custom UI will appear on the mobile screen.
-8. Click the **Custom UI** section to open its properties panel.
-9. In the **Custom UI (Mobile**) field, enter the JSON code of the UI you want to build.
-10. Configure the **Data source.**
-    1. Click the **Bind a Source** button.
-    2. You can select an existing Lucy action or a database as the data source.
-11. Click **Save** to apply the changes in the mobile app.
+4. Go to the **Sections** tab on the left.
+5. Drag and drop the '**Describe a custom interface with a special interface language'** section on to the desired area on the mobile screen.
+6. A horizontal section named Custom UI will appear on the mobile screen.
+7. Click the **Custom UI** section to open its properties panel.
+8. In the **Custom UI (Mobile**) field, enter the JSON code of the UI you want to build.
+9. Configure the **Data source.**
+   1. Click the **Bind a Source** button.
+   2. You can select an existing Lucy action or a database as the data source.
+10. Click **Save** to apply the changes in the mobile app.
 
 
 
@@ -81,11 +78,10 @@ To add a Icon Section Widget:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. <mark style="color:blue;">Note: Under</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Configure Tabs**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">section, select the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Type**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">as 'Section'</mark><mark style="color:blue;">**.**</mark>
-5. Go to the **Sections** tab on the left.
-6. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
-7. An icon section widget will be added and displayed on the mobile screen.
-8. Add a new icon
+4. Go to the **Sections** tab on the left.
+5. Pick the **Icon Section Widget.** Drag and drop it onto the mobile screen.
+6. An icon section widget will be added and displayed on the mobile screen.
+7. Add a new icon
    1. Click the **Add** icon.
    2. An icon will be added and displayed on the mobile screen.
    3. Click the newly added icon to launch its properties panel.
@@ -100,7 +96,7 @@ To add a Icon Section Widget:
       4. **Open Add-on**: Used to configure a specific add-on to be opened when the icon is clicked.
       5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the the icon is clicked.
       6. After configuring the action, Click **Done**.
-9. Click **Save** to apply the changes in the mobile app.
+8. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../../.gitbook/assets/Icon Section Widget_1 (1).png" alt=""><figcaption><p>Icon Section Widget</p></figcaption></figure>
 
@@ -125,17 +121,16 @@ To add a Image Card List:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. <mark style="color:blue;">Note: Under</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Configure Tabs**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">section, select the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Type**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">as 'Section'</mark><mark style="color:blue;">**.**</mark>
-5. Go to the **Sections** tab on the left.
-6. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
-7. An image card list will be added and displayed on the mobile screen.
-8. Click on the image card to launch its properties panel.
-9. Do required customisations.
-10. Add a new card to the Image Card List.
-    1. In the image card list, click the add icon.
-    2. A new card will be added to the image card list.
-    3. Customise the new card as needed.
-11. Click **Save** to apply changes in the mobile app.
+4. Go to the **Sections** tab on the left.
+5. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
+6. An image card list will be added and displayed on the mobile screen.
+7. Click on the image card to launch its properties panel.
+8. Do required customisations.
+9. Add a new card to the Image Card List.
+   1. In the image card list, click the add icon.
+   2. A new card will be added to the image card list.
+   3. Customise the new card as needed.
+10. Click **Save** to apply changes in the mobile app.
 
 <figure><img src="../../.gitbook/assets/Configuring Image Card properties_1.png" alt=""><figcaption><p>Configuring Image Card properties screen 1</p></figcaption></figure>
 
@@ -158,12 +153,11 @@ To add a Horizontal List of Cards:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. <mark style="color:blue;">Note: Under</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Configure Tabs**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">section, select the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Type**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">as 'Section'</mark><mark style="color:blue;">**.**</mark>
-5. Go to the **Sections** tab on the left.
-6. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
-7. The newly added Horizontal List of Cards section will appear on the mobile screen.
-8. Do required customisations.
-9. Click **Save** to apply the changes in the mobile app.
+4. Go to the **Sections** tab on the left.
+5. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
+6. The newly added Horizontal List of Cards section will appear on the mobile screen.
+7. Do required customisations.
+8. Click **Save** to apply the changes in the mobile app.
 
 <figure><img src="../../.gitbook/assets/Horizontal List of Cards.jpg" alt="" width="563"><figcaption><p>An example designed using the Horizontal List of Cards section</p></figcaption></figure>
 
@@ -174,13 +168,12 @@ To add a Currency Converter Widget:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. <mark style="color:blue;">Note: Under</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Configure Tabs**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">section, select the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Type**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">as 'Section'</mark><mark style="color:blue;">**.**</mark>
-5. Go to the **Sections** tab on the left.
-6. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen and it will appear on the mobile screen.
-7. Click **Save** to apply the changes in the mobile app.
-8. Open your mobile app and go to the required tab. The Currency Converter section will be displayed.
-9. In the Currency Converter section, select the original currency (_e.g., USD)_ and enter the amount you want to convert.
-10. Choose the currency you want to convert the original amount into (_e.g., SGD)_. The entered amount will be automatically displayed in the selected currency.
+4. Go to the **Sections** tab on the left.
+5. Pick the **Currency Converter Widget.** Drag and drop it onto the mobile screen and it will appear on the mobile screen.
+6. Click **Save** to apply the changes in the mobile app.
+7. Open your mobile app and go to the required tab. The Currency Converter section will be displayed.
+8. In the Currency Converter section, select the original currency (_e.g., USD)_ and enter the amount you want to convert.
+9. Choose the currency you want to convert the original amount into (_e.g., SGD)_. The entered amount will be automatically displayed in the selected currency.
 
 <figure><img src="../../.gitbook/assets/Currency Converter Widget_1.png" alt=""><figcaption><p>Currency Converter Widget</p></figcaption></figure>
 
@@ -195,10 +188,9 @@ To link a widget to a specific tab:
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
-4. <mark style="color:blue;">Note: Under</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Configure Tabs**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">section, select the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Type**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">as 'Widget'</mark><mark style="color:blue;">**.**</mark>
-5. Click the **Select a Widget** button.
-6. Pick the required widget from the list (widget names will appear in the list).&#x20;
-7. Click **Save** to apply the changes. The selected widget will now display in your app under the required tab.
+4. Click the **Select a Widget** button.
+5. Pick the required widget from the list (widget names will appear in the list).&#x20;
+6. Click **Save** to apply the changes. The selected widget will now display in your app under the required tab.
 
 {% hint style="info" %}
 When adding a tab, the type should be selected as 'Widget' to link a preconfigured widget to that tab.
