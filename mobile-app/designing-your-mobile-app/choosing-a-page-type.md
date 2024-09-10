@@ -210,11 +210,7 @@ Learn to build and link a widget to a tab. Find the article here to gain more in
 [launching-a-widget-on-tab-click.md](launching-a-widget-on-tab-click.md)
 {% endcontent-ref %}
 
-
-
-The screen below displays a widget created using the Search widget template, linked to the Assets tab.
-
-<figure><img src="../../.gitbook/assets/Widget example_1.png" alt="" width="353"><figcaption><p>Widget example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Widget example_3.png" alt="" width="353"><figcaption><p>A example of a Widget designed</p></figcaption></figure>
 
 ### 3) Custom Mobile Page
 

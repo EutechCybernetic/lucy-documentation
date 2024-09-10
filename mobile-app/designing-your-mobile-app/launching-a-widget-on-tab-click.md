@@ -95,5 +95,5 @@ Click here to learn more about adding and configuring a tab in your mobile app.
 6. Pick the required widget from the list (widget names will appear in the list).&#x20;
 7. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
 
-<figure><img src="../../.gitbook/assets/Widget example_3.png" alt="" width="353"><figcaption><p>A preview of the designed widget displayed in the mobile app</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Widget example_3.png" alt="" width="353"><figcaption><p>A preview of the designed widget </p></figcaption></figure>
 
