@@ -107,7 +107,7 @@ To open a mobile screen
 3. On the Settings page, click the required section to open the properties panel.
 4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.
 5. Navigate to the **Open Mobile Screen** tab.
-6. Select the required mobile screen.
+6. Select the required mobile screen (e.g., Currency).
 7. Click **Done**.
 8. Click **Save** to save and apply the changes in the mobile app.
 9. Open the Settings page in your mobile app and click the specific section to launch the respective mobile screen.
