@@ -220,7 +220,7 @@ The screen below displays a widget created using the Search widget template, lin
 
 Custom Mobile Pages, such as the Settings page, are unique to the mobile app and not available in the Lucy web app.
 
-You can organise the settings page by configuring Section Groups and configuring related Sections within each group.
+You can organise the settings page by configuring Setting Groups and configuring related Sections within each group.
 
 {% hint style="info" %}
 When adding a tab, the **Type** should be selected as 'Custom Mobile Page'.
