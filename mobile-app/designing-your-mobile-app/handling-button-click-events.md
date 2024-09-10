@@ -96,7 +96,7 @@ To open an add-on
 
 ## Open a Mobile Screen
 
-You can set a button to open a predefined mobile screen.
+You can set a button to open a predefined mobile screen. These screens are specific to the mobile app.
 
 For example, choose a predefined mobile screen, like the Currency page, to display when you click on the Currency section in your mobile app's Settings page.
 
