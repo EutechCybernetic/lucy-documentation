@@ -144,15 +144,13 @@ To add a Image Card List:
 
 #### d) Horizontal List of Cards
 
-A Horizontal List of Cards section is similar to an Image Card List, with the added functionality of swiping the cards to the left or right. You can also display buttons or text labels at the top or bottom.
+This feature enables binding a data source to a card list, displaying necessary details within the cards, including images. Unlike a standard Image Card List, these cards can be swiped left or right. Additionally, you can add buttons or text labels at the top or bottom of a card.
 
-It allows to bind a data source to the card list to display required details in the cards including the images.
+To add a Horizontal List of Cards to a page
 
-To add a Horizontal List of Cards:
-
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the bottom navigation bar.
-3. In the bottom navigation bar, click the required tab.
+1. On the Lucy web app **homepage**, go to the **Mobile App** tab.
+2. Click the bottom navigation bar of the mobile screen displayed.
+3. In the bottom navigation bar, click the required tab to open required page on the mobile screen.
 4. Go to the **Sections** tab on the left.
 5. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
 6. The newly added Horizontal List of Cards section will appear on the mobile screen.
