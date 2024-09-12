@@ -17,7 +17,7 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
    3. Add multiple settings groups as necessary.
 9.  **Section:** A section is a smaller grouping of settings within a setting group. It focuses on a specific aspect of the setting group.&#x20;
 
-    **Example:** Within the **Account** setting group, you might have sections like:
+    **Example:** In the **Account** setting group, you can have sections like:
 
     * Personal Details
     * Currency
@@ -28,18 +28,19 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
 
     1. In the properties panel, Click the **Add Tab** button.
     2. Enter a suitable name for the section, _e.g., Personal Details._
-    3. In the Icon field, pick a icon for the section.
-    4. Pick the required Setting Group.
-    5. [**Edit Action:** ](handling-button-click-events.md)Click this button to open the [**Action Editor** window.](handling-button-click-events.md#action-editor-window) This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific section is clicked.
-       1. **Open URL:** You can configure a URL to be opened when specific section is clicked.
-       2. **Open Widget:** Used to select a specific widget to be opened when specific section is clicked.
-       3. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
-       4. **Open Add-on**: Used to configure a specific add-on to be opened when specific section is clicked.
-       5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the specific section is clicked.
-       6. After configuring the action, click **Done**.
-    6. Add more sections.
+    3. In the **Icon** field, pick a icon for the section.
+    4. Pick the required Setting Group, _e.g., Account._
+    5. Set the page to open when the section is clicked.
+       1. Click the **Edit Action** button to open the [**Action Editor** window.](handling-button-click-events.md#action-editor-window) This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific section is clicked.
+          1. **Open URL:** You can configure a URL to be opened when specific section is clicked.
+          2. **Open Widget:** Used to select a specific widget to be opened when specific section is clicked.
+          3. **Execute Action**: Used to run a specific Lucy action. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
+          4. **Open Add-on**: Used to configure a specific add-on to be opened when specific section is clicked.
+          5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the specific section is clicked.
+    6. After configuring the action, click **Done**.
+    7. Add more setting groups and sections.
 10. Click **Save** to apply the changes in the mobile app.
-11. Open the mobile app to view changes.
+11. Open the mobile app to view the changes.
 
 <figure><img src="../../.gitbook/assets/Creating Settings page_1-1.png" alt=""><figcaption><p>Designing the settings page</p></figcaption></figure>
 
