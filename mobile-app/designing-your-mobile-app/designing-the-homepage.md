@@ -17,6 +17,22 @@ To configure the home tab
 5. [**Type**](designing-the-homepage.md#selecting-a-page-type)**:** Choose the required page type to open when the respective tab is clicked, _e.g., Section._
 6. Click **Save**.
 
+### **Selecting a Page Type**
+
+A page type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar.
+
+Available Page Types
+
+* Sections
+* Widget
+* Custom Mobile Page
+
+For detailed instructions on configuring the page type, read this article.
+
+{% content-ref url="choosing-a-page-type.md" %}
+[choosing-a-page-type.md](choosing-a-page-type.md)
+{% endcontent-ref %}
+
 ## Configuring the App Bar Settings
 
 Personalise your app bar's appearance by choosing a different color or uploading a background image, adding a company logo, including a title etc.&#x20;
@@ -106,34 +122,5 @@ Steps to Customise the Navigation Bar
 3. Select a Navigation Bar Background Colour, Navigation Bar Button Colour, and Navigation Bar Active Button Colour as necessary.
 4. Click **Save.** Open your mobile app to view the updates.
 
-## Configuring the Home Tab
 
-When configuring the Home tab of your mobile app in the Lucy web app, you can add a unique name, select an icon and pick a type (page type).&#x20;
-
-To configure the home tab:
-
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. Click the bottom navigation bar.
-3. In the bottom navigation bar, click the required tab to access your home page.
-4. Under **Configure Tabs** section configure the following,&#x20;
-   1. **Name**: Enter a unique name for the home tab.
-   2. **Icon**: Click the **Icon** field and pick an icon from the Search Icons window.
-   3. **Type**: Select the screen type to open when your tab is clicked, such as Sections.
-5. Click **Save.**
-
-### **Selecting a Page Type**
-
-A page type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar.
-
-Available Page Types
-
-* Sections
-* Widget
-* Custom Mobile Page
-
-For detailed instructions on configuring the page type, read this article.
-
-{% content-ref url="choosing-a-page-type.md" %}
-[choosing-a-page-type.md](choosing-a-page-type.md)
-{% endcontent-ref %}
 
