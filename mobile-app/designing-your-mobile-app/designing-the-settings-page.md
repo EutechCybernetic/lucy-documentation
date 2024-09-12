@@ -50,11 +50,11 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
 
 After designing the structure of the Settings page, link each section to its relevant page. You can set a section to open a webpage, open an existing add-on, open a widget, execute a Lucy action, or open a certain mobile screen.
 
-For example, let's set the Personal Details section to launch a widget displaying the user's personal details.
+For example, let's set the Personal Details section of the Settings page to launch a widget for displaying and editing users' personal details.
 
 ### Creating the Widget
 
-We'll use the 'Object View' widget template to create a widget that shows user's personal details. Design your widget by adding required fields.
+We'll use the 'Object View' widget template to create the widget.
 
 Follow these steps to create the widget.
 
@@ -125,7 +125,7 @@ Follow these steps to create the widget.
 
 Use horizontal containers to store fields horizontally when designing your widget.
 
-Steps to add a Horizontal Container
+Steps to Add a Horizontal Container
 
 1. On the app homepage, go to the **My Work** tab.
 2. Search and click the required folder and open it.
@@ -149,7 +149,7 @@ Steps to add a Horizontal Container
 
 ### Linking the Widget
 
-After building our widget, let's link it to a section in the settings page.
+After building the widget, link it to the required section (_e.g., Personal Details) o_n the settings page.
 
 Steps to Link the Widget
 
@@ -165,3 +165,10 @@ Steps to Link the Widget
 
 <figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Launching the predesigned widget</p></figcaption></figure>
 
+
+
+For more information on connecting a section to a page, find the article here:
+
+{% content-ref url="handling-button-click-events.md" %}
+[handling-button-click-events.md](handling-button-click-events.md)
+{% endcontent-ref %}
