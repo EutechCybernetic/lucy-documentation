@@ -51,7 +51,7 @@ These are the settings related to the app bar of your mobile app.
 
 ## Adding and Configuring Header Icon Buttons
 
-In your mobile app, you can add header icon buttons in the app bar via the lucy web app. These buttons will be added under the app bar title.
+In your mobile app homepage, you can add header icon buttons in the app bar via the lucy web app. These buttons will be added under the app bar title.
 
 To add a header icon button:
 
@@ -60,13 +60,14 @@ To add a header icon button:
 3. Go to the Header Icon Buttons section and click **Add Button.**
 4. In the **Name** box, provide a suitable name for the button.
 5. Click the **Icon** field to pick a icon from the gallery.
-6. [**Edit Action:** ](handling-button-click-events.md)Click this button to open the [**Action Editor** window.](handling-button-click-events.md#action-editor-window) This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific header icon is clicked.
-   1. **Open URL:** You can configure a URL to be opened when the header icon is clicked.
-   2. **Open Widget:** Used to select a specific widget to be opened when the header icon is clicked.
-   3. **Execute Action**: Used to run a specific Lucy action when the header icon is clicked. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
-   4. **Open Add-on**: Used to configure a specific add-on to be opened when the header icon is clicked.
-   5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the the header icon is clicked.
-7. After configuring the action, Click **Done**.
+6. Configure the button to open the required page when clicked. For example, set it to open a pre-built widget.
+   1. Click the **Edit Action** button to open the [**Action Editor** window.](handling-button-click-events.md#action-editor-window) This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific button is clicked.
+      1. **Open URL:** You can configure a URL to be opened when the button is clicked.
+      2. **Open Widget:** Used to select a specific widget to be opened when the button is clicked.
+      3. **Execute Action**: Used to run a specific Lucy action when the button is clicked. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
+      4. **Open Add-on**: Used to configure a specific add-on to be opened when the button is clicked.
+      5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the the button is clicked.
+7. After the configuration, Click **Done**.
 8. Click **Save** to apply the changes in the mobile app.
 9. Open the mobile app to view changes.
 
