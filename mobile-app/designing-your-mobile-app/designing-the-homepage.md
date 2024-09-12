@@ -63,8 +63,12 @@ To add a header icon button:
 
 When designing your mobile app homepage, you can add icons to the home page content section without placing them in the app bar.
 
+#### Icon Section Widget
+
+You can include a set of icons using an Icon Section Widget. Configure each icon by setting its background colour, icon colour, name, and the page to be opened when clicked.
+
 {% hint style="info" %}
-Icons can be added to the content only if the page [type ](choosing-a-page-type.md)is set to 'Section'.
+When setting up the homepage tab, make sure to select the Type as '**Section**'. This allows you to add an Icon section widget to the required page.
 {% endhint %}
 
 To add and display larger icons:

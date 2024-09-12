@@ -65,7 +65,7 @@ To add and configure a Custom UI Section:
 
 You can include a set of icons using an Icon Section Widget. Configure each icon by setting its background colour, icon colour, name, and the action to be executed when clicked.
 
-You can customise the widget by adding a title, changing colours, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background colour, text colour, etc.
+You can customise an icon section widget by adding a title, changing colours, and adjusting size. Additionally, you can modify the icon shape (e.g., square, circle), background colour, text colour, etc.
 
 {% hint style="info" %}
 To customise the title section of the icon section widget, click the title section to launch its properties panel.
