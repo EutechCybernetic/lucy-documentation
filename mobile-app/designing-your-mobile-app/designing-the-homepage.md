@@ -2,7 +2,7 @@
 
 The mobile app's home page is fully customisable. You can configure the app bar by changing its colour, and height, and adding and configuring header icon buttons. If you prefer not to have header icon buttons and want larger icons, you can modify your homepage accordingly. Additionally, you can determine and configure the content displayed on the home page.
 
-By default, your mobile app includes a home page. Customise this home page using the Lucy web app to suit your preferences.
+By default, your mobile app includes a homepage. Customise it using the Lucy web app to suit your preferences.
 
 ## Configuring the Home Tab
 
@@ -13,8 +13,9 @@ To configure the home tab
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
 2. Click the bottom navigation bar to open its properties panel.
 3. Go to the **Home** tab properties section.
-4. Edit the **Name, Icon** and the [**Type** ](choosing-a-page-type.md)as necessary.
-5. Click **Save**.
+4. Edit the **Name and Icon.**
+5. [**Type**](designing-the-homepage.md#selecting-a-page-type)**:** Choose the required page type to open when the respective tab is clicked, _e.g., Section._
+6. Click **Save**.
 
 ## Configuring the App Bar Settings
 
