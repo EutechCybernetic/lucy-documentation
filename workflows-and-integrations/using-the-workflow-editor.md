@@ -114,6 +114,3 @@ To save a workflow:
 To return to the Workflows tab from the Workflow Editor page, click the <img src="../.gitbook/assets/Closebutton_1.png" alt="" data-size="line"> icon.
 {% endhint %}
 
-Watch this short video tutorial on creating a simple workflow using the workflow editor.
-
-{% embed url="https://drive.google.com/file/d/18rPnvERsqMCwFr59Gu1q5cvkhLrQ-QFx/view?usp=drive_link" %}
