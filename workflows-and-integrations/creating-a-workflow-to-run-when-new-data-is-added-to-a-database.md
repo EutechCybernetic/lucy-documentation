@@ -103,4 +103,4 @@ You can add data records through the database as well. (Navigate to the Database
 
 Watch the video below on creating a workflow to run when new data is added to a database from the ground up to gain a better understanding.
 
-{% embed url="https://drive.google.com/file/d/1S_7L1xhyViPuaoNpGYs3FQ1jLCLSQ4SC/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1x-cqkvaM4vsRpbc1ImRJGgsqJD8Crwnt/view?usp=drive_link" %}
