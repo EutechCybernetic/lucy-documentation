@@ -1,6 +1,6 @@
 # Designing the Login Page
 
-Designing the login page is straightforward. You can customise the login page by adding a background image and add a logo.
+Designing a login page of your mobile app can be as simple as adding a background image and a logo.
 
 To design the Login Page:
 
