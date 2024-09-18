@@ -46,7 +46,7 @@
 * [Workflows and Integrations](workflows-and-integrations/README.md)
   * [Using the Workflow Editor](workflows-and-integrations/using-the-workflow-editor.md)
   * [Creating Workflows](workflows-and-integrations/creating-workflows.md)
-  * [Creating a Workflow to Run When New Data is Added into a Database](workflows-and-integrations/creating-a-workflow-to-run-when-new-data-is-added-into-a-database.md)
+  * [Creating a Workflow to Run When New Data is Added to a Database](workflows-and-integrations/creating-a-workflow-to-run-when-new-data-is-added-to-a-database.md)
   * [Creating a Workflow to Run When an Email is Received](workflows-and-integrations/creating-a-workflow-to-run-when-an-email-is-received.md)
   * [Creating a Workflow to Run When a Message from a Chatbot is Received](workflows-and-integrations/creating-a-workflow-to-run-when-a-message-from-a-chatbot-is-received.md)
   * [Creating a Workflow that Runs at Specified Intervals](workflows-and-integrations/creating-a-workflow-that-runs-at-specified-intervals.md)

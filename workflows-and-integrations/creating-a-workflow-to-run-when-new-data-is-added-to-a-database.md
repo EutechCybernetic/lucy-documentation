@@ -1,12 +1,12 @@
-# Creating a Workflow to Run When New Data is Added into a Database
+# Creating a Workflow to Run When New Data is Added to a Database
 
 Workflows are automated sequences of actions that connect different applications or services to streamline processes. A workflow typically starts with a trigger and then executes a series of actions in response to that trigger.
 
-A workflow can be set up to trigger when new data is added into a specific database. In general, the system repeatedly monitors the database for new data entries. If new data entry is detected, the workflow is triggered, and a series of predefined actions are executed. These actions can include sending notifications, updating records, and more.
+A workflow can be set up to trigger when new data is added to a specific database. In general, the system repeatedly monitors the database for new data entries. If new data entry is detected, the workflow is triggered, and a series of predefined actions are executed. These actions can include sending notifications, updating records, and more.
 
-In this tutorial, we will create a simple workflow that automatically sends an email whenever new data is added into a database.
+In this tutorial, we will create a simple workflow that automatically sends an email whenever new data is added to a database.
 
-The process of creating a workflow to trigger when new data is added into a database is described in three main steps.
+The process of creating a workflow to trigger when new data is added to a database is described in three main steps.
 
 ### 1. Creating the Database
 
@@ -80,7 +80,7 @@ You can find all your saved workflows under the **Workflows** tab within the res
 
 ### 3. Testing/Executing the Workflow
 
-The last step is to test the workflow by adding a data record into the database.
+The last step is to test the workflow by adding a data record to the database.
 
 1. On the Lucy app **homepage**, click the **My Work** tab on the left.&#x20;
 2. All the folders you have created, as well as those created by others, will be listed.&#x20;
@@ -88,7 +88,7 @@ The last step is to test the workflow by adding a data record into the database.
 4. Within the folder, navigate to the **Workflows** tab.
 5. Locate and click on your workflow to open it on the Workflow editor page.
 6. Click the ![](<../.gitbook/assets/image (5).png>)Run button. Execute Workflow form opens.
-7. Complete the form and click **Execute.** This will execute the workflow and insert the data into the database.
+7. Complete the form and click **Execute.** This will execute the workflow and insert the data to the database.
 8. Open your database to preview the changes. When a new record is added to the database, our workflow will send an email to the recipient.
 
 {% hint style="success" %}
@@ -103,4 +103,4 @@ You can add data records through the database as well. (Navigate to the Database
 
 Watch the video below on creating a workflow to run when new data is added to a database from the ground up to gain a better understanding.
 
-{% embed url="https://drive.google.com/file/d/15765XXjtkG7AqIJIsEFbHXCUVwk5OlDx/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1U22d2UVx4qjy78aIhA5THIIrsiIgTTF3/view?usp=drive_link" %}
