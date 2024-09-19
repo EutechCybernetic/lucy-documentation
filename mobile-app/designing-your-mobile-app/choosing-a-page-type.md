@@ -169,7 +169,9 @@ To add a Horizontal List of Cards to a page
 
 #### e) Currency Converter Widget
 
-To add a Currency Converter Widget:
+A **Currency Converter Widget** is a interactive element that allows you to easily convert amounts from one currency to another providing real-time exchange rates and calculations.
+
+To add a Currency Converter Widget to a mobile page:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
