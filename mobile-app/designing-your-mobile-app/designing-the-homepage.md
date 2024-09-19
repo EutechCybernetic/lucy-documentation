@@ -47,7 +47,7 @@ To configure the app bar settings:
 
 These are the settings related to the app bar of your mobile app.
 
-<figure><img src="../../.gitbook/assets/Configuring the App Bar Settings_s1.png" alt="" width="563"><figcaption><p>Configuring the App Bar Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Configuring the App Bar Settings_s2.png" alt="" width="563"><figcaption><p>Configuring the App Bar Settings</p></figcaption></figure>
 
 
 
