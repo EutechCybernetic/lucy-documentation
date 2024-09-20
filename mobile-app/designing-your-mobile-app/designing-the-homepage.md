@@ -57,9 +57,7 @@ These are the settings related to the app bar of your mobile app.
 
 ## Adding and Configuring Header Icon Buttons
 
-In your mobile app homepage, you can add header icon buttons in the app bar via the lucy web app.&#x20;
-
-Header Icon Buttons are located at the top of a mobile app's homepage, within the app's header. These buttons will be added under the app bar title, e.g., Notification button: Used to access notifications.
+In your mobile app homepage, you can add header icon buttons to appear under app bar title. Header Icon Buttons are located at the top of a mobile app's homepage, within the app's header.&#x20;
 
 To add a header icon button:
 
