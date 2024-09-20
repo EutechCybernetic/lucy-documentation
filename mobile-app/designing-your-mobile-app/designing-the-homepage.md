@@ -57,7 +57,9 @@ These are the settings related to the app bar of your mobile app.
 
 ## Adding and Configuring Header Icon Buttons
 
-In your mobile app homepage, you can add header icon buttons in the app bar via the lucy web app. These buttons will be added under the app bar title.
+In your mobile app homepage, you can add header icon buttons in the app bar via the lucy web app.&#x20;
+
+Header Icon Buttons are located at the top of a mobile app's homepage, within the app's header. These buttons will be added under the app bar title, e.g., Notification button: Used to access notifications.
 
 To add a header icon button:
 
@@ -85,17 +87,17 @@ To add a header icon button:
 
 ### **Adding Icons to the Content Section of the Homepage**
 
-When designing your mobile app homepage, you can add icons to the home page content section without placing them in the app bar.
+When designing your mobile app homepage, you have the flexibility to add icons directly to the content section of the page without placing them in the app bar. This will allow you to create a visually appealing and interactive homepage with icons that link to specific content or features.
 
 #### Icon Section Widget
 
-You can include a set of icons using an Icon Section Widget. Configure each icon by setting its background colour, icon colour, name, and the page to be opened when clicked.
+Use an Icon Section Widget to add a collection of icons to your page. Customise each icon's background color, icon color, name, and the page that opens when clicked.
 
 {% hint style="info" %}
 When setting up the homepage tab, make sure to select the Type as '**Section**'. This allows you to add an Icon section widget to the required page.
 {% endhint %}
 
-To add and display larger icons:
+To add an Icon Section Widget to a page:
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. Click the bottom navigation bar.
@@ -120,7 +122,7 @@ To add and display larger icons:
 
 ## Customising the Navigation Bar
 
-Customise the bottom navigation bar by selecting a background colour, button colour and active button colours to match your design preferences.
+Customise the bottom navigation bar of your mobile app by selecting a background colour, button colour and active button colours to match your design preferences.
 
 Steps to Customise the Navigation Bar
 
