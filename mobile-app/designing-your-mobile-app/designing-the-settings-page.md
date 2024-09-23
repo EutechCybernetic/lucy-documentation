@@ -15,7 +15,7 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
 5. **Icon:** To change the tab icon, click the icon and select an appropriate one from the Search Icons window.
 6. **Type**: Choose the required page type to open when the respective tab is clicked, _e.g., Custom Mobile Page._
 7. On the mobile screen, select the Settings Page from the list. A new section labeled 'Click here to configure sections in settings page' will appear on the mobile screen. Click the section.
-8. **Setting Group:** A setting group is a broad category that encompasses related settings. It serves as a container for multiple sections. Add a setting group.
+8. **Setting Group:** A settings group helps to group related sections. Add a setting group.
    1. In the properties panel, Click the **Add Settings Group** button.
    2. Enter a suitable name for the setting group, _e.g., Account._
    3. Add multiple settings groups as necessary.
