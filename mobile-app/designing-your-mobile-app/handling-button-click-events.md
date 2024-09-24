@@ -45,11 +45,7 @@ To open a web page
 
 For example, when you click on the Personal Details section in your mobile app's Settings page, it opens the corresponding user-created widget, a form to edit personal details.
 
-Learn how to design a simple widget by following this tutorial.
-
-{% content-ref url="designing-the-settings-page.md" %}
-[designing-the-settings-page.md](designing-the-settings-page.md)
-{% endcontent-ref %}
+[Click here](designing-the-settings-page.md#creating-the-widget) to learn how to create a simple widget.
 
 To launch a pre-built widget
 
