@@ -10,3 +10,7 @@ Once you've set up the Lucy mobile app, you can start creating your own app. Her
 6. [Handling Button Click Events](handling-button-click-events.md)
 7. [Launching a Widget on Tab Click](launching-a-widget-on-tab-click.md)
 
+{% hint style="info" %}
+When you first open the mobile app, it typically comes with a pre-designed homepage and a settings page. These are the default pages that come with the app. You can then customise them according to your preferences.
+{% endhint %}
+
