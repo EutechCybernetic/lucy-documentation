@@ -106,15 +106,9 @@ To add a Icon Section Widget:
 
 #### c) Image Card List
 
-You can add and customise an image card list for specific mobile screens, offering various options for personalisation.
+An image card list is a vertical stack of cards, each containing an image, text and potentially clickable elements like clickable images, links. Users can scroll through the list to view all cards. This layout is widely used in mobile apps to display items in a structured and visually appealing manner.
 
-For example, you can customise the number of cards per row to be displayed. If a specific card reaches the end of a container, you can move the remaining cards to the next line.
-
-In addition, you can customise the title and the body section properties in the Image Card List. To customise the title section, click the title section to launch properties panel. To customise the body section, click the body section to launch properties panel.
-
-{% hint style="info" %}
-To customise the title section of the image card list, click the title section to launch its properties panel.
-{% endhint %}
+Common Use Cases: Product Galleries, Photo Albums, Article Feeds
 
 To add a Image Card List:
 
@@ -124,8 +118,14 @@ To add a Image Card List:
 4. Go to the **Sections** tab on the left.
 5. Pick the **Image Card List.** Drag and drop it onto the mobile screen.
 6. An image card list will be added and displayed on the mobile screen.
-7. Click on the image card to launch its properties panel.
-8. Do required customisations.
+7. Customise the title of the image card list.
+   1. Click the Title section of the card list to launch its properties panel.
+   2. In the Text field, type in a suitable title.
+   3. Choose a title colour.
+   4. Adjust the title size as necessary.
+8. Customise the image card list section.
+   1. Click on the image card to launch its properties panel.
+   2. Do required customisations.
 9. Add a new card to the Image Card List.
    1. In the image card list, click the add icon.
    2. A new card will be added to the image card list.
@@ -144,9 +144,13 @@ To add a Image Card List:
 
 #### d) Horizontal List of Cards
 
-This feature enables binding a data source to a card list, displaying necessary details within the cards, including images. Unlike a standard Image Card List, these cards can be swiped left or right. Additionally, you can add buttons or text labels at the top or bottom of a card.
+A horizontal list of cards is a layout where cards are arranged side by side, horizontally, instead of vertically. This arrangement allows users to swipe horizontally to view additional cards. Only a limited number of cards are visible at once, encouraging users to actively explore the content.
 
-To add a Horizontal List of Cards to a page
+In addition, you can bind a data source to a card list, dynamically populating the cards with relevant information. Also you can customise the appearance and content of each card, including images, text labels, and buttons.
+
+Common use cases: Carousel sliders, Featured content, Image galleries
+
+Steps to Add a Horizontal List of Cards to a Page
 
 1. On the Lucy web app **homepage**, go to the **Mobile App** tab.
 2. Click the bottom navigation bar of the mobile screen displayed.
