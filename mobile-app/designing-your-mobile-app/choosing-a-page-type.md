@@ -18,7 +18,9 @@ Select a page type when adding a new tab to your mobile app's bottom navigation 
 
 ### 1) Section
 
-The 'Section**'** page type lets you effortlessly add and configure horizontal sections on a mobile page using the Lucy web app. Just drag and drop them into place. Each section has a unique function to enhance the user experience.
+The 'Section**'** page type lets you effortlessly add horizontal sections to your mobile app's pages. These sections are pre-designed UI elements that you can simply drag and drop.
+
+By using these pre-designed sections, you can quickly add various functionalities and visual elements to your app without extensive coding knowledge. This means you can create a more visually appealing and interactive app with less effort.
 
 Below are the available sections. You can add the same section multiple times if needed.
 
