@@ -173,7 +173,7 @@ Steps to Link the Widget
 
 ### Linking the Currency Section to Launch a Mobile Screen
 
-We can set a section to open a prebuilt mobile screens that are unique and only work on the mobile app.
+We can link a section to display unique prebuilt mobile screens that exclusively function within the mobile app.
 
 Steps to Link a Mobile Screen
 
@@ -186,6 +186,8 @@ Steps to Link a Mobile Screen
 7. Pick the designed mobile screen e.g., Currency and click **Done.**
 8. Click **Save** to apply the changes in your mobile app.&#x20;
 9. Open the mobile app's settings page and click the required section to open the selected mobile screen.
+
+Similarly, you can link the necessary mobile screens for the Language and Notifications sections.
 
 For more information on connecting a section to a page, find the article here:
 
