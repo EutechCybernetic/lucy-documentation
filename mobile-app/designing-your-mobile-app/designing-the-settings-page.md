@@ -3,7 +3,7 @@
 This tutorial explains how to design the Settings page in your mobile app. By default, you will have a Settings page and you can customise it as necessary.
 
 {% hint style="info" %}
-Your mobile app comes with a default homepage and settings page that you can customise to suit your preferences.
+Your mobile app comes with a default homepage and a settings page that you can customise to suit your preferences.
 {% endhint %}
 
 Let's customise the Settings page of your mobile app using the Lucy web app.
@@ -15,13 +15,13 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
 5. **Icon:** To change the tab icon, click the icon and select an appropriate one from the Search Icons window.
 6. **Type**: Choose the required page type to open when the respective tab is clicked, _e.g., Custom Mobile Page._
 7. On the mobile screen, select the Settings Page from the list. A new section labeled 'Click here to configure sections in settings page' will appear on the mobile screen. Click the section.
-8. **Setting Group:** A settings group helps to group related sections. Add a setting group.
+8. **Settings Group:** A settings group helps to group related sections. Add a settings group.
    1. In the properties panel, Click the **Add Settings Group** button.
-   2. Enter a suitable name for the setting group, _e.g., Account._
+   2. Enter a suitable name for the settings group, _e.g., Account._
    3. Add multiple settings groups as necessary.
-9.  **Section:** A section is a smaller grouping of settings within a setting group. It focuses on a specific aspect of the setting group.&#x20;
+9.  **Section:** A section is a smaller grouping of settings within a settings group. It focuses on a specific aspect of the settings group.&#x20;
 
-    **Example:** In the **Account** setting group, you can have sections like:
+    **Example:** In the **Account** settings group, you can have sections like:
 
     * Personal Details
     * Currency
@@ -33,7 +33,7 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
     1. In the properties panel, Click the **Add Tab** button.
     2. Enter a suitable name for the section, _e.g., Personal Details._
     3. In the **Icon** field, pick a icon for the section.
-    4. Pick the required Setting Group, _e.g., Account._
+    4. Pick the required Settings Group, _e.g., Account._
     5. Set the page to open when the section is clicked.
        1. Click the **Edit Action** button to open the [**Action Editor** window.](handling-button-click-events.md#action-editor-window) This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific section is clicked.
           1. **Open URL:** You can configure a URL to be opened when specific section is clicked.
@@ -42,7 +42,7 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
           4. **Open Add-on**: Used to configure a specific add-on to be opened when specific section is clicked.
           5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the specific section is clicked.
     6. After configuring the action, click **Done**.
-    7. Add more setting groups and sections.
+    7. Add more settings groups and sections.
 10. Click **Save** to apply the changes in the mobile app.
 11. Open the mobile app to view the changes.
 
@@ -50,13 +50,15 @@ Let's customise the Settings page of your mobile app using the Lucy web app.
 
 <figure><img src="../../.gitbook/assets/Settings Page_1.png" alt="" width="353"><figcaption><p>A example of a Settings page</p></figcaption></figure>
 
-## Launching a Page When a Section is Clicked
+## Linking a Page to a Section
 
 After designing the structure of the Settings page, link each section to its relevant page. You can set a section to open a webpage, open an existing add-on, open a widget, execute a Lucy action, or open a certain mobile screen.
 
 For example, let's set the Personal Details section of the Settings page to launch a widget for displaying and editing users' personal details.
 
-### Creating the Widget
+### Linking the Personal Details Section to Launch a Prebuilt Widget
+
+#### Creating the Widget
 
 We'll use the 'Object View' widget template to create the widget.
 
@@ -151,7 +153,7 @@ Steps to Add a Horizontal Container
 
 <figure><img src="../../.gitbook/assets/Horizontal Container_3.png" alt=""><figcaption><p>Horizontal Container example</p></figcaption></figure>
 
-### Linking the Widget
+#### Linking the Widget
 
 After building the widget, link it to the required section (_e.g., Personal Details) o_n the settings page.
 
@@ -159,17 +161,31 @@ Steps to Link the Widget
 
 1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
 2. On the mobile screen, click the Settings tab to open the settings page.
-3. Click the designed area with the sections and section groups to open its properties panel.
+3. Click the required section, e.g, Personal Details.
 4. &#x20;In the properties panel, go to the Personal Details section.
 5. Click **Edit Action.**
 6. Go to the **Open Widget** tab.
 7. Pick the designed widget and click **Done.**
-8. Click **Save** to apply the changes. The selected widget will now display in your mobile app under the required tab.
-9. Open the mobile app's settings page and click the required section.
+8. Click **Save** to apply the changes.
+9. Open the mobile app's settings page and click the required section to open the selected widget.
 
 <figure><img src="../../.gitbook/assets/Launch a Prebuilt Widget_1.png" alt=""><figcaption><p>Launching the predesigned widget</p></figcaption></figure>
 
+### Linking the Currency Section to Launch a Mobile Screen
 
+We can set a section to open a prebuilt mobile screens that are unique and only work on the mobile app.
+
+Steps to Link a Mobile Screen
+
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+2. On the mobile screen, click the **Settings** tab to open the settings page.
+3. Click the required section, e.g., Currency.
+4. &#x20;In the properties panel, go to the Currency section.
+5. Click **Edit Action.**
+6. Go to the **Open Mobile Screen** tab.
+7. Pick the designed mobile screen e.g., Currency and click **Done.**
+8. Click **Save** to apply the changes in your mobile app.&#x20;
+9. Open the mobile app's settings page and click the required section to open the selected mobile screen.
 
 For more information on connecting a section to a page, find the article here:
 

@@ -5,7 +5,7 @@ The mobile app's home page is fully customisable. You can configure the app bar 
 
 
 {% hint style="info" %}
-Your mobile app comes with a default homepage and settings page that you can customise to suit your preferences.
+Your mobile app comes with a default homepage and a settings page that you can customise to suit your preferences.
 {% endhint %}
 
 ## Configuring the Home Tab
