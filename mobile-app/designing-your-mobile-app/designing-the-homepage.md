@@ -21,15 +21,23 @@ To configure the home tab
 5. [**Type**](designing-the-homepage.md#selecting-a-page-type)**:** Choose the required page type to open when the respective tab is clicked, _e.g., Section._
 6. Click **Save**.
 
+{% hint style="info" %}
+By default, the Home tab type is set to 'Sections'. You can change the type as necessary.
+{% endhint %}
+
 ### **Selecting a Page Type**
 
-A page type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar.
+In your mobile app, tabs are the icons located at the bottom of the page that allow you to quickly switch between different pages.
+
+A page type determines the content displayed when a tab is clicked.
 
 Available Page Types
 
 * Sections
 * Widget
 * Custom Mobile Page
+
+Simply put, a tab can be configured to display a list of sections, a widget or a custom mobile page built using Flutter based on the selected type.
 
 For detailed instructions on configuring the page type, read this article.
 
