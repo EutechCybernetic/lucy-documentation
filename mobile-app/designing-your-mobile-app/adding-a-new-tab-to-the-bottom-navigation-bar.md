@@ -1,5 +1,7 @@
 # Adding a New Tab to the Bottom Navigation Bar
 
+In a mobile app, tabs are the icons located at the bottom of the page that allow you to quickly switch between different pages.
+
 Once the mobile app is set up, you can create pages and configure tab navigation. The default bottom navigation bar includes the Home and Settings tabs. You can customize it by adding more tabs as needed. When switching between tabs, you can configure the type of page that opens for each one.
 
 ## Adding a New Tab to the Navigation Bar
