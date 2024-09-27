@@ -33,3 +33,7 @@ The login credentials will be the same as those you use in the Lucy web applicat
 <figure><img src="../.gitbook/assets/Login screen_1.png" alt="" width="353"><figcaption><p>Login screen</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Home screen_1.png" alt="" width="353"><figcaption><p>Home screen</p></figcaption></figure>
+
+{% hint style="info" %}
+The mobile app comes with a default homepage and a settings page that you can customise to suit your preferences.
+{% endhint %}

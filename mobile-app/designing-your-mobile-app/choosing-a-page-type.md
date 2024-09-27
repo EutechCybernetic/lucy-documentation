@@ -46,7 +46,7 @@ Use the Custom UI Section to create a personalised user interface with JSON code
 
 To add and configure a Custom UI Section:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
 4. Go to the **Sections** tab on the left.
@@ -79,7 +79,7 @@ To customise the body section of the icon section widget, click the body section
 
 To add a Icon Section Widget:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
 4. Go to the **Sections** tab on the left.
@@ -116,7 +116,7 @@ Common Use Cases: Product Galleries, Photo Albums, Article Feeds
 
 To add a Image Card List:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
 4. Go to the **Sections** tab on the left.
@@ -156,7 +156,7 @@ Common use cases: Carousel sliders, Featured content, Image galleries
 
 Steps to Add a Horizontal List of Cards to a Page
 
-1. On the Lucy web app **homepage**, go to the **Mobile App** tab.
+1. On the Lucy web app **homepage**, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Click the bottom navigation bar of the mobile screen displayed.
 3. In the bottom navigation bar, click the required tab to open required page on the mobile screen.
 4. Go to the **Sections** tab on the left.
@@ -197,7 +197,7 @@ A **Currency Converter Widget** is a interactive element that allows you to easi
 
 To add a Currency Converter Widget to a mobile page:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
 4. Go to the **Sections** tab on the left.
@@ -217,7 +217,7 @@ You can link a preconfigured widget to a specific tab to display it when clicked
 
 To link a widget to a specific tab:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Click the bottom navigation bar.
 3. In the bottom navigation bar, click the required tab.
 4. Click the **Select a Widget** button.

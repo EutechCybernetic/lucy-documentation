@@ -8,7 +8,7 @@ Once the mobile app is set up, you can create pages and configure tab navigation
 
 To add and configure a new tab in the navigation bar of the mobile app
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Add a new Tab.
    1. On the mobile screen, click the navigation bar to open the properties panel on the right.
    2. In the **Configure Tabs** section of the properties panel, click the **Add Tab** button.

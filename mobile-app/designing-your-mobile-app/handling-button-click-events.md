@@ -28,7 +28,7 @@ For example, when you click on the Help section in your mobile app's Settings pa
 
 To open a web page
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
 3. On the Settings page, click the required section (e.g., Help) to open the properties panel.
 4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.
@@ -49,7 +49,7 @@ For example, when you click on the Personal Details section in your mobile app's
 
 To launch a pre-built widget
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
 3. On the Settings page, click the required section to open the properties panel.
 4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.
@@ -74,7 +74,7 @@ For example, you can add an icon to your app home page to open the Weather add-o
 
 To open an add-on
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Under **Sections**, drag and drop the **Icon Section Widget** to the mobile screen.
 3. An icon section widget will be added and displayed on the mobile screen.
 4. Click the ![](<../../.gitbook/assets/Add icon (1).png>)Add icon.
@@ -104,7 +104,7 @@ For example, choose a predefined mobile screen, like the Currency page, to displ
 
 To open a mobile screen
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. The Mobile screen will be displayed.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. On the mobile screen, click the Settings page icon in the bottom tab bar navigation. The Settings page will open on the mobile screen.
 3. On the Settings page, click the required section to open the properties panel.
 4. In the Properties panel, go to respective section and click **Edit Action**. The Action Editor window opens.

@@ -4,7 +4,7 @@ Designing the login page of your mobile app can be as simple as adding a backgro
 
 To design the Login Page:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Under the **General** tab on the right, go to the **Login Page** tab.
 3. The screen switches to login page.
 4. Select a Logo for the mobile app.

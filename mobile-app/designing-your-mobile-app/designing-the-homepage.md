@@ -14,7 +14,7 @@ The default home tab in the mobile app can be customised by changing its icon, n
 
 To configure the home tab
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays. displays.
 2. Click the bottom navigation bar to open its properties panel.
 3. Go to the **Home** tab properties section.
 4. Edit the **Name and Icon.**
@@ -51,7 +51,7 @@ Personalise your app bar's appearance by choosing a different color or uploading
 
 To configure the app bar settings:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Under the **General** tab on the right, go to the **Home Page** tab.
 3. Customise the settings as necessary.
 4. Click **Save** to apply the changes in the mobile app.
@@ -69,7 +69,7 @@ In your mobile app homepage, you can add header icon buttons to appear under app
 
 To add a header icon button:
 
-1. On the Lucy web app home page, go to the **Mobile App** tab. Mobile app builder screen displays.
+1. On the Lucy web app home page, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Under the **General** tab on the right, go to the **Home Page** tab.
 3. Go to the Header Icon Buttons section and click **Add Button.**
 4. In the **Name** box, provide a suitable name for the button.
@@ -105,7 +105,7 @@ When setting up the homepage tab, make sure to select the Type as '**Section**'.
 
 To add an Icon Section Widget to a page:
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Click the bottom navigation bar.
 3. In the bottom tab bar navigation, click the required tab to access your home page.
 4. Under **Configure Tabs** section, pick the **Type** as 'Section'.
@@ -132,7 +132,7 @@ Customise the bottom navigation bar of your mobile app by selecting a background
 
 Steps to Customise the Navigation Bar
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app builder screen displays.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
 2. Under the **General** tab on the right, click the **Home Page** tab.
 3. Select a Navigation Bar Background Colour, Navigation Bar Button Colour, and Navigation Bar Active Button Colour as necessary.
 4. Click **Save.** Open your mobile app to view the updates.

@@ -8,8 +8,8 @@ Your mobile app comes with a default homepage and a settings page that you can c
 
 Let's customise the Settings page of your mobile app using the Lucy web app.
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. On the mobile screen, click the bottom navigation bar to open the properties panel on the right.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
+2. On the mobile app designer page, click the bottom navigation bar to open the properties panel on the right.
 3. In the **Configure Tabs** section of the properties panel, locate the Settings tab.
 4. Enter an appropriate **Name** for the new tab _(e.g., Profile)_.
 5. **Icon:** To change the tab icon, click the icon and select an appropriate one from the Search Icons window.
@@ -159,8 +159,8 @@ After building the widget, link it to the required section (_e.g., Personal Deta
 
 Steps to Link the Widget
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. On the mobile screen, click the Settings tab to open the settings page.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
+2. On the mobile app designer page, click the Settings tab to open the settings page.
 3. Click the required section, e.g, Personal Details.
 4. &#x20;In the properties panel, go to the Personal Details section.
 5. Click **Edit Action.**
@@ -177,8 +177,8 @@ We can link a section to display unique prebuilt mobile screens that exclusively
 
 Steps to Link a Mobile Screen
 
-1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile screen displays.
-2. On the mobile screen, click the **Settings** tab to open the settings page.
+1. On the Lucy web app homepage, go to the **Mobile App** tab. Mobile app designer page displays.
+2. On the mobile app designer page, click the **Settings** tab to open the settings page.
 3. Click the required section, e.g., Currency.
 4. &#x20;In the properties panel, go to the Currency section.
 5. Click **Edit Action.**
