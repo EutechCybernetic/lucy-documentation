@@ -161,16 +161,32 @@ Steps to Add a Horizontal List of Cards to a Page
 3. In the bottom navigation bar, click the required tab to open required page on the mobile screen.
 4. Go to the **Sections** tab on the left.
 5. Pick the **Horizontal List of Cards.** Drag and drop it onto the mobile screen.
-6. Do required customisations.
-7. Edit the Title section as necessary.
-   1. Click on the Title of the card and its properties panel will open on the right.
+6. Edit the Title section as necessary.
+   1. Click on the Title section and its properties panel will open on the right.
    2. Under the **Container** section, pick a background color for the section.
-   3. Under the **Title** section, add a suitable title, change the colour, edit the size of the title.
-   4. Under the **Subtitle** section, edit the subtitle properties.
-8. Customise the card list.
+   3. Under the **Title** section, add a suitable title, customise the colour and the size.
+   4. Under the **Subtitle** section, add a subtitle and customise its properties.
+7. Customise the image card list.
    1. Click on the card list to open its properties panel.
    2. Under the Card List section, choose the card type.
-   3. Bind a datasource to the card list. You can bind an existing lucy action or a database.
+   3. Bind a data source to the card list. You can bind an existing lucy action or a database.
+   4. Based on the data source selected, data will be populated in each card.
+8. Add Top Labels and buttons and Bottom Labels and buttons to appear in each card.
+   1. Add a button.
+      1. Click the plus icon at the top or bottom of the card.
+      2. To select a button, pick the Button option from the list and click Save.
+      3. Go to properties panel and enter a proper button title.
+      4. Edit Action button**:** Used to open the action editor window. This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific section is clicked.
+      5. Customise the button properties e.g., Background Colour, Font Size as necessary.
+      6. Add more buttons if necessary.
+   2. Add a Text Label.
+      1. Click the plus icon at the top or bottom of the card.
+      2. To select a text label, pick the Text Label option from the list and click **Save**.
+      3. Click on the newly added label to open its properties section.
+      4. Choose the required design of the label: Default style or Pill Style.
+      5. Under Text/Label section, in the Text field, type in the text to appear in the label.
+      6. Customise the label properties as necessary.
+      7. Add more text labels if necessary.
 9. Click **Save** to reflect the changes in the mobile app.
 
 <figure><img src="../../.gitbook/assets/Horizontal List of Cards.jpg" alt="" width="563"><figcaption><p>An example designed using the Horizontal List of Cards section</p></figcaption></figure>
