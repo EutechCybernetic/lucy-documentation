@@ -4,7 +4,7 @@
 
 A page type determines the content displayed when a tab is clicked in your mobile app's bottom navigation bar. These are the available page types.
 
-<table><thead><tr><th width="306">Type</th><th>Description</th></tr></thead><tbody><tr><td><a href="choosing-a-page-type.md#id-1-section">Section</a></td><td><p>This type of page displays horizontal sections, each serving a unique purpose and enhancing the user experience.</p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p></td></tr><tr><td><a href="choosing-a-page-type.md#id-2-widget">Widget</a></td><td>You can link a preconfigured widget to a specific tab to display it when clicked.</td></tr><tr><td><a href="choosing-a-page-type.md#id-3-custom-mobile-page">Custom Mobile Page</a></td><td>Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.</td></tr></tbody></table>
+<table><thead><tr><th width="306">Type</th><th>Description</th></tr></thead><tbody><tr><td><a href="choosing-a-page-type.md#id-1-sections">Sections</a></td><td><p>This type of page displays horizontal sections, each serving a unique purpose and enhancing the user experience.</p><p>These are the available sections: Custom UI Section, Icon Section Widget, Image Card List, Horizontal List of Cards, Currency Converter Widget, and Configurable Search Widget.</p></td></tr><tr><td><a href="choosing-a-page-type.md#id-2-widget">Widget</a></td><td>You can link a preconfigured widget to a specific tab to display it when clicked.</td></tr><tr><td><a href="choosing-a-page-type.md#id-3-custom-mobile-page">Custom Mobile Page</a></td><td>Custom Mobile Pages are unique to the mobile app and not available in the Lucy web app. Although the mobile app is set up through the Lucy web platform, these pages are specifically designed for mobile, e.g., Settings page.</td></tr></tbody></table>
 
 In summary, a tab can be configured to display a list of sections, a widget or a custom mobile page built using Flutter.
 
@@ -16,9 +16,9 @@ Select a page type when adding a new tab to your mobile app's bottom navigation 
 [adding-a-new-tab-to-the-bottom-navigation-bar.md](adding-a-new-tab-to-the-bottom-navigation-bar.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/Adding a new tab_2.png" alt=""><figcaption><p>Choosing a Type</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adding a new tab_2.png" alt="" width="259"><figcaption><p>Choosing a Type</p></figcaption></figure>
 
-### 1) Section
+### 1) Sections
 
 The 'Section**'** page type lets you effortlessly add horizontal sections to your mobile app's pages. These sections are pre-designed UI elements that you can simply drag and drop.
 

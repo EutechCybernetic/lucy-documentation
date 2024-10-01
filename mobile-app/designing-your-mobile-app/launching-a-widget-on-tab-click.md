@@ -36,7 +36,7 @@ To create a widget
    5. Add and Configure Tabs in the widget.
       1. Under **Search Tabs** section, in the Tab 1 box, type a appropriate name for the first tab.
       2. Click the **Add Column** button to add more tabs.
-      3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.![](<../../.gitbook/assets/image (7).png>)
+      3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.![](<../../.gitbook/assets/image (19).png>)
    6. Bind a data source to each tab to display information:
       1. In the widget, navigate to the required tab and click the **Bind a Source** button.
       2. Choose either an existing Lucy Action or a database_. For example, let's bind a database._
@@ -49,15 +49,15 @@ To create a widget
       1. Add a database value to the Image Field.
          1. In the properties panel, go to Image section and select the Image Type as Image.
          2. In the Image Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
-         3. The selected value will be applied and displayed in the Image Field. ![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+         3. The selected value will be applied and displayed in the Image Field. ![](<../../.gitbook/assets/image (14).png>)
       2. Add a database value to the Title Field.
          1. In the properties panel, go to the Title section.
          2. In the Title Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
-         3. The selected value will be applied and displayed in the Title Field. ![](<../../.gitbook/assets/image (3) (1) (1).png>)
+         3. The selected value will be applied and displayed in the Title Field. ![](<../../.gitbook/assets/image (15).png>)
       3. Add a database value to the Sub Title Field.
          1. In the properties panel, go to the  Sub Title section.
          2. In the Sub Title Field, a JSON expression will be displayed. Remove the code and pick the required value from the Available Values pop up window. The Available Values pop up window lists all the values retrieved from the selected database.
-         3. The selected value will be applied and displayed in the Sub Title Field. ![](<../../.gitbook/assets/image (4) (1).png>)
+         3. The selected value will be applied and displayed in the Sub Title Field. ![](<../../.gitbook/assets/image (16).png>)
       4. Configure the top labels and bottom labels if necessary.
          1. In the properties panel, go to the Top Label section.
          2. Click Add New Item.&#x20;

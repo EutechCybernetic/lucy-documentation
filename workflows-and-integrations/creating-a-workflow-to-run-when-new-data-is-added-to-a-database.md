@@ -57,7 +57,7 @@ To create the workflow that sends an email when new data is added to the databas
    2. Filter and select blocks by category (e.g., Communications ) or type in the block name in the search box.
    3. Pick the required block, _e.g., Send Email._
 9. Configure the properties of the Send Email block.
-   1. On the Send Email block, click the **arrow** icon ![](<../.gitbook/assets/image (11).png>)to open its **Properties** section.
+   1. On the Send Email block, click the **arrow** icon ![](<../.gitbook/assets/image (23).png>)to open its **Properties** section.
    2. Enter the **Subject** of the email. Use Pills to customise the subject as necessary. These pills are used in input fields and originate from previous blocks in your workflow.
    3. In the **To** box, type in the recipient’s email address.
    4. In the **Body** box, type the message to be sent. Use Pills and format the message as necessary.
@@ -87,7 +87,7 @@ The last step is to test the workflow by adding a data record to the database.
 3. Click on the folder to open it.
 4. Within the folder, navigate to the **Workflows** tab.
 5. Locate and click on your workflow to open it on the Workflow editor page.
-6. Click the ![](<../.gitbook/assets/image (5).png>)Run button. Execute Workflow form opens.
+6. Click the ![](<../.gitbook/assets/image (6).png>)Run button. Execute Workflow form opens.
 7. Complete the form and click **Execute.** This will execute the workflow and insert the data to the database.
 8. Open your database to preview the changes. When a new record is added to the database, our workflow will send an email to the recipient.
 
