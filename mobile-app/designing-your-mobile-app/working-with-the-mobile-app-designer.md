@@ -21,7 +21,7 @@ These are the essential elements you encounter when designing your mobile app us
 
 ### 1. Sections Tab
 
-The **Sections** tab in the Mobile App Designer lists horizontal sections that you can add to your mobile pages. Each section is customisable and can be easily arranged by dragging and dropping. These sections provide unique functionalities to enhance the user experience
+The **Sections** tab in the Mobile App Designer lists horizontal sections that you can add to your mobile pages. Each section is customisable and can be easily arranged by dragging and dropping. These sections provide unique functionalities to enhance the user experience.
 
 {% hint style="info" %}
 To add horizontal sections, set the **Type** to 'Section' when adding a tab to mobile app's bottom navigation bar.&#x20;
