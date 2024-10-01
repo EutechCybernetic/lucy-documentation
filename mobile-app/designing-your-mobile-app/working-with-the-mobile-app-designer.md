@@ -81,6 +81,8 @@ Find the article related to customising your login page from here.
 
 In the mobile app designer, the Properties Panel is a dynamic sidebar that appears on the right when you click on a specific element (e.g., section, header icon button, bottom tab navigation bar ) within the mobile app mockup interface.
 
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Properties panel</p></figcaption></figure>
+
 ### 6. Save Button
 
 ![](<../../.gitbook/assets/image (28).png>)Save button - Once you make a change to your mobile app using the mobile app designer, you can save it. Then it will be reflected in your actual mobile app.
