@@ -104,4 +104,4 @@ Once you've established your database, you can preview its contents by navigatin
 
 Watch this video on how to create a database manually to gain a better understanding.
 
-{% embed url="https://drive.google.com/file/d/10xxdo3koySlrnmLRpGK8RZd64i4vI2Xm/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1Eoyy7Q_o1UvobPerM0IMgLG-PIRoVeGB/view?usp=drive_link" %}
