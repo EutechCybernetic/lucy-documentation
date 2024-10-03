@@ -8,8 +8,8 @@ Let's get started!
 
 Lucy offers two editions:
 
-1. **Lucy Canvas:** A user-friendly platform for creating dashboards, intuitive user interfaces, and seamless integrations with data.
-2. **Lucy Pro:** The core integration middleware component of Lucy.
+1. [**Lucy Canvas**](./)**:** A user-friendly platform for creating dashboards, intuitive user interfaces, and seamless integrations with data.
+2. [**Lucy Pro**](https://app.gitbook.com/o/rFRFJlYlHWiEgHIppKnt/s/r90o9gxIl0sBRbdhjFUQ/)**:** The core integration middleware component of Lucy.
 
 ## Comparison between Lucy Pro and Lucy Canvas
 
