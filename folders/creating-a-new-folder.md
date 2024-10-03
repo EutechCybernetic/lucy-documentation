@@ -4,7 +4,7 @@ Projects/Folders aid in storing and organising your work. This is the space for 
 
 ## <mark style="color:blue;">Creating a New Folder</mark>
 
-Let’s create a new project.
+Let’s create a new folder in Lucy.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Click on the + button.

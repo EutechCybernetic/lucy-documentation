@@ -1,8 +1,8 @@
-# Creating and Editing databases
+# Creating and Editing Databases
 
-Lucy lets you create databases, store data, and query arbitrary data anytime. These databases are laid-back, document-based storage spaces (schema-less, and ready to accommodate whatever data suits your needs).
+Lucy allows you to create databases, store data, and query arbitrary data at any time. These databases are flexible, document-based storage spaces that don't require a strict schema, making them adaptable to various data types and structures.
 
-This article explains the process of creating new databases and editing them. There are three ways to create a database:
+This article explains how to create new databases and edit them. There are three ways to create a database:
 
 1. [Creating a Database Manually](./#id-1.-creating-a-database-manually)
 2. [Importing Data from an External Source](./#id-2.-importing-data-from-an-external-source)
@@ -10,9 +10,11 @@ This article explains the process of creating new databases and editing them. Th
 
 ## <mark style="color:blue;">Ways to Create Databases</mark>
 
+Here are the three methods to create a new database in Lucy.
+
 ### <mark style="color:blue;">1. Creating a Database Manually</mark>
 
-Databases can be created from scratch or by selecting an existing template.
+Databases can be created from scratch or by selecting an built-in template.
 
 For more insights, find the article here.
 
@@ -38,6 +40,16 @@ For more insights, find the article here.
 
 {% content-ref url="using-an-external-source-as-a-database.md" %}
 [using-an-external-source-as-a-database.md](using-an-external-source-as-a-database.md)
+{% endcontent-ref %}
+
+## <mark style="color:blue;">Adding New Data to a Database</mark>
+
+Upon creating a database, you can add new data to it.
+
+To gain more knowledge on adding new data to a database, find the article here:
+
+{% content-ref url="../adding-data-into-a-database.md" %}
+[adding-data-into-a-database.md](../adding-data-into-a-database.md)
 {% endcontent-ref %}
 
 ## <mark style="color:blue;">Editing Databases</mark>

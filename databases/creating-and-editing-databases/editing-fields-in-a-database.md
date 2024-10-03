@@ -12,7 +12,7 @@ To edit fields in a database:
 4. Click on the folder you wish to open.
 5. Jump to the **Databases** tab.
 6. Search and select the **database** you wish to edit fields.
-7. Hover over it and click the **Edit** icon that appears.
+7. Hover over the database and click the **Edit** icon that appears.
 8. Select the field you want to edit and enter the new field name.
 9. Modify the respective field's data type by selecting a different data type if needed.
 10. Once you have made the required modifications, click **Update Database.** All the changes made to the database will be applied.

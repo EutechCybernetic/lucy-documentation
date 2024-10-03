@@ -28,6 +28,7 @@ To delete existing data records in a database:
 4. Click on the folder you wish to open.
 5. Go to the **Databases** tab.
 6. Search and click on the desired **database**.
-7. Select the checkboxes next to the data records you want to delete.
-8. Click **Delete Selected**.
-9. Click **Confirm** to confirm the deletion. The selected records will be deleted from the database.
+7. Select the data records to be deleted.
+8. Select the checkboxes next to the data records you want to delete.
+9. Click **Delete Selected**.
+10. Click **Confirm** to confirm the deletion. The selected records will be deleted from the database.
