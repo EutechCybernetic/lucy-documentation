@@ -1,6 +1,6 @@
-# Key Concepts
+# Key Components
 
-Lucy provides the following features out of the box:
+Lucy provides the following key components out of the box.
 
 * [Dashboards and Visualisations](dashboards-and-visualisations/)
 * [Folders](folders/)

@@ -2,7 +2,7 @@
 
 * [Introduction to Lucy](README.md)
 * [Getting Started](getting-started.md)
-* [Key Concepts](key-concepts.md)
+* [Key Components](key-components.md)
 * [Dashboards and Visualisations](dashboards-and-visualisations/README.md)
   * [Gallery](dashboards-and-visualisations/gallery.md)
   * [Creating a Canvas on the Gallery](dashboards-and-visualisations/creating-a-canvas-on-the-gallery.md)
