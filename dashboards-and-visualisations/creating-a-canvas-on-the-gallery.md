@@ -6,7 +6,7 @@ In Lucy, a **Canvas** is your space or dashboard where you can add widgets to cr
 
 ## <mark style="color:blue;">Creating a Canvas</mark>
 
-Let’s create a Canvas in Lucy.
+Let’s create a new Canvas in Lucy.
 
 1. On the Lucy app **homepage**, click the **Gallery** tab on the sidebar on the left.
 2. Click the + button. A wizard will pop up to start creating a new Canvas.

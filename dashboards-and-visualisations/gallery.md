@@ -14,7 +14,7 @@ layout:
 
 # Gallery
 
-The **Gallery** in Lucy displays all the **Canvases** you and the other users have already created. It allows you to create your Canvases according to your requirements.\
+The **Gallery** in Lucy displays all the **Canvases** you and the other users have already created. It also provides the option to create new Canvases according to your requirements.\
 \
 To access the Gallery, to see all the Canvases on it,  go to the **Gallery** tab on the sidebar in Lucy and click on it.&#x20;
 
