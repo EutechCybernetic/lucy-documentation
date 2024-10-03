@@ -4,4 +4,6 @@ A dashboard or canvas provides a space where you can add widgets to visualise da
 
 Dashboards simplify data presentation by using charts, graphs, maps, and other visual elements to convey information in a format that is easily digestible and understandable.
 
-All your canvases can be viewed from the Gallery page. Access it by clicking the **Gallery** tab on the sidebar in the Lucy app homepage.
+
+
+You can view all your canvases on the Gallery page. To access it, go to the lucy app homepage and click the Gallery tab on the left.
