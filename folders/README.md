@@ -1,8 +1,8 @@
 # Folders
 
-Folders act as containers, encompassing all your creations, including notes, databases, workflows, and user interfaces. They play a crucial role in systematically organising and structuring your content, streamlining file management for users. You can create as many folders as you like to organise your work within Lucy.
+Folders act as containers, encompassing all your creations, including notes, databases, workflows, and user interfaces. They play a crucial role in systematically organising and structuring your content, streamlining file management for users. Organise your work in Lucy by creating unlimited folders.
 
-You can locate and access your folders, as well as the folders created by others through the **My Work** tab.
+You can locate and access your folders, as well as the folders created by others through the **My Work** tab on the Lucy app homepage.
 
 <figure><img src="../.gitbook/assets/LC_Projects_S1.png" alt=""><figcaption><p>My Work tab</p></figcaption></figure>
 
