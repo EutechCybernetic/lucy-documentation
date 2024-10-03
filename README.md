@@ -1,8 +1,8 @@
 # Introduction to Lucy
 
-Welcome to the Lucy Training Center.
+Welcome to the Lucy Training Center!
 
-This training center is your gateway to mastering Lucy. Explore our comprehensive resources to understand the fundamentals, build solutions effectively, and unlock the full potential of Lucy. For a tailored learning experience, consider a personalized one-on-one training session.&#x20;
+This training center is your gateway to mastering Lucy. Explore our comprehensive resources to understand the fundamentals, build solutions effectively, and unlock the full potential of Lucy. For a tailored learning experience, consider a personalised one-on-one training session.&#x20;
 
 Let's get started!
 
