@@ -1,8 +1,10 @@
 # Designing a User Interface from Scratch
 
-This article is intended to guide you on creating and customising your own widget using a pre-built template.
+This article is intended to guide you on creating and customising your own widget using a pre-built Widget Template.
 
-A UI template functions as a pre-designed blueprint, offering users a starting point to craft a personalised user interface tailored to their specific needs. Once you've chosen a template, you have the flexibility to make necessary adjustments, altering the widget's appearance by modifying elements such as colours, text, background images, and more.
+Pre-built widget templates are pre-designed components that provide a foundation for creating user interfaces. They offer a starting point, saving you time and effort. These templates typically include basic layouts, styles, and elements, ensuring a consistent look and feel.
+
+Choose a template that cater your requirements. Then you have the flexibility to make necessary adjustments, altering the widget's appearance by modifying elements such as colours, text, background images, connecting data sources to visualise data and more.
 
 ## <mark style="color:blue;">Designing a User Interface from Scratch</mark>
 
