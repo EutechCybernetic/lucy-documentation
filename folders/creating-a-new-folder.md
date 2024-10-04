@@ -1,6 +1,6 @@
 # Creating a New Folder
 
-Projects/Folders aid in storing and organising your work. This is the space for your Notes, Databases, Workflows, and User Interfaces. Feel free to create as many folders as you want to keep your work organised in Lucy.
+Folders aid in storing and organising your work. This is the space for your Notes, Databases, Workflows, and User Interfaces. Organise your work in Lucy by creating multiple folders as needed.
 
 ## <mark style="color:blue;">Creating a New Folder</mark>
 
