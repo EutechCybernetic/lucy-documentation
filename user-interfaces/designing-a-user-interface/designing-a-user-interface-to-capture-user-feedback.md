@@ -240,6 +240,14 @@ To preview your form:
 1. On the widget designer page, click **Preview** button to change the mode to **Preview**.
 2. The widget will be loaded in the preview mode.
 
+#### Preview the Form in a New Window
+
+To preview the form in a new window:
+
+1. On the widget designer page, click the **Share** button at the top right.
+2. Click **Open Page.**
+3. Your form will launch a new window.
+
 ### <mark style="color:blue;">6. Saving the Form</mark>
 
 After you have done required customisations, you can save the form for future reference.
