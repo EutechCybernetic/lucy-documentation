@@ -1,6 +1,6 @@
-# Designing a User Interface from a Database
+# Designing a User Interface to Capture User Feedback
 
-This article shows how to design a form from a database.
+This article shows how to design a form to capture user feedback using an existing database.
 
 The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organisations. By capturing and storing data in a database, businesses and organisations can better manage and utilise the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
 
@@ -8,9 +8,9 @@ The purpose of these forms is to simplify data collection, streamline processes,
 **Tip**: When designing a form to capture information, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
 {% endhint %}
 
-## <mark style="color:blue;">Designing a User Interface from a Database</mark>
+## <mark style="color:blue;">Designing a User Interface to Capture User Feedback</mark>
 
-The process of designing a user interface from a database involves four main steps.
+The process of designing a user interface to capture user feedback involves four main steps.
 
 ### <mark style="color:blue;">1. Creating a Database</mark>
 
@@ -54,13 +54,13 @@ To customise the form's appearance, including elements such as the header, body,
 
 In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
-* [Adding a Background Colour/Image](designing-a-user-interface-from-a-database.md#adding-a-background-colour-image)
-* [Selecting a Background Image Size](designing-a-user-interface-from-a-database.md#selecting-a-background-image-size)
-* [Aligning the Background Image](designing-a-user-interface-from-a-database.md#aligning-the-background-image)
-* [Setting Header Title Properties](designing-a-user-interface-from-a-database.md#setting-header-title-properties)
-* [Setting the Properties of the Form Fields](designing-a-user-interface-from-a-database.md#setting-the-properties-of-the-form-fields)
-* [Adding Fields to the Form](designing-a-user-interface-from-a-database.md#adding-fields-to-the-form)
-* [Adding a Background Image for the Entire Page](designing-a-user-interface-from-a-database.md#adding-a-background-image-to-the-entire-page)
+* [Adding a Background Colour/Image](designing-a-user-interface-to-capture-user-feedback.md#adding-a-background-colour-image)
+* [Selecting a Background Image Size](designing-a-user-interface-to-capture-user-feedback.md#selecting-a-background-image-size)
+* [Aligning the Background Image](designing-a-user-interface-to-capture-user-feedback.md#aligning-the-background-image)
+* [Setting Header Title Properties](designing-a-user-interface-to-capture-user-feedback.md#setting-header-title-properties)
+* [Setting the Properties of the Form Fields](designing-a-user-interface-to-capture-user-feedback.md#setting-the-properties-of-the-form-fields)
+* [Adding Fields to the Form](designing-a-user-interface-to-capture-user-feedback.md#adding-fields-to-the-form)
+* [Adding a Background Image for the Entire Page](designing-a-user-interface-to-capture-user-feedback.md#adding-a-background-image-to-the-entire-page)
 
 #### <mark style="color:blue;">Adding a Background Colour/Image</mark>
 

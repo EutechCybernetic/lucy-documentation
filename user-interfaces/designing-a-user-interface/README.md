@@ -22,8 +22,8 @@ If you wish to learn more about designing a user interface for data visualisatio
 
 Design forms that effectively collect user feedback, allowing you to gather valuable insights and improve your products or services. Find the article here to gain more insights:
 
-{% content-ref url="designing-a-user-interface-from-a-database.md" %}
-[designing-a-user-interface-from-a-database.md](designing-a-user-interface-from-a-database.md)
+{% content-ref url="designing-a-user-interface-to-capture-user-feedback.md" %}
+[designing-a-user-interface-to-capture-user-feedback.md](designing-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
 ## <mark style="color:blue;">3. Design a User Interface from Scratch</mark>

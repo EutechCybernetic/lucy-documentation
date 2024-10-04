@@ -49,13 +49,13 @@ A form consists of three sections: a header, a body, and an item/field. Users ca
 
 Users can customise the appearance of the widget’s header section on the widget designer page. _e.g., Add a title for the header section._&#x20;
 
-Find out more on configuring header properties in [this ](designing-a-user-interface/designing-a-user-interface-from-a-database.md)article.
+Find out more on configuring header properties in [this ](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)article.
 
 #### <mark style="color:blue;">Configuring Properties of the Widget's Body Section</mark>
 
 Users can customise the properties of widget’s body section and the properties of each individual field/item on the widget’s body section using the widget designer.
 
-Find out more on configuring widget’s body section properties in [this ](designing-a-user-interface/designing-a-user-interface-from-a-database.md)article.
+Find out more on configuring widget’s body section properties in [this ](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)article.
 
 ### <mark style="color:blue;">Widget Designer's Preview Mode</mark>
 
