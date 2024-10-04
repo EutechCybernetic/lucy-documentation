@@ -31,6 +31,10 @@ The following example shows the Current Monthly Energy Usage widget that can be 
 
 The process of adding a widget directly from your canvas is described in four main steps.
 
+{% hint style="info" %}
+You have the flexibility to add multiple instances of the same widget onto your canvas.
+{% endhint %}
+
 ### <mark style="color:blue;">1</mark>. <mark style="color:blue;">Open your Canvas</mark>
 
 1. On the Lucy app's **homepage**, click the **Gallery** tab on the sidebar to go to the Gallery.
