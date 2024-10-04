@@ -8,7 +8,7 @@ Lucy allows to create customised user interfaces (UI) to visualise information b
 
 Accelerate the process of building user interfaces with diverse range of pre-designed Widget Templates.
 
-## **Key Features and Benefits**
+### **Key Features and Benefits**
 
 * **Data visualisation:** Connect to various data sources and create visually appealing charts and graphs.
 * **Custom UI design:** Build unique interfaces tailored to your specific needs using our drag-and-drop components in the widget designer. Tailor the appearance of your visualisations with various formatting options, including colors, fonts, and labels.
