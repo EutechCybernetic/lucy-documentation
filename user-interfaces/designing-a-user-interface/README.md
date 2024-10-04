@@ -1,6 +1,6 @@
 # Designing a User Interface
 
-User Interfaces can be used to represent something on display, and you can build them using a Widget Designer.&#x20;
+Create dynamic and interactive user interfaces to bring your ideas to life with Lucy.
 
 There are 3 types of user interfaces that you can design:
 
@@ -10,7 +10,9 @@ There are 3 types of user interfaces that you can design:
 
 ## <mark style="color:blue;">1. Design a User Interface to Visualise Information</mark>
 
-Designing user interfaces to visualise data is a powerful way to derive meaningful insights. If you wish to learn more about designing a user interface for data visualisation, you can find the article here:
+Create visually appealing and informative user interfaces by connecting data sources to display information in a meaningful way, allowing users to gain valuable insights.
+
+If you wish to learn more about designing a user interface for data visualisation, you can find the article here:
 
 {% content-ref url="designing-a-user-interface-to-visualise-information.md" %}
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface-to-visualise-information.md)
