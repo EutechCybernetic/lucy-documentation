@@ -5,7 +5,7 @@ Create dynamic and interactive user interfaces to bring your ideas to life with 
 There are 3 types of user interfaces that you can design:
 
 1. [Design a User Interface to Visualise Information](./#id-1.-design-a-user-interface-to-visualise-information)
-2. [Design a User Interface from a Database](./#id-2.-design-a-user-interface-from-a-database)
+2. [Design a User Interface to Capture User Feedback](./#id-2.-design-a-user-interface-to-capture-user-feedback)
 3. [Design a User Interface from Scratch](./#id-3.-design-a-user-interface-from-scratch)
 
 ## <mark style="color:blue;">1. Design a User Interface to Visualise Information</mark>
@@ -18,11 +18,9 @@ If you wish to learn more about designing a user interface for data visualisatio
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}
 
-## <mark style="color:blue;">2. Design a User Interface from a Database</mark>
+## <mark style="color:blue;">2. Design a User Interface to Capture User Feedback</mark>
 
-A User interface can be designed using an existing database. Find the article here to gain more insights:
-
-
+Design forms that effectively collect user feedback, allowing you to gather valuable insights and improve your products or services. Find the article here to gain more insights:
 
 {% content-ref url="designing-a-user-interface-from-a-database.md" %}
 [designing-a-user-interface-from-a-database.md](designing-a-user-interface-from-a-database.md)
