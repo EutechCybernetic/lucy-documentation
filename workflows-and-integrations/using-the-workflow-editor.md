@@ -1,6 +1,6 @@
 # Using the Workflow Editor
 
-The Workflow Editor offers an easy-to-use interface for creating and modifying workflows. It simplifies the process compared to the earlier 'Model Designer' in the Lucy app.
+The workflow Editor is a tool used to visually design and create automated workflows. It offers an easy-to-use interface for creating and modifying workflows, offering a simpler experience than the former 'Model Designer' in the Lucy app.
 
 ## Key Features in the Workflow Editor&#x20;
 
