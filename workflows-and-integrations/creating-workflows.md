@@ -49,3 +49,13 @@ For a deeper understanding, access the article here.
 [creating-a-workflow-that-runs-at-specified-intervals.md](creating-a-workflow-that-runs-at-specified-intervals.md)
 {% endcontent-ref %}
 
+### Form Submission Automation
+
+Form Submission Automation is a process that automatically handles the data submitted through a form. When a user fills out and submits a form, the automation takes over, performing various tasks based on the information provided.
+
+Here are some common form submission automations you can do.
+
+1. Send a Slack Message
+2. Post a Message on Microsoft Teams&#x20;
+3. Add it to Google Sheets
+4. Send an Email
