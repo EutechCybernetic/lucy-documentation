@@ -51,6 +51,7 @@
   * [Creating a Workflow to Run When a Message from a Chatbot is Received](workflows-and-integrations/creating-a-workflow-to-run-when-a-message-from-a-chatbot-is-received.md)
   * [Creating a Workflow that Runs at Specified Intervals](workflows-and-integrations/creating-a-workflow-that-runs-at-specified-intervals.md)
   * [Viewing and Editing Your Workflows](workflows-and-integrations/viewing-and-editing-your-workflows.md)
+  * [Automate Form Submissions with Email Notifications](workflows-and-integrations/automate-form-submissions-with-email-notifications.md)
 * [Add-ons](add-ons/README.md)
   * [Installing a New Add-on in Lucy](add-ons/installing-a-new-add-on-in-lucy.md)
   * [Visitor Management](add-ons/visitor-management.md)
