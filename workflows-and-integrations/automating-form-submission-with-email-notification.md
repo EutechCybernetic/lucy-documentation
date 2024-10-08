@@ -24,6 +24,8 @@ To get started, we'll need a form to collect user feedback. If you haven't alrea
 [designing-a-user-interface-to-capture-user-feedback.md](../user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
+When designing a form, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
+
 ### 2) Configuring the Automation
 
 After creating the form, follow these steps to create a system to automate sending an email to relevant users when they submit a form in Lucy.&#x20;
