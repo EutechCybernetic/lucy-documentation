@@ -58,12 +58,9 @@ After creating the form, follow these steps to create a system to automate sendi
 
 Now, let's test the automation by submitting the form.
 
-1. On the Lucy app **homepage**, go to the **My Work** tab.
-2. A list of folders appear. Locate and select the required folder to open it.
-3. Go to the **User Interfaces** tab.
-4. Locate your User Interface.
-5. Click on the user interface to open it in a new window.
-6. Fill out the form details and click **Submit**.
-7. After a while, an email will be sent to the relevant recipient. Check the recipient's email inbox for the automated email.
+1. On the widget designer page, click **Share**.
+2. Click **Open page** and your form will open in a new window.
+3. Fill out the form details and click **Submit**.
+4. A short time later, an email will be sent to the intended recipient. Check the recipient's email inbox for the
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Sample Email sent to recipient</p></figcaption></figure>
