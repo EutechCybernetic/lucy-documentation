@@ -1,6 +1,6 @@
 # Automating Form Submission with Email Notification
 
-You can create a workflow to automate sending an email to relevant users when they submit a form in Lucy. This eliminates the need for manual data entry and ensures timely communication, improving efficiency and reducing errors.
+You can create a workflow to automate sending an email to relevant users when they submit a form. This eliminates the need for manual data entry and ensures timely communication, improving efficiency and reducing errors.
 
 {% hint style="info" %}
 Familiarity with creating [folders ](../folders/creating-a-new-folder.md)and [databases ](../databases/creating-and-editing-databases/)is recommended to accelerate your learning process.
