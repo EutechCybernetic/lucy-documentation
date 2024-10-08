@@ -53,7 +53,4 @@ Now, let's test the automation by submitting the form.
 4. Locate your User Interface.
 5. Click on the user interface to open it in a new window.
 6. Fill out the form details and click **Submit**.
-7. After a while, an email will be sent to the relevant recipient. Check the recipient's email inbox for the automated email.
-
-
-
+7. After a while, a slack notification will be received.
