@@ -24,11 +24,13 @@ To get started, we'll need a form to collect user feedback. If you haven't alrea
 [designing-a-user-interface-to-capture-user-feedback.md](../user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Creating a form to capture user feedback</p></figcaption></figure>
+
 When designing a form, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
 
-### 2) Configuring the Automation
+### 2) Creating the Automation
 
-After creating the form, follow these steps to create a system to automate sending a Slack notification when a user submit a form in Lucy.&#x20;
+After creating the form, follow these steps to create an automation to send a Slack notification when a user submit a form in Lucy.&#x20;
 
 1. On the Lucy app **homepage**, go to the **My Work** tab.
 2. A list of folders appear. Locate and select the folder containing your form user interface.
@@ -43,6 +45,8 @@ After creating the form, follow these steps to create a system to automate sendi
 9. Enter a channel name.
 10. Click **Create Automation.**
 
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>Creating the automation</p></figcaption></figure>
+
 ### 3) Testing the Automation
 
 Now, let's test the automation by submitting the form.
@@ -54,3 +58,7 @@ Now, let's test the automation by submitting the form.
 5. Click on the user interface to open it in a new window.
 6. Fill out the form details and click **Submit**.
 7. After a while, you will receive a message on Slack.
+
+<figure><img src="../.gitbook/assets/image (36).png" alt="" width="426"><figcaption><p>Submitting form details</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Receive a message on Slack</p></figcaption></figure>
