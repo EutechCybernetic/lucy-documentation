@@ -1,6 +1,10 @@
 # Automating Form Submission with Email Notification
 
-You can create a workflow to automate sending an email to relevant users when they submit a form. This eliminates the need for manual data entry and ensures timely communication, improving efficiency and reducing errors.
+You can create a workflow to automate sending an email to users when they submit a form.&#x20;
+
+Once the form is submitted, the automation would be triggered to send an email notification to the user who submitted the form. You can also configure the automation to send the email to a different recipient if desired.
+
+By setting up such workflows, you can eliminate manual data entry and ensure timely delivery of important information.
 
 {% hint style="info" %}
 Familiarity with creating [folders ](../folders/creating-a-new-folder.md)and [databases ](../databases/creating-and-editing-databases/)is recommended to accelerate your learning process.
