@@ -1,3 +1,10 @@
 # Creating a Custom Canvas
 
-With lucy, you can further customise your canvas by adding and configuring sidebar items/links, adding a logo etc. You also have the flexibility to restrict/ allow access for specifc user groups to certain items on the canvas.
+With lucy, you can further customise your canvas by adding and configuring sidebar items/links, adding a logo etc. You can also manage access, restricting or allowing specific user groups to view certain sidebar items on the canvas.
+
+## Create a Sidebar Item
+
+There are two ways to create a sidebar item on your canvas.
+
+1. Create a New Sidebar Item
+2. Select from Existing Item
