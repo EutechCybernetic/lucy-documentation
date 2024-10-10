@@ -16,6 +16,7 @@
   * [Filtering Data in a Widget](dashboards-and-visualisations/filtering-data-in-a-widget.md)
   * [Deleting a Widget from Your Canvas](dashboards-and-visualisations/deleting-a-widget-from-your-canvas.md)
   * [Building a Widget from Your Canvas](dashboards-and-visualisations/building-a-widget-from-your-canvas.md)
+  * [Creating a Custom Canvas](dashboards-and-visualisations/creating-a-custom-canvas.md)
 * [Folders](folders/README.md)
   * [Creating a New Folder](folders/creating-a-new-folder.md)
   * [Searching and Viewing Your Folders](folders/searching-and-viewing-your-folders.md)
