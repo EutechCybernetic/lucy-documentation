@@ -8,3 +8,11 @@ There are two ways to create a sidebar item on your canvas.
 
 1. Create a New Sidebar Item
 2. Select from Existing Item
+
+### Create a New Sidebar Item
+
+
+
+### Select from Existing Item
+
+If you have existing items created in another canvas, you can add those in to your canvas.
