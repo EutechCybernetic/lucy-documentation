@@ -6,6 +6,13 @@ Once the form is submitted, the automation would be triggered to send an email n
 
 By setting up such workflows, you can eliminate manual data entry and ensure timely delivery of important information.
 
+**Common use cases:**
+
+* **Contact forms:** Automatically capturing and responding to inquiries.
+* **Event registration:** Processing registrations and sending confirmations.
+* **Lead generation:** Collecting contact information and following up with potential customers.
+* **Support tickets:** Tracking and responding to customer issues.
+
 {% hint style="info" %}
 Familiarity with creating [folders ](../folders/creating-a-new-folder.md)and [databases ](../databases/creating-and-editing-databases/)is recommended to accelerate your learning process.
 {% endhint %}
