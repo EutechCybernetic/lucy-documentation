@@ -1,6 +1,6 @@
 # Working with the Mobile App Designer
 
-Lucy's Mobile App Designer provides a visual interface that allows users to create visually appealing and functional mobile apps without extensive coding knowledge. It offers drag-and-drop components for designing the layout, adding elements like buttons, text fields, and images, and configuring the app's behavior. By simplifying the design process, it allows developers and other users to create mobile apps more efficiently and effectively.
+Lucy's Mobile App Designer provides a visual interface that allows users to create visually appealing and functional mobile apps without the coding knowledge. It offers drag-and-drop components for designing the layout, adding elements like buttons, text fields, and images, and configuring the app's behavior. By simplifying the design process, it allows developers and other users to create mobile apps more efficiently and effectively.
 
 To access the mobile app designer, go to the **Mobile App** tab on the sidebar in Lucy and click on it.&#x20;
 
