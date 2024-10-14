@@ -1,6 +1,6 @@
 # Customising a Canvas
 
-Beyond customizing individual widgets, you can personalise your canvas further by:
+Beyond customising individual widgets, you can personalise your canvas further by:
 
 * **Adding sidebar items:** Organize your content into sections and sub-sections, making it easier for users to navigate and find the information they need.
 * **Branding your canvas:** Incorporate your logo and customise the colors of the sidebar and canvas header.
