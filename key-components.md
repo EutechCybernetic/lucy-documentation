@@ -2,7 +2,7 @@
 
 Lucy provides the following key components out of the box.
 
-* [Dashboards and Visualisations](dashboards-and-visualisations/)
+* [Dashboards](dashboards/)
 * [Folders](folders/)
 * [Databases](databases/)
 * [User Interfaces](user-interfaces/)

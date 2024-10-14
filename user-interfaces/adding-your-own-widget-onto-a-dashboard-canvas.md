@@ -4,8 +4,8 @@ This article shows you the process of adding a widget you've designed onto an ex
 
 Refer to the below article to gain insights into creating a dashboard if you have no idea how to create one.&#x20;
 
-{% content-ref url="../dashboards-and-visualisations/creating-a-canvas-on-the-gallery.md" %}
-[creating-a-canvas-on-the-gallery.md](../dashboards-and-visualisations/creating-a-canvas-on-the-gallery.md)
+{% content-ref url="../dashboards/creating-a-canvas-on-the-gallery.md" %}
+[creating-a-canvas-on-the-gallery.md](../dashboards/creating-a-canvas-on-the-gallery.md)
 {% endcontent-ref %}
 
 There are two ways to add your own widget to an existing dashboard:
