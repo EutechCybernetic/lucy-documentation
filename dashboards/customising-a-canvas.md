@@ -6,7 +6,19 @@ Beyond customising individual widgets, you can personalise your canvas further b
 * **Branding your canvas:** Incorporate your logo and customise the colors of the sidebar and canvas header.
 * **Managing access:** Control which user groups or individuals can view specific sidebar items or the entire canvas.
 
-## Create a Sidebar Item
+## Creating a Canvas
+
+{% hint style="info" %}
+Before starting this tutorial, you need to have a knowledge in creating a canvas in Lucy.
+{% endhint %}
+
+{% content-ref url="creating-a-canvas-on-the-gallery.md" %}
+[creating-a-canvas-on-the-gallery.md](creating-a-canvas-on-the-gallery.md)
+{% endcontent-ref %}
+
+## Adding a Sidebar Item to Your Canvas
+
+Sidebar items/links help you to navigate to different pages in your canvas.
 
 There are two ways to create a sidebar item on your canvas.
 
@@ -17,6 +29,6 @@ There are two ways to create a sidebar item on your canvas.
 
 
 
-### Select from Existing Item
+### Select from an Existing Item
 
 If you have existing items created in another canvas, you can add those in to your canvas.
