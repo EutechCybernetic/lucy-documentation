@@ -2,7 +2,7 @@
 
 Welcome to the Lucy Training Center!
 
-This training center is your gateway to mastering Lucy. Explore our comprehensive resources to understand the fundamentals, build solutions effectively, and unlock the full potential of Lucy. For a tailored learning experience, consider a personalised one-on-one training session.&#x20;
+This training center is your gateway to mastering Lucy. Explore our comprehensive resources to understand the fundamentals, effectively build solutions, and unlock Lucy's full potential. For a tailored learning experience, consider scheduling a personalised one-on-one training session.&#x20;
 
 Lucy is a powerful low-code/no-code integration platform that enables you to connect, visualise, and automate various software and hardware around you.
 
