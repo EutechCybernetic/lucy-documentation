@@ -18,7 +18,7 @@ Refer to the below article to gain insights into creating a canvas if you have n
 [creating-a-canvas-on-the-gallery.md](creating-a-canvas-on-the-gallery.md)
 {% endcontent-ref %}
 
-There are two ways to add a widget onto a canvas:
+There are two ways to add a widget onto a canvas.
 
 1. [Adding a Widget Directly onto Your Canvas](adding-widgets-onto-your-canvas.md#adding-a-widget-directly-onto-your-canvas)
 2. [Adding a Widget from the Widget Designer Page](adding-widgets-onto-your-canvas.md#adding-a-widget-from-the-widget-designer-page)

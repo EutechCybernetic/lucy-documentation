@@ -6,7 +6,7 @@ The Gallery page shows all the canvases that have been created in Lucy, includin
 
 ## <mark style="color:blue;">Searching and Viewing Your Canvases</mark>
 
-&#x20;To search and view your canvases:
+&#x20;To Search and View Your Canvases:
 
 1. On the app **homepage**, go to the **Gallery** tab on the left.
 2. Pick the Canvas from the Gallery.&#x20;
