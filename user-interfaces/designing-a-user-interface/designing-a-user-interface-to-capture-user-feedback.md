@@ -61,6 +61,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
 * [Setting the Properties of the Form Fields](designing-a-user-interface-to-capture-user-feedback.md#setting-the-properties-of-the-form-fields)
 * [Adding Fields to the Form](designing-a-user-interface-to-capture-user-feedback.md#adding-fields-to-the-form)
 * [Adding a Background Image for the Entire Page](designing-a-user-interface-to-capture-user-feedback.md#adding-a-background-image-to-the-entire-page)
+* [Rearranging the Order of the Fields](designing-a-user-interface-to-capture-user-feedback.md#rearranging-the-order-of-the-fields)
 
 #### <mark style="color:blue;">Adding a Background Colour/Image</mark>
 
@@ -205,6 +206,13 @@ To add a background to the entire page:
    5. To upload your own image:
       1. Click **Upload your image** button on the gallery.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
+
+#### Rearranging the Order of the Fields
+
+Fields in the form can be rearranged by dragging and dropping them to the required position in the form. This allows you to customize the layout and flow of your form to better suit your needs and the user experience.
+
+1. In the **Design** mode of the widget designer, select the field to be moved.
+2. Drag and drop the field to the required position in the form.
 
 ### <mark style="color:blue;">4. Using Widget Designer to Customise the Thank you Screen</mark>
 
