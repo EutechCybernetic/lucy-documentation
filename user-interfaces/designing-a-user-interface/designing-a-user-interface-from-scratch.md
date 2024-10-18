@@ -1,6 +1,6 @@
 # Designing a User Interface from Scratch
 
-This article is intended to guide you on creating and customising your own widget using a pre-built Widget Template.
+This article is intended to guide you on creating and customising your own widget using a pre-built Widget Template, e.g., Simple Card.
 
 Pre-built widget templates are pre-designed components that provide a foundation for creating user interfaces. They offer a starting point, saving you time and effort. These templates typically include basic layouts, styles, and elements, ensuring a consistent look and feel.
 
