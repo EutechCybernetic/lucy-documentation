@@ -44,6 +44,7 @@
   * [Sharing a User Interface](user-interfaces/sharing-a-user-interface.md)
   * [Adding Your Own Widget onto a Dashboard/Canvas](user-interfaces/adding-your-own-widget-onto-a-dashboard-canvas.md)
   * [Working with the Widget Designer](user-interfaces/working-with-the-widget-designer.md)
+  * [Reusing a Widget](user-interfaces/reusing-a-widget.md)
 * [Workflows and Integrations](workflows-and-integrations/README.md)
   * [Using the Workflow Editor](workflows-and-integrations/using-the-workflow-editor.md)
   * [Creating Workflows](workflows-and-integrations/creating-workflows.md)
