@@ -21,12 +21,12 @@ Add Sidebar items/links help you to navigate to different pages in your canvas. 
 
 There are two ways to create a sidebar item on your canvas.
 
-1. [Select from Existing Item](customising-a-canvas.md#select-from-an-existing-item)
+1. Select from an Existing Sidebar Item
 2. [Create a New Sidebar Item](customising-a-canvas.md#create-a-new-sidebar-item)
 
 ### Select from an Existing Item
 
-If you have existing sidebar items created in another canvas, you can add those into your canvas.
+Developers can use the React toolkit (lucy-xp) to build widgets and register sidebar links, which can then be added to a canvas.
 
 To Select from an Existing Sidebar Item
 
@@ -46,7 +46,7 @@ To Select from an Existing Sidebar Item
 
 ### Create a New Sidebar Item
 
-You can add a sidebar item to open a URL, launch a secondary canvas, or make it a dropdown list.
+You can create a sidebar item in your canvas to open a URL, launch a secondary canvas, or make it a dropdown list.
 
 #### Create a New Sidebar Item to Open a URL
 
@@ -189,5 +189,5 @@ Color theme is the overall color palette used in your canvas. You can often choo
 2. Gallery page will open.
 3. On the Gallery page, find and click on your canvas to open it.
 4. Click the Colour Pallet icon ![](<../.gitbook/assets/image (47).png>). When you create a new canvas, the light mode is activated by default.
-5. Dark mode: Click the Dark option to switch from light mode to dark.
-6. Light mode: Click the Light option to switch from dark mode to light.
+5. **Dark mode:** Click the Dark option to switch from light mode to dark.
+6. **Light mode:** Click the Light option to switch from dark mode to light.
