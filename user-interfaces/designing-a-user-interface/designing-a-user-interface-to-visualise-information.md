@@ -13,7 +13,7 @@ Designing user interfaces to visualise data is a powerful way to derive meaningf
 
 ## <mark style="color:blue;">1. Visualising Data by Selecting a Data source</mark>
 
-Before designing a user interface for data visualisation, the first step is to select a data source. This could involve choosing a lucy action or a database to obtain the data that will be visualised.
+Before designing a user interface for data visualisation, the initial step is to select a data source. This involves choosing a suitable lucy action or database.
 
 To illustrate the concept, we'll design a user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
 
@@ -103,7 +103,9 @@ Aggregating data is used to summarise and condense data into a more compact form
 
 After selecting a data source and preparing data as needed, you can select a template to begin customisation. Based on the data selected, the system will display a list of matching templates that work with those data.
 
-For example, we'll select the Bar/Line chart template from the available template list.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>List of matching widget templates</p></figcaption></figure>
+
+For example, we'll select the Bar/Line chart template from the template list.
 
 1. Select the desired type of **Template** to display data _e.g., Bar/Line chart._
 2. Click **Edit this template**. The respective template will be displayed on widget designer page.
