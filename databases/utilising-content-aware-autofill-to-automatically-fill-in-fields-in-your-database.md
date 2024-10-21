@@ -2,19 +2,19 @@
 
 This article explains how to automatically fill in your database fields using the content-aware autofill feature in Lucy.
 
-**Content-aware Autofill** is a powerful feature that uses AI (Artificial Intelligence) to automatically fill in data in a database based on existing columns. Simply provide initial row examples, and subsequently, this feature will fill columns automatically when new data is added.
+**Content-aware Autofill** is a powerful feature that uses AI (Artificial Intelligence) to automatically fill in data in a database based on existing columns. Simply provide initial row examples, and subsequently, this feature will fill columns automatically when new data is added or updated.
 
 For instance, let’s create a database to capture employee feedback and use this feature to automatically classify the feedback as 'Good' or 'Bad' and autofill the result in the database.&#x20;
 
 Utilising Content-aware Autofill for database population involves several key steps.
 
-1. [Create Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-1.-create-your-database)
-2. [Add Data into Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-2.-add-data-into-your-database)
-3. [Enable Content-aware Autofill in Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-3.-enable-content-aware-autofill-in-your-database)
+1. [Creating Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-2.-adding-data-into-your-database)
+2. [Adding Data into Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-2.-adding-data-into-your-database)
+3. [Enabling the Content-aware Autofill in Your Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-3.-enabling-the-content-aware-autofill-in-your-database)
 4. [Testing the Content-Aware Autofill Feature](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#id-4.-testing-the-content-aware-autofill-feature)
 5. [Viewing Your Updated Database](utilising-content-aware-autofill-to-automatically-fill-in-fields-in-your-database.md#viewing-your-updated-database)
 
-## <mark style="color:blue;">1. Create Your Database</mark>
+## <mark style="color:blue;">1. Creating Your Database</mark>
 
 As the initial step, you need to have a database created in the system.&#x20;
 
@@ -26,7 +26,7 @@ Find the article below to create a new database.
 
 <figure><img src="../.gitbook/assets/Database example_1.png" alt=""><figcaption><p>Database example</p></figcaption></figure>
 
-## <mark style="color:blue;">2. Add Data into Your Database</mark>
+## <mark style="color:blue;">2. Adding Data into Your Database</mark>
 
 Next, create a form to easily add sample data into your database.
 
@@ -56,7 +56,7 @@ Next, create a form to easily add sample data into your database.
 
 <figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S3.png" alt=""><figcaption><p>Previewing the data</p></figcaption></figure>
 
-## <mark style="color:blue;">3. Enable Content-Aware Autofill in Your Database</mark>
+## <mark style="color:blue;">3. Enabling the Content-Aware Autofill in Your Database</mark>
 
 After creating your database and adding sample data, enable the Content-aware Autofill feature to learn from the given data and automatically populate relevant columns.
 
@@ -69,8 +69,8 @@ After creating your database and adding sample data, enable the Content-aware Au
 7. Hover over the database and click the **Edit** icon to open its edit mode.
 8. Enable the **Content Aware Autofill** option.
 9. Choose the field you want to look at from the **Choose Raw Text Field** list. In this example, it is the 'Comment' field.
-10. Select the **No of Example Rows** to be checked.
-11. **Columns to AutoFill (Optional)**: Select the field you wish to fill in. In this example, it is the 'Mood' field.
+10. Select the **No of Example Rows** you want the autofill feature to use for training.
+11. **Columns to AutoFill (Optional)**: Select the field you wish to automatically fill in. In this example, it is the 'Mood' field.
 12. Click **Done**.
 13. Click **Update Database** to save changes.
 
@@ -82,7 +82,7 @@ Now, add more examples using the form interface to test the Content-Aware Autofi
 You can also add data directly within the specific database.
 {% endhint %}
 
-To add more data
+Testing the Content-Aware Autofill Feature
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Click on the folder you wish to open.
