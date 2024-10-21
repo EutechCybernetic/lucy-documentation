@@ -8,12 +8,12 @@ Designing user interfaces to visualise data is a powerful way to derive meaningf
 2. [Starting from Scratch by Selecting a Template](designing-a-user-interface-to-visualise-information.md#id-2.-starting-from-scratch-by-selecting-a-template)
 
 {% hint style="info" %}
-**Note**: Before you go ahead with any of these methods, ensure that a data source (database/workflow) is ready in the system.
+**Note**: Before you go ahead with any of these methods, ensure that a data source is ready in the system.
 {% endhint %}
 
 ## <mark style="color:blue;">1. Visualising Data by Selecting a Data source</mark>
 
-Before designing a user interface for data visualisation, the first step is to select a data source. This could involve choosing a workflow or a database to obtain the data that will be visualised.
+Before designing a user interface for data visualisation, the first step is to select a data source. This could involve choosing a lucy action or a database to obtain the data that will be visualised.
 
 To illustrate the concept, we'll design a user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
 
@@ -26,7 +26,7 @@ To select a data source:
 3. Go to the **User Interfaces** tab.
 4. Click on the **Add** button.
 5. Choose the **Visualise Data** option.
-6. Select the **data source**. You can either select a workflow or a database as the data source.
+6. Select the **data source**. You can either select a lucy action or a database as the data source.
 7.  For instance, let’s select an existing database.
 
     1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
@@ -192,7 +192,7 @@ To add a chart title:
 
 This method initiates the user interface design process for data visualisation by selecting a template and subsequently binding a data source at a later stage.
 
-As the data source, you can choose either a database or a workflow for the data for visualisation.
+As the data source, you can choose either a database or a lucy action.
 
 To design a user interface from scratch:
 
@@ -215,7 +215,7 @@ To bind a data source to the widget:
 
 1. On the widget designer page, click **Data source is required** option.
 2. Click **Bind a Source.**
-3. As the data source, you can either select a workflow or a database to obtain data to be visualised.
+3. As the data source, you can either select a lucy action or a database to obtain data to be visualised.
 4. For instance, let’s select an existing database.
    1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
    2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
