@@ -48,7 +48,7 @@ Let's create a simple YouTube card widget, customise it, and save it as a Templa
    9. ![](<../.gitbook/assets/image (53).png>): Audio is off/muted.
    10. ![](<../.gitbook/assets/image (54).png>): Audio is on/unmuted.
 10. After customisations, click **Save Widget.**
-11. To save your widget as a template, **c**lick the three dots ![](<../.gitbook/assets/image (1).png>)on the to right, and click **Save widget as a Template.**
+11. To save your widget as a template, **c**lick the three dots ![](<../.gitbook/assets/image (1) (1).png>)on the to right, and click **Save widget as a Template.**
 12. **Template Name:** Enter a unique name for the template.
 13. **Template Description:** Enter a short description related to the template if necessary.
 14. Click **Save**.

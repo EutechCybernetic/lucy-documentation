@@ -40,6 +40,7 @@
     * [Designing a User Interface to Visualise Information](user-interfaces/designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
     * [Designing a User Interface to Capture User Feedback](user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
     * [Designing a User Interface from Scratch](user-interfaces/designing-a-user-interface/designing-a-user-interface-from-scratch.md)
+    * [Selecting a Widget Template](user-interfaces/designing-a-user-interface/selecting-a-widget-template.md)
   * [Viewing Your User Interfaces](user-interfaces/viewing-your-user-interfaces.md)
   * [Sharing a User Interface](user-interfaces/sharing-a-user-interface.md)
   * [Adding Your Own Widget onto a Dashboard/Canvas](user-interfaces/adding-your-own-widget-onto-a-dashboard-canvas.md)

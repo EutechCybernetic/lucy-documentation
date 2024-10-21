@@ -99,15 +99,23 @@ Aggregating data is used to summarise and condense data into a more compact form
 
 <figure><img src="../../.gitbook/assets/A preview of aggregated data_s3.png" alt=""><figcaption><p>A preview of aggregated data</p></figcaption></figure>
 
-### <mark style="color:blue;">c) Selecting a Template</mark>
+### <mark style="color:blue;">c) Selecting a Widget Template</mark>
 
-After selecting a data source and preparing data as needed, you can select a template to begin customisation. Based on the data selected, the system will display a list of matching templates that work with those data.
+After selecting a data source and preparing data as needed, you can select a widget template to begin customisation. Based on the data selected, the system will display a list of matching templates that work with those data.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>List of matching widget templates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>List of matching widget templates</p></figcaption></figure>
+
+Find the article here to gain more knowledge on selecting a widget template.
+
+{% content-ref url="selecting-a-widget-template.md" %}
+[selecting-a-widget-template.md](selecting-a-widget-template.md)
+{% endcontent-ref %}
+
+
 
 For example, we'll select the Bar/Line chart template from the template list.
 
-1. Select the desired type of **Template** to display data _e.g., Bar/Line chart._
+1. Under Default Templates tab, select the desired type of **Template**, _e.g., Bar/Line chart._
 2. Click **Edit this template**. The respective template will be displayed on widget designer page.
 3. By default, **Design** mode will be selected on the widget designer page.
 
@@ -195,6 +203,8 @@ To add a chart title:
 This method initiates the user interface design process for data visualisation by selecting a template and subsequently binding a data source at a later stage.
 
 As the data source, you can choose either a database or a lucy action.
+
+You can choose any widget template and start customising.
 
 To design a user interface from scratch:
 
