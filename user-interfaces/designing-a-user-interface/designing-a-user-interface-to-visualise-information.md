@@ -200,13 +200,9 @@ To add a chart title:
 
 ## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
 
-This method initiates the user interface design process for data visualisation by selecting a template and subsequently binding a data source at a later stage.
+In this method, users has the flexibility to select any widget template as the base template and start customising.
 
-As the data source, you can choose either a database or a lucy action.
-
-You can choose any widget template and start customising.
-
-To design a user interface from scratch:
+To Design a User Interface from Scratch
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and select the **folder**.
@@ -223,7 +219,7 @@ To design a user interface from scratch:
 
 Once you've chosen the appropriate template, you can then decide which data source to associate with the widget. A data source provides the raw data that the widget visualises. Without a data source, there's no information to present visually.
 
-To bind a data source to the widget:
+Bind a Data Source to the Widget
 
 1. On the widget designer page, click **Data source is required** option.
 2. Click **Bind a Source.**
@@ -254,7 +250,7 @@ For instance, let's use aggregation to summarise data to display minimum tempera
 
 This involves modifying various visual and functional aspects of the widget to suit specific needs and preferences, such as setting minimum and maximum values of the scale.&#x20;
 
-To set properties of the radial gauge:
+Customising the Properties of the Radial Gauge
 
 1. On the widget designer page, click on the **Radial Gauge.** The **Properties** panel will be displayed.
 2. On the properties panel, set properties as required.
