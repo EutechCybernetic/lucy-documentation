@@ -16,7 +16,7 @@ It has three main tabs.
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Select a Template window displaying widget template list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Select a Template window displaying widget template list</p></figcaption></figure>
 
 ## Creating a User Interface to Visualise Data
 

@@ -61,7 +61,7 @@ After creating the database, insert data into it and activate the content-aware 
 
 <figure><img src="../.gitbook/assets/Database_1.png" alt=""><figcaption><p>Sample database</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Activating the content-aware autofill feature</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Activating the content-aware autofill feature</p></figcaption></figure>
 
 Refer to this article on how to use content-aware autofill to auto populate your database.
 
