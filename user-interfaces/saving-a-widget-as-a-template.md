@@ -1,10 +1,8 @@
-# Reusing a Widget
+# Saving a Widget as a Template
 
-You can save an existing user-created widget as a Template. These templates act as a foundation for building customised widgets.
+You can save an existing user-created widget as a  Widget Template and reuse it to create new widgets.&#x20;
 
 For example, if you want to create a widget similar to one you've previously designed but with a different data source, you can easily start from a saved template.
-
-Sometimes it can be a form, a You Tube card you want to reuse.
 
 ### Prerequisites
 
