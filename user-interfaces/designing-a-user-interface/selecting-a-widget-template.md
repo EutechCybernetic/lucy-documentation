@@ -6,7 +6,7 @@ When creating a new user interface, you can create a user interface to visualise
 
 The screen below displays the "Select a Template" window, where you can select a widget template.
 
-It has three tabs.
+It has three main tabs.
 
 | Tab Name          | Description                                                                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
