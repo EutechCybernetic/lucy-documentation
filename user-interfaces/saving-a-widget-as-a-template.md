@@ -74,7 +74,7 @@ To create a new widget, we can leverage a saved template, customise it to suit o
 11. Customise the widget as necessary.
 12. Click on the bar chart to launch its properties panel.
 13. Under Source section, click on the linked database.
-14. Select a different data source.
+14. Bind a different data source.
     1. Click the ![](<../.gitbook/assets/image (2).png>) icon to select a different data source. You can select a lucy action or a database.
     2. After selecting and preparing the data source, click Looks Good.
 15. Customise the widget as necessary.
