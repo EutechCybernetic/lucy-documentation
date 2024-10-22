@@ -22,9 +22,9 @@ It has three tabs.
 
 Data visualisation is the graphical representation of information. It transforms raw data into meaningful visuals, making it easier to understand, analyse, and communicate insights.&#x20;
 
-Begin by selecting a data source. The system will then automatically display the templates that match the chosen data source.
+To create a user interface to visualise data, begin by selecting a data source. The system will then automatically display the templates that match the chosen data source.
 
-Find the article on creating a User Interface to visualise data to acquire more knowledge.
+Find the article on creating a user interface to visualise data to acquire more knowledge.
 
 {% content-ref url="designing-a-user-interface-to-visualise-information.md" %}
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface-to-visualise-information.md)
