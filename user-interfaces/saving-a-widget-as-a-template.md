@@ -52,7 +52,7 @@ All your saved templates can be accessed from the "My Templates" tab in the "Sel
 3. Go to the **User Interfaces** tab.
 4. Click the **Plus** icon.
 5. Click **Start from Scratch** option.
-6. Go to the My Templates tab in the Select a Template window.
+6. Go to the **My Templates** tab in the Select a Template window.
 7. Saved templates will be listed.
 8. Find the template and click on it.
 9. &#x20;Click **Edit this Template.**
