@@ -1,6 +1,8 @@
 # Automating Form Submission with Slack Notification
 
-You can create a workflow to automate sending a Slack notification when  a user submits a form. By automating form submissions, businesses can save time, improve efficiency, and ensure consistent data quality.
+You can create a workflow to automate sending a Slack notification when a user submits a form. The notification is sent to the user with the linked slack account.
+
+By automating form submissions, businesses can save time, improve efficiency, and ensure consistent data quality.
 
 {% hint style="info" %}
 Familiarity with creating [folders ](../folders/creating-a-new-folder.md)and [databases ](../databases/creating-and-editing-databases/)is recommended to accelerate your learning process.
@@ -10,7 +12,7 @@ Familiarity with creating [folders ](../folders/creating-a-new-folder.md)and [da
 Folders serve as containers designed to store and organize your work, such as notes, databases, user interfaces, and workflows.
 {% endhint %}
 
-Here are basics to create a workflow to automate sending a Slack notification to relevant users when they submit a form in Lucy.&#x20;
+Here are steps to create a workflow to automate sending a Slack notification when a user submits a form.
 
 1. [Creating a Form](automating-form-submission-with-slack-notification.md#id-1-creating-a-form)
 2. [Configuring the Automation](automating-form-submission-with-slack-notification.md#id-2-configuring-the-automation)
@@ -58,6 +60,8 @@ Now, let's test the automation by submitting the form.
 5. Click on the user interface to open it in a new window.
 6. Fill out the form details and click **Submit**.
 7. After a while, you will receive a message on Slack.
+
+
 
 <figure><img src="../.gitbook/assets/image (36).png" alt="" width="426"><figcaption><p>Submitting form details</p></figcaption></figure>
 
