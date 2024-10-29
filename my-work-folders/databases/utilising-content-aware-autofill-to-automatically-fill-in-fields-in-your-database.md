@@ -24,7 +24,7 @@ Find the article below to create a new database.
 [creating-a-database-manually.md](creating-and-editing-databases/creating-a-database-manually.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/Database example_1.png" alt=""><figcaption><p>Database example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Database example_1.png" alt=""><figcaption><p>Database example</p></figcaption></figure>
 
 ## <mark style="color:blue;">2. Adding Data into Your Database</mark>
 
@@ -50,11 +50,11 @@ Next, create a form to easily add sample data into your database.
     3. Click the **Edit** button to enter the edit mode in the database.
     4. Fill in the data in the required column _e.g., Mood._
 
-<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S1.png" alt=""><figcaption><p>Feedback Form </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S1.png" alt=""><figcaption><p>Feedback Form </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S2.png" alt="" width="392"><figcaption><p>Entering form details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S2.png" alt="" width="392"><figcaption><p>Entering form details</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S3.png" alt=""><figcaption><p>Previewing the data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S3.png" alt=""><figcaption><p>Previewing the data</p></figcaption></figure>
 
 ## <mark style="color:blue;">3. Enabling the Content-Aware Autofill in Your Database</mark>
 
@@ -116,7 +116,7 @@ Let's view the database to see the changes.
 4. Search and click on the **database** to view it.
 5. The 'Mood' field will be auto filled based on the data you entered.
 
-<figure><img src="../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S4.png" alt=""><figcaption><p>A preview of the updated database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Content-aware Autofill to Automatically Populate Your Database_S4.png" alt=""><figcaption><p>A preview of the updated database</p></figcaption></figure>
 
 Watch this video to learn how to automatically fill in your database fields using the content-aware autofill feature in Lucy.
 

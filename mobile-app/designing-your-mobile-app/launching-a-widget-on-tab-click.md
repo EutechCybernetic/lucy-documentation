@@ -5,7 +5,7 @@ Discover how to launch a widget when a user clicks a tab in your mobile app.&#x2
 First, ensure the widget is already created in the system. You can either build a new one or choose an existing one. We'll build a new widget using the (e.g., Search Widget Template). This template lets you configure multiple tabs, each connected to a data source to display specific information. The data source can be a database or a Lucy Action. After selecting a data source, you can even customise the information shown under each tab by mapping UI elements to the selected data source values.
 
 {% hint style="info" %}
-Before following this tutorial, ensure you are familiar with [creating folders](../../folders/creating-a-new-folder.md), [databases](../../databases/creating-and-editing-databases/), and Lucy Actions.
+Before following this tutorial, ensure you are familiar with [creating folders](../../my-work-folders/creating-a-new-folder.md), [databases](../../my-work-folders/databases/creating-and-editing-databases/), and Lucy Actions.
 {% endhint %}
 
 ## Creating the Widget

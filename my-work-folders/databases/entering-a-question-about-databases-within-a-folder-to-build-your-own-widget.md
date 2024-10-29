@@ -1,4 +1,4 @@
-# Enter a Question about Databases within a Folder to Build Your Own Widget
+# Entering a Question about Databases within a Folder to Build Your Own Widget
 
 In Lucy, you can type in a question related to existing databases within in a folder to create your very own widget. The system then pulls out the answers from the data in those databases and turns them into a cool visual widget for you.
 
@@ -21,7 +21,7 @@ Let’s see how to build a widget by typing a question.
 
 
 
-<figure><img src="../.gitbook/assets/Generating Widget by entering a question_s2.png" alt=""><figcaption><p>Built widget preview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Generating Widget by entering a question_s2.png" alt=""><figcaption><p>Built widget preview</p></figcaption></figure>
 
 
 

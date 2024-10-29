@@ -32,7 +32,7 @@ Let's manually create our database.
 
 Below is a image of the database we have created.
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1_1.png" alt=""><figcaption><p>Database preview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S1_1.png" alt=""><figcaption><p>Database preview</p></figcaption></figure>
 
 ### 2. Creating the Workflow
 
@@ -57,7 +57,7 @@ To create the workflow that sends an email when new data is added to the databas
    2. Filter and select blocks by category (e.g., Communications ) or type in the block name in the search box.
    3. Pick the required block, _e.g., Send Email._
 9. Configure the properties of the Send Email block.
-   1. On the Send Email block, click the **arrow** icon ![](<../.gitbook/assets/image (23).png>)to open its **Properties** section.
+   1. On the Send Email block, click the **arrow** icon ![](<../../.gitbook/assets/image (23).png>)to open its **Properties** section.
    2. Enter the **Subject** of the email. Use Pills to customise the subject as necessary. These pills are used in input fields and originate from previous blocks in your workflow.
    3. In the **To** box, type in the recipient’s email address.
    4. In the **Body** box, type the message to be sent. Use Pills and format the message as necessary.
@@ -70,13 +70,13 @@ To create the workflow that sends an email when new data is added to the databas
 You can find all your saved workflows under the **Workflows** tab within the respective folder.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Selecting a Trigger Block screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Selecting a Trigger Block screen 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S3_1.png" alt=""><figcaption><p>Selecting a Trigger Block screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S3_1.png" alt=""><figcaption><p>Selecting a Trigger Block screen 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S4.png" alt=""><figcaption><p>Selecting an Action block</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S4.png" alt=""><figcaption><p>Selecting an Action block</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S5_2.png" alt=""><figcaption><p>Configuring Properties of Send Email Block</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S5_2.png" alt=""><figcaption><p>Configuring Properties of Send Email Block</p></figcaption></figure>
 
 ### 3. Testing/Executing the Workflow
 
@@ -87,7 +87,7 @@ The last step is to test the workflow by adding a data record to the database.
 3. Click on the folder to open it.
 4. Within the folder, navigate to the **Workflows** tab.
 5. Locate and click on your workflow to open it on the Workflow editor page.
-6. Click the ![](<../.gitbook/assets/image (6).png>)Run button. Execute Workflow form opens.
+6. Click the ![](<../../.gitbook/assets/image (6).png>)Run button. Execute Workflow form opens.
 7. Complete the form and click **Execute.** This will execute the workflow and insert the data to the database.
 8. Open your database to preview the changes. When a new record is added to the database, our workflow will send an email to the recipient.
 
@@ -95,11 +95,11 @@ The last step is to test the workflow by adding a data record to the database.
 You can add data records through the database as well. (Navigate to the Databases tab in the folder and select the required database to open it.)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S6_1.png" alt=""><figcaption><p>Execute Workflow form</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S6_1.png" alt=""><figcaption><p>Execute Workflow form</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S7.png" alt=""><figcaption><p>New data record added</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S7.png" alt=""><figcaption><p>New data record added</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S8.png" alt=""><figcaption><p>Preview of the Email sent to the recipient's inbox</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S8.png" alt=""><figcaption><p>Preview of the Email sent to the recipient's inbox</p></figcaption></figure>
 
 Watch the video below on creating a workflow to run when new data is added to a database from the ground up to gain a better understanding.
 

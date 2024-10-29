@@ -37,7 +37,7 @@ To select a data source:
 
 
 
-<figure><img src="../../.gitbook/assets/Preview of your data_s2.png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Preview of your data_s2.png" alt=""><figcaption><p>A preview of your data</p></figcaption></figure>
 
 ### <mark style="color:blue;">b) Preparing Data to be Visualised</mark>
 
@@ -57,9 +57,9 @@ Filtering data is used to extract a subset of data that meets specific criteria 
 5. After applying the condition (s), click **Done**.
 6. Based on the conditions applied, the data will be filtered and listed.
 
-<figure><img src="../../.gitbook/assets/Filtering data_s2.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Filtering data_s2.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Filtered data_s3 (3).png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Filtered data_s3 (3).png" alt=""><figcaption><p>Filtered data</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding a Group of Conditions to Filter Data</mark>
 
@@ -82,7 +82,7 @@ For our example, adding group of conditions is not needed.
 Within a group of conditions, you can include multiple conditions.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Adding a Group of Conditions_s3.png" alt=""><figcaption><p>Adding a group of conditions to filter data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adding a Group of Conditions_s3.png" alt=""><figcaption><p>Adding a group of conditions to filter data</p></figcaption></figure>
 
 #### <mark style="color:blue;">Aggregating Data</mark>
 
@@ -93,17 +93,17 @@ Aggregating data is used to summarise and condense data into a more compact form
 3. Click **Done**. Based on the aggregation, the data will be aggregated and listed.
 4. If you are happy with the aggregation, click **Looks good.**
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s5.png" alt=""><figcaption><p>Aggregating data screen 1 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s5.png" alt=""><figcaption><p>Aggregating data screen 1 </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Aggregating Data_s3.png" alt=""><figcaption><p>Aggregating data screen 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Aggregating Data_s3.png" alt=""><figcaption><p>Aggregating data screen 2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/A preview of aggregated data_s3.png" alt=""><figcaption><p>A preview of aggregated data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/A preview of aggregated data_s3.png" alt=""><figcaption><p>A preview of aggregated data</p></figcaption></figure>
 
 ### <mark style="color:blue;">c) Selecting a Widget Template</mark>
 
 After selecting a data source and preparing data as needed, you can select a widget template to begin customisation. Based on the data selected, the system will display a list of matching templates that work with those data.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>List of matching widget templates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>List of matching widget templates</p></figcaption></figure>
 
 Find the article here to gain more knowledge on selecting a widget template.
 
@@ -127,7 +127,7 @@ There are two mode for a widget designer page:
 2\) Preview mode - Used to view a live version of the widget.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s8.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s8.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
 ### <mark style="color:blue;">d) Customising the Widget</mark>
 
@@ -139,7 +139,7 @@ You can choose either a single chart type or multiple chart types to display on 
 
 
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s9.png" alt=""><figcaption><p>Chart Types</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s9.png" alt=""><figcaption><p>Chart Types</p></figcaption></figure>
 
 #### <mark style="color:blue;">Selecting a Single Chart Type</mark>
 
@@ -184,7 +184,7 @@ To change the appearance of the chart:
 
 
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customising the appearance of the chart</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s10.png" alt=""><figcaption><p>Customising the appearance of the chart</p></figcaption></figure>
 
 #### <mark style="color:blue;">Adding a Chart Title</mark>&#x20;
 
@@ -196,7 +196,7 @@ To add a chart title:
 
 &#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) visualised on a chart image).
 
-<figure><img src="../../.gitbook/assets/Chart Preview_s3.png" alt=""><figcaption><p>Chart preview</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Chart Preview_s3.png" alt=""><figcaption><p>Chart preview</p></figcaption></figure>
 
 ## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
 
@@ -213,7 +213,7 @@ To Design a User Interface from Scratch
 7. Click **Edit this template**. The respective template will be displayed on the widget designer page.
 8. By default, **Design** mode will be selected on the widget designer page.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
 ### <mark style="color:blue;">a) Binding a Data source</mark>
 
@@ -244,7 +244,7 @@ For instance, let's use aggregation to summarise data to display minimum tempera
 3. After applying the aggregation, click **Done**.
 4. If you are happy with the aggregation, click **Looks good**.&#x20;
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
 
 ### <mark style="color:blue;">c) Customising the Widget</mark>
 
@@ -255,7 +255,7 @@ Customising the Properties of the Radial Gauge
 1. On the widget designer page, click on the **Radial Gauge.** The **Properties** panel will be displayed.
 2. On the properties panel, set properties as required.
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s13_1.png" alt=""><figcaption><p>Setting Properties of the Gauge</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s13_1.png" alt=""><figcaption><p>Setting Properties of the Gauge</p></figcaption></figure>
 
 
 
@@ -278,9 +278,9 @@ Customising the appearance and style of a radial gauge widget involves making vi
 3. Customise the visual aesthetics of the radial gauge according to your preferences.
 4. After setting the properties, provide a appropriate **Name** for the widget under **General** tab.
 
-<figure><img src="../../.gitbook/assets/Customising the Colours of the Radial Gauge_s2 (1).png" alt=""><figcaption><p>Customising the colours of the Radial Gauge</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Customising the Colours of the Radial Gauge_s2 (1).png" alt=""><figcaption><p>Customising the colours of the Radial Gauge</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Customising the Styling Properties of the Radial Gauge_s2.png" alt=""><figcaption><p>Customising the Styling Properties of the Radial Gauge</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Customising the Styling Properties of the Radial Gauge_s2.png" alt=""><figcaption><p>Customising the Styling Properties of the Radial Gauge</p></figcaption></figure>
 
 #### <mark style="color:blue;">Customising the Properties of the Widget's Header Section</mark>
 
@@ -294,7 +294,7 @@ To customise the properties of the widget’s header section:
 
 The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) on the gauge).
 
-<figure><img src="../../.gitbook/assets/LC_Designing a user interface to visualize information_s16.png" alt=""><figcaption><p>Radial Gauge in the Preview Mode</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s16.png" alt=""><figcaption><p>Radial Gauge in the Preview Mode</p></figcaption></figure>
 
 ## <mark style="color:blue;">Previewing Your Widget</mark>
 

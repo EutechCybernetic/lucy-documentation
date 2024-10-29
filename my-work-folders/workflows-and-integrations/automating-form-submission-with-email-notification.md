@@ -14,7 +14,7 @@ By setting up such workflows, you can eliminate manual data entry and ensure tim
 * **Support tickets:** Tracking and responding to customer issues.
 
 {% hint style="info" %}
-Familiarity with creating [folders ](../folders/creating-a-new-folder.md)and [databases ](../databases/creating-and-editing-databases/)is recommended to accelerate your learning process.
+Familiarity with creating [folders ](../creating-a-new-folder.md)and [databases ](../databases/creating-and-editing-databases/)is recommended to accelerate your learning process.
 {% endhint %}
 
 {% hint style="info" %}
@@ -35,7 +35,7 @@ To get started, we'll need a form to collect user feedback. If you haven't alrea
 [designing-a-user-interface-to-capture-user-feedback.md](../user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Creating a form</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Creating a form</p></figcaption></figure>
 
 When designing a form, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
 
@@ -59,7 +59,7 @@ After creating the form, follow these steps to create a system to automate sendi
     2. If you prefer a custom message, deselect the **Include the submitted data in the email body** option and type your message in the **Custom Message** box.
 11. Click **Create Automation.**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating the automation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating the automation</p></figcaption></figure>
 
 ### 3) Testing the Automation
 
@@ -70,4 +70,4 @@ Now, let's test the automation by submitting the form.
 3. Fill out the form details and click **Submit**.
 4. A short time later, an email will be sent to the intended recipient. Check the recipient's email inbox for the
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Sample Email sent to recipient</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption><p>Sample Email sent to recipient</p></figcaption></figure>

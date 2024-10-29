@@ -1,4 +1,8 @@
-# Folders
+# My Work (Folders)
+
+The **My Work** tab on the Lucy app homepage displays folders created by you and other users.
+
+## Folders
 
 Folders act as containers, encompassing all your creations, including notes, databases, workflows, and user interfaces. They play a crucial role in systematically organising and structuring your content, streamlining file management for users. Organise your work in Lucy by creating unlimited folders.
 

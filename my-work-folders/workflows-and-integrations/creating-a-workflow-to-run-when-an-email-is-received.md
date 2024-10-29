@@ -59,9 +59,9 @@ Let's create a simple database.
 
 After creating the database, insert data into it and activate the content-aware autofill feature.
 
-<figure><img src="../.gitbook/assets/Database_1.png" alt=""><figcaption><p>Sample database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Database_1.png" alt=""><figcaption><p>Sample database</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Activating the content-aware autofill feature</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Activating the content-aware autofill feature</p></figcaption></figure>
 
 Refer to this article on how to use content-aware autofill to auto populate your database.
 
@@ -88,7 +88,7 @@ Next, let's create the workflow.
 7. Add the block that defines the action to execute when the workflow is triggered.
    1. Click the **+** icon of the trigger block.
    2. Click on the **Databases and Analytics** category and pick **Insert into Database** block. The selected block will be added and displayed.
-   3. Click the **arrow** icon ![](<../.gitbook/assets/image (23).png>)to open **Insert into Database** block's properties section.
+   3. Click the **arrow** icon ![](<../../.gitbook/assets/image (23).png>)to open **Insert into Database** block's properties section.
       1. Select the Database you wish to insert data you receive.
       2. Once the database is selected, its fields will be displayed.
       3. Add Pills to the required fields. Pills originate from previous blocks added in the workflow, and you can use them in input fields.
@@ -101,9 +101,9 @@ Next, let's create the workflow.
 All your saved workflows will be listed under the **Workflows** tab within the respective folder.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Configuring the Email trigger block</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Configuring the Email trigger block</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Workflow created_1.png" alt=""><figcaption><p>Workflow diagram</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workflow created_1.png" alt=""><figcaption><p>Workflow diagram</p></figcaption></figure>
 
 
 
@@ -111,7 +111,7 @@ All your saved workflows will be listed under the **Workflows** tab within the r
 
 Each incoming email will be automatically forwarded to the designated address, recorded in the corresponding database, and categorised accordingly.
 
-<figure><img src="../.gitbook/assets/testing workflow.png" alt=""><figcaption><p>Testing the workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/testing workflow.png" alt=""><figcaption><p>Testing the workflow</p></figcaption></figure>
 
 Watch this video on how to automate handling incoming emails and saving them in a database.
 

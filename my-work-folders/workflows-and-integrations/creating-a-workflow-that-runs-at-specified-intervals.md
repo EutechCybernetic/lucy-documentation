@@ -24,10 +24,10 @@ To create the workflow:
    1. Click **How do you want to trigger your workflow?** box. All the available Trigger blocks will be displayed in a pop-up.
    2. Select the **Trigger every day at midnight** trigger block.
 7. Select the action block(s) to be executed.
-   1. Click the **+** icon![](<../.gitbook/assets/image (24).png>). All the available Action blocks will be displayed in a pop-up.
+   1. Click the **+** icon![](<../../.gitbook/assets/image (24).png>). All the available Action blocks will be displayed in a pop-up.
    2. Select the **Communications** category and choose the **Send Email** block.
 8. &#x20;Configure the **Send Email** block.
-   1. Click the arrow icon ![](<../.gitbook/assets/image (25).png>)of the **Send Email** block to expand it.
+   1. Click the arrow icon ![](<../../.gitbook/assets/image (25).png>)of the **Send Email** block to expand it.
    2. **Subject**: Type in the subject line of the email.
    3. **To:** Type in the recipient’s email address.
    4. **Body:** Type in the message to be sent.
@@ -35,15 +35,15 @@ To create the workflow:
 10. To test the workflow, click the **Play** button.
 11. Click **Execute**. The workflow will be executed and a email will be sent to the respective recipient.
 
-<figure><img src="../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Creating the workflow screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CreatingAWorkfloWhen NewDataIsaddedToADatabase_S2.png" alt=""><figcaption><p>Creating the workflow screen 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S2_1.png" alt=""><figcaption><p>Creating the workflow screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S2_1.png" alt=""><figcaption><p>Creating the workflow screen 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S3_3.png" alt=""><figcaption><p>Creating the workflow screen 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S3_3.png" alt=""><figcaption><p>Creating the workflow screen 3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S4_3.png" alt=""><figcaption><p>Creating the workflow screen 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S4_3.png" alt=""><figcaption><p>Creating the workflow screen 4</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S5_3.png" alt=""><figcaption><p>Creating the workflow screen 5</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Creating a Workflow that Runs at Specified Intervals_S5_3.png" alt=""><figcaption><p>Creating the workflow screen 5</p></figcaption></figure>
 
 Watch this video that automate sending a daily to-do list to employees via email every day at midnight.
 

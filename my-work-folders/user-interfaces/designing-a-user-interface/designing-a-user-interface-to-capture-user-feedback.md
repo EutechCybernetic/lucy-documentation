@@ -33,7 +33,7 @@ Follow the below steps to design a form from a database.
 7. By default, the widget designer will be opened in its **Design** mode.
 8. You can do required customisation to the form in the **Design** mode.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s1.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Design a user interface from a database_s1.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
 {% hint style="success" %}
 **Tip**: Once you open the widget designer, its default mode will be the **Design** Mode (design mode will be selected).
@@ -50,7 +50,7 @@ The Widget Designer offers a user-friendly interface for designing, editing, and
 
 To customise the form's appearance, including elements such as the header, body, or individual items/fields within the body, simply click on the desired section. This action opens the Properties panel, allowing you to make adjustments like changing the header background.
 
-<figure><img src="../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a Form</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a Form</p></figcaption></figure>
 
 In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
@@ -80,7 +80,7 @@ In the Widget Designer's Design mode, you can make several basic modifications t
       1. Click **Upload your image** button on the image gallery window.
       2. Drag your image onto the marked area or click on the area to select the image and upload it.
 
-<figure><img src="../../.gitbook/assets/Adding a Background ColourImage_s2.png" alt=""><figcaption><p>Adding a Background Colour/Image</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adding a Background ColourImage_s2.png" alt=""><figcaption><p>Adding a Background Colour/Image</p></figcaption></figure>
 
 #### <mark style="color:blue;">Selecting a Background Image Size</mark>
 
@@ -109,7 +109,7 @@ To select the background image alignment:
 3. On the Properties panel, go to the **Container** section.
 4. In the **Background Position True** field, you'll find a diagram displaying multiple background image positions represented by circles. Choose an appropriate **circle** that corresponds to where you'd like to position the background image within the widget's header section.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s4.png" alt=""><figcaption><p>Aligning the Background Image</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Design a user interface from a database_s4.png" alt=""><figcaption><p>Aligning the Background Image</p></figcaption></figure>
 
 #### <mark style="color:blue;">Setting Header Title Properties</mark>
 
@@ -122,7 +122,7 @@ To header title properties:
    2. To change the colour of the title, select a colour from the displayed options or choose one from the colour palette.
    3. To change the font size of the header, type in the required size in the Size field.
 
-<figure><img src="../../.gitbook/assets/Setting Header Title Properties_s2.png" alt=""><figcaption><p>Setting Header Title properties</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting Header Title Properties_s2.png" alt=""><figcaption><p>Setting Header Title properties</p></figcaption></figure>
 
 #### <mark style="color:blue;">Setting the Properties of the Form Fields</mark>&#x20;
 
@@ -132,7 +132,7 @@ Users can customise fields of the form as follows:
 2. Click on the desired **field** within the body section, and its **Properties** panel will display on the right.
 3. Adjust the necessary properties of the field accordingly.
 
-<figure><img src="../../.gitbook/assets/Setting the Properties of the Form Fields_s2.png" alt=""><figcaption><p>Setting the Properties of the Form Fields</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting the Properties of the Form Fields_s2.png" alt=""><figcaption><p>Setting the Properties of the Form Fields</p></figcaption></figure>
 
 To change the position of a field:
 
@@ -181,7 +181,7 @@ To set internal values for options:
 2. Upon deselecting the **Use label as value** option, a text box will be enabled for each option, allowing you to enter the **internal value.** This internal value is not visible to users.
 3. Enter the **internal value** for each option.
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s7.png" alt=""><figcaption><p>Setting Options and Internal Values</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Design a user interface from a database_s7.png" alt=""><figcaption><p>Setting Options and Internal Values</p></figcaption></figure>
 
 #### Delete a Field from the Form
 
@@ -221,7 +221,7 @@ The Thank you screen is displayed after a user submits the respective form. Usin
 1. On the widget designer page (Design mode), click the **Form** toggle button on the bottom bar.
 2. The view will be changed to **Thank you** screen.&#x20;
 
-<figure><img src="../../.gitbook/assets/LC_Design a user interface from a database_s9.png" alt=""><figcaption><p>Thank you screen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/LC_Design a user interface from a database_s9.png" alt=""><figcaption><p>Thank you screen</p></figcaption></figure>
 
 #### <mark style="color:blue;">Setting the Thank you Screen's Header Properties</mark>
 
@@ -230,14 +230,14 @@ To set the Thank you Screen's Header Properties:
 1. Click on the **header** section of the Thank You screen. Its **Properties** panel will be displayed on the right.
 2. Do required changes to the header section from the Properties panel.
 
-<figure><img src="../../.gitbook/assets/Setting the Thank you Screen&#x27;s Header Properties_s3.png" alt=""><figcaption><p>Setting the Thank you Screen's Header Properties</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting the Thank you Screen&#x27;s Header Properties_s3.png" alt=""><figcaption><p>Setting the Thank you Screen's Header Properties</p></figcaption></figure>
 
 #### <mark style="color:blue;">Setting the Thank you Screen's Body Properties</mark>&#x20;
 
 1. Click on the **body** section of the Thank You screen. Its **Properties** panel will be displayed on the right.
 2. Do required changes to the body section from the Properties panel.
 
-<figure><img src="../../.gitbook/assets/Setting the Thank you Screen&#x27;s Body Properties_s2.png" alt=""><figcaption><p>Setting the Thank you Screen's Body Properties</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Setting the Thank you Screen&#x27;s Body Properties_s2.png" alt=""><figcaption><p>Setting the Thank you Screen's Body Properties</p></figcaption></figure>
 
 ### <mark style="color:blue;">5. Previewing the Form</mark>
 

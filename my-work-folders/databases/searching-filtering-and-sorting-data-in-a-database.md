@@ -38,7 +38,7 @@ For those with advanced expertise, you have the option to input a[ MongoDB query
 8. Type in the MongoDB query in the search box.
 9. Instead, you can click the expand icon to enter the query in a editor window.
 
-<figure><img src="../.gitbook/assets/LC_Searching and Filtering Information in a Database_S2.png" alt="" width="344"><figcaption><p>Searching data records by Entering a MongoDB Query</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Searching and Filtering Information in a Database_S2.png" alt="" width="344"><figcaption><p>Searching data records by Entering a MongoDB Query</p></figcaption></figure>
 
 ## <mark style="color:blue;">Filtering Data</mark>
 

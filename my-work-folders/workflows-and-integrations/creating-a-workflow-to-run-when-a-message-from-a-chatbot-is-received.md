@@ -31,9 +31,9 @@ We'll create a database manually.
    4. Click **Go to next Step.**
 10. Click **Create New Database**. The database will be created within the folder.
 
-<figure><img src="../.gitbook/assets/S1-adding fields.png" alt=""><figcaption><p>Adding Fields to the database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S1-adding fields.png" alt=""><figcaption><p>Adding Fields to the database</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Database.png" alt=""><figcaption><p>Newly created database</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Database.png" alt=""><figcaption><p>Newly created database</p></figcaption></figure>
 
 ## Creating a Workflow
 
@@ -65,24 +65,24 @@ Upon creating the database, we'll create a simple workflow that triggers wheneve
 10. Populate data into the database.
     1. On the workflow editor, click the **plus** icon to add another block.
     2. Select the **Databases and Analytics** category block and pick the **Insert into Database** block.&#x20;
-    3. Click the arrow icon![](../.gitbook/assets/Arrow.png) and pick the database we previously created.
+    3. Click the arrow icon![](../../.gitbook/assets/Arrow.png) and pick the database we previously created.
     4. Pick required tokens for the database attributes.
 11. On the workflow editor, click the **plus** icon to add another block.
 12. Pick the **Send Email** block.
-13. Click the arrow icon![](../.gitbook/assets/Arrow.png) and fill in the email details (Enter the Subject, To and Body fields).
+13. Click the arrow icon![](../../.gitbook/assets/Arrow.png) and fill in the email details (Enter the Subject, To and Body fields).
 14. Provide a meaningful n**ame** for the workflow and save it. Now our workflow is created.
 
 {% hint style="info" %}
 All your saved workflows will be listed under the **Workflows** tab within the respective folder.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Selecting a Bot.png" alt=""><figcaption><p>Selecting a Telegram Bot or creating a new bot<br></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Selecting a Bot.png" alt=""><figcaption><p>Selecting a Telegram Bot or creating a new bot<br></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Entering bot details.png" alt=""><figcaption><p>Entering your bot details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entering bot details.png" alt=""><figcaption><p>Entering your bot details</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Designing the Workflow.png" alt=""><figcaption><p>Designing the workflow screen 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Designing the Workflow.png" alt=""><figcaption><p>Designing the workflow screen 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Designing the Workflow_s2.png" alt=""><figcaption><p>Designing the workflow screen 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Designing the Workflow_s2.png" alt=""><figcaption><p>Designing the workflow screen 2</p></figcaption></figure>
 
 ## Testing the Workflow
 

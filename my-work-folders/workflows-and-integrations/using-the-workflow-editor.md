@@ -46,7 +46,7 @@ Database triggers start workflows when changes happen in a database. For example
 
 The image below displays all the trigger blocks currently available in Lucy.
 
-<figure><img src="../.gitbook/assets/Using the Workflow Editor_2_1.png" alt=""><figcaption><p>Trigger Blocks</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Using the Workflow Editor_2_1.png" alt=""><figcaption><p>Trigger Blocks</p></figcaption></figure>
 
 ### 2. Action Blocks
 
@@ -54,7 +54,7 @@ Action Blocks are the steps that take place after a workflow has been triggered.
 
 This image showcases the action blocks that Lucy offers. You can find these blocks quickly by entering the block name in the search box or by filtering them by category.
 
-<figure><img src="../.gitbook/assets/Using the Workflow Editor_3.png" alt=""><figcaption><p>Action Blocks Search pop-up</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Using the Workflow Editor_3.png" alt=""><figcaption><p>Action Blocks Search pop-up</p></figcaption></figure>
 
 ## Accessing the Workflow Editor
 
@@ -73,7 +73,7 @@ To access the workflow editor:
 7. Click the **+** icon.&#x20;
 8. This will launch the empty workflow editor where you can create your workflow.
 
-<figure><img src="../.gitbook/assets/Using the Workflow Editor_4.png" alt=""><figcaption><p>Accessing the Workflow Editor to Create a New Workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Using the Workflow Editor_4.png" alt=""><figcaption><p>Accessing the Workflow Editor to Create a New Workflow</p></figcaption></figure>
 
 For more insights on creating workflows, refer to this link.
 
@@ -98,7 +98,7 @@ To access the workflow editor:
 9. On the search results, select the **workflow** and click on it.
 10. Your workflow will be opened on the workflow editor page.
 
-<figure><img src="../.gitbook/assets/Using the Workflow Editor_5.png" alt=""><figcaption><p>Accessing the Workflow Editor to Edit a Workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Using the Workflow Editor_5.png" alt=""><figcaption><p>Accessing the Workflow Editor to Edit a Workflow</p></figcaption></figure>
 
 ## Saving a Workflow
 
@@ -111,6 +111,6 @@ To save a workflow:
 3. All your saved workflows will be listed under the **Workflows** tab within the respective folder.
 
 {% hint style="info" %}
-To return to the Workflows tab from the Workflow Editor page, click the <img src="../.gitbook/assets/Closebutton_1.png" alt="" data-size="line"> icon.
+To return to the Workflows tab from the Workflow Editor page, click the <img src="../../.gitbook/assets/Closebutton_1.png" alt="" data-size="line"> icon.
 {% endhint %}
 

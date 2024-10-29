@@ -5,7 +5,7 @@ You can create a workflow to automate sending a Slack notification when a user s
 By automating form submissions, businesses can save time, improve efficiency, and ensure consistent data quality.
 
 {% hint style="info" %}
-Familiarity with creating [folders ](../folders/creating-a-new-folder.md)and [databases ](../databases/creating-and-editing-databases/)is recommended to accelerate your learning process.
+Familiarity with creating [folders ](../creating-a-new-folder.md)and [databases ](../databases/creating-and-editing-databases/)is recommended to accelerate your learning process.
 {% endhint %}
 
 {% hint style="info" %}
@@ -26,7 +26,7 @@ To get started, we'll need a form to collect user feedback. If you haven't alrea
 [designing-a-user-interface-to-capture-user-feedback.md](../user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Creating a form to capture user feedback</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Creating a form to capture user feedback</p></figcaption></figure>
 
 When designing a form, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
 
@@ -47,7 +47,7 @@ After creating the form, follow these steps to create an automation to send a Sl
 9. Enter a channel name.
 10. Click **Create Automation.**
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>Creating the automation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Creating the automation</p></figcaption></figure>
 
 ### 3) Testing the Automation
 
@@ -63,6 +63,6 @@ Now, let's test the automation by submitting the form.
 
 
 
-<figure><img src="../.gitbook/assets/image (36).png" alt="" width="426"><figcaption><p>Submitting form details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="426"><figcaption><p>Submitting form details</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Receive a message on Slack</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Receive a message on Slack</p></figcaption></figure>
