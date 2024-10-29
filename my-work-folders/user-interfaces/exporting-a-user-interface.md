@@ -1,6 +1,6 @@
 # Exporting a User Interface
 
-User interfaces in Lucy can be exported as a JSON file for easy sharing and customisation.
+User interfaces designed in Lucy, whether by you or others, can be easily exported as JSON files for seamless sharing and customisation.
 
 ## Exporting a User Interface
 
@@ -13,3 +13,5 @@ To Export an Existing User Interfaces as a JSON File:
 5. Your user interface will open on the widget designer page.
 6. Click the three dots ![](<../../.gitbook/assets/image (57).png>)on the top right.
 7. Click the **Export Widget** button. The selected user interface will be exported as a JSON file.
+
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption><p>Export Widget</p></figcaption></figure>
