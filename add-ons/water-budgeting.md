@@ -106,8 +106,6 @@ To create a canvas:
     3. Pick the required **Year, Location** and **Water Type.**
     4. The data will be automatically populated and displayed.
 
-<figure><img src="../.gitbook/assets/Water Budgeting_canvas_s1.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying water consumption</p></figcaption></figure>
-
 The video below explains the process of monitoring water consumption in your building or workplace and setting budgets.
 
 {% embed url="https://drive.google.com/file/d/1k02IByEvpNaFbrUOJgH8kKMbP4070TQV/view?usp=drive_link" %}

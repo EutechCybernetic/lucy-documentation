@@ -114,8 +114,6 @@ To create a canvas:
     5. Pick the required **Category**.
     6. The widget will display the energy usage details budgeted versus the actual entire year.
 
-<figure><img src="../.gitbook/assets/Energy Add-ons_creating canvas_ s1.png" alt=""><figcaption><p>Canvas designed for monitoring and displaying energy usage</p></figcaption></figure>
-
 The video below explains the process of monitoring energy consumption in your building or workplace.
 
 {% embed url="https://drive.google.com/file/d/1eW13QEMTAcq6Wftsm_PyqLs1xCK8YqK5/view?usp=drive_link" %}
