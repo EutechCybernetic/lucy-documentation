@@ -7,7 +7,7 @@ This allows you to tailor the appearance, behavior, and content of a user interf
 This article shows the basic functionalities of a widget designer.
 
 {% hint style="info" %}
-**Note**: Familiarity with [creating folders,](../) [databases](../databases/creating-and-editing-databases/), and [user interfaces ](designing-a-user-interface/)is recommended before proceeding with this article.
+Familiarity with [creating folders,](../) [databases](../databases/creating-and-editing-databases/), and [user interfaces ](designing-a-user-interface/)is recommended before proceeding with this article.
 {% endhint %}
 
 ### Opening the Widget Designer
@@ -25,8 +25,15 @@ For example, let's use the Record Data option and open a form on the widget desi
 1. On the app **homepage**, go to **My Work** module on the left.
 2. Search and select the required folder. Click on the folder to open it.
 3. Navigate to the **User Interfaces** tab.&#x20;
-4. Click the **Plus** icon and select the **Record Data** option.
-5. Choose a data source. For the data source, you can select an existing Lucy action or a database.
+4. Click the **Plus** icon and select **Record Data**.
+5. Choose a data source. For the data source, you can select an existing Lucy Action or a database.
+6. To select a database,
+   1. Go to the Databases tab. A list of database will appear.
+   2. Click on the desired database and click Select this source.
+   3. Click **Looks Good.**
+7. A form user interface will display on the widget designer page. The widget designer's Design mode is activated by default.
+
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption><p>Widget Designer in the Design mode</p></figcaption></figure>
 
 ## <mark style="color:blue;">Basic Functionalities of Widget Designer</mark>
 
@@ -34,18 +41,20 @@ Whenever you open the widget designer, its default mode will be the **Design** m
 
 The widget designer has two modes:&#x20;
 
-1. **Design** - Used to design and customise certain widget.&#x20;
-2. **Preview** - Allows you to see how your widget will appear to your users, providing a live version to visualise any changes you've made.&#x20;
+1. **Design** - Used to design and customise certain user interface.&#x20;
+2. **Preview** - Allows you to see how your user interface will appear to your users, providing a live version to visualise any changes you've made.&#x20;
 
 You can switch between the two modes as needed.
 
 ### <mark style="color:blue;">Features in the Widget Designer's Design Mode</mark>
 
-The screen below displays the basic features of a widget designer in **Design** Mode. To illustrate the widget designer's capabilities, we will use a form user interface.
+The screen below displays the basic features of a widget designer in **Design** Mode.
+
+Some widget designer features will become available only after saving your user interface.
 
 <figure><img src="../../.gitbook/assets/LC_Working with Widget Designer_s1.png" alt=""><figcaption><p>Widget Designer's Design Mode</p></figcaption></figure>
 
-<table><thead><tr><th width="40" data-type="number"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>1</td><td>Used to switch between <strong>Design</strong> mode and <strong>Preview</strong> Mode. </td><td></td></tr><tr><td>2</td><td>Opens a window to share the widget with others and perform other functionalities <em>e.g., Add widget to a canvas.</em></td><td></td></tr><tr><td>3</td><td>Used to save changes done to the widget.</td><td></td></tr><tr><td>4</td><td><p>Used to configure general settings related to the widget. </p><p><em>e.g., change the background of the entire page, add a name for the widget.</em></p></td><td></td></tr><tr><td>5</td><td>Displays the respective widget (<em>e.g., form)</em> on the widget designer page.</td><td></td></tr><tr><td>6</td><td>Displays some additional settings that is enabled in the <strong>Design</strong> mode.</td><td></td></tr><tr><td>7</td><td>Used to select appropriate fields and add it to the widget. Once a field is added to the widget, users can configure its properties.</td><td></td></tr><tr><td>8</td><td>Used to direct back to the <strong>User Interfaces</strong> tab of the selected project/folder.</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="109" data-type="number">Number</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>1</td><td>Used to switch between <strong>Design</strong> mode and <strong>Preview</strong> Mode. </td><td></td></tr><tr><td>2</td><td><p><strong>Share</strong> button: opens a window to share the user interface with others and perform other functionalities <em>e.g., Add widget to a canvas.</em> </p><p></p><p><em><mark style="color:blue;">Note: This button will appear only if you save the user interface.</mark></em></p></td><td></td></tr><tr><td>3</td><td>Used to save changes done to the user interface.</td><td></td></tr><tr><td>4</td><td><p>Used to configure general settings related to the user interface. </p><p><em>e.g., To change the background of the entire page, add a name.</em></p></td><td></td></tr><tr><td>5</td><td>Displays the respective user interface (<em>e.g., form)</em> on the widget designer page.</td><td></td></tr><tr><td>6</td><td>Displays some additional settings that is enabled in the <strong>Design</strong> mode.</td><td></td></tr><tr><td>7</td><td><p>The Fields tab displays a list of input fields., <em>e.g. Text Input, Email Input.</em></p><p>You can select appropriate fields and add it to the user interface. Once added, you can customise each field's properties.</p></td><td></td></tr><tr><td>8</td><td>Click to move back to the <strong>User Interfaces</strong> tab of the selected folder.</td><td></td></tr><tr><td>9</td><td>Click to view more options: Save widget as a Template and Export Widget.</td><td></td></tr></tbody></table>
 
 #### <mark style="color:blue;">Additional Features in a Widget Designer's Design Mode</mark>
 
@@ -53,7 +62,7 @@ The following are some additional features available in the widget designer's de
 
 <figure><img src="../../.gitbook/assets/LC_Working with Widget Designer_s2.png" alt=""><figcaption><p>Additional Operations in a Widget Designer's Design Mode</p></figcaption></figure>
 
-<table><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the widget around the widget designer page. Click the padlock icon to unlock it and move the widget around the page.</p><p>Further, users can unlock the padlock to resize the interface.</p><p><em>Note: Forms do not support resizing feature. However, it is available for the other widgets.</em></p></td></tr><tr><td>2</td><td>Used to switch between the Form screen and the Thank You screen of the form. When the widget designer is loaded, the form interface will be displayed by default. Users can do required customisations to each screen by switching between the two screens.</td></tr><tr><td>3</td><td>Used to restore any actions that were previously undone using an undo. </td></tr><tr><td>4</td><td>Used to reverse the change previously done (undo the change). </td></tr><tr><td>5</td><td>Used to Zoom in the widget.</td></tr><tr><td>6</td><td>Used to Zoom out the widget.</td></tr></tbody></table>
+<table><thead><tr><th width="118">Number</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the widget around the widget designer page. Click the padlock icon to unlock it and move the widget around the page.</p><p>Further, users can unlock the padlock to resize the interface.</p><p><em>Note: Forms do not support resizing feature. However, it is available for the other widgets.</em></p></td></tr><tr><td>2</td><td>Used to switch between the Form screen and the Thank You screen of the form. When the widget designer is loaded, the form interface will be displayed by default. Users can do required customisations to each screen by switching between the two screens.</td></tr><tr><td>3</td><td>Used to restore any actions that were previously undone using an undo. </td></tr><tr><td>4</td><td>Used to reverse the change previously done (undo the change). </td></tr><tr><td>5</td><td>Used to Zoom in the widget.</td></tr><tr><td>6</td><td>Used to Zoom out the widget.</td></tr></tbody></table>
 
 #### <mark style="color:blue;">Form Widget</mark>
 
