@@ -1,23 +1,33 @@
 # Working with the Widget Designer
 
-The Widget Designer provides a user-friendly interface for designing, editing, and customising your widgets. This enable users to customise the appearance, behavior, and content of a widget to suit their preferences. Customisation denotes adjusting colours, title, font sizes, data sources and more.
+The Widget Designer offers a user-friendly, no-code interface for designing and customising user interfaces.
 
-Widgets can be used to display information on a dashboard, such as calendar events, weather updates, etc.
+This allows you to tailor the appearance, behavior, and content of a user interface to your specific needs. Customisation options include changing colors, titles, font sizes, connecting data sources, and more.
+
+This article shows the basic functionalities of a widget designer.
 
 {% hint style="info" %}
-**Note**: It is recommended to know the basics of [creating folders,](../) [databases](../databases/creating-and-editing-databases/) and [user interfaces ](designing-a-user-interface/)before going through this article.
+**Note**: Familiarity with [creating folders,](../) [databases](../databases/creating-and-editing-databases/), and [user interfaces ](designing-a-user-interface/)is recommended before proceeding with this article.
 {% endhint %}
 
-This article shows the basic features of a widget designer.
+## Opening the Widget Designer
 
-## <mark style="color:blue;">Basic Features of a Widget Designer</mark>
+There are three primary ways to create a user interface:
 
-Once you load the widget designer, its default mode will be the **Design** mode.
+1. [Visualise Data:](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md) Design charts and graphs to display information visually.
+2. [Record Data:](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md) Create forms to collect user input.
+3. [Start from Scratch: ](designing-a-user-interface/designing-a-user-interface-from-scratch.md)Design user interfaces from the ground up.
 
-There are two modes available on the widget designer page:&#x20;
+You can use any of these methods to open the desired user interface on the Widget Designer page.
 
-1. **Design mode** - Used to design, edit, and customise the widget.&#x20;
-2. **Preview mode** - Used to view a live version of the widget.
+## <mark style="color:blue;">Basic Functionalities of Widget Designer</mark>
+
+Whenever you open the widget designer, its default mode will be the **Design** mode.
+
+The widget designer has two modes:&#x20;
+
+1. **Design** - Used to design and customise certain widget.&#x20;
+2. **Preview** - Allows you to see how your widget will appear to your users, providing a live version to visualise any changes you've made.&#x20;
 
 You can switch between the two modes as needed.
 
