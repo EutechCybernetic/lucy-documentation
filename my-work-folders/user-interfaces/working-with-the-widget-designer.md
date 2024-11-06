@@ -50,9 +50,11 @@ You can switch between the two modes as needed.
 
 The screen below displays the basic features of a widget designer in **Design** Mode.
 
+{% hint style="success" %}
 Some widget designer features will become available only after saving your user interface.
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/LC_Working with Widget Designer_s1.png" alt=""><figcaption><p>Widget Designer's Design Mode</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 295.png" alt=""><figcaption><p>Widget Designer's Design Mode</p></figcaption></figure>
 
 <table><thead><tr><th width="109" data-type="number">Number</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>1</td><td>Used to switch between <strong>Design</strong> mode and <strong>Preview</strong> Mode. </td><td></td></tr><tr><td>2</td><td><p><strong>Share</strong> button: opens a window to share the user interface with others and perform other functionalities <em>e.g., Add widget to a canvas.</em> </p><p></p><p><em><mark style="color:blue;">Note: This button will appear only if you save the user interface.</mark></em></p></td><td></td></tr><tr><td>3</td><td>Used to save changes done to the user interface.</td><td></td></tr><tr><td>4</td><td><p>Used to configure general settings related to the user interface. </p><p><em>e.g., To change the background of the entire page, add a name.</em></p></td><td></td></tr><tr><td>5</td><td>Displays the respective user interface (<em>e.g., form)</em> on the widget designer page.</td><td></td></tr><tr><td>6</td><td>Displays some additional settings that is enabled in the <strong>Design</strong> mode.</td><td></td></tr><tr><td>7</td><td><p>The Fields tab displays a list of input fields., <em>e.g. Text Input, Email Input.</em></p><p>You can select appropriate fields and add it to the user interface. Once added, you can customise each field's properties.</p></td><td></td></tr><tr><td>8</td><td>Click to move back to the <strong>User Interfaces</strong> tab of the selected folder.</td><td></td></tr><tr><td>9</td><td>Click to view more options: Save widget as a Template and Export Widget.</td><td></td></tr></tbody></table>
 
