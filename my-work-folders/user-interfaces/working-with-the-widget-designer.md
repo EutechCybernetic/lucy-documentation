@@ -10,15 +10,23 @@ This article shows the basic functionalities of a widget designer.
 **Note**: Familiarity with [creating folders,](../) [databases](../databases/creating-and-editing-databases/), and [user interfaces ](designing-a-user-interface/)is recommended before proceeding with this article.
 {% endhint %}
 
-## Opening the Widget Designer
+### Opening the Widget Designer
 
-There are three primary ways to create a user interface:
+There are three primary ways to [create a user interface](designing-a-user-interface/):
 
 1. [Visualise Data:](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md) Design charts and graphs to display information visually.
 2. [Record Data:](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md) Create forms to collect user input.
 3. [Start from Scratch: ](designing-a-user-interface/designing-a-user-interface-from-scratch.md)Design user interfaces from the ground up.
 
 You can use any of these methods to open the desired user interface on the Widget Designer page.
+
+For example, let's use the Record Data option and open a form on the widget designer page.
+
+1. On the app **homepage**, go to **My Work** module on the left.
+2. Search and select the required folder. Click on the folder to open it.
+3. Navigate to the **User Interfaces** tab.&#x20;
+4. Click the **Plus** icon and select the **Record Data** option.
+5. Choose a data source. For the data source, you can select an existing Lucy action or a database.
 
 ## <mark style="color:blue;">Basic Functionalities of Widget Designer</mark>
 
@@ -33,7 +41,7 @@ You can switch between the two modes as needed.
 
 ### <mark style="color:blue;">Features in the Widget Designer's Design Mode</mark>
 
-The screen below showcases the fundamental features of a widget designer in its **Design** Mode. To demonstrate the capabilities of the widget designer, we'll use a form as our example.
+The screen below displays the basic features of a widget designer in **Design** Mode. To illustrate the widget designer's capabilities, we will use a form user interface.
 
 <figure><img src="../../.gitbook/assets/LC_Working with Widget Designer_s1.png" alt=""><figcaption><p>Widget Designer's Design Mode</p></figcaption></figure>
 
