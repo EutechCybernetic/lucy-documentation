@@ -56,35 +56,45 @@ Some widget designer features will become available only after saving your user 
 
 <figure><img src="../../.gitbook/assets/Group 295.png" alt=""><figcaption><p>Widget Designer's Design Mode</p></figcaption></figure>
 
-<table><thead><tr><th width="109" data-type="number">Number</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>1</td><td>Used to switch between <strong>Design</strong> mode and <strong>Preview</strong> Mode. </td><td></td></tr><tr><td>2</td><td><p><strong>Share</strong> button: opens a window to share the user interface with others and perform other functionalities <em>e.g., Add widget to a canvas.</em> </p><p></p><p><em><mark style="color:blue;">Note: This button will appear only if you save the user interface.</mark></em></p></td><td></td></tr><tr><td>3</td><td>Used to save changes done to the user interface.</td><td></td></tr><tr><td>4</td><td><p>Used to configure general settings related to the user interface. </p><p><em>e.g., To change the background of the entire page, add a name.</em></p></td><td></td></tr><tr><td>5</td><td>Displays the respective user interface (<em>e.g., form)</em> on the widget designer page.</td><td></td></tr><tr><td>6</td><td>Displays some additional settings that is enabled in the <strong>Design</strong> mode.</td><td></td></tr><tr><td>7</td><td><p>The Fields tab displays a list of input fields., <em>e.g. Text Input, Email Input.</em></p><p>You can select appropriate fields and add it to the user interface. Once added, you can customise each field's properties.</p></td><td></td></tr><tr><td>8</td><td>Click to move back to the <strong>User Interfaces</strong> tab of the selected folder.</td><td></td></tr><tr><td>9</td><td>Click to view more options: <a href="saving-a-widget-as-a-template.md">Save widget as a Template</a> and <a href="exporting-a-user-interface.md">Export Widget</a>.</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="109" data-type="number">Number</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>1</td><td>Used to switch between <strong>Design</strong> mode and <strong>Preview</strong> Mode. </td><td></td></tr><tr><td>2</td><td><p><strong>Share</strong> button: opens a window to share the user interface with others and perform other functionalities <em>e.g., Add widget to a canvas.</em> </p><p><em><mark style="color:blue;">Note: This button will appear only if you save the user interface.</mark></em></p><p></p><p>Find the article here to gain more understanding on sharing a user interface:</p><p><a data-mention href="sharing-a-user-interface.md">sharing-a-user-interface.md</a></p></td><td></td></tr><tr><td>3</td><td>Used to save changes done to the user interface.</td><td></td></tr><tr><td>4</td><td><p>Used to configure general settings related to the user interface. </p><p><em>e.g., To change the background of the entire page, add a name.</em></p></td><td></td></tr><tr><td>5</td><td>Displays the respective user interface (<em>e.g., form)</em> on the widget designer page.</td><td></td></tr><tr><td>6</td><td>Displays some additional settings that is enabled in the <strong>Design</strong> mode.</td><td></td></tr><tr><td>7</td><td><p>The Fields tab displays a list of input fields., <em>e.g. Text Input, Email Input.</em></p><p>You can select appropriate fields and add it to the user interface. Once added, you can customise each field's properties.</p></td><td></td></tr><tr><td>8</td><td>Click to move back to the <strong>User Interfaces</strong> tab of the selected folder.</td><td></td></tr><tr><td>9</td><td>Click to view more options: <a href="saving-a-widget-as-a-template.md">Save widget as a Template</a> and <a href="exporting-a-user-interface.md">Export Widget</a>.</td><td></td></tr></tbody></table>
 
-#### <mark style="color:blue;">Additional Features in a Widget Designer's Design Mode</mark>
+#### <mark style="color:blue;">Additional Features in Widget Designer's Design Mode</mark>
 
 The following are some additional features available in the widget designer's design mode.
 
-<figure><img src="../../.gitbook/assets/LC_Working with Widget Designer_s2.png" alt=""><figcaption><p>Additional Operations in a Widget Designer's Design Mode</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LC_Working with Widget Designer_s2.png" alt=""><figcaption><p>Additional features in widget designer's Design mode</p></figcaption></figure>
 
-<table><thead><tr><th width="118">Number</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the widget around the widget designer page. Click the padlock icon to unlock it and move the widget around the page.</p><p>Further, users can unlock the padlock to resize the interface.</p><p><em>Note: Forms do not support resizing feature. However, it is available for the other widgets.</em></p></td></tr><tr><td>2</td><td>Used to switch between the Form screen and the Thank You screen of the form. When the widget designer is loaded, the form interface will be displayed by default. Users can do required customisations to each screen by switching between the two screens.</td></tr><tr><td>3</td><td>Used to restore any actions that were previously undone using an undo. </td></tr><tr><td>4</td><td>Used to reverse the change previously done (undo the change). </td></tr><tr><td>5</td><td>Used to Zoom in the widget.</td></tr><tr><td>6</td><td>Used to Zoom out the widget.</td></tr></tbody></table>
+<table><thead><tr><th width="118">Number</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the user interface around the widget designer page. Click the padlock icon to unlock it and move the widget around the page.</p><p>Also, users can unlock the padlock to resize the interface.</p><p><em><mark style="color:blue;">Note: Forms do not support resizing feature. However, it is available for the other user interfaces.</mark></em></p></td></tr><tr><td>2</td><td><p>Used to switch between the Form screen and the post-submissions screen (screen displayed to users after submitting the form). This feature is available for forms.</p><ul><li><img src="../../.gitbook/assets/FORM TOGGLE BUTTON.png" alt="">If the Form button is enabled, form interface will be displayed.</li><li><img src="../../.gitbook/assets/Response Toggle Button.png" alt="">If the Response button is enabled, post-submissions screen will be displayed.</li></ul><p>Users can do required customisations to each screen by switching between the two screens.</p></td></tr><tr><td>3</td><td>Reverts the last action performed. </td></tr><tr><td>4</td><td>Reverses the last Undo action.</td></tr><tr><td>5</td><td>Used to Zoom out the user interface.</td></tr><tr><td>6</td><td>Used to Zoom in the user interface.</td></tr></tbody></table>
 
-#### <mark style="color:blue;">Form Widget</mark>
+#### <mark style="color:blue;">Form User Interface</mark>
 
-A form consists of three sections: a header, a body, and an item/field. Users can modify each section individually through the **Properties** tab.
+A form consists of three customisable sections: a header, a body, and an item/field. Click on a section to open its properties panel for customisation.
+
+All user interfaces, including forms, simple cards, item lists, bar charts, etc., are customisable. Click individual section in a user interface to open their respective properties panel.
 
 
 
 <figure><img src="../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a Form</p></figcaption></figure>
 
-#### <mark style="color:blue;">Configuring Properties of the Widget's Header Section</mark>
+#### <mark style="color:blue;">Configuring Properties of the Header Section</mark>
 
-Users can customise the appearance of the widget’s header section on the widget designer page. _e.g., Add a title for the header section._&#x20;
+Users can customise the appearance of the header section on the widget designer page. _e.g., Add a title for the header section._&#x20;
 
 Find out more on configuring header properties in [this ](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)article.
 
-#### <mark style="color:blue;">Configuring Properties of the Widget's Body Section</mark>
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md" %}
+[designing-a-user-interface-to-capture-user-feedback.md](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
+{% endcontent-ref %}
 
-Users can customise the properties of widget’s body section and the properties of each individual field/item on the widget’s body section using the widget designer.
+#### <mark style="color:blue;">Configuring Properties of the Body Section</mark>
+
+Users can customise the properties of the body section and the properties of each individual field/item on the widget’s body section using the widget designer.
 
 Find out more on configuring widget’s body section properties in [this ](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)article.
+
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md" %}
+[designing-a-user-interface-to-capture-user-feedback.md](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
+{% endcontent-ref %}
 
 ### <mark style="color:blue;">Widget Designer's Preview Mode</mark>
 
