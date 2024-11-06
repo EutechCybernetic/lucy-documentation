@@ -7,7 +7,7 @@ Importing data also helps to maintain data integrity by reducing the risk of man
 
 
 {% hint style="info" %}
-Currently, we support the import of data from **CSV** files and **xlsx** files.
+We currently support data import from **CSV** and **XLSX** files.
 {% endhint %}
 
 Below is the step-by-step procedure for generating a new database by importing data from an external source.
@@ -38,5 +38,5 @@ Below is a preview of the newly created database.
 
 Watch the video below to gain more insights on creating a database by importing data from an external source.
 
-{% embed url="https://drive.google.com/file/d/1TUmFjUQRrawKdroOaAw6XKOulVHWItRC/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/10Uaq6SpBRXhEsYfJfC0OWZMwUetj8GUc/view?usp=drive_link" %}
 
