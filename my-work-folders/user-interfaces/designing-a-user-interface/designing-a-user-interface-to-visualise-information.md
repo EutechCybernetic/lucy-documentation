@@ -2,7 +2,7 @@
 
 Designing user interfaces to visualise data is a powerful way to derive meaningful insights. Depending on the data and the user's goals, designers choose appropriate visualisation types, which can include charts, graphs, maps and more.
 
-&#x20;This article shows how to design a user interface to visualise your data.
+This article shows how to design a user interface to visualise your data.
 
 
 
@@ -203,65 +203,34 @@ Here is a video on creating a user interface to visualise information to further
 
 ### Designing a  Radial Gauge User Interface to Visualise Information
 
-Here is an example of creating a user interface (Radial Gauge) to Visualise Information.
+Here is an example of creating a user interface (Radial Gauge) to visualise information.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and select the **folder** you wish to open.
 3. Go to the **User Interfaces** tab.
 4. Click on the **Add** button.
 5. Choose the **Visualise Data** option.
-6. Select the **data source**. You can either select a lucy action or a database as the data source.
+6. Choose a Data Source: Pick an existing Lucy action or a database.
 7. For instance, let’s select an existing database.
    1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
    2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
    3. A preview displaying the available fields of the chosen database will be listed.
    4. To confirm the selection, click **Select this source** .
    5. A table preview of the selected database will be displayed.
-8. On the app **homepage**, go to the **My Work** tab on the left sidebar.
-9. Search and select the **folder**.
-10. Go to the **User Interfaces** tab.
-11. Click **Add**.
-12. Pick **Start from Scratch** option.
-13. Select the desired type of Template to display data _e.g., Radial Gauge._
-14. Click **Edit this template**. The respective template will be displayed on the widget designer page.
-15. By default, **Design** mode will be selected on the widget designer page.
+   6. Prepare data: Filter and aggregate data as necessary.
+   7. A preview of your data will be displayed.
+   8. Once you are happy with the data, click **Looks Good.**
+8. Select the desired type of Widget Template to display data _e.g., Radial Gauge._
+9. Click **Edit this template**. The respective template will be displayed on the widget designer page.
+10. By default, the **Design** mode will be selected on the widget designer page.
 
 <figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
-### <mark style="color:blue;">a) Binding a Data source</mark>
 
-Once you've chosen the appropriate template, you can then decide which data source to associate with the widget. A data source provides the raw data that the widget visualises. Without a data source, there's no information to present visually.
 
-Bind a Data Source to the Widget
+#### <mark style="color:blue;">Customising the Widget</mark>
 
-1. On the widget designer page, click **Data source is required** option.
-2. Click **Bind a Source.**
-3. As the data source, you can either select a lucy action or a database to obtain data to be visualised.
-4. For instance, let’s select an existing database.
-   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
-   2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
-   3. A preview displaying the available fields of the chosen database will be listed.
-   4. To confirm the selection, click **Select this source** .
-   5. A table preview of the selected database will be displayed.
-
-### <mark style="color:blue;">b) Preparing Data to be Visualised</mark>
-
-Next, step is to customise data to be visualised on the widget.
-
-#### <mark style="color:blue;">Aggregating Data</mark>
-
-For instance, let's use aggregation to summarise data to display minimum temperature in a radial gauge.
-
-1. On the table preview, click **Aggregate Data.**
-2. Select appropriate aggregation and the columns required for the aggregation.
-3. After applying the aggregation, click **Done**.
-4. If you are happy with the aggregation, click **Looks good**.&#x20;
-
-<figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s12.png" alt=""><figcaption><p>Filtering data</p></figcaption></figure>
-
-### <mark style="color:blue;">c) Customising the Widget</mark>
-
-This involves modifying various visual and functional aspects of the widget to suit specific needs and preferences, such as setting minimum and maximum values of the scale.&#x20;
+After selecting a data source and selecting the widget template, you can customise the properties of the radial gauge.
 
 Customising the Properties of the Radial Gauge
 
