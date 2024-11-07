@@ -2,20 +2,19 @@
 
 Designing user interfaces to visualise data is a powerful way to derive meaningful insights. Depending on the data and the user's goals, designers choose appropriate visualisation types, which can include charts, graphs, maps and more.
 
-&#x20;This article shows how to design a user interface to visualise your data and explains the two distinct approaches to do that:
+&#x20;This article shows how to design a user interface to visualise your data.
 
-1. [Visualising Data by Selecting a Data source](designing-a-user-interface-to-visualise-information.md#id-1.-visualising-data-by-selecting-a-data-source)
-2. [Starting from Scratch by Selecting a Template](designing-a-user-interface-to-visualise-information.md#id-2.-starting-from-scratch-by-selecting-a-template)
+
 
 {% hint style="info" %}
-**Note**: Before you go ahead with any of these methods, ensure that a data source is ready in the system.
+**Note**: Before you go ahead, ensure that a data source is ready in the system.
 {% endhint %}
 
-## <mark style="color:blue;">1. Visualising Data by Selecting a Data source</mark>
+## Designing a User Interface to Visualise Information
 
 Before designing a user interface for data visualisation, the initial step is to select a data source. This involves choosing a suitable lucy action or database.
 
-To illustrate the concept, we'll design a user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
+To illustrate the concept, we'll design a bar chart user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
 
 ### <mark style="color:blue;">a) Selecting a Data source</mark>
 
@@ -198,20 +197,34 @@ To add a chart title:
 
 <figure><img src="../../../.gitbook/assets/Chart Preview_s3.png" alt=""><figcaption><p>Chart preview</p></figcaption></figure>
 
-## <mark style="color:blue;">2. Starting from Scratch by Selecting a Template</mark>
+Here is a video on creating a user interface to visualise information to further enhance your understanding.
 
-In this method, users has the flexibility to select any widget template as the base template and start customising.
+{% embed url="https://drive.google.com/file/d/1apIs06BiCGYFEah1wzyXyYHoBrcCkGrk/view?usp=drive_link" %}
 
-To Design a User Interface from Scratch
+### Designing a  Radial Gauge User Interface to Visualise Information
+
+Here is an example of creating a user interface (Radial Gauge) to Visualise Information.
 
 1. On the app **homepage**, go to the **My Work** tab on the left sidebar.
-2. Search and select the **folder**.
+2. Search and select the **folder** you wish to open.
 3. Go to the **User Interfaces** tab.
-4. Click **Add**.
-5. Pick **Start from Scratch** option.
-6. Select the desired type of Template to display data _e.g., Radial Gauge._
-7. Click **Edit this template**. The respective template will be displayed on the widget designer page.
-8. By default, **Design** mode will be selected on the widget designer page.
+4. Click on the **Add** button.
+5. Choose the **Visualise Data** option.
+6. Select the **data source**. You can either select a lucy action or a database as the data source.
+7. For instance, let’s select an existing database.
+   1. To select an existing database, head to the **Databases** tab. All the databases created in the system will be listed categorised by its folder.
+   2. Choose and click on the required **database**. Alternatively, you can use the search box to search and filter databases.
+   3. A preview displaying the available fields of the chosen database will be listed.
+   4. To confirm the selection, click **Select this source** .
+   5. A table preview of the selected database will be displayed.
+8. On the app **homepage**, go to the **My Work** tab on the left sidebar.
+9. Search and select the **folder**.
+10. Go to the **User Interfaces** tab.
+11. Click **Add**.
+12. Pick **Start from Scratch** option.
+13. Select the desired type of Template to display data _e.g., Radial Gauge._
+14. Click **Edit this template**. The respective template will be displayed on the widget designer page.
+15. By default, **Design** mode will be selected on the widget designer page.
 
 <figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s11.png" alt=""><figcaption><p>Widget Designer</p></figcaption></figure>
 
