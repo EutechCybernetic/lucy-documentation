@@ -4,15 +4,15 @@ The Widget Designer offers a user-friendly, no-code interface for designing and 
 
 This allows you to tailor the appearance, behavior, and content of a user interface to your specific needs. Customisation options include changing colors, titles, font sizes, connecting data sources, and more.
 
-This article shows the basic functionalities of a widget designer.
+This article shows the basic functionalities of the widget designer.
 
 {% hint style="info" %}
-Familiarity with [creating folders,](../) [databases](../databases/creating-and-editing-databases/), and [user interfaces ](designing-a-user-interface/)is recommended before proceeding with this article.
+A basic understanding of creating [folders](../), [databases](../databases/creating-and-editing-databases/), and [user interfaces ](designing-a-user-interface/)is recommended before proceeding with this article.
 {% endhint %}
 
 ### Opening the Widget Designer
 
-There are three primary ways to [create a user interface](designing-a-user-interface/):
+There are three primary ways to[ design a user interface:](designing-a-user-interface/)
 
 1. [Visualise Data:](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md) Design charts and graphs to display information visually.
 2. [Record Data:](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md) Create forms to collect user input.
@@ -35,7 +35,7 @@ For example, let's use the Record Data option and open a form on the widget desi
 
 <figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption><p>Widget Designer in the Design mode</p></figcaption></figure>
 
-## <mark style="color:blue;">Basic Functionalities of Widget Designer</mark>
+## <mark style="color:blue;">Basic Functionalities of the Widget Designer</mark>
 
 Whenever you open the widget designer, its default mode will be the **Design** mode.
 
@@ -98,22 +98,22 @@ Find out more on configuring widget’s body section properties in [this ](desig
 
 ### <mark style="color:blue;">Widget Designer's Preview Mode</mark>
 
-The **Preview** mode is used to preview a live session of the widget.&#x20;
+The **Preview** mode is used to preview a live session of the user interface.&#x20;
 
 To access widget designer's Preview mode:
 
 1. On the widget designer page, click **Preview** mode.
-2. A live version of the respective widget will be opened in the preview mode.
+2. A live version of the respective user interface will be opened in the preview mode.
 
 <figure><img src="../../.gitbook/assets/_Working with Widget Designer_s4.png" alt=""><figcaption><p>Widget Designer's Preview Mode</p></figcaption></figure>
 
 ## <mark style="color:blue;">Binding Data sources for Data Visualisation</mark>&#x20;
 
-Some widgets require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the widget that is responsible for displaying data. This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronisation between the data and the user interface.
+Some user interafecs such as bar charts, radial gauges require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the user interface that is responsible for displaying data. This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronisation between the data and the user interface.
 
 _e.g., A bar chart displaying sales figures for different products over a month._
 
-Refer to this tutorial to learn how to bind a data source to a widget.
+Refer to this tutorial to learn how to bind a data source to a user interface.
 
 {% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
 [designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
@@ -121,3 +121,4 @@ Refer to this tutorial to learn how to bind a data source to a widget.
 
 Here is a short video on how you can bind a data source to a user interface for data visualisation.
 
+{% embed url="https://drive.google.com/file/d/1apIs06BiCGYFEah1wzyXyYHoBrcCkGrk/view?usp=sharing" %}
