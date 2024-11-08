@@ -7,8 +7,6 @@ After you have designed a user interface (_e.g., form_), you can share it with o
 3. [Adding the User Interface to a Dashboard/Canvas](sharing-a-user-interface.md#id-3.-adding-the-user-interface-to-a-dashboard-canvas)
 4. [Sending the User Interface by Email](sharing-a-user-interface.md#id-4.-sending-the-user-interface-by-email)
 5. [Sending the User Interface as a Push Notification to Lucy Mobile App](sharing-a-user-interface.md#id-5.-sending-the-user-interface-as-a-push-notification-to-lucy-mobile-app)
-6. [Sending the User Interface to Everyone](sharing-a-user-interface.md#id-6.-sending-the-user-interface-to-everyone)
-7. [Adding the User Interface to Mobile App Home Screen](sharing-a-user-interface.md#id-7.-adding-the-user-interface-to-mobile-app-home-screen)
 
 ### <mark style="color:blue;">1. Copying a Shareable Link to the Clipboard</mark>
 
@@ -84,34 +82,6 @@ To Send a User Interface as a Push Notification:
 8. On the **Send a message along with the notification** box, enter a message to be sent with the notification to the user if necessary.
 9. Click **Send a push notification**. A push notification will be sent to the respective user’s Lucy mobile app.
 
-### <mark style="color:blue;">6. Sending the User Interface to Everyone</mark>
-
-To Send a User Interface as a Push Notification to Everyone:
-
-1. On the Lucy app **homepage,** go to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Go to the **User Interfaces** tab.
-4. Search and select the desired **user interface.**
-5. Hover over the **user interface** and click the **Edit** button that appears. Widget Designer page will be opened.
-6. Click **Share** button on the top right.
-7. Go to the **Send this screen to everyone** section.
-8. On the **Send a message along with the notification** box, enter a message to be sent with the notification to the users if necessary.
-9. Click **Send a push notification to everyone**. A push notification will be sent to all the users' Lucy mobile app.
-
-### <mark style="color:blue;">7. Adding the User Interface to Mobile App Home Screen</mark>
-
-To Add the User Interface to Mobile App Home Screen:
-
-1. On the Lucy app **homepage,** go to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Go to the **User Interfaces** tab.
-4. Search and select the desired **user interface.**
-5. Hover over the **user interface** and click the **Edit** button that appears. Widget Designer page will be opened.
-6. Click **Share** button on the top right.
-7. Go to the **Add this to the mobile app home screen** section.
-8. To add the user interface into a group in the mobile app home screen, select the required group from the list.
-9. Click **Add to Mobile app.**
-
 ### Enabling Anonymous Access to a User Interface
 
 Anonymous access enables anyone to view your user interface without providing login credentials.
@@ -121,4 +91,3 @@ To allow anyone to view your user interface without requiring a login, follow th
 {% content-ref url="enabling-anonymous-access-to-a-user-interface.md" %}
 [enabling-anonymous-access-to-a-user-interface.md](enabling-anonymous-access-to-a-user-interface.md)
 {% endcontent-ref %}
-
