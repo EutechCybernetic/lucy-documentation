@@ -22,14 +22,14 @@ In this article, we'll use an existing bar chart widget and save it as a templat
 
 Find the article on how you can create a bar chart widget to visualise information.
 
-[Visualising Data by Selecting a Data source](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md#id-1.-visualising-data-by-selecting-a-data-source)
+[Visualising Data by Selecting a Data source](creating-a-user-interface/creating-a-user-interface-to-visualise-information.md#id-1.-visualising-data-by-selecting-a-data-source)
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example of a Widget</p></figcaption></figure>
 
 For more insights on designing a user interface, find the article here.
 
-{% content-ref url="designing-a-user-interface/" %}
-[designing-a-user-interface](designing-a-user-interface/)
+{% content-ref url="creating-a-user-interface/" %}
+[creating-a-user-interface](creating-a-user-interface/)
 {% endcontent-ref %}
 
 ### Saving a Widget as a Template

@@ -1,16 +1,16 @@
-# Designing a User Interface to Capture User Feedback
+# Creating a User Interface to Capture User Feedback
 
-This article shows how to design a form to capture user feedback using an existing database.
+This article shows how to create a form to capture user feedback using an existing database.
 
-The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organisations. By capturing and storing data in a database, businesses and organisations can better manage and utilise the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
+The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organizations. By capturing and storing data in a database, businesses and organizations can better manage and utilise the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
 
 {% hint style="success" %}
-**Tip**: When designing a form to capture information, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
+**Tip**: When creating a form to capture information, you can always start from scratch, yet it is generally advisable to start creating a form from a database.
 {% endhint %}
 
-## <mark style="color:blue;">Designing a User Interface to Capture User Feedback</mark>
+## <mark style="color:blue;">Creating a User Interface to Capture User Feedback</mark>
 
-The process of designing a user interface to capture user feedback involves four main steps.
+The process of creating a user interface to capture user feedback involves four main steps.
 
 ### <mark style="color:blue;">1. Creating a Database</mark>
 
@@ -20,9 +20,9 @@ As the initial step, you should have a database in place before creating a form.
 [creating-and-editing-databases](../../databases/creating-and-editing-databases/)
 {% endcontent-ref %}
 
-### <mark style="color:blue;">2. Designing a Form from the Database</mark>
+### <mark style="color:blue;">2. Creating a Form from the Database</mark>
 
-Follow the below steps to design a form from a database.
+Follow the below steps to create a form from a database.
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -46,7 +46,7 @@ There are two modes in a widget designer page:&#x20;
 
 ### <mark style="color:blue;">3. Using Widget Designer to Customise the Form</mark>
 
-The Widget Designer offers a user-friendly interface for designing, editing, and customising your widgets. This functionality empowers users to tailor the appearance, behavior, and content of their widgets to meet specific needs.
+The Widget Designer offers a user-friendly interface for creating and customising your widgets. This functionality empowers users to tailor the appearance, behavior, and content of their widgets to meet specific needs.
 
 To customise the form's appearance, including elements such as the header, body, or individual items/fields within the body, simply click on the desired section. This action opens the Properties panel, allowing you to make adjustments like changing the header background.
 
@@ -54,14 +54,14 @@ To customise the form's appearance, including elements such as the header, body,
 
 In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
-* [Adding a Background Colour/Image](designing-a-user-interface-to-capture-user-feedback.md#adding-a-background-colour-image)
-* [Selecting a Background Image Size](designing-a-user-interface-to-capture-user-feedback.md#selecting-a-background-image-size)
-* [Aligning the Background Image](designing-a-user-interface-to-capture-user-feedback.md#aligning-the-background-image)
-* [Setting Header Title Properties](designing-a-user-interface-to-capture-user-feedback.md#setting-header-title-properties)
-* [Setting the Properties of the Form Fields](designing-a-user-interface-to-capture-user-feedback.md#setting-the-properties-of-the-form-fields)
-* [Adding Fields to the Form](designing-a-user-interface-to-capture-user-feedback.md#adding-fields-to-the-form)
-* [Adding a Background Image for the Entire Page](designing-a-user-interface-to-capture-user-feedback.md#adding-a-background-image-to-the-entire-page)
-* [Rearranging the Order of the Fields](designing-a-user-interface-to-capture-user-feedback.md#rearranging-the-order-of-the-fields)
+* [Adding a Background Colour/Image](creating-a-user-interface-to-capture-user-feedback.md#adding-a-background-colour-image)
+* [Selecting a Background Image Size](creating-a-user-interface-to-capture-user-feedback.md#selecting-a-background-image-size)
+* [Aligning the Background Image](creating-a-user-interface-to-capture-user-feedback.md#aligning-the-background-image)
+* [Setting Header Title Properties](creating-a-user-interface-to-capture-user-feedback.md#setting-header-title-properties)
+* [Setting the Properties of the Form Fields](creating-a-user-interface-to-capture-user-feedback.md#setting-the-properties-of-the-form-fields)
+* [Adding Fields to the Form](creating-a-user-interface-to-capture-user-feedback.md#adding-fields-to-the-form)
+* [Adding a Background Image for the Entire Page](creating-a-user-interface-to-capture-user-feedback.md#adding-a-background-image-to-the-entire-page)
+* [Rearranging the Order of the Fields](creating-a-user-interface-to-capture-user-feedback.md#rearranging-the-order-of-the-fields)
 
 #### <mark style="color:blue;">Adding a Background Colour/Image</mark>
 
@@ -267,12 +267,12 @@ After you have done required customisations, you can save the form for future re
 
 ### <mark style="color:blue;">7. Sharing the Form with Others</mark>
 
-After designing the form, you can share it with others. To learn more about this, refer to the article linked below.
+After creating the form, you can share it with others. To learn more about this, refer to the article linked below.
 
 {% content-ref url="../sharing-a-user-interface.md" %}
 [sharing-a-user-interface.md](../sharing-a-user-interface.md)
 {% endcontent-ref %}
 
-Here is a short video on how to design a form to populate data in a database.
+Here is a short video on how to create a form to populate data in a database.
 
 {% embed url="https://drive.google.com/file/d/1aBCYfS5Y29DJLe-C_FDnmCG6jyh0X5x2/view?usp=drive_link" %}

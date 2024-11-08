@@ -7,16 +7,16 @@ This allows you to tailor the appearance, behavior, and content of a user interf
 This article shows the basic functionalities of a widget designer.
 
 {% hint style="info" %}
-Familiarity with [creating folders,](../) [databases](../databases/creating-and-editing-databases/), and [user interfaces ](designing-a-user-interface/)is recommended before proceeding with this article.
+Familiarity with [creating folders,](../) [databases](../databases/creating-and-editing-databases/), and [user interfaces ](creating-a-user-interface/)is recommended before proceeding with this article.
 {% endhint %}
 
 ### Opening the Widget Designer
 
-There are three primary ways to [create a user interface](designing-a-user-interface/):
+There are three primary ways to [create a user interface](creating-a-user-interface/):
 
-1. [Visualise Data:](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md) Design charts and graphs to display information visually.
-2. [Record Data:](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md) Create forms to collect user input.
-3. [Start from Scratch: ](designing-a-user-interface/designing-a-user-interface-from-scratch.md)Design user interfaces from the ground up.
+1. [Visualise Data:](creating-a-user-interface/creating-a-user-interface-to-visualise-information.md) Design charts and graphs to display information visually.
+2. [Record Data:](creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md) Create forms to collect user input.
+3. [Start from Scratch: ](creating-a-user-interface/creating-a-user-interface-from-scratch.md)Design user interfaces from the ground up.
 
 You can use any of these methods to open the desired user interface on the Widget Designer page.
 
@@ -80,20 +80,20 @@ All user interfaces, including forms, simple cards, item lists, bar charts, etc.
 
 Users can customise the appearance of the header section on the widget designer page. _e.g., Add a title for the header section._&#x20;
 
-Find out more on configuring header properties in [this ](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)article.
+Find out more on configuring header properties in [this ](creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md)article.
 
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md" %}
-[designing-a-user-interface-to-capture-user-feedback.md](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
+{% content-ref url="creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md" %}
+[creating-a-user-interface-to-capture-user-feedback.md](creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
 #### <mark style="color:blue;">Configuring Properties of the Body Section</mark>
 
 Users can customise the properties of the body section and the properties of each individual field/item on the widget’s body section using the widget designer.
 
-Find out more on configuring widget’s body section properties in [this ](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)article.
+Find out more on configuring widget’s body section properties in [this ](creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md)article.
 
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md" %}
-[designing-a-user-interface-to-capture-user-feedback.md](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
+{% content-ref url="creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md" %}
+[creating-a-user-interface-to-capture-user-feedback.md](creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
 ### <mark style="color:blue;">Widget Designer's Preview Mode</mark>
@@ -107,7 +107,7 @@ To access widget designer's Preview mode:
 
 <figure><img src="../../.gitbook/assets/_Working with Widget Designer_s4.png" alt=""><figcaption><p>Widget Designer's Preview Mode</p></figcaption></figure>
 
-## <mark style="color:blue;">Binding a Data source to a Widget from Widget Designer Page</mark>&#x20;
+## <mark style="color:blue;">Binding Data sources for Data Visualisation</mark>&#x20;
 
 Some widgets require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the widget that is responsible for displaying data. This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronisation between the data and the user interface.
 
@@ -115,10 +115,9 @@ _e.g., A bar chart displaying sales figures for different products over a month.
 
 Refer to this tutorial to learn how to bind a data source to a widget.
 
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
-[designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
+{% content-ref url="creating-a-user-interface/creating-a-user-interface-to-visualise-information.md" %}
+[creating-a-user-interface-to-visualise-information.md](creating-a-user-interface/creating-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}
 
-Here is a short video on how you can use the widget designer to visualise information using the donut chart widget.
+Here is a short video on how you can bind a data source to a user interface for data visualisation.
 
-{% embed url="https://drive.google.com/file/d/1XAcYWbE-gx8TXYliYiWFN84-28yhWTpw/view?usp=sharing" %}
