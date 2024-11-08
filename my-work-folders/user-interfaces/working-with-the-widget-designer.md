@@ -10,7 +10,7 @@ This article shows the basic functionalities of the widget designer.
 A basic understanding of creating [folders](../), [databases](../databases/creating-and-editing-databases/), and [user interfaces ](designing-a-user-interface/)is recommended before proceeding with this article.
 {% endhint %}
 
-### Opening the Widget Designer
+### Accessing the Widget Designer
 
 There are three primary ways to[ design a user interface:](designing-a-user-interface/)
 
@@ -18,7 +18,7 @@ There are three primary ways to[ design a user interface:](designing-a-user-inte
 2. [Record Data:](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md) Create forms to collect user input.
 3. [Start from Scratch: ](designing-a-user-interface/designing-a-user-interface-from-scratch.md)Design user interfaces from the ground up.
 
-You can use any of these methods to open the desired user interface on the Widget Designer page.
+You can use any of the above methods to open the desired user interface on the Widget Designer page.
 
 For example, let's use the Record Data option and open a form on the widget designer page.
 
@@ -58,7 +58,7 @@ Some widget designer features will become available only after saving your user 
 
 <table><thead><tr><th width="109" data-type="number">Number</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>1</td><td>Used to switch between <strong>Design</strong> mode and <strong>Preview</strong> Mode. </td><td></td></tr><tr><td>2</td><td><p><strong>Share</strong> button: opens a window to share the user interface with others and perform other functionalities <em>e.g., Add widget to a canvas.</em> </p><p><em><mark style="color:blue;">Note: This button will appear only if you save the user interface.</mark></em></p><p></p><p>Find the article here to gain more understanding on sharing a user interface:</p><p><a data-mention href="sharing-a-user-interface.md">sharing-a-user-interface.md</a></p></td><td></td></tr><tr><td>3</td><td>Used to save changes done to the user interface.</td><td></td></tr><tr><td>4</td><td><p>Used to configure general settings related to the user interface. </p><p><em>e.g., To change the background of the entire page, add a name.</em></p></td><td></td></tr><tr><td>5</td><td>Displays the respective user interface (<em>e.g., form)</em> on the widget designer page.</td><td></td></tr><tr><td>6</td><td>Displays some additional settings that is enabled in the <strong>Design</strong> mode.</td><td></td></tr><tr><td>7</td><td><p>The Fields tab displays a list of input fields., <em>e.g. Text Input, Email Input.</em></p><p>You can select appropriate fields and add it to the user interface. Once added, you can customise each field's properties.</p></td><td></td></tr><tr><td>8</td><td>Click to move back to the <strong>User Interfaces</strong> tab of the selected folder.</td><td></td></tr><tr><td>9</td><td>Click to view more options: <a href="saving-a-widget-as-a-template.md">Save widget as a Template</a> and <a href="exporting-a-user-interface.md">Export Widget</a>.</td><td></td></tr></tbody></table>
 
-#### <mark style="color:blue;">Additional Features in Widget Designer's Design Mode</mark>
+### <mark style="color:blue;">Additional Features in Widget Designer's Design Mode</mark>
 
 The following are some additional features available in the widget designer's design mode.
 
@@ -66,7 +66,7 @@ The following are some additional features available in the widget designer's de
 
 <table><thead><tr><th width="118">Number</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td><p>By default, the <strong>padlock</strong> icon is locked to restrict moving the user interface around the widget designer page. Click the padlock icon to unlock it and move the widget around the page.</p><p>Also, users can unlock the padlock to resize the interface.</p><p><em><mark style="color:blue;">Note: Forms do not support resizing feature. However, it is available for the other user interfaces.</mark></em></p></td></tr><tr><td>2</td><td><p>Used to switch between the Form screen and the post-submissions screen (screen displayed to users after submitting the form). This feature is available for forms.</p><ul><li><img src="../../.gitbook/assets/FORM TOGGLE BUTTON.png" alt="">If the Form button is enabled, form interface will be displayed.</li><li><img src="../../.gitbook/assets/Response Toggle Button.png" alt="">If the Response button is enabled, post-submissions screen will be displayed.</li></ul><p>Users can do required customisations to each screen by switching between the two screens.</p></td></tr><tr><td>3</td><td>Reverts the last action performed. </td></tr><tr><td>4</td><td>Reverses the last Undo action.</td></tr><tr><td>5</td><td>Used to Zoom out the user interface.</td></tr><tr><td>6</td><td>Used to Zoom in the user interface.</td></tr></tbody></table>
 
-#### <mark style="color:blue;">Form User Interface</mark>
+### <mark style="color:blue;">Form User Interface</mark>
 
 A form consists of three customisable sections: a header, a body, and an item/field. Click on a section to open its properties panel for customisation.
 
@@ -76,7 +76,7 @@ All user interfaces, including forms, simple cards, item lists, bar charts, etc.
 
 <figure><img src="../../.gitbook/assets/_Working with Widget Designer_s3.png" alt="" width="375"><figcaption><p>Sections in a Form</p></figcaption></figure>
 
-#### <mark style="color:blue;">Configuring Properties of the Header Section</mark>
+### <mark style="color:blue;">Configuring Properties of the Header Section</mark>
 
 Users can customise the appearance of the header section on the widget designer page. _e.g., Add a title for the header section._&#x20;
 
@@ -86,7 +86,7 @@ Find out more on configuring header properties in [this ](designing-a-user-inter
 [designing-a-user-interface-to-capture-user-feedback.md](designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
-#### <mark style="color:blue;">Configuring Properties of the Body Section</mark>
+### <mark style="color:blue;">Configuring Properties of the Body Section</mark>
 
 Users can customise the properties of the body section and the properties of each individual field/item on the widget’s body section using the widget designer.
 
@@ -107,7 +107,37 @@ To access widget designer's Preview mode:
 
 <figure><img src="../../.gitbook/assets/_Working with Widget Designer_s4.png" alt=""><figcaption><p>Widget Designer's Preview Mode</p></figcaption></figure>
 
-## <mark style="color:blue;">Binding Data sources for Data Visualisation</mark>&#x20;
+### <mark style="color:blue;">Sharing a User Interface</mark>
+
+After designing your user interface, you can share it. There are multiple ways to do that: copying a shareable link to your clipboard, opening the user interface in a new page, adding the user interface to an existing canvas, sending the user interface via email, sending the user interface as a push notification to mobile app, and more.
+
+Learn how to effectively share a user interface. Find the article here.
+
+{% content-ref url="sharing-a-user-interface.md" %}
+[sharing-a-user-interface.md](sharing-a-user-interface.md)
+{% endcontent-ref %}
+
+### <mark style="color:blue;">Saving a User Interface as a Template</mark>
+
+Accelerate your user interface design by saving existing user interfaces as templates.
+
+Explore how to save a user interface as a template from here:
+
+{% content-ref url="saving-a-widget-as-a-template.md" %}
+[saving-a-widget-as-a-template.md](saving-a-widget-as-a-template.md)
+{% endcontent-ref %}
+
+### <mark style="color:blue;">Exporting a User Interface</mark>
+
+Export saved user interfaces as JSON files.
+
+Find out how to export your user interface as a JSON file here.
+
+{% content-ref url="exporting-a-user-interface.md" %}
+[exporting-a-user-interface.md](exporting-a-user-interface.md)
+{% endcontent-ref %}
+
+### <mark style="color:blue;">Binding Data sources for Data Visualisation</mark>&#x20;
 
 Some user interafecs such as bar charts, radial gauges require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the user interface that is responsible for displaying data. This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronisation between the data and the user interface.
 
