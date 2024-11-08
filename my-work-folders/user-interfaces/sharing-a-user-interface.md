@@ -12,9 +12,9 @@ After you have designed a user interface (_e.g., form_), you can share it with o
 
 ### <mark style="color:blue;">1. Copying a Shareable Link to the Clipboard</mark>
 
-Copying a shareable link to the clipboard allows you to paste the link and share it later. This link can be pasted into messages, emails, or other communication channels, allowing recipients to access the shared content directly.
+Copying a shareable link to the clipboard allows you to paste and share the link later. This link can be pasted into messages, emails, or other communication channels, allowing recipients to access the shared content directly.
 
-To copy a shareable link to the clipboard:
+To Copy a Shareable Link to the Clipboard:
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.&#x20;
 2. Search and click on the **folder** you wish to open.&#x20;
@@ -27,7 +27,7 @@ To copy a shareable link to the clipboard:
 
 ### <mark style="color:blue;">2. Opening the User Interface on a New Page</mark>
 
-Users can open the desired user interface on a separate page.
+To Open a User Interface on a Separate Page:
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -45,7 +45,7 @@ Users can add user interfaces to their existing dashboards/canvases for future r
 **Note**: You need to have a [dashboard ](../../gallery-dashboards/creating-a-canvas-on-the-gallery.md)created to add your user interfaces.
 {% endhint %}
 
-To add the User Interface to an existing Dashboard:
+To Add the User Interface to an Existing Canvas:
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -59,7 +59,7 @@ To add the User Interface to an existing Dashboard:
 
 ### <mark style="color:blue;">4. Sending the User Interface by Email</mark>
 
-To send the user interface by email:
+To Send the User Interface by Email:
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -72,7 +72,7 @@ To send the user interface by email:
 
 ### <mark style="color:blue;">5. Sending the User Interface as a Push Notification to Lucy Mobile App</mark>
 
-To send the user interface as a push notification to respective user’s Lucy mobile app:
+To Send a User Interface as a Push Notification:
 
 1. On the Lucy app **homepage,** go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -86,7 +86,7 @@ To send the user interface as a push notification to respective user’s Lucy mo
 
 ### <mark style="color:blue;">6. Sending the User Interface to Everyone</mark>
 
-To send the user interface as a push notification to everyone:
+To Send a User Interface as a Push Notification to Everyone:
 
 1. On the Lucy app **homepage,** go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -100,7 +100,7 @@ To send the user interface as a push notification to everyone:
 
 ### <mark style="color:blue;">7. Adding the User Interface to Mobile App Home Screen</mark>
 
-To add the user interface to mobile app home screen:
+To Add the User Interface to Mobile App Home Screen:
 
 1. On the Lucy app **homepage,** go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -112,19 +112,13 @@ To add the user interface to mobile app home screen:
 8. To add the user interface into a group in the mobile app home screen, select the required group from the list.
 9. Click **Add to Mobile app.**
 
-### Allowing Anonymous Access to the User Interface
+### Enabling Anonymous Access to a User Interface
 
 Anonymous access enables anyone to view your user interface without providing login credentials.
 
-To allow anonymous access to the user interface
+To allow anyone to view your user interface without requiring a login, follow the steps outlined in this article:
 
-1. On the Lucy app **homepage,** go to the **My Work** tab on the left sidebar.
-2. Search and click on the **folder** you want to open.
-3. Go to the **User Interfaces** tab.
-4. Search and select the desired **user interface.**
-5. Hover over the **user interface** and click the **Edit** button that appears. Widget Designer page will be opened.
-6. Go to the **General** tab on the right.
-7. Under **Share** section, you will find a shareable URL.
-8. Select the **Anonymous access allowed** option for anyone to access the UI without providing any authentication credentials.
-9. Click **Save Widget.**
-10. Copy and paste the shareable URL into a browser to view the user interface without requiring login credentials.
+{% content-ref url="enabling-anonymous-access-to-a-user-interface.md" %}
+[enabling-anonymous-access-to-a-user-interface.md](enabling-anonymous-access-to-a-user-interface.md)
+{% endcontent-ref %}
+
