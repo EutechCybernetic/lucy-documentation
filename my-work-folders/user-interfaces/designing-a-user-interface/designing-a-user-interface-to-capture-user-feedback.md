@@ -1,6 +1,6 @@
-# Creating a User Interface to Capture User Feedback
+# Designing a User Interface to Capture User Feedback
 
-This article shows how to create a form to capture user feedback using an existing database.
+This article shows how to design a form to capture user feedback using an existing database.
 
 The purpose of these forms is to simplify data collection, streamline processes, and enhance communication between users and organizations. By capturing and storing data in a database, businesses and organizations can better manage and utilise the information for diverse purposes, including providing services, making informed decisions, and improving user experiences. For instance, consider feedback forms.
 
@@ -22,7 +22,7 @@ As the initial step, you should have a database in place before creating a form.
 
 ### <mark style="color:blue;">2. Creating a Form from the Database</mark>
 
-Follow the below steps to create a form from a database.
+Follow the below steps to design a form from a database.
 
 1. On the Lucy app **homepage**, go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
@@ -54,14 +54,14 @@ To customise the form's appearance, including elements such as the header, body,
 
 In the Widget Designer's Design mode, you can make several basic modifications to the form, such as:
 
-* [Adding a Background Colour/Image](creating-a-user-interface-to-capture-user-feedback.md#adding-a-background-colour-image)
-* [Selecting a Background Image Size](creating-a-user-interface-to-capture-user-feedback.md#selecting-a-background-image-size)
-* [Aligning the Background Image](creating-a-user-interface-to-capture-user-feedback.md#aligning-the-background-image)
-* [Setting Header Title Properties](creating-a-user-interface-to-capture-user-feedback.md#setting-header-title-properties)
-* [Setting the Properties of the Form Fields](creating-a-user-interface-to-capture-user-feedback.md#setting-the-properties-of-the-form-fields)
-* [Adding Fields to the Form](creating-a-user-interface-to-capture-user-feedback.md#adding-fields-to-the-form)
-* [Adding a Background Image for the Entire Page](creating-a-user-interface-to-capture-user-feedback.md#adding-a-background-image-to-the-entire-page)
-* [Rearranging the Order of the Fields](creating-a-user-interface-to-capture-user-feedback.md#rearranging-the-order-of-the-fields)
+* [Adding a Background Colour/Image](designing-a-user-interface-to-capture-user-feedback.md#adding-a-background-colour-image)
+* [Selecting a Background Image Size](designing-a-user-interface-to-capture-user-feedback.md#selecting-a-background-image-size)
+* [Aligning the Background Image](designing-a-user-interface-to-capture-user-feedback.md#aligning-the-background-image)
+* [Setting Header Title Properties](designing-a-user-interface-to-capture-user-feedback.md#setting-header-title-properties)
+* [Setting the Properties of the Form Fields](designing-a-user-interface-to-capture-user-feedback.md#setting-the-properties-of-the-form-fields)
+* [Adding Fields to the Form](designing-a-user-interface-to-capture-user-feedback.md#adding-fields-to-the-form)
+* [Adding a Background Image for the Entire Page](designing-a-user-interface-to-capture-user-feedback.md#adding-a-background-image-to-the-entire-page)
+* [Rearranging the Order of the Fields](designing-a-user-interface-to-capture-user-feedback.md#rearranging-the-order-of-the-fields)
 
 #### <mark style="color:blue;">Adding a Background Colour/Image</mark>
 

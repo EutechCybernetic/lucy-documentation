@@ -1,6 +1,6 @@
-# Creating a User Interface from Scratch
+# Designing a User Interface from Scratch
 
-This article is intended to guide you on creating and customising your own widget using a pre-built Widget Template, e.g., Simple Card.
+This article is intended to guide you on designing and customising your own widget using a pre-built Widget Template, e.g., Simple Card.
 
 Pre-built widget templates are pre-designed components that provide a foundation for creating user interfaces. They offer a starting point, saving you time and effort. These templates typically include basic layouts, styles, and elements, ensuring a consistent look and feel.
 
@@ -8,7 +8,7 @@ Choose a template that cater your requirements. Then you have the flexibility to
 
 ## <mark style="color:blue;">Creating a User Interface from Scratch</mark>
 
-To create a user interface from the ground up:
+To design a user interface from the ground up:
 
 1. On the app homepage, go to the **My Work** tab.
 2. Search and click on the folder you wish to open.
@@ -20,7 +20,7 @@ To create a user interface from the ground up:
 8. Customise the template as required.
 9. Click **Save widget** to save the widget in the system.
 10. All your saved user interfaces will be listed under the User Interfaces tab of the respective folder.
-    1. To access and view the created widget later, go to the User Interfaces tab of the respective folder.
+    1. To access and view the designed widget later, go to the User Interfaces tab of the respective folder.
     2. Click on the user interface to open it in a new window.
 11. In addition, you can further edit the saved widget later at any time.
     1. To edit the widget, go to the User Interfaces tab of the respective folder.
@@ -40,7 +40,7 @@ Watch the video below on creating a user interface from the ground up to gain a 
 
 
 {% hint style="success" %}
-When creating a user interface to capture information using a Form template, you can always start from scratch, yet it is generally advisable to start creating a form from a database. See [Creating a User Interface to Capture User Feedback](creating-a-user-interface-to-capture-user-feedback.md) article to learn better.
+When creating a user interface to capture information using a Form template, you can always start from scratch, yet it is generally advisable to start creating a form from a database. See [Creating a User Interface to Capture User Feedback](designing-a-user-interface-to-capture-user-feedback.md) article to learn better.
 {% endhint %}
 
 ## <mark style="color:blue;">Viewing Your User Interfaces</mark>

@@ -1,8 +1,8 @@
-# Creating a User Interface to Visualise Information
+# Designing a User Interface to Visualise Information
 
-Creating user interfaces to visualise data is a powerful way to derive meaningful insights. Depending on the data and the user's goals, designers choose appropriate visualisation types, which can include charts, graphs, maps and more.
+Designing user interfaces to visualise data is a powerful way to derive meaningful insights. Depending on the data and the user's goals, designers choose appropriate visualisation types, which can include charts, graphs, maps and more.
 
-This article shows how to create a user interface to visualise your data.
+This article shows how to design a user interface to visualise your data.
 
 
 
@@ -10,11 +10,11 @@ This article shows how to create a user interface to visualise your data.
 **Note**: Before you go ahead, ensure that a data source is ready in the system.
 {% endhint %}
 
-## Creating a User Interface to Visualise Information
+## Designing a User Interface to Visualise Information
 
 Before creating a user interface for data visualisation, the initial step is to select a data source. This involves choosing a suitable lucy action or database.
 
-To illustrate the concept, we'll create a bar chart user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
+To illustrate the concept, we'll design a bar chart user interface that displays the maximum sales for each product line with the status 'Shipped' and we'll choose a database as the data source.
 
 ### <mark style="color:blue;">a) Selecting a Data source</mark>
 
@@ -152,7 +152,7 @@ You can choose either a single chart type or multiple chart types to display on 
 
 You can include multiple chart types within the same chart. For instance, if your primary chart is a line chart, you can add a bar chart, and both chart types will be displayed together.&#x20;
 
-1. After you have applied a chart as described under [<mark style="color:blue;">Selecting a Single Chart Type,</mark> ](creating-a-user-interface-to-visualise-information.md#selecting-a-single-chart-type)you can select multiple if necessary.
+1. After you have applied a chart as described under [<mark style="color:blue;">Selecting a Single Chart Type,</mark> ](designing-a-user-interface-to-visualise-information.md#selecting-a-single-chart-type)you can select multiple if necessary.
 2. On the properties panel, go to **Chart Elements** section.
 3. Click **Plus** icon next to Chart Elements.
 4. Select the appropriate chart type _e.g., Bar chart._
@@ -171,7 +171,7 @@ You can include multiple chart types within the same chart. For instance, if you
 
 
 {% hint style="success" %}
-**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See [Preview of your data](creating-a-user-interface-to-visualise-information.md#previewing-your-widget) visualised on a chart image).
+**Tip**: The **group** column and the **value** column are taken from the data prepared to be displayed on the chart (See [Preview of your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) visualised on a chart image).
 {% endhint %}
 
 #### <mark style="color:blue;">Customising the Appearance of the Chart</mark>
@@ -193,7 +193,7 @@ To add a chart title:
 2. Go to the **Title** section.
 3. In the **Text** field, enter a suitable title for the chart. The chart title will dynamically update in real-time as you type.
 
-&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data](creating-a-user-interface-to-visualise-information.md#previewing-your-widget) visualised on a chart image).
+&#x20;The below image shows a preview of your designed chart in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) visualised on a chart image).
 
 <figure><img src="../../../.gitbook/assets/Chart Preview_s3.png" alt=""><figcaption><p>Chart preview</p></figcaption></figure>
 
@@ -274,7 +274,7 @@ To customise the properties of the widget’s header section:
 4. Select a colour for the title.
 5. Type in the font size of the title. Instead, you can use the up and down arrows to increase or decrease the font size.
 
-The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data](creating-a-user-interface-to-visualise-information.md#previewing-your-widget) on the gauge).
+The below image shows a preview of your designed gauge in the Preview mode. (See how to [preview your data](designing-a-user-interface-to-visualise-information.md#previewing-your-widget) on the gauge).
 
 <figure><img src="../../../.gitbook/assets/LC_Designing a user interface to visualize information_s16.png" alt=""><figcaption><p>Radial Gauge in the Preview Mode</p></figcaption></figure>
 

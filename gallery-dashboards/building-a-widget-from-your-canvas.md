@@ -33,8 +33,8 @@ If your search finds no widgets, you'll see the **Build a new Widget** button.
 
 Find out more about building a user interface from here:
 
-{% content-ref url="../my-work-folders/user-interfaces/creating-a-user-interface/creating-a-user-interface-from-scratch.md" %}
-[creating-a-user-interface-from-scratch.md](../my-work-folders/user-interfaces/creating-a-user-interface/creating-a-user-interface-from-scratch.md)
+{% content-ref url="../my-work-folders/user-interfaces/designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
+[designing-a-user-interface-from-scratch.md](../my-work-folders/user-interfaces/designing-a-user-interface/designing-a-user-interface-from-scratch.md)
 {% endcontent-ref %}
 
 Watch the video demonstrating how to build a widget from your Canvas here.

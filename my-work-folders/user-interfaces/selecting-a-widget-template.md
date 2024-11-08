@@ -26,8 +26,8 @@ To create a user interface to visualise data, begin by selecting a data source. 
 
 Find the article on creating a user interface to visualise data to acquire more knowledge.
 
-{% content-ref url="creating-a-user-interface/creating-a-user-interface-to-visualise-information.md" %}
-[creating-a-user-interface-to-visualise-information.md](creating-a-user-interface/creating-a-user-interface-to-visualise-information.md)
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
+[designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}
 
 
@@ -38,7 +38,7 @@ Find the article on creating a user interface to visualise data to acquire more 
 
 Find the article on creating a User Interface from scratch to gain a better understanding.
 
-{% content-ref url="creating-a-user-interface/creating-a-user-interface-from-scratch.md" %}
-[creating-a-user-interface-from-scratch.md](creating-a-user-interface/creating-a-user-interface-from-scratch.md)
+{% content-ref url="designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
+[designing-a-user-interface-from-scratch.md](designing-a-user-interface/designing-a-user-interface-from-scratch.md)
 {% endcontent-ref %}
 

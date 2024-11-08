@@ -22,8 +22,8 @@ Here are steps to create a workflow to automate sending a Slack notification whe
 
 To get started, we'll need a form to collect user feedback. If you haven't already created one, refer to this article for guidance on designing and building a form that effectively captures the information you need.
 
-{% content-ref url="../user-interfaces/creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md" %}
-[creating-a-user-interface-to-capture-user-feedback.md](../user-interfaces/creating-a-user-interface/creating-a-user-interface-to-capture-user-feedback.md)
+{% content-ref url="../user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md" %}
+[designing-a-user-interface-to-capture-user-feedback.md](../user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Creating a form to capture user feedback</p></figcaption></figure>
