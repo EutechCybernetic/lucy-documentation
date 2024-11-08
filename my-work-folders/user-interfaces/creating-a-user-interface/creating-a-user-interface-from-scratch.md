@@ -40,7 +40,7 @@ Watch the video below on creating a user interface from the ground up to gain a 
 
 
 {% hint style="success" %}
-When creating a user interface to capture information using a Form template, you can always start from scratch, yet it is generally advisable to start creating a form from a database. See [Designing a User Interface from a Database ](creating-a-user-interface-to-capture-user-feedback.md)article to learn better.
+When creating a user interface to capture information using a Form template, you can always start from scratch, yet it is generally advisable to start creating a form from a database. See [Creating a User Interface to Capture User Feedback](creating-a-user-interface-to-capture-user-feedback.md) article to learn better.
 {% endhint %}
 
 ## <mark style="color:blue;">Viewing Your User Interfaces</mark>
