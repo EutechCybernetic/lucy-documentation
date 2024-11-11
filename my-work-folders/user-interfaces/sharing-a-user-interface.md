@@ -6,7 +6,7 @@ After you have designed a user interface (_e.g., form_), you can share it with o
 2. [Opening the User Interface on a New Page](sharing-a-user-interface.md#id-2.-opening-the-user-interface-on-a-new-page)
 3. [Adding the User Interface to a Dashboard/Canvas](sharing-a-user-interface.md#id-3.-adding-the-user-interface-to-a-dashboard-canvas)
 4. [Sending the User Interface by Email](sharing-a-user-interface.md#id-4.-sending-the-user-interface-by-email)
-5. [Sending the User Interface as a Push Notification to Lucy Mobile App](sharing-a-user-interface.md#id-5.-sending-the-user-interface-as-a-push-notification-to-lucy-mobile-app)
+5. [Sending the User Interface as a Push Notification to Lucy Mobile app Users in the Organization](sharing-a-user-interface.md#id-5.-sending-the-user-interface-as-a-push-notification-to-lucy-mobile-app-users-in-the-organization)
 
 ### <mark style="color:blue;">1. Copying a Shareable Link to the Clipboard</mark>
 
@@ -68,9 +68,9 @@ To Send the User Interface by Email:
 7. In the **Enter some email addresses (comma separated)** box, enter the email address of the user(s) who you wish to email the user interface.
 8. Click **Share by email.** An email will be sent to the respective recipient(s) with a link to the respective user interface.
 
-### <mark style="color:blue;">5. Sending the User Interface as a Push Notification to Lucy Mobile App</mark>
+### <mark style="color:blue;">5. Sending the User Interface as a Push Notification to Lucy Mobile App Users in the Organization</mark>
 
-To Send a User Interface as a Push Notification:
+To Send the User Interface as a Push Notification to Lucy Mobile App Users in the Organization:
 
 1. On the Lucy app **homepage,** go to the **My Work** tab on the left sidebar.
 2. Search and click on the **folder** you want to open.
