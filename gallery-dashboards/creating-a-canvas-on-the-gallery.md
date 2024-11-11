@@ -30,4 +30,4 @@ Let’s create a new Canvas in Lucy.
 
 Below is a short video that guides you on creating a new canvas.
 
-{% embed url="https://drive.google.com/file/d/1C_-piQP5k-DRpBLJTY2rnXGKMcjoAYpB/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1Ydb1M0pPCWciztzXiPCkbRK_npc2dJbx/view?usp=drive_link" %}
