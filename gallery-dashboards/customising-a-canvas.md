@@ -11,8 +11,8 @@ Beyond customising individual widgets, you can personalise your canvas further b
 Before starting this tutorial, you need to have a knowledge in creating a canvas in Lucy.
 {% endhint %}
 
-{% content-ref url="creating-a-canvas-on-the-gallery.md" %}
-[creating-a-canvas-on-the-gallery.md](creating-a-canvas-on-the-gallery.md)
+{% content-ref url="creating-a-canvas.md" %}
+[creating-a-canvas.md](creating-a-canvas.md)
 {% endcontent-ref %}
 
 ## Adding a Sidebar Item to Your Canvas

@@ -4,7 +4,7 @@
 * [Getting Started](getting-started.md)
 * [Key Components](key-components.md)
 * [Gallery (Dashboards)](gallery-dashboards/README.md)
-  * [Creating a Canvas on the Gallery](gallery-dashboards/creating-a-canvas-on-the-gallery.md)
+  * [Creating a Canvas](gallery-dashboards/creating-a-canvas.md)
   * [Editing Properties of a Canvas](gallery-dashboards/editing-properties-of-a-canvas.md)
   * [Searching and Viewing Your Canvases](gallery-dashboards/searching-and-viewing-your-canvases.md)
   * [Adding Widgets onto Your Canvas](gallery-dashboards/adding-widgets-onto-your-canvas.md)
