@@ -6,7 +6,7 @@ After you have designed a user interface (_e.g., form_), you can share it with o
 2. [Opening the User Interface on a New Page](sharing-a-user-interface.md#id-2.-opening-the-user-interface-on-a-new-page)
 3. [Adding the User Interface to a Dashboard/Canvas](sharing-a-user-interface.md#id-3.-adding-the-user-interface-to-a-dashboard-canvas)
 4. [Sending the User Interface by Email](sharing-a-user-interface.md#id-4.-sending-the-user-interface-by-email)
-5. Sending the User Interface as a Push Notification to Lucy Mobile App Users
+5. [Sending the User Interface as a Push Notification to Lucy Mobile App Users](sharing-a-user-interface.md#id-5.-sending-the-user-interface-as-a-push-notification-to-lucy-mobile-app-users)
 
 ### <mark style="color:blue;">1. Copying a Shareable Link to the Clipboard</mark>
 
