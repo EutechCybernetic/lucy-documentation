@@ -4,7 +4,7 @@ description: Design dynamic and interactive user interfaces to bring your ideas 
 
 # User Interfaces
 
-Lucy allows to design customised user interfaces (UI) to visualise information by connecting data sources, design forms to capture user feedback, or design your own user interface from ground up.
+Design user interfaces (UI) to visualise information (e.g., charts, graphs), capture user input (e.g., feedback forms), or design user interfaces from scratch.
 
 **What is the Widget Designer?**
 
