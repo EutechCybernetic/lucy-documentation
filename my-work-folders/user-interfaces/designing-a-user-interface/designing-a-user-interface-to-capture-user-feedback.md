@@ -14,7 +14,13 @@ The process of creating a user interface to capture user feedback involves four 
 
 ### <mark style="color:blue;">1. Creating a Database</mark>
 
-As the initial step, you should have a database in place before creating a form. For detailed instructions on creating a new database, refer to the article below for further insights.
+As the initial step, you should have a database in place before creating a form.&#x20;
+
+Below is an image showing a database (e.g., Complaints) created to record complaints raised by customers.
+
+<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption><p>Example of a database</p></figcaption></figure>
+
+For detailed instructions on creating a new database, refer to the article below for further insights.
 
 {% content-ref url="../../databases/creating-and-editing-databases/" %}
 [creating-and-editing-databases](../../databases/creating-and-editing-databases/)
