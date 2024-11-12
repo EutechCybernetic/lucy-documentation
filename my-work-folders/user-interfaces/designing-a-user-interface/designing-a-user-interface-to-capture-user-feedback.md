@@ -281,4 +281,4 @@ After creating the form, you can share it with others. To learn more about this,
 
 Here is a short video on how to create a form to populate data in a database.
 
-{% embed url="https://drive.google.com/file/d/1aBCYfS5Y29DJLe-C_FDnmCG6jyh0X5x2/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1fMRulQDqsSz728JLhKO3EezIOk2xIpVl/view?usp=sharing" %}

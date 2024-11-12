@@ -29,7 +29,7 @@ Here are basics to create a workflow to automate sending an email to relevant us
 
 ### 1) Creating a Form
 
-To get started, we'll need a form to collect user feedback. If you haven't already created one, refer to this article for guidance on designing and building a form that effectively captures the information you need.
+To get started, we'll need a form to collect user feedback. If you haven't already created one, refer to this article for guidance on designing a form that effectively captures the information you need.
 
 {% content-ref url="../user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md" %}
 [designing-a-user-interface-to-capture-user-feedback.md](../user-interfaces/designing-a-user-interface/designing-a-user-interface-to-capture-user-feedback.md)
@@ -71,3 +71,7 @@ Now, let's test the automation by submitting the form.
 4. A short time later, an email will be sent to the intended recipient. Check the recipient's email inbox for the
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption><p>Sample Email sent to recipient</p></figcaption></figure>
+
+Watch this short video for a comprehensive guide to automate sending an email to users when they submit a form.
+
+{% embed url="https://drive.google.com/file/d/1MOehHk9W3NpOhnAOR_QoZvQiVygMxYip/view?usp=sharing" %}
