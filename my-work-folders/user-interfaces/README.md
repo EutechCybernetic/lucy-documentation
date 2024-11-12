@@ -13,7 +13,7 @@ The Widget Designer is a powerful, easy-to-use, no-code tool for designing and c
 ### **Key Features and Benefits**
 
 * **Data Visualisation:** Connect to various data sources and design visually appealing charts and graphs, e.g., Bar charts, Pie charts, Radial Gauges, Item Lists etc.
-* **Custom User Interface Design:** Design unique user interfaces tailored to your specific needs using the widget designer. Tailor the appearance with various formatting options, including colors, fonts, and labels. Use drag-and-drop fields to capture various user inputs. Incorporate widget templates to speed up your design process. Examples of user interfaces: _To do list, social media posts._
+* **Custom User Interface Design:** Design unique user interfaces tailored to your specific needs using the widget designer. Tailor the appearance with various formatting options, including colors, fonts, and labels. Use drag-and-drop fields to capture various user inputs. Incorporate widget templates to speed up your design process. Examples of user interfaces that you can design: _pie chart showing sales breakdown by product category, to-do list, social media posts._
 * **No-code Development:** Design user interfaces without requiring programming knowledge.
 * **Interactive Elements:** Add interactive components like buttons, and text fields to facilitate user input.
 * **Widget Templates**: Accelerate designing user interfaces with diverse range of pre-designed Widget Templates, including bar charts, pie charts, radial gauges, simple cards, item lists, and more.
