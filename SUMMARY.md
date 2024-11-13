@@ -56,7 +56,7 @@
     * [Creating a Workflow that Runs at Specified Intervals](my-work-folders/workflows-and-integrations/creating-a-workflow-that-runs-at-specified-intervals.md)
     * [Viewing and Editing Your Workflows](my-work-folders/workflows-and-integrations/viewing-and-editing-your-workflows.md)
     * [Automating Form Submission with Email Notification](my-work-folders/workflows-and-integrations/automating-form-submission-with-email-notification.md)
-    * [Automating Form Submission with Slack Notification](my-work-folders/workflows-and-integrations/automating-form-submission-with-slack-notification.md)
+    * [Automating Form Submission with Slack Message](my-work-folders/workflows-and-integrations/automating-form-submission-with-slack-message.md)
 * [Add-ons](add-ons/README.md)
   * [Installing a New Add-on in Lucy](add-ons/installing-a-new-add-on-in-lucy.md)
   * [Visitor Management](add-ons/visitor-management.md)
