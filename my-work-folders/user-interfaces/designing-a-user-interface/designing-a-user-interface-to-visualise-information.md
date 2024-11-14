@@ -102,7 +102,7 @@ Aggregating data is used to summarise and condense data into a more compact form
 
 After selecting a data source and preparing data as needed, you can select a widget template to begin customisation. Based on the data selected, the system will display a list of matching templates that work with those data.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>List of matching widget templates</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>List of matching widget templates</p></figcaption></figure>
 
 Find the article here to gain more knowledge on selecting a widget template.
 

@@ -51,7 +51,7 @@ These fields also appear in the widget designer when designing widgets such as F
 
 In the mobile designer, you will see a 3D rendered image of a mobile device showcasing how your mobile app looks in an actual device.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="208"><figcaption><p>Mobile Device Mockup</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="208"><figcaption><p>Mobile Device Mockup</p></figcaption></figure>
 
 ### 4. General Tab
 

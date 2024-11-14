@@ -24,7 +24,7 @@ Find the article on how you can create a bar chart widget to visualise informati
 
 [Visualising Data by Selecting a Data source](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md#id-1.-visualising-data-by-selecting-a-data-source)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example of a Widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example of a Widget</p></figcaption></figure>
 
 For more insights on designing a user interface, find the article here.
 
