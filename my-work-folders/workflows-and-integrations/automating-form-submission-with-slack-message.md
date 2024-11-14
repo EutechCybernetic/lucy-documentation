@@ -66,3 +66,10 @@ Now, let's test the automation by submitting the form.
 <figure><img src="../../.gitbook/assets/image (36).png" alt="" width="426"><figcaption><p>Submitting form details</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Receive a message on Slack</p></figcaption></figure>
+
+Here is a short video on how to automate sending a Slack message upon form submission.
+
+{% embed url="https://drive.google.com/file/d/1_jSo0-94v7glX-Hv_XWh1jZA_Y9y_QP1/view?usp=drive_link" %}
+
+
+
