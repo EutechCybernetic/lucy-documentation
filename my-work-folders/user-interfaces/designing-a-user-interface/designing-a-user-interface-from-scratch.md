@@ -1,12 +1,14 @@
 # Designing a User Interface from Scratch
 
-This article is intended to guide you on designing and customising your own user interface using a pre-built Widget Template.
+This article is intended to guide you on designing and customising your own user interface.
 
-Pre-built widget templates are pre-designed templates that provide a foundation for creating user interfaces. They offer a starting point, saving you time and effort.&#x20;
+To design your user interface, choose a pre-built widget template that suits your intended purpose. For instance, if you want to display a simple text and image, you could use a "Simple Card" template. If you want to embed a YouTube video, you could use a "YouTube Card" template. This approach can save time and effort, as you don't have to design everything from scratch.
 
-Choose a template that cater your requirements. Then, you have the flexibility to make necessary adjustments, altering the widget's appearance by modifying elements such as colours, text, background images, connecting data sources to visualise data and more.
+**Widget Templates**
 
-For instance, let's use the "**Simple Card**" widget template to design a user interface. This template allows to configure a background image, icon, title and a clickable button. Upon clicking the button, we can trigger a variety of actions, including:
+Widget templates are pre-designed templates that provide a foundation for creating user interfaces.&#x20;
+
+For example, let's use the "**Simple Card**" widget template. This template allows to configure a background image, icon, title and a clickable button. Upon clicking the button, we can trigger a variety of actions, including:
 
 * Opening an external link: Directs users to a specified website or webpage.&#x20;
 * Opening an existing widget: Navigates users to another widget.&#x20;
