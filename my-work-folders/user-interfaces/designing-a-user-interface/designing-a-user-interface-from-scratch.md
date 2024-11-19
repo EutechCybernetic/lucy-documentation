@@ -31,16 +31,16 @@ To design a user interface from the ground up:
 7. Click **Edit this Template** to open the template on the widget designer page.
 8. Customise the card as required.
    1. Add a new background image.
-      1. Click the background image to open the properties panel on the left.
+      1. Click the background image to open the properties panel on the right.
       2. Click the Search icon.
       3. Choose a image from the gallery or if you already have one, click **Upload your own** to upload it.
       4. Background Position: Click on required circle to position the image on the card.
       5. Background Size: This property allows you to control how the image is scaled and displayed on the card. Choose the desired background size _(e.g., Fill Area)._
    2. Customise the footer section of the card.
-      1. Click the footer section to open the properties panel on the left.
+      1. Click the footer section to open the properties panel on the right.
       2. Background Colour: Select a background colour for the footer.
    3. Add a new icon.
-      1. Click the icon to open the properties panel on the left.
+      1. Click the icon to open the properties panel on the right.
       2. Icon: Click the icon field to choose an icon from the Search Icons window.
       3. Colour: Select a icon colour.
       4. Size: Enter a suitable icon size.
@@ -51,16 +51,19 @@ To design a user interface from the ground up:
       4. Size: Change the title size.
       5. Text Align: Used to position the title within the card. Choose the required alignment option.
    5. Customise the button.
-9. Click **Save widget** to save the widget in the system.
+      1. Click the button on the card and the properties panel will open on the right.
+      2. Label: Type a clear label _e.g., Register an asset._
+      3. Edit Action: Click this button to open the Action Editor window. This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when the button is clicked.
+         1. **Open URL:** You can configure a URL to be opened when the button is clicked.
+         2. **Open Widget:** Used to select a specific widget to be opened when the button is clicked.
+         3. **Execute Action**: Used to run a specific Lucy action, such as sending a notification when a work request is created. You can select a model, choose an appropriate action, and provide parameters. Additionally, configure the post-action behavior.
+         4. **Open Add-on**: Used to configure a specific add-on to be opened when the button is clicked.
+         5. **Open Mobile Screen**: Used to select a predefined mobile screen to be opened when the button is clicked.
+      4. After configuring the action, click **Done**.
+9. Once you're happy with your design, click the Save widget button to save your widget.
 10. All your saved user interfaces will be listed under the User Interfaces tab of the respective folder.
     1. To access and view the designed user interface later, go to the User Interfaces tab of the respective folder.
     2. Click on the user interface to open it in a new window.
-11. In addition, you can further edit the saved user interfaces later at any time.
-    1. To edit the user interface, go to the User Interfaces tab of the respective folder.
-    2. Search and hover over the user interface you wish to edit.
-    3. Click the edit icon that displays. Your user interface will be opened on the widget designer page.
-
-
 
 Watch the video below on creating a user interface from the ground up to gain a better understanding.
 
