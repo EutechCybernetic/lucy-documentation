@@ -1,12 +1,12 @@
 ---
 description: >-
-  Widgets on your Canvas visualise your data in action. You can customise your
-  Canvas by adding the Widgets as necessary.
+  Widgets on your Canvas visualise your data in action. Customise your Canvas by
+  adding the Widgets as necessary.
 ---
 
 # Adding Widgets onto Your Canvas
 
-This article shows you the process of adding a widget onto an existing dashboard/canvas. Widgets on your dashboard visually represent your data in real-time. This allows you to personalise your dashboard by incorporating widgets that align with your specific needs.&#x20;
+This article shows you the process of adding a widget onto an existing dashboard/canvas.&#x20;
 
 {% hint style="info" %}
 You should have a basic understanding of [canvas creation](creating-a-canvas.md) before reading this article.

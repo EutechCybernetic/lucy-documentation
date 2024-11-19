@@ -22,14 +22,35 @@ By leveraging this flexible template, we can create dynamic and interactive card
 
 To design a user interface from the ground up:
 
-1. On the app homepage, go to the **My Work** tab on the left.
+1. On the app homepage, go to the **My Work** on the left.
 2. Search and click on the folder you wish to open.
-3. Go to the **User Interfaces** tab.
+3. Navigate to the **User Interfaces** tab.
 4. Click the **+** icon.
 5. Choose the **Start from Scratch** option. This action will display a collection of widget templates to choose from.
-6. Pick the desired type of  Widget Template _e.g., Simple Card._
-7. Click **Edit this Template** to open the template on its widget designer page.
-8. Customise the template as required.
+6. Pick the desired Widget Template _e.g., Simple Card._
+7. Click **Edit this Template** to open the template on the widget designer page.
+8. Customise the card as required.
+   1. Add a new background image.
+      1. Click the background image to open the properties panel on the left.
+      2. Click the Search icon.
+      3. Choose a image from the gallery or if you already have one, click **Upload your own** to upload it.
+      4. Background Position: Click on required circle to position the image on the card.
+      5. Background Size: This property allows you to control how the image is scaled and displayed on the card. Choose the desired background size _(e.g., Fill Area)._
+   2. Customise the footer section of the card.
+      1. Click the footer section to open the properties panel on the left.
+      2. Background Colour: Select a background colour for the footer.
+   3. Add a new icon.
+      1. Click the icon to open the properties panel on the left.
+      2. Icon: Click the icon field to choose an icon from the Search Icons window.
+      3. Colour: Select a icon colour.
+      4. Size: Enter a suitable icon size.
+   4. Modify Text.
+      1. Click the Title of the card.
+      2. Text: Enter a appropriate title.
+      3. Colour: Pick a title colour.
+      4. Size: Change the title size.
+      5. Text Align: Used to position the title within the card. Choose the required alignment option.
+   5. Customise the button.
 9. Click **Save widget** to save the widget in the system.
 10. All your saved user interfaces will be listed under the User Interfaces tab of the respective folder.
     1. To access and view the designed user interface later, go to the User Interfaces tab of the respective folder.
