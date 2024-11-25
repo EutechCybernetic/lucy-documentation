@@ -139,6 +139,10 @@ Find out how to export your user interface as a JSON file here.
 [exporting-a-user-interface.md](exporting-a-user-interface.md)
 {% endcontent-ref %}
 
+Watch this video to gain a comprehensive understanding about the Lucy's Widget Designer.
+
+{% embed url="https://drive.google.com/file/d/1Q6P_GOlBoTME47AvFaIzuty4l17lQpkB/view?usp=drive_link" %}
+
 ### <mark style="color:blue;">Binding Data sources for Data Visualisation</mark>&#x20;
 
 Some user interafecs such as bar charts, radial gauges require linking a data source to them. The purpose of this binding is to establish a connection between the data source (which contains the underlying data) and the user interface that is responsible for displaying data. This connection ensures that changes in the data source are automatically reflected in the widget, and vice versa, facilitating real-time synchronisation between the data and the user interface.
@@ -153,4 +157,4 @@ Refer to this tutorial to learn how to bind a data source to a user interface.
 
 Here is a short video on how you can bind a data source to a user interface for data visualisation.
 
-{% embed url="https://drive.google.com/file/d/1apIs06BiCGYFEah1wzyXyYHoBrcCkGrk/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1apIs06BiCGYFEah1wzyXyYHoBrcCkGrk/view?usp=drive_link" %}
