@@ -67,8 +67,6 @@ To design a user interface from the ground up:
 
 Watch the video below on creating a user interface from the ground up to gain a better understanding.
 
-{% embed url="https://drive.google.com/file/d/1rR6adLnVjw8BAbtLZzIUb7hqtRQ78Ske/view?usp=sharing" %}
-
 ## <mark style="color:blue;">Viewing Your User Interfaces</mark>
 
 You can find saved user interfaces in the User Interfaces tab of the corresponding folder.
