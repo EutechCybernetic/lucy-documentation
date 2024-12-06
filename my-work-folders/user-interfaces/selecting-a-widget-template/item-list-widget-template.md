@@ -26,8 +26,8 @@ Here are step-by-step instructions for designing a user interface using the Item
 8. Enter a name and a description.
    1. Click the **General** tab on the right.
    2. In the **Name** field, type in a unique descriptive name.
-   3. In the Description field, enter a brief description related to the user interface.
-9. Select and bind a data source to the interface.
+   3. In the Description field, enter a brief description.
+9. Select and bind a data source to the widget.
    1. Click on the 'Data source is required' notification panel appearing at the bottom.
    2. Click the **Bind a source** button on the right.
    3. You can either select an existing Lucy action or a database as the data source.
@@ -38,5 +38,15 @@ Here are step-by-step instructions for designing a user interface using the Item
       4. Aggregate Data: Used to summaries data to reveal meaningful patterns and trends. It is useful in calculating sum, count, average, min and max.
       5. Use the Filter data and Aggregate data options as necessary to prepare your data.
       6. Once you are satisfied with the final outcome, click **Looks Good.**
-10.
+10. Set parameters to the widget.
+    1. Click the 'Fields are required' notification panel that displays.
+    2. Map fields to the corresponding columns in the database.
+       1. Go to the properties panel on the left and go to the Item List section.
+       2. Profile Image: If you have a profile image in the database, click the Profile Image box and select the required parameter from the list.
+       3. Title: Click the title field and choose the required parameter from the list.
+       4. Subtitle: Click the subtitle field and choose the required parameter from the list.
+       5. Date: Click the subtitle field and choose the required parameter from the list.
+       6. Status Field: Click the status field and choose the required parameter from the list.
+11. Click the Preview button to view the design.
+12. Once you are satisfied with the customisation, click **Save Widget.**&#x20;
 
