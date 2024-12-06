@@ -6,7 +6,7 @@ Designing a user interface in Lucy is straightforward, where you get a collectio
 
 The screen below displays the "Select a Template" window, where you can select a widget template.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Select a Template window displaying widget template list</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Select a Template window displaying widget template list</p></figcaption></figure>
 
 The Select a Template window has three main tabs.
 
@@ -29,8 +29,8 @@ To design a user interface to visualise data, begin by selecting a data source. 
 
 Find the article on creating a user interface to visualise data to acquire more knowledge.
 
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
-[designing-a-user-interface-to-visualise-information.md](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
+{% content-ref url="../designing-a-user-interface/designing-a-user-interface-to-visualise-information.md" %}
+[designing-a-user-interface-to-visualise-information.md](../designing-a-user-interface/designing-a-user-interface-to-visualise-information.md)
 {% endcontent-ref %}
 
 ## Designing a User Interface from Scratch
@@ -39,7 +39,7 @@ Find the article on creating a user interface to visualise data to acquire more 
 
 Find the article on creating a User Interface from scratch to gain a better understanding.
 
-{% content-ref url="designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
-[designing-a-user-interface-from-scratch.md](designing-a-user-interface/designing-a-user-interface-from-scratch.md)
+{% content-ref url="../designing-a-user-interface/designing-a-user-interface-from-scratch.md" %}
+[designing-a-user-interface-from-scratch.md](../designing-a-user-interface/designing-a-user-interface-from-scratch.md)
 {% endcontent-ref %}
 

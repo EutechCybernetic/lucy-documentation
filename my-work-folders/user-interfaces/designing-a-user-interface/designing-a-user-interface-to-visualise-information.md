@@ -106,8 +106,8 @@ After selecting a data source and preparing data as needed, you can select a wid
 
 Find the article here to gain more knowledge on selecting a widget template.
 
-{% content-ref url="../selecting-a-widget-template.md" %}
-[selecting-a-widget-template.md](../selecting-a-widget-template.md)
+{% content-ref url="../selecting-a-widget-template/" %}
+[selecting-a-widget-template](../selecting-a-widget-template/)
 {% endcontent-ref %}
 
 

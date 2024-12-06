@@ -51,11 +51,11 @@ After creating the form, follow these steps to create a system to automate sendi
 6. Click the **Share** button on the top right and go to the Automations section.
 7. Click the **When someone submits data, send an emai**l option.
 8. Send the email to the address entered in the form or add the Recipient's email address.
-   1. If the recipient's email is captured in the form and if you wish to use that email as the recipient's email, select the **Send the email to the address captured in the Email** option**.**
+   1. If the recipient's email is captured in the form and if you wish to use that email as the recipient's email, select the **Send the email to the address captured in the Email** optio&#x6E;**.**
    2. If you prefer to manually enter the recipient's email address, deselect the **Send the email to the address captured in the Email** option and type the email address in the box displayed.
 9. **Subject**: Type in the desired subject line for the email.
 10. Include the submitted data in the body of the email or type in a custom message.
-    1. **Include the submitted data in the email body** option**:** If you want to include the submitted form data in the email body, select the 'Include the submitted data in the email body' option.
+    1. **Include the submitted data in the email body** optio&#x6E;**:** If you want to include the submitted form data in the email body, select the 'Include the submitted data in the email body' option.
     2. If you prefer a custom message, deselect the **Include the submitted data in the email body** option and type your message in the **Custom Message** box.
 11. Click **Create Automation.**
 

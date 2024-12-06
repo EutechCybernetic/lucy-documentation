@@ -44,7 +44,7 @@ To configure the Water Budgeting add-on:
 3. Add a new Water Category.&#x20;
    1. Click **Setup Budgets and Categories** tab.
    2. Click the **+** button.
-   3. **Category Name:** Give a name for the category_, e.g., HVAC._
+   3. **Category Name:** Give a name for the categor&#x79;_, e.g., HVAC._
    4. Click **Save**. A new category will be created and listed under Setup Budgets and Categories tab.&#x20;
    5. Create multiple categories if you have meters to track different types of water consumption.
 4. Set budgets for every category.

@@ -155,7 +155,7 @@ Steps to Add a Horizontal Container
 
 #### Linking the Widget
 
-After building the widget, link it to the required section (_e.g., Personal Details) o_n the settings page.
+After building the widget, link it to the required section (_e.g., Personal Details) &#x6F;_&#x6E; the settings page.
 
 Steps to Link the Widget
 

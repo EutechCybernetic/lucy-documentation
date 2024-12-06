@@ -94,7 +94,7 @@ To create a canvas:
    1. Select the Gas Consumption (Category-wise) widget.
    2. Click the **Filter** icon.
    3. Pick the required **Year**, **Month** and the **Location** to display the gas consumption data.
-   4. Select the gas Consumption Category_, e.g., Overall Consumption._ This widget will be useful if you have multiple categories.
+   4. Select the gas Consumption Categor&#x79;_, e.g., Overall Consumption._ This widget will be useful if you have multiple categories.
 10. Filter and display data in Yearly Gas Consumption widget. This widget shows the gas consumption details budgeted versus the actual entire year.
     1. Select the Yearly Gas Consumption widget.
     2. Click the **Filter** icon.

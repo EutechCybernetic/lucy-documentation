@@ -39,7 +39,7 @@ To create a widget
       3. If you do not wish to add tabs, deselect the Show Tabs option under Display Options.![](<../../.gitbook/assets/image (19).png>)
    6. Bind a data source to each tab to display information:
       1. In the widget, navigate to the required tab and click the **Bind a Source** button.
-      2. Choose either an existing Lucy Action or a database_. For example, let's bind a database._
+      2. Choose either an existing Lucy Action or a databas&#x65;_. For example, let's bind a database._
       3. Go to the **Databases** tab.
       4. Search and select the required database.
       5. Click **Select this Source.**

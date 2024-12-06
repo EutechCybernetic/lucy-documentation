@@ -20,7 +20,7 @@ Select a page type when adding a new tab to your mobile app's bottom navigation 
 
 ### 1) Sections
 
-The 'Section**'** page type lets you effortlessly add horizontal sections to your mobile app's pages. These sections are pre-designed UI elements that you can simply drag and drop.
+The 'Sectio&#x6E;**'** page type lets you effortlessly add horizontal sections to your mobile app's pages. These sections are pre-designed UI elements that you can simply drag and drop.
 
 By using these pre-designed sections, you can quickly add various functionalities and visual elements to your app without extensive coding knowledge. This means you can create a more visually appealing and interactive app with less effort.
 
@@ -176,7 +176,7 @@ Steps to Add a Horizontal List of Cards to a Page
       1. Click the plus icon at the top or bottom of the card.
       2. To select a button, pick the Button option from the list and click Save.
       3. Go to properties panel and enter a proper button title.
-      4. Edit Action button**:** Used to open the action editor window. This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific section is clicked.
+      4. Edit Action butto&#x6E;**:** Used to open the action editor window. This window has five tabs: Open URL, Open Widget, Execute Action, Open Add-on, and Open Mobile Screen. Use these tabs to set what happens when a specific section is clicked.
       5. Customise the button properties e.g., Background Colour, Font Size as necessary.
       6. Add more buttons if necessary.
    2. Add a Text Label.

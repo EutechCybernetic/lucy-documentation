@@ -97,7 +97,7 @@ You can create a sidebar item/links in your canvas to open a URL, launch a secon
 9. **Type**: There are three types of sidebar items: **Open URL, Open a Secondary Canvas** and **Create a Dropdown**. Select **Create a Dropdown** option to make the sidebar item a dropdown and configure options to be displayed under the dropdown list.
    1. Add dropdown options under the sidebar item.&#x20;
       1. Click **Add Item.**
-      2. **Select from an Existing Item** tab**:** Pick this tab to select an existing sidebar item as the dropdown option.
+      2. **Select from an Existing Item** ta&#x62;**:** Pick this tab to select an existing sidebar item as the dropdown option.
       3. **Create a New One** tab: Pick this tab to create a new dropdown option.
          1. **Label**: Enter an appropriate label for the dropdown option.
          2. **Type**: There are two types of options: Open URL and Open a Secondary Canvas.
