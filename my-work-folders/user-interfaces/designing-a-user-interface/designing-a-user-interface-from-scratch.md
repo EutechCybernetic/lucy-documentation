@@ -6,7 +6,7 @@ To design your user interface, choose a pre-built widget template that suits you
 
 **Widget Templates**
 
-Widget templates are pre-designed templates that provide a foundation for creating user interfaces.&#x20;
+Widget templates are pre-designed templates that provide a foundation for designing user interfaces.&#x20;
 
 For example, let's use the "**Simple Card**" widget template. This template allows to configure a background image, icon, title and a clickable button. Upon clicking the button, we can trigger a variety of actions, including:
 
@@ -16,9 +16,7 @@ For example, let's use the "**Simple Card**" widget template. This template allo
 * Opening an existing add-on: Launches a particular add-on.
 * Opening a mobile screen: Launches a specific mobile screen, such as the Currency page, designed exclusively for mobile apps.
 
-By leveraging this flexible template, we can create dynamic and interactive card-based interfaces that enhance user experience.
-
-## <mark style="color:blue;">Creating a User Interface from Scratch</mark>
+## <mark style="color:blue;">Designing a User Interface from Scratch</mark>
 
 To design a user interface from the ground up:
 
@@ -65,7 +63,9 @@ To design a user interface from the ground up:
     1. To access and view the designed user interface later, go to the User Interfaces tab of the respective folder.
     2. Click on the user interface to open it in a new window.
 
-Watch the video below on creating a user interface from the ground up to gain a better understanding.
+Watch the video below on designing a user interface from the ground up to gain a better understanding.
+
+{% embed url="https://drive.google.com/file/d/1O5GdQUAgIMAU-17E1psf9fbJfOwXrnR9/view?usp=drive_link" %}
 
 ## <mark style="color:blue;">Viewing Your User Interfaces</mark>
 
