@@ -1,22 +1,22 @@
 # Selecting a Widget Template
 
-When creating a new user interface, you can create a user interface to visualise data or start from scratch. In both scenarios, select the desired widget template as the base to get started.
+Designing a user interface in Lucy is straightforward, where you get a collection of pre-built widget templates to choose from. Select a template as a starting point and customise it to match your specific User Interface requirements.
 
 ### Select a Template Window
 
 The screen below displays the "Select a Template" window, where you can select a widget template.
 
-It has three main tabs.
-
-| Tab Name          | Description                                                                                                                                  |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Default Templates | This tab lists the widget templates you get by default, when you create a user interface to visualise data or create one from the beginning. |
-| Custom Templates  | This tab lists the widget templates designed by developers.                                                                                  |
-| My Templates      | This tab lists the widget templates designed by you. You can save an existing widget as a template and reuse it to create a new widget.      |
-
-
-
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Select a Template window displaying widget template list</p></figcaption></figure>
+
+The Select a Template window has three main tabs.
+
+| Tab Name          | Description                                                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Default Templates | This tab lists the widget templates you get by default when designing a user interface.                                                 |
+| Custom Templates  | This tab lists the widget templates designed by developers.                                                                             |
+| My Templates      | This tab lists the widget templates designed by you. You can save an existing widget as a template and reuse it to create a new widget. |
+
+
 
 ## Creating a User Interface to Visualise Data
 
