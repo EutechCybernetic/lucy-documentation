@@ -35,7 +35,7 @@ Here are step-by-step instructions for designing a user interface using the Item
       1. Go to the Databases tab. Search and click on the desired database.
       2. Click **Select this Source** and you will see a preview of your data.
       3. Filter Data: To filter data based on the conditions set.
-      4. Aggregate Data: Used to summaries data to reveal meaningful patterns and trends. It is useful in calculating sum, count, average, min and max.
+      4. Aggregate Data: Used to summarise data to reveal meaningful patterns and trends, such as calculating the sum, count, average, minimum, and maximum.
       5. Use the Filter data and Aggregate data options as necessary to prepare your data.
       6. Once you are satisfied with the final outcome, click **Looks Good.**
 10. Set parameters to the widget.
