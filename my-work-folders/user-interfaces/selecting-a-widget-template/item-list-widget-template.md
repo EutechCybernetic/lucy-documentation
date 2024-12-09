@@ -50,3 +50,7 @@ Here are step-by-step instructions for designing a user interface using the Item
 11. Click the Preview button to view the design.
 12. Once you are satisfied with the customisation, click **Save Widget.**&#x20;
 
+Watch this video to gain a comprehensive understanding on designing a user interface with the Item List widget template.
+
+{% embed url="https://drive.google.com/file/d/13Ii1hr-rAtXUi0RlBrvIIFlLW07RWJ_u/view?usp=drive_link" %}
+
