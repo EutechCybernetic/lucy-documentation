@@ -59,7 +59,7 @@ After creating the form, follow these steps to create a system to automate sendi
     2. If you prefer a custom message, deselect the **Include the submitted data in the email body** option and type your message in the **Custom Message** box.
 11. Click **Create Automation.**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating the automation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creating the automation</p></figcaption></figure>
 
 ### 3) Testing the Automation
 

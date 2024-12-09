@@ -24,7 +24,7 @@ Find the article on how you can create a bar chart widget to visualise informati
 
 [Visualising Data by Selecting a Data source](designing-a-user-interface/designing-a-user-interface-to-visualise-information.md#id-1.-visualising-data-by-selecting-a-data-source)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example of a Widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Example of a Widget</p></figcaption></figure>
 
 For more insights on designing a user interface, find the article here.
 
@@ -75,11 +75,11 @@ To create a new widget, we can leverage a saved template, customise it to suit o
 12. Click on the bar chart to launch its properties panel.
 13. Under Source section, click on the linked database.
 14. Bind a different data source.
-    1. Click the ![](<../../.gitbook/assets/image (2).png>) icon to select a different data source. You can select a lucy action or a database.
+    1. Click the ![](<../../.gitbook/assets/image (2) (1).png>) icon to select a different data source. You can select a lucy action or a database.
     2. After selecting and preparing the data source, click Looks Good.
 15. Customise the widget as necessary.
 16. Under General tab, provide a name for the widget.
 17. Click **Save Widget** to save the customisations.
 18. Click the **Share** button. Then click **Open Page** to open your widget in a new window.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>A widget designed using the saved template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>A widget designed using the saved template</p></figcaption></figure>

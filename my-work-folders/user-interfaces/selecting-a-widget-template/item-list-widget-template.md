@@ -53,8 +53,23 @@ Here are step-by-step instructions for designing a user interface using the Item
        1. Click the plus icon. Then, a new status will appear in the  status list.
        2. Rename the status (_e.g., New_) and select a colour.
     3. Rename and customise  the rest of the statuses as necessary.
-12. Click the **Preview** button at the top to view the design.
-13. Once you are satisfied with the customisation, click **Save Widget.**&#x20;
+12. Add a Title to the widget.
+    1. Click the title section of the widget and the properties panel will open on the right.
+    2. Go to the Title section.
+    3. In the text field, type in a appropriate title.
+13. Customise the widget as necessary, e.g., changing colours, font size, adding buttons etc.
+14. Click the **Preview** button at the top to view your design.
+15. Once you are satisfied with the customisation, click **Save Widget.**&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Item List widget opened on the widget designer page</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Selecting a data source</p></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Mapping fields to values/ database columns</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="526"><figcaption><p>Item List in the Preview Mode</p></figcaption></figure>
 
 Watch this video to gain a comprehensive understanding on designing a user interface with the Item List widget template.
 

@@ -6,7 +6,7 @@ Designing a user interface in Lucy is straightforward, where you get a collectio
 
 The screen below displays the "Select a Template" window, where you can select a widget template.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Select a Template window displaying widget template list</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Select a Template window displaying widget template list</p></figcaption></figure>
 
 The Select a Template window has three main tabs.
 

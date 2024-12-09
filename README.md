@@ -15,7 +15,7 @@ Lucy offers two editions:
 
 ## Lucy Canvas vs Lucy Pro
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Lucy Canvas vs Lucy Pro</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Lucy Canvas vs Lucy Pro</p></figcaption></figure>
 
 ## Lucy Canvas
 
