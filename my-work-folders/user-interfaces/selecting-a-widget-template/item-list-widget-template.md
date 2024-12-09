@@ -38,16 +38,16 @@ Here are step-by-step instructions for designing a user interface using the Item
       4. Aggregate Data: Used to summarise data to reveal meaningful patterns and trends, such as calculating the sum, count, average, minimum, and maximum.
       5. Use the Filter data and Aggregate data options as necessary to prepare your data.
       6. Once you are satisfied with the final outcome, click **Looks Good.**
-10. Set parameters to the widget.
-    1. Click the 'Fields are required' notification panel that displays.
+10. Set parameters to the widget.&#x20;
+    1. Click the 'Fields are required' notification panel that displays. Then the properties panel will open on the right.
     2. Map fields to the corresponding columns in the database.
-       1. Go to the properties panel on the left and go to the Item List section.
-       2. Profile Image: If you have a profile image in the database, click the Profile Image box and select the required parameter from the list.
-       3. Title: Click the title field and choose the required parameter from the list.
-       4. Subtitle: Click the subtitle field and choose the required parameter from the list.
-       5. Date: Click the subtitle field and choose the required parameter from the list.
-       6. Status Field: Click the status field and choose the required parameter from the list.
-11. Click the Preview button to view the design.
+       1. On the properties panel, go to the Item List section.
+       2. Profile Image: If you have a profile image in the database, click the Profile Image field and select the required parameter from the list.
+       3. Title: Click the Title field and choose the required parameter from the list.
+       4. Subtitle: Click the Subtitle field and choose the required parameter from the list.
+       5. Date: Click the Date field and choose the required parameter from the list.
+       6. Status Field: Click the Status field and choose the required parameter from the list.
+11. Click the **Preview** button to view the design.
 12. Once you are satisfied with the customisation, click **Save Widget.**&#x20;
 
 Watch this video to gain a comprehensive understanding on designing a user interface with the Item List widget template.
