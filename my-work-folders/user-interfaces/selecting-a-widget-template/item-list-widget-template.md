@@ -40,14 +40,21 @@ Here are step-by-step instructions for designing a user interface using the Item
       6. Once you are satisfied with the final outcome, click **Looks Good.**
 10. Set parameters to the widget.&#x20;
     1. Click the 'Fields are required' notification panel that displays. Then, you'll be redirected to the Item List section on the properties panel on the right.
-    2. Map fields to the corresponding columns in the database.
-       1. Profile Image: If you have a profile image in the database, click the Profile Image field and select the required parameter from the list.
-       2. Title: Click the Title field and choose the required parameter from the list.
-       3. Subtitle: Click the Subtitle field and choose the required parameter from the list.
-       4. Date: Click the Date field and choose the required parameter from the list.
-       5. Status Field: Click the Status field and choose the required parameter from the list.
-11. Click the **Preview** button to view the design.
-12. Once you are satisfied with the customisation, click **Save Widget.**&#x20;
+    2. Map fields to the corresponding columns/values in the selected database.
+       1. Profile Image: If you have a profile image in the database, click the Profile Image field and select the required value from the pop-up list.
+       2. Profile Name: If you don't have a profile image in the database, the default value will be used.
+       3. Title: Click the Title field and choose the required value from the pop-up list.
+       4. Subtitle: Click the Subtitle field and choose the required value from the pop-up list.
+       5. Date: Click the Date field and choose the required value from the pop-up list.
+       6. Status Field: Click the Status field and choose the required value from the pop-up list.
+11. Represent different Statuses using colours in the widget.
+    1. Go to Status section on the properties panel.
+    2. Add a new status and map a colour.
+       1. Click the plus icon. Then, a new status will appear in the  status list.
+       2. Rename the status (_e.g., New_) and select a colour.
+    3. Rename and customise  the rest of the statuses as necessary.
+12. Click the **Preview** button at the top to view the design.
+13. Once you are satisfied with the customisation, click **Save Widget.**&#x20;
 
 Watch this video to gain a comprehensive understanding on designing a user interface with the Item List widget template.
 
