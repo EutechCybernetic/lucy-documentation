@@ -69,7 +69,7 @@ Here are step-by-step instructions for designing a user interface using the Item
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Mapping fields to values/ database columns</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="526"><figcaption><p>Item List in the Preview Mode</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (63).png" alt="" width="499"><figcaption><p>Widget in 'Preview' Mode</p></figcaption></figure>
 
 Watch this video to gain a comprehensive understanding on designing a user interface with the Item List widget template.
 
